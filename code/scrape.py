@@ -14,10 +14,12 @@ def scrape():
     review_ext_links = [] # external websites that actually have the reviews
     query_terms = ['action', 'comedy', 'family', 'animation', 'foreign', 'classics', 'documentary', 'drama', 'horror', 'mystery', 'romance', 'fantasy']
     accepted_publications = ['Washington Post', 'Seattle Times', 'San Francisco Chronicle', 'Boston Globe']
+    forgoed_count = 0
+    empty_count = 0
 
     print 'Grabbing all hte movies'
     for query_term in query_terms:
-        for i in range(1,32):
+        for i in range(1,64):
             # get the first 15 pages of rotten tomatoes data set
             url = 'http://api.rottentomatoes.com/api/public/v1.0/movies.json'
             url = url + '?apikey=qpbuunhuhmmp9xsapp3gjcp2&q=' + str(query_term) + '&page=' + str(i)
@@ -32,6 +34,7 @@ def scrape():
 
 
     # now iterate through the review links and scrape the data on the review
+    print 'Grabbed ' + str(len(reviews_array)) + ' movies'
     print 'Grabbing the reviews'
     for link in reviews_array:
         if link is None:
@@ -42,18 +45,24 @@ def scrape():
 
         reviews = json_response.get('reviews')
         if reviews is None:
+            # this is way to high, needs to be looked into and fixed
+            empty_count = empty_count + 1
             continue
 
         for review in reviews:
             review_publication = review['publication']
 
             if review_publication not in accepted_publications:
+                forgoed_count = forgoed_count + 1
                 continue
 
             ext_link = review['links'].get('review')
             review_ext_links.append(ext_link)
 
 
+    print 'Empty Count ' + str(empty_count)
+    print 'Discarded ' + str(forgoed_count) + ' external reviews'
+    print 'Grabbed ' + str(len(review_ext_links)) + ' external reviews'
     print 'Writing to XML'
     for ext_link in review_ext_links:
         if ext_link is None:
