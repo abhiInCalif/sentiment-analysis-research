@@ -9,7 +9,7 @@ import edu.stanford.nlp.semgraph.SemanticGraph;
 import edu.stanford.nlp.trees.Tree;
 
 
-public class BBCCorpusDocument {
+public class BBCCorpusDocument implements CorpusDocument {
 	
 	private String date;
 	private String year;
@@ -26,12 +26,15 @@ public class BBCCorpusDocument {
 	private ArrayList<SemanticGraph> sentenceSemanticGraphs;
 	private Map<Integer, CorefChain> coreferenceLinkGraph;
 	private float documentSentiment;
+	private Object[][] topicDistribution;
+	private Map<String, Integer> frequencyTable;
 	
 	public BBCCorpusDocument() {
 		this.setTokens(new ArrayList<CoreLabel>());
 		this.setSentenceTrees(new ArrayList<Tree>());
 		this.setSentenceSemanticGraphs(new ArrayList<SemanticGraph>());
 		this.setCoreferenceLinkGraph(new HashMap<Integer, CorefChain>());
+		
 	}
 	
 	
@@ -224,5 +227,40 @@ public class BBCCorpusDocument {
 
 	public void setDocumentSentiment(float documentSentiment) {
 		this.documentSentiment = documentSentiment;
+	}
+
+
+	@Override
+	public void setTopicDistribution(Object[][] distribution) {
+		this.topicDistribution = distribution;
+	}
+
+
+	@Override
+	public Object[][] getTopicDistribution() {
+		// TODO Auto-generated method stub
+		if (this.topicDistribution == null) {
+			throw new RuntimeException("Tried to access topic "
+					+ "distribution without running Topic Modelling!");
+		}
+		
+		return this.topicDistribution;
+	}
+
+
+	@Override
+	public void setWordFrequency(Map<String, Integer> frequencyTable) {
+		// TODO Auto-generated method stub
+		this.frequencyTable = frequencyTable;
+	}
+
+
+	@Override
+	public Map<String, Integer> getWordFrequency() {
+		if (this.frequencyTable == null) {
+			throw new RuntimeException("Tried to access frequency "
+					+ "table without running WordFrequencyCounter component!");
+		}
+		return this.frequencyTable;
 	}
 }
