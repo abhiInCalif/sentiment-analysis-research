@@ -58,7 +58,8 @@ def write_to_xml(soup, textList):
     f.write('<item>' + '\n')
     f.write('<date></date>\n<year></year>\n<month></month>\n<day></day>\n')
     f.write('<solr-datetime></solr-datetime>\n')
-    f.write('<headline>' + soup.title.text.encode('utf-8').replace('&', ' ') + '</headline>\n')
+    f.write('<headline>' + soup.title.text.replace('&', ' ').encode('utf-8') + '</headline>\n')
+    print soup.title.text.replace('&', ' ').encode('utf-8')
     f.write('<source>Rotten Tomatoes</source>\n')
     f.write('<body>\n')
     for text in textList:

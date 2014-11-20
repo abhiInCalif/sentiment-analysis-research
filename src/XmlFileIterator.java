@@ -107,9 +107,6 @@ public class XmlFileIterator implements Iterator<CorpusDocument>{
 			File fXmlFile = files.get(fileIndex);
 			InputStream fXmlStream = new FileInputStream(fXmlFile);
 			System.out.println(fXmlFile.getAbsolutePath());
-//			fXmlStream.read();
-//			fXmlStream.read();
-//			fXmlStream.read(); // ignore the BOM character that is at the beginning.
 			
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			dBuilder = dbFactory.newDocumentBuilder();
