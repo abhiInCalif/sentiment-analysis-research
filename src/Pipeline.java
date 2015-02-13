@@ -1,3 +1,6 @@
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.Hashtable;
 
@@ -17,15 +20,15 @@ public class Pipeline {
 		// construct all pipeline elements
 		pipeline = new ArrayList<PipelineComponent>();
 		iterator = new XmlFileIterator("../corpus");
-		StanfordCoreInt sentimentAnalysis = new StanfordCoreInt();
 		MalletTopicModel malletTopicModel = new MalletTopicModel(Constants.NUM_TOPICS, 1.0, 0.01, 1, 100, 
 													Constants.NUM_SUBTOPICS, Constants.DEBUG_ON);
 		WordFrequencyCounter wfc = new WordFrequencyCounter();
+		TopicSentimentExtractor tse = new TopicSentimentExtractor();
 		
 		// add all existing components to the pipeline.
-		pipeline.add(sentimentAnalysis);
 		pipeline.add(malletTopicModel);
 		pipeline.add(wfc);
+		pipeline.add(tse);
 	}
 	
 	/**
@@ -36,15 +39,40 @@ public class Pipeline {
 		// construct all pipeline elements
 		pipeline = new ArrayList<PipelineComponent>();
 		iterator = new XmlFileIterator(directory);
-		StanfordCoreInt sentimentAnalysis = new StanfordCoreInt();
 		MalletTopicModel malletTopicModel = new MalletTopicModel(Constants.NUM_TOPICS, 1.0, 0.01, 1, 100, 
 													Constants.NUM_SUBTOPICS, Constants.DEBUG_ON);
 		WordFrequencyCounter wfc = new WordFrequencyCounter();
+		TopicSentimentExtractor tse = new TopicSentimentExtractor();
 		
 		// add all existing components to the pipeline.
-		pipeline.add(sentimentAnalysis);
 		pipeline.add(malletTopicModel);
 		pipeline.add(wfc);
+		pipeline.add(tse);
+	}
+	
+	/**
+	 * Stores the results of a document into a results file.
+	 * @param doc
+	 */
+	public void storeResults(CorpusDocument doc) {
+		try {
+			PrintWriter writer = new PrintWriter("/Users/abhinavkhanna/Documents/Princeton/Independent Work/StanfordNLP/results/" + doc.getHeadline() + ".txt", "UTF-8");
+			//writer.println(doc.toString());
+			Object[][] topics = (Object[][]) doc.getTopicDistribution();
+			for (int i = 0; i < topics.length; i++) {
+				for (int j = 0; j < topics[i].length; j++) {
+					writer.print(topics[i][j] + " ");
+				}
+				writer.println();
+			}
+			writer.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (UnsupportedEncodingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	
 	/**
@@ -57,7 +85,7 @@ public class Pipeline {
 			for (int i = 0; i < pipeline.size(); i++) {
 				pipeline.get(i).run(doc);
 			}
-			
+			storeResults(doc);
 		}
 	}
 	
@@ -75,9 +103,18 @@ public class Pipeline {
 				}
 				
 				pipeline.get(components[i]).run(doc);
+				storeResults(doc);
 			}
 			
 		}
+	}
+	
+	/**
+	 * Returns the pipeline for later components to access
+	 * @return
+	 */
+	public ArrayList<PipelineComponent> getPipeline() {
+		return this.pipeline;
 	}
 	
 	/**
@@ -92,6 +129,7 @@ public class Pipeline {
 			}
 
 			pipeline.get(component).run(doc);
+			storeResults(doc);
 		}
 	}
 	

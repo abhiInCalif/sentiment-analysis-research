@@ -124,4 +124,5 @@ public interface CorpusDocument {
 	public void setWordFrequency(Map<String, Integer> frequencyTable);
 	
 	public Map<String, Integer> getWordFrequency();
+	
 }

@@ -45,6 +45,12 @@ public class StanfordCoreInt implements PipelineComponent {
 		props.put("annotators", "tokenize, ssplit, pos, lemma, ner, parse, dcoref, sentiment");
 		pipeline = new StanfordCoreNLP(props);
 	}
+	
+	public List<CoreMap> getDocumentSentences(CorpusDocument doc) {
+		Annotation document = new Annotation(doc.getBody());
+		pipeline.annotate(document);
+		return document.get(SentencesAnnotation.class);
+	}
 
 	public void annotate(CorpusDocument doc) {
 		String text = doc.getBody();
