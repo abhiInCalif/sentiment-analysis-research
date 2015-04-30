@@ -1,0 +1,8 @@
+Text::: There is plenty of reason, I think, to reduce American dependence on Libyan oil and stop supplying Colonel Qaddafi with our share of the funds he uses for dirty tricks. France has already done so, quietly. There is reason to warn Americans that they are exposed to danger if they remain in a country whose leader is not only hostile to the United States but yearns to cause it spectacular pain. ;;;
+
+Topics::: exposed leader;;; Score::: 0.11920292202211757;;;
+Topics::: quietly funds plenty colonel reduce;;; Score::: 0.19407217169605634;;;
+Topics::: tricks states;;; Score::: 0.11920292202211757;;;
+Topics::: yearns dependence pain dirty spectacular;;; Score::: 0.11920292202211757;;;
+Topics::: supplying hostile country;;; Score::: 0.11920292202211757;;;
+Topics::: reason warn libyan qaddafi stop;;; Score::: 0.11920292202211757;;;

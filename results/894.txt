@@ -1,0 +1,7 @@
+Text::: It may or may not achieve an effective multiracial society; but after all, the war didn't explode into the feared superpower confrontation, which would have dragged in most of Africa, or collapse in a terrifying bloodbath. Early next year negotiations start again on Namibia, and while they will be tough, there is a chance that that deadlock will be broken in a way to renew hope in southern Africa. If there is a settlement in Namibia acceptable to other Africans, Angola is likely to think of sending home its Cubans and looking for more serious help in restoring its ruined economy. ;;;
+
+Topics::: broken confrontation collapse society;;; Score::: 0.3096014610110588;;;
+Topics::: didn't sending economy effective southern;;; Score::: 0.24613528134807838;;;
+Topics::: terrifying ruined deadlock tough;;; Score::: 0.24613528134807838;;;
+Topics::: namibia bloodbath multiracial africans acceptable;;; Score::: 0.11920292202211757;;;
+Topics::: africa explode feared cubans achieve;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: So now, to keep up the momentum and their people's willingness to fight, they are lobbing missiles into each other's capitals. The Iraqis are using Soviet missiles. The Iranians are using Chinese and other weapons. ;;;
+
+Topics::: lobbing fight people's iraqis;;; Score::: 0.11920292202211757;;;
+Topics::: missiles chinese capitals other's momentum;;; Score::: 0.11920292202211757;;;
+Topics::: weapons;;; Score::: 0.2689414213699951;;;
+Topics::: iranians;;; Score::: NaN;;;

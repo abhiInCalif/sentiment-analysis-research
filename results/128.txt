@@ -1,0 +1,5 @@
+Text::: And the larger danger, of course, is that these random encounters might bring the U.S. into open warfare with Iran. Still, Mr. Reagan has not obeyed the War Powers Resolution, which requires the President to report to Congress within 48 hours when U.S. forces are sent into hostilities, or if they are deployed ''where imminent involvement in hostilities is clearly indicated by the circumstances.'' If Mr. Reagan were to follow that mandate, as the gulf war seems obviously to require, U.S. forces would have to be withdrawn within 60 days (90 if he were to certify an ''unavoidable necessity'') unless Congress adopted a resolution positively approving their deployment in the gulf. ;;;
+
+Topics::: resolution gulf approving positively mandate;;; Score::: 0.11920292202211757;;;
+Topics::: hostilities reagan congress unavoidable follow;;; Score::: 0.11920292202211757;;;
+Topics::: u.s forces war certify withdrawn;;; Score::: 0.11920292202211757;;;

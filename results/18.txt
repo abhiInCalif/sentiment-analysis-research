@@ -1,0 +1,8 @@
+Text::: But Iraq has now recaptured the area, virtually eliminating the threat, at least for the time being. Iran's military shows few signs of being able or willing to hold off the Iraqis, much less successfully regain the initiative. In short, Iraq no longer needs the tanker war to maintain its advantage in the larger conflict. ;;;
+
+Topics::: larger;;; Score::: 0.11920292202211757;;;
+Topics::: short area iran's;;; Score::: 0.11920292202211757;;;
+Topics::: tanker regain military conflict hold;;; Score::: 0.11920292202211757;;;
+Topics::: longer;;; Score::: 0.11920292202211757;;;
+Topics::: successfully signs recaptured threat time;;; Score::: 0.11920292202211757;;;
+Topics::: iraq maintain initiative shows eliminating;;; Score::: 0.11920292202211757;;;

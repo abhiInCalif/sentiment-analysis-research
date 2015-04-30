@@ -1,0 +1,9 @@
+Text::: Only if both the military and the international costs of that aggression become prolonged and high might the Russians reassess their current policy. But it is also necessary to demonstrate some sensitivity for Soviet concern about the pro-Moscow regime in Managua. It is, after all, rather unrealistic to insist that Moscow accept an outcome in Afghanistan of a type that Washington would not be prepared to live with in Nicaragua. ;;;
+
+Topics::: pro-moscow demonstrate policy insist;;; Score::: 0.11920292202211757;;;
+Topics::: sensitivity prolonged managua prepared nicaragua;;; Score::: 0.11920292202211757;;;
+Topics::: live;;; Score::: 0.11920292202211757;;;
+Topics::: concern moscow accept;;; Score::: 0.11920292202211757;;;
+Topics::: type reassess aggression costs russians;;; Score::: 0.11920292202211757;;;
+Topics::: unrealistic;;; Score::: 0.11920292202211757;;;
+Topics::: high;;; Score::: 0.11920292202211757;;;

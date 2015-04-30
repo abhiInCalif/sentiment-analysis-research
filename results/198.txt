@@ -1,0 +1,6 @@
+Text::: The U.S. Navy minimizes these, saying that its frigates can protect themselves and others against Iranian missiles with electronic jamming. Maybe so, but such confidence has been shattered before, disastrously, once the guns began firing. And if Iranian missiles should find American targets, there is always the fateful next question: Should the United States strike back at Iran? ;;;
+
+Topics::: fateful targets jamming frigates minimizes;;; Score::: 0.11920292202211757;;;
+Topics::: back states;;; Score::: 0.11920292202211757;;;
+Topics::: missiles iranian firing electronic guns;;; Score::: 0.11920292202211757;;;
+Topics::: disastrously shattered confidence protect american;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: But it isn't likely the British will go through with their suggestions for revising the convention. This is only partly because trying to plug the loopholes through new negotiations can raise more problems than it solves. It is also because governments know, and admit in private, that a great many nominally law- abiding countries regularly violate provisions on the behavior of diplomats and their right to uninspected transport of goods and papers. ;;;
+
+Topics::: regularly loopholes plug admit behavior;;; Score::: 0.11920292202211757;;;
+Topics::: uninspected provisions violate nominally solves;;; Score::: 0.11920292202211757;;;
+Topics::: papers abiding convention isn't problems;;; Score::: 0.11920292202211757;;;

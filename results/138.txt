@@ -1,0 +1,7 @@
+Text::: In small and steady steps, it can build confidence in a new relationship on both sides. Don't link regional conflicts with other issues. Few regional tensions are simply or even mainly a product of U.S.-Soviet relations, but involve other countries' interests and politics. ;;;
+
+Topics::: regional tensions link build small;;; Score::: 0.24613528134807838;;;
+Topics::: product relationship relations;;; Score::: 0.3096014610110588;;;
+Topics::: involve u.s.-soviet simply interests confidence;;; Score::: 0.3096014610110588;;;
+Topics::: don't;;; Score::: NaN;;;
+Topics::: steady;;; Score::: 0.5;;;

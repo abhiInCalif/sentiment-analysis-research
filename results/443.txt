@@ -1,0 +1,6 @@
+Text::: A once thriving economy has been destroyed. The wealthiest and ablest Lebanese have long since fled. The United Nations and a few other agencies dispense humanitarian aid and medical help, but no law now governs in that unhappy land. ;;;
+
+Topics::: medical unhappy lebanese nations;;; Score::: 0.11920292202211757;;;
+Topics::: thriving economy land law aid;;; Score::: 0.11920292202211757;;;
+Topics::: governs destroyed dispense united;;; Score::: 0.11920292202211757;;;
+Topics::: humanitarian ablest wealthiest fled agencies;;; Score::: 0.11920292202211757;;;

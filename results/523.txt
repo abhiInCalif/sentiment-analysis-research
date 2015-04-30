@@ -1,0 +1,4 @@
+Text::: That's his way of recalling his own classic debates with John F. Kennedy, whose 1960 campaign took off after Vice President Nixon did not easily defeat him, as widely expected. While Nixon was stiffly scoring debating points, Kennedy was making friends with the American voter. What Mr. Nixon forgets in his comparison of the debates of 1960 and 1984 is that this time, the more telegenic personality is going in as the expected winner. ;;;
+
+Topics::: winner telegenic scoring vice comparison;;; Score::: 0.19407217169605634;;;
+Topics::: nixon debates kennedy expected personality;;; Score::: 0.11920292202211757;;;

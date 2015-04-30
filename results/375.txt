@@ -1,0 +1,10 @@
+Text::: The United Nations High Commission for Refugees found that they are well received, established in towns and cities as well as in special settlements, and becoming thoroughly indoctrinated with the Ayatollah Khomeini's ideas. Fundamentalism is also gaining in the Afghan camps in Pakistan, already an Islamic state but trying to hold Iranian extremism at bay. The evidence is that this trend can only grow as the conflict drags on. ;;;
+
+Topics::: trend khomeini's bay cities refugees;;; Score::: 0.24613528134807838;;;
+Topics::: drags iranian;;; Score::: 0.11920292202211757;;;
+Topics::: high;;; Score::: NaN;;;
+Topics::: grow extremism indoctrinated established commission;;; Score::: 0.24613528134807838;;;
+Topics::: evidence;;; Score::: 0.11920292202211757;;;
+Topics::: special camps;;; Score::: 0.3096014610110588;;;
+Topics::: received;;; Score::: 0.5;;;
+Topics::: gaining settlements towns ideas state;;; Score::: 0.3096014610110588;;;

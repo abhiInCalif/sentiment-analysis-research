@@ -1,0 +1,7 @@
+Text::: It should be possible to make a sound, consistent case for such moves, however risky, and to attract Congressional, allied and public support. But the Administration has not even begun to fashion a policy that relates plausible ends and means. The suspicion lingers that the rush to act tough in the gulf springs from a desire to expunge the folly of sending arms to Iran for hostages, rather than from a coherent plan. ;;;
+
+Topics::: springs rush fashion tough moves;;; Score::: 0.11920292202211757;;;
+Topics::: coherent hostages expunge desire lingers;;; Score::: 0.11920292202211757;;;
+Topics::: risky;;; Score::: 0.11920292202211757;;;
+Topics::: sending relates sound administration plan;;; Score::: 0.11920292202211757;;;
+Topics::: folly begun case means arms;;; Score::: 0.11920292202211757;;;

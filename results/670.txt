@@ -1,0 +1,9 @@
+Text::: Not one of the first six Presidents of the United States was an orthodox Christian, and Thomas Jefferson went so far as to produce a revised version of the New Testament, deleting all references to miracles, and portraying Jesus as nothing more than a powerful moral teacher. But Abraham Lincoln didn't reject the church's claims to moral authority in his long battle for the abolition of slavery. And in our own time, Martin Luther King was free to fight for the rights of his people, though it cost him his life. ;;;
+
+Topics::: abraham portraying authority christian didn't;;; Score::: 0.11920292202211757;;;
+Topics::: orthodox king;;; Score::: 0.11920292202211757;;;
+Topics::: moral martin church's lincoln references;;; Score::: 0.11920292202211757;;;
+Topics::: cost;;; Score::: 0.11920292202211757;;;
+Topics::: testament;;; Score::: NaN;;;
+Topics::: slavery produce;;; Score::: 0.11920292202211757;;;
+Topics::: luther abolition reject teacher miracles;;; Score::: 0.11920292202211757;;;

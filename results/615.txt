@@ -1,0 +1,5 @@
+Text::: A nervous Pakistan, burdened by three million Afghan refugees and fearing Soviet reprisals, has limited the flow of arms into Afghanistan. Airdrops to the rebels that do not compromise Pakistan might be one way around the problem. America's assistance to rebels fighting a foreign occupier is at least as defensible as Soviet aid to the Vietcong or assorted ''liberation movements.'' ;;;
+
+Topics::: vietcong limited;;; Score::: 0.04742587317756679;;;
+Topics::: soviet airdrops flow assorted compromise;;; Score::: 0.09527723907393398;;;
+Topics::: rebels pakistan defensible occupier reprisals;;; Score::: 0.09527723907393398;;;

@@ -1,0 +1,6 @@
+Text::: And the history of the religious wars of the past has a message of hope that is worth remembering. The cold war, between the U.S. and the Soviet Union, has gone on now for almost three generations, and it is hard to imagine two adversary nations with more different views of history or religion or the individual's relation to the state. Yet there was another cold war between Islam and the Christian West that went on for 300 years because both sides believed that they had the only true way to assure eternal life, each speaking in dogmatic terms and seeing security only in the destruction of the other. ;;;
+
+Topics::: war eternal imagine generations relation;;; Score::: 0.08331439759984219;;;
+Topics::: dogmatic terms;;; Score::: 0.11920292202211757;;;
+Topics::: cold past hard religious worth;;; Score::: 0.22220959839989476;;;
+Topics::: history individual's adversary remembering believed;;; Score::: 0.22220959839989476;;;

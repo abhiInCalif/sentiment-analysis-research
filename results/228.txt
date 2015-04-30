@@ -1,0 +1,4 @@
+Text::: The Americans who choose to stay in Lebanon have that right. Some are converts to Islam, some have Lebanese spouses, some have occupational ties and others are deeply attached to a troubled country. But whatever their reasons, they cannot expect or deserve the sympathy that spontaneously flows to innocent, unwitting and heroic hostages. ;;;
+
+Topics::: heroic innocent flows deserve attached;;; Score::: 0.11920292202211757;;;
+Topics::: unwitting spontaneously expect converts stay;;; Score::: 0.16911575513807675;;;

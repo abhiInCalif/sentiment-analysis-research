@@ -1,0 +1,8 @@
+Text:::  An Egyptian judge, shocked at obscenity in the ''Thousand and One Nights,'' recently banned an unexpurgated edition and fined its publisher. ''The book is not part of our heritage,'' said an Interior Ministry official. ''But even if it were, any part of our heritage which includes dirty words should be locked up in a museum and an expurgated version should be made available to youth.'' ;;;
+
+Topics::: words official;;; Score::: 0.11920292202211757;;;
+Topics::: fined nights obscenity;;; Score::: 0.11920292202211757;;;
+Topics::: part youth version ministry interior;;; Score::: 0.11920292202211757;;;
+Topics::: expurgated unexpurgated;;; Score::: 0.11920292202211757;;;
+Topics::: recently;;; Score::: 0.11920292202211757;;;
+Topics::: heritage museum locked shocked egyptian;;; Score::: 0.11920292202211757;;;

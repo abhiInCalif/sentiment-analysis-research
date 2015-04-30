@@ -1,0 +1,7 @@
+Text::: The critical element in a workable peace scenario would be some form of internationally supervised cease-fire during which factionridden Afghan tribal and political leaders could begin to regroup in preparation for negotiations with the present regime and the phased evolution of a new government that would not be tainted by Soviet sponsorship. Such a government would fulfill the need for a legitimate Afghan signatory to an agreement committing Moscow to a timetable of gradual withdrawal of forces. At present, resistance leaders and Moscow would dismiss this proposal out of hand, but it is likely to become more attractive as the debilitating struggle drags on. ;;;
+
+Topics::: debilitating fulfill evolution internationally element;;; Score::: 0.11920292202211757;;;
+Topics::: government afghan leaders committing signatory;;; Score::: 0.11920292202211757;;;
+Topics::: begin cease-fire;;; Score::: 0.11920292202211757;;;
+Topics::: present moscow timetable factionridden supervised;;; Score::: 0.11920292202211757;;;
+Topics::: withdrawal;;; Score::: 0.11920292202211757;;;

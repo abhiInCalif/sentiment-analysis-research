@@ -1,0 +1,7 @@
+Text::: In any case, Congress should force the Administration to reshape its policy and should veto any projected sales or credits for F-16's and other arms, such as heavy tanks and 155-millimeter howitzers, that are clearly unsuited for use on the Afghan frontier. Why has the Administration been so anxious to please Pakistan at any price? The principal stated purpose of the new policy is ''to restore a relationship of trust'' in the hope that ''various forms of strategic cooperation will prove possible in the Persian Gulf area,'' including access for the projected Rapid Deployment Force to Pakistani ports and airfields. ;;;
+
+Topics::: unsuited;;; Score::: 0.11920292202211757;;;
+Topics::: congress purpose area gulf;;; Score::: 0.11920292202211757;;;
+Topics::: projected administration force policy howitzers;;; Score::: 0.11920292202211757;;;
+Topics::: forms veto principal trust anxious;;; Score::: 0.11920292202211757;;;
+Topics::: prove credits;;; Score::: 0.11920292202211757;;;

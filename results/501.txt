@@ -1,0 +1,5 @@
+Text::: The only way we can stop terrorists from driving us out of Lebanon is to stop them ourselves. The President should stop nibbling his nails and make the tough choice. If his decision is to bug out, he should put the embassy on a ship offshore right away; if his decision is to stay, he is duty-bound to put in the power and the anti-tank traps to guarantee our citizens' safety. ;;;
+
+Topics::: traps duty-bound driving terrorists lebanon;;; Score::: 0.11920292202211757;;;
+Topics::: decision ship nibbling guarantee stay;;; Score::: 0.11920292202211757;;;
+Topics::: stop put anti-tank offshore bug;;; Score::: 0.11920292202211757;;;

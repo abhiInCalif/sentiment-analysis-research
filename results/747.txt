@@ -1,0 +1,5 @@
+Text::: The rich alluvial soil has been covered with brick and cement. Seeing what has happened on the road to Saqqara makes it easier for the visitor to understand why President Hosni Mubarak says his most urgent challenge is economic. The outside world views Egypt as a critical diplomatic actor at a dangerous time in the Middle East. ;;;
+
+Topics::: saqqara brick understand president;;; Score::: 0.11920292202211757;;;
+Topics::: urgent covered alluvial visitor cement;;; Score::: 0.11920292202211757;;;
+Topics::: actor soil rich easier diplomatic;;; Score::: 0.16911575513807675;;;

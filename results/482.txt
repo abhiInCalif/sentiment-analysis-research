@@ -1,0 +1,5 @@
+Text::: The ally to give the U.S. the most trouble will be (a) Japan, refusing to lower trade barriers; (b) Spain, pulling out of NATO; (c) West Germany, turning Green; (d) Mexico, dumping its citizens across our border; (e) Pakistan, developing the Islamic Bomb. 20. Leading the polls of registered Republicans for 1988 Presidential nominee at 1985's end will be (a) George Bush; (b) Bob Dole; (c) Howard Baker; (d) Jeane Kirkpatrick; (e) Jack Kemp. ;;;
+
+Topics::: kemp jeane nominee dumping baker;;; Score::: 0.08331439759984219;;;
+Topics::: howard bush republicans pulling barriers;;; Score::: 0.04742587317756679;;;
+Topics::: jack polls trade presidential bomb;;; Score::: 0.08331439759984219;;;

@@ -1,0 +1,9 @@
+Text::: If the war bleeds on, it could cloud their legal status. Their camps are chiefly funded by the U.N.'s High Commission on Refugees, which limits help to those fearing persecution if forced to return to their old homes. If Pakistan and Afghanistan formally declare themselves at peace, does this mean these millions have no choice but to return or forfeit their refugee status? ;;;
+
+Topics::: forfeit persecution limits chiefly afghanistan;;; Score::: 0.11920292202211757;;;
+Topics::: high;;; Score::: NaN;;;
+Topics::: declare formally forced;;; Score::: 0.11920292202211757;;;
+Topics::: funded bleeds refugee;;; Score::: 0.11920292202211757;;;
+Topics::: fearing commission homes refugees war;;; Score::: 0.11920292202211757;;;
+Topics::: status return choice u.n.'s cloud;;; Score::: 0.11920292202211757;;;
+Topics::: legal;;; Score::: 0.11920292202211757;;;

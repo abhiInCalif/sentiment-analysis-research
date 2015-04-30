@@ -1,0 +1,6 @@
+Text::: The five permanent members of the United Nations Security Council managed to agree on a resolution calling for an end to the war. But they can't agree on stopping the provision of arms that keep it going. They act as though it really isn't that important, as long as mostly Iraqis and Iranians are being killed. ;;;
+
+Topics::: killed isn't security arms important;;; Score::: 0.11920292202211757;;;
+Topics::: agree act provision permanent nations;;; Score::: 0.11920292202211757;;;
+Topics::: stopping can't calling resolution managed;;; Score::: 0.11920292202211757;;;
+Topics::: members long war;;; Score::: 0.11920292202211757;;;

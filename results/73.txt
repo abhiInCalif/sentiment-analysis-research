@@ -1,0 +1,8 @@
+Text::: Everyone knows that Secretary of State Shultz's foray into the Middle East doesn't stand much chance of success. But here is a clear case where it pays to fail, and even fail again. If the United States doesn't make every effort to get an Arab-Israeli peace process under way, the only beneficiaries will be the extremists. ;;;
+
+Topics::: states;;; Score::: NaN;;;
+Topics::: fail pays case state secretary;;; Score::: 0.11920292202211757;;;
+Topics::: arab-israeli;;; Score::: NaN;;;
+Topics::: east;;; Score::: NaN;;;
+Topics::: doesn't beneficiaries clear shultz's middle;;; Score::: 0.11920292202211757;;;
+Topics::: foray make process effort;;; Score::: 0.11920292202211757;;;

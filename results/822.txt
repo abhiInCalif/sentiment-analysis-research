@@ -1,0 +1,5 @@
+Text::: The 1971 crisis took place while the United States had an embargo on arms sales to Pakistan and India. Similarly, the state of Pakistani-American relations has nothing to do with India's ambivalence in condemning Soviet military intervention in Afghanistan or its consistent opposition to the American presence in the Indian Ocean, particularly at Diego Garcia. India has a special relationship with the Soviet Union formalized in the Treaty of Friendship of 1971. ;;;
+
+Topics::: soviet formalized garcia pakistani-american similarly;;; Score::: 0.2689414213699951;;;
+Topics::: american;;; Score::: NaN;;;
+Topics::: india diego special sales intervention;;; Score::: 0.21902858825403593;;;

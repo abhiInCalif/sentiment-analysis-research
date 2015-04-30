@@ -1,0 +1,7 @@
+Text::: But this end was achieved only by neglecting the underlying conflict among Afghan Marxists, monarchists, fundamentalists and ultra-fundamentalists. Despising compromise, key Afghan factions seem determined to keep fighting and keep the arms flowing from East and West. The biggest losers may well be the millions of Afghan refugees in Pakistan and Iran. ;;;
+
+Topics::: losers factions ultra-fundamentalists neglecting east;;; Score::: 0.11920292202211757;;;
+Topics::: underlying flowing;;; Score::: 0.11920292202211757;;;
+Topics::: west pakistan conflict end;;; Score::: 0.11920292202211757;;;
+Topics::: compromise despising fundamentalists monarchists marxists;;; Score::: 0.11920292202211757;;;
+Topics::: afghan millions biggest determined refugees;;; Score::: 0.11920292202211757;;;

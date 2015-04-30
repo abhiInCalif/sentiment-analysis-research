@@ -1,0 +1,8 @@
+Text::: The rival factions formed their own private armies and progressively challenged the center in Beirut. A full-scale civil war erupted in the 1970's, magnified by the influx of Palestinians expelled from Jordan. Syria intervened in 1976, with the Arab League's blessing, but it could only play the factions against each other. ;;;
+
+Topics::: erupted full-scale beirut civil blessing;;; Score::: 0.11920292202211757;;;
+Topics::: syria;;; Score::: NaN;;;
+Topics::: challenged;;; Score::: 0.11920292202211757;;;
+Topics::: progressively intervened;;; Score::: 0.11920292202211757;;;
+Topics::: factions league's magnified armies rival;;; Score::: 0.11920292202211757;;;
+Topics::: formed center;;; Score::: 0.11920292202211757;;;

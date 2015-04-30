@@ -1,0 +1,4 @@
+Text::: There remains, in short, a narrow patch of American influence that can be discreetly exerted. Both directly and through still-connected nations, like Algeria, the Iranians can be shown one kind of future if they demonstrate restraint and the practical difficulties they would encounter if they don't. The Iranians have won the right to redesign their own society. ;;;
+
+Topics::: iranians exerted discreetly patch practical;;; Score::: 0.11920292202211757;;;
+Topics::: redesign still-connected;;; Score::: 0.3096014610110588;;;

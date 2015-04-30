@@ -1,0 +1,5 @@
+Text::: Therefore, the problem isn't really ''state terrorism,'' as Secretary of State George Shultz put it. It is right to deny Colonel Qaddafi the amenities of state relations to pursue his campaign, but it isn't because he is conducting ''a new form of warfare,'' as some say. He is playing the old, old game of the weak seeking glory in impudent violence against the strong. ;;;
+
+Topics::: pursue;;; Score::: 0.11920292202211757;;;
+Topics::: state isn't impudent conducting amenities;;; Score::: 0.11920292202211757;;;
+Topics::: warfare game strong campaign;;; Score::: 0.11920292202211757;;;

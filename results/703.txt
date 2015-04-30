@@ -1,0 +1,7 @@
+Text::: Nor is it wholly fair to lay all the blame on the other fellow for not backing up detente with deeds. Who, after all, failed to ratify SALT II? Even if Mr. Reagan does not go to Moscow, tone is vital. ;;;
+
+Topics::: deeds detente;;; Score::: 0.2689414213699951;;;
+Topics::: tone salt moscow;;; Score::: 0.5;;;
+Topics::: ratify vital;;; Score::: 0.3096014610110588;;;
+Topics::: fellow;;; Score::: 0.2689414213699951;;;
+Topics::: lay wholly blame failed backing;;; Score::: 0.19407217169605634;;;

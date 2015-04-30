@@ -1,0 +1,4 @@
+Text::: More than most prominent blacks, he consistently celebrates blackness. He assures blacks they are strong, intelligent and capable, not doomed to permanent victimization but destined for success and power. Black freedom and self-sufficiency, he argues, depend not on the charity of others but on the action of blacks themselves. ;;;
+
+Topics::: blacks charity destined victimization doomed;;; Score::: 0.29604811446403756;;;
+Topics::: self-sufficiency depend;;; Score::: 0.11920292202211757;;;

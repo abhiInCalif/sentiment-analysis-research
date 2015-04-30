@@ -1,0 +1,9 @@
+Text::: Col. Oliver North promptly went to the Texas millionaire H. Ross Perot to provide $2 million in ransom. At the same time, Colonel North reportedly prepared a National Security Decision Directive, signed by President Reagan in early April, setting up a commando rescue mission headed by Richard Secord. (Mr. Reagan has forgotten the first plan and remembers the second.) ;;;
+
+Topics::: north commando signed ransom headed;;; Score::: 0.11920292202211757;;;
+Topics::: millionaire;;; Score::: 0.11920292202211757;;;
+Topics::: remembers ross;;; Score::: 0.11920292202211757;;;
+Topics::: directive promptly oliver col reportedly;;; Score::: 0.11920292202211757;;;
+Topics::: setting;;; Score::: 0.11920292202211757;;;
+Topics::: forgotten april;;; Score::: 0.11920292202211757;;;
+Topics::: reagan secord rescue early colonel;;; Score::: 0.11920292202211757;;;

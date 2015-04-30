@@ -1,0 +1,6 @@
+Text::: In reality, Soviet political life has changed in fundamental and far-reaching ways since Stalin died in 1953. Though the system remains highly authoritarian and repressive, it no longer is a terroristic despotism. The end of mass terror and other important reforms have made the Government more attentive to the needs of the population and less oppressive. ;;;
+
+Topics::: attentive terroristic authoritarian mass changed;;; Score::: 0.11920292202211757;;;
+Topics::: far-reaching repressive died despotism stalin;;; Score::: 0.11920292202211757;;;
+Topics::: fundamental;;; Score::: 0.11920292202211757;;;
+Topics::: oppressive remains ways political end;;; Score::: 0.11920292202211757;;;

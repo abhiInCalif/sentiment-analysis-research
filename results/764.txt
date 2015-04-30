@@ -1,0 +1,6 @@
+Text::: Whether or not the Saharans return to their homeland will depend on how long they continue to fight King Hassan's army despite their numerical disadvantage. It seems highly unlikely that they will give up. Virtually all Saharan songs and poetry are colored by nationalist ideology, and Saharan schoolchildren study Polisario texts along with the Koran. ;;;
+
+Topics::: songs virtually;;; Score::: 0.11920292202211757;;;
+Topics::: texts study colored disadvantage numerical;;; Score::: 0.19407217169605634;;;
+Topics::: poetry;;; Score::: 0.11920292202211757;;;
+Topics::: saharan schoolchildren saharans hassan's depend;;; Score::: 0.19407217169605634;;;

@@ -1,0 +1,7 @@
+Text::: A weak council contributes to the breakdown of decision-making. It allows responsibility to fragment along departmental lines; it produces situations in which principals are not fully informed of what is going on; it induces rogue operations. Last but not least, it serves the President badly by diluting his leadership and by greatly reducing his effective control. ;;;
+
+Topics::: breakdown;;; Score::: 0.11920292202211757;;;
+Topics::: responsibility;;; Score::: 0.11920292202211757;;;
+Topics::: diluting induces fully principals situations;;; Score::: 0.11920292202211757;;;
+Topics::: serves;;; Score::: 0.11920292202211757;;;
+Topics::: reducing rogue departmental decision-making lines;;; Score::: 0.11920292202211757;;;

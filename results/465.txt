@@ -1,0 +1,6 @@
+Text::: When an army unit opened machine-gun fire on busloads of Sindhi students in October, the military tried to blame local police and later tortured students who contradicted its account. Such behavior is possible only in a country where the rule of law no longer exists. General Zia took power in a coup in 1977, and conditions have deteriorated since. ;;;
+
+Topics::: account law;;; Score::: 0.11920292202211757;;;
+Topics::: students contradicted busloads machine-gun deteriorated;;; Score::: 0.11920292202211757;;;
+Topics::: sindhi unit blame opened tortured;;; Score::: 0.11920292202211757;;;
+Topics::: behavior october fire general zia;;; Score::: 0.11920292202211757;;;

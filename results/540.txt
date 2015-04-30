@@ -1,0 +1,4 @@
+Text::: The first American impulse was to offer air cover to gulf shipping. But the Saudis and other Arabs think giving the United States the necessary land bases would incur a greater long-term political risk. Besides, Iran may have missed the optimum season for invasion, leaving Iraq more willing to restrain the air war. ;;;
+
+Topics::: air season optimum missed long-term;;; Score::: 0.16911575513807675;;;
+Topics::: restrain impulse offer incur bases;;; Score::: 0.16911575513807675;;;

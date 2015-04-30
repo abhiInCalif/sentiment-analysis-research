@@ -1,0 +1,7 @@
+Text::: Soviet information officers have little to crow about - who today still remains ignorant of the gulags? - yet they wage the global war for hearts and minds far more vigorously than do American information officers nearly everywhere around the world. For example, they have long broadcast more than six hours a day in the main Afghan languages while the V.O.A. ;;;
+
+Topics::: crow;;; Score::: 0.11920292202211757;;;
+Topics::: information officers v.o.a vigorously broadcast;;; Score::: 0.11920292202211757;;;
+Topics::: ignorant today war;;; Score::: 0.11920292202211757;;;
+Topics::: gulags hours minds day american;;; Score::: 0.11920292202211757;;;
+Topics::: languages wage hearts global afghan;;; Score::: 0.11920292202211757;;;

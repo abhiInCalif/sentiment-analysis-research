@@ -1,0 +1,6 @@
+Text::: Americans no longer have any influence on Iran's power struggles, but they have not ceased to care about the country's fate. When Iran mocks its own constitution and devours a fairly elected President, it brings further discredit to its revolution and instability to the region. Mr. Bani-Sadr accuses his clerical opponents of ordering executions, silencing dissent, mismanaging the economy and subverting efforts to end the war with Iraq. ;;;
+
+Topics::: accuses brings elected;;; Score::: 0.11920292202211757;;;
+Topics::: subverting dissent silencing ordering discredit;;; Score::: 0.11920292202211757;;;
+Topics::: bani-sadr iraq;;; Score::: NaN;;;
+Topics::: mismanaging care influence iran;;; Score::: 0.11920292202211757;;;

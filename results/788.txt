@@ -1,0 +1,5 @@
+Text::: It is difficult to see what we could do against a change of regime within the royal family and how effective we could be against many of these threats, given the regime's reluctance about having ourforces on its soil. Then, too, are we committed to the royal family or to the flow of oil? If it is to the family, a mere shift in the family could threaten our oil supply. ;;;
+
+Topics::: mere committed regime;;; Score::: 0.16911575513807675;;;
+Topics::: regime's;;; Score::: NaN;;;
+Topics::: family royal oil ourforces soil;;; Score::: 0.16911575513807675;;;

@@ -1,0 +1,5 @@
+Text::: Such an accommodation is probably worth the price if Iran uses its undoubted influence to free all remaining Western hostages. It would be vastly more so if it weans Iran away from promoting terror and, in time, from its seven years of self-enforced isolation. There's no doubt that Washington is interested in testing the water, and rightly so. ;;;
+
+Topics::: testing;;; Score::: 0.11920292202211757;;;
+Topics::: iran self-enforced vastly undoubted accommodation;;; Score::: 0.3096014610110588;;;
+Topics::: water weans remaining rightly terror;;; Score::: 0.24613528134807838;;;

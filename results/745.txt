@@ -1,0 +1,6 @@
+Text::: I heard that Lebanon was really part of Syria; that Lebanon was not Arab at all but Phoenician, that Lebanon was only a mountain, but the most beautiful mountain on earth. I heard that the reason the family came first to the West Virginia side of the Ohio River was that the people of Mount Lebanon always look to settle with water in front and hills behind - escape and sanctuary, necessary to the ahl-al-jebal (people of the mountain), which they had remained since the seventh century when their ancestors fled the Orontes River Valley and persecution by other Christians and Islamic tribes. But by 1960, my grandmother had long ago left both hills and water. ;;;
+
+Topics::: fled;;; Score::: 0.11920292202211757;;;
+Topics::: lebanon mountain river hills water;;; Score::: 0.11920292202211757;;;
+Topics::: orontes;;; Score::: NaN;;;
+Topics::: ancestors grandmother tribes mount family;;; Score::: 0.11920292202211757;;;

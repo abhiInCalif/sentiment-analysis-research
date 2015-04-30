@@ -1,0 +1,8 @@
+Text::: Ms. Rishmawi and other lawyers deal with Israeli officials in legal terms, eschewing politics. But it is a frustrating kind of law. An Al-Haq field worker, Ghazy Shashtari, reported that two men in the Faraa detention center complained of being tortured with electric shocks. ;;;
+
+Topics::: shocks ghazy field eschewing officials;;; Score::: 0.11920292202211757;;;
+Topics::: reported lawyers al-haq;;; Score::: 0.11920292202211757;;;
+Topics::: complained men kind rishmawi law;;; Score::: 0.11920292202211757;;;
+Topics::: center faraa frustrating terms;;; Score::: 0.11920292202211757;;;
+Topics::: tortured detention worker israeli deal;;; Score::: 0.11920292202211757;;;
+Topics::: electric shashtari;;; Score::: 0.11920292202211757;;;

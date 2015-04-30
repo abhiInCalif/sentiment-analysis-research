@@ -1,0 +1,6 @@
+Text::: In Paris, the terrorists face a tough but principled avenger in Prime Minister Jacques Chirac, also the Mayor of the capital. For morale or even for effect, he has decided to require visas of all but Western European visitors. This inconvenience deserves uncomplaining support from American travelers, especially since the United States maintains its own cumbersome visa requirements for Europeans. ;;;
+
+Topics::: requirements cumbersome visitors chirac avenger;;; Score::: 0.16911575513807675;;;
+Topics::: maintains inconvenience european jacques deserves;;; Score::: 0.11920292202211757;;;
+Topics::: support;;; Score::: 0.11920292202211757;;;
+Topics::: visa travelers uncomplaining visas morale;;; Score::: 0.19407217169605634;;;

@@ -1,0 +1,5 @@
+Text::: That the response to the current crisis is expressed through the medium of religion and manifests itself in attempts to reformulate Islamic doctrines that touch on such critical issues as political authority, property rights, and economic justice should hardly be surprising. Islam remains for many the primary focus of personal and national identity. Moreover, Islam is pre-eminently a religion of divinely revealed law and elaboration of the law by jurists. ;;;
+
+Topics::: property;;; Score::: 0.04742587317756679;;;
+Topics::: religion islam law divinely pre-eminently;;; Score::: 0.08331439759984219;;;
+Topics::: elaboration touch;;; Score::: 0.08331439759984219;;;

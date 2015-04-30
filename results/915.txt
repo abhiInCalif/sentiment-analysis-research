@@ -1,0 +1,6 @@
+Text::: Mr. Aquino, a former senator, was spared from a death sentence by much American pressure and finally released from prison this year for medical treatment in the United States. He is now a visiting fellow at Harvard where, in a recent interview, he said his aim was to overthrow the Marcos regime and to abolish martial law. He has become a student of urban terror and says, ''without high violence, you don't get recognition.'' ;;;
+
+Topics::: urban medical law;;; Score::: 0.11920292202211757;;;
+Topics::: spared treatment interview united don't;;; Score::: 0.11920292202211757;;;
+Topics::: abolish sentence marcos fellow recognition;;; Score::: 0.11920292202211757;;;
+Topics::: violence;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: Look forward to basic changes in the relationship only over the long haul. No one agreement will turn it rosy, and no one crisis end it. Gradual improvement is the best way to hedge against miscalculations, and alterations in Moscow's policies. ;;;
+
+Topics::: alterations haul crisis long;;; Score::: 0.29604811446403756;;;
+Topics::: moscow's gradual;;; Score::: NaN;;;
+Topics::: improvement agreement;;; Score::: 0.3096014610110588;;;
+Topics::: forward hedge basic end;;; Score::: 0.29604811446403756;;;
+Topics::: turn policies miscalculations;;; Score::: 0.3096014610110588;;;
+Topics::: rosy relationship;;; Score::: 0.19407217169605634;;;

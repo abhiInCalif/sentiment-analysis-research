@@ -1,0 +1,5 @@
+Text::: Every Westerner still in Beirut surely knows the risks. The State Department keeps urging Americans to clear out, as it did only days before the weekend abduction of four teachers at Beirut University College. By staying on, they and others put themselves and their country at hazard. ;;;
+
+Topics::: department;;; Score::: NaN;;;
+Topics::: risks americans state;;; Score::: 0.5;;;
+Topics::: beirut hazard staying college teachers;;; Score::: 0.19407217169605634;;;

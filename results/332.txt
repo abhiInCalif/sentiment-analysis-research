@@ -1,0 +1,6 @@
+Text:::  Even before the United States and Libya traded military blows in recent weeks, they were engaged in a contest for influence in the Sudan. For much of the last year, America was losing ground. Now, with the reprisal attack on an American diplomat in the Sudan's capital and the evacuation of American relief and development workers, Libya has gained an even clearer field. ;;;
+
+Topics::: gained evacuation sudan's reprisal contest;;; Score::: 0.11920292202211757;;;
+Topics::: military;;; Score::: 0.11920292202211757;;;
+Topics::: libya capital;;; Score::: 0.11920292202211757;;;
+Topics::: american workers blows ground america;;; Score::: 0.11920292202211757;;;

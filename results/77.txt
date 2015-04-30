@@ -1,0 +1,7 @@
+Text::: To overcome their concern, the Shultz plan would, by the end of the year, start a second phase of talks - on the final status of the occupied territories. That would also give Israelis the opportunity to put the peace issue to the test in their fall elections. Both sides would be guided in the talks by the principle of exchanging peace for territory. ;;;
+
+Topics::: peace territories final phase shultz;;; Score::: 0.11920292202211757;;;
+Topics::: talks guided opportunity status exchanging;;; Score::: 0.11920292202211757;;;
+Topics::: test occupied concern;;; Score::: 0.11920292202211757;;;
+Topics::: fall issue start plan;;; Score::: 0.11920292202211757;;;
+Topics::: overcome principle give;;; Score::: 0.11920292202211757;;;

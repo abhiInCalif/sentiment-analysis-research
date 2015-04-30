@@ -1,0 +1,5 @@
+Text::: After the Afghanistan invasion, a Soviet lunge at Iran could be seen only as a direct threat to the West's jugular. Still, defining American objectives is easier than achieving them. Plans to use naval convoys to keep tankers moving through the Strait of Hormuz are not being advertised because a nervous Saudi Arabia opposes any show of force. ;;;
+
+Topics::: force;;; Score::: 0.11920292202211757;;;
+Topics::: easier;;; Score::: 0.5;;;
+Topics::: opposes defining lunge objectives advertised;;; Score::: 0.24613528134807838;;;

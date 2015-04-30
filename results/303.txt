@@ -1,0 +1,6 @@
+Text::: Undercover operations would clearly be the preferred way to go if the West wanted to pressure Syria without rupturing relations. Mr. Assad and his entourage understand dirty tricks. And here the Europeans could play a key role, though their willingness to cooperate with us is clouded by disagreements about aims and our inability to keep secrets. ;;;
+
+Topics::: secrets operations syria west;;; Score::: 0.11920292202211757;;;
+Topics::: cooperate tricks dirty entourage assad;;; Score::: 0.11920292202211757;;;
+Topics::: clouded pressure;;; Score::: 0.11920292202211757;;;
+Topics::: disagreements preferred play;;; Score::: 0.11920292202211757;;;

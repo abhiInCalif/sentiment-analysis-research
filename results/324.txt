@@ -1,0 +1,8 @@
+Text::: Congress does not seem to grasp that the makings of an ominous change are gathering in the Middle East. Iran is beginning to win its war-to-the-death with Iraq; President Hosni Mubarak of Egypt, a moderate leader, is increasingly challenged at home by radicals; and oil revenues, which account for most of Saudi Arabia's leverage in the Arab world and provide an essential prop for all oil-rich monarchies, are falling precipitously. If the Ayatollah Ruhollah Khomeini's fanatical legions defeat Iraq, the road to Tel Aviv could run through Riyadh. ;;;
+
+Topics::: ominous;;; Score::: 0.11920292202211757;;;
+Topics::: iraq prop revenues war-to-the-death makings;;; Score::: 0.08331439759984219;;;
+Topics::: precipitously monarchies gathering congress radicals;;; Score::: 0.08331439759984219;;;
+Topics::: legions beginning hosni increasingly grasp;;; Score::: 0.09527723907393398;;;
+Topics::: fanatical khomeini's essential ruhollah leverage;;; Score::: 0.08331439759984219;;;
+Topics::: provide;;; Score::: 0.04742587317756679;;;

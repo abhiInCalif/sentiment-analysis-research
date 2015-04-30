@@ -1,0 +1,7 @@
+Text::: These were heavy but nowhere nearly as heavy as those in World War I, with which they were airily compared by some writers. Two developments surprised military analysts in Tel Aviv, Cairo, London and Washington. One was that Iraqi artillery superiority, in which Baghdad and its supporters had placed such trust, did not suffice to halt the Iranians despite their mounting casualties. ;;;
+
+Topics::: mounting halt supporters cairo writers;;; Score::: 0.11920292202211757;;;
+Topics::: casualties aviv surprised military baghdad;;; Score::: 0.11920292202211757;;;
+Topics::: artillery suffice;;; Score::: 0.11920292202211757;;;
+Topics::: airily developments analysts;;; Score::: 0.11920292202211757;;;
+Topics::: heavy trust superiority london tel;;; Score::: 0.11920292202211757;;;

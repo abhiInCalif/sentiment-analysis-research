@@ -1,0 +1,6 @@
+Text::: President Diouf, himself a Moslem, laughed when I mentioned the ticket collector I met on a ferry who boasted of 28 children, by four wives. ''We will try to rely on the women,'' he said. ''This is a lay country, pious but with clear separation of religion and state. ;;;
+
+Topics::: wives boasted laughed diouf ticket;;; Score::: 0.11920292202211757;;;
+Topics::: ferry mentioned met collector clear;;; Score::: 0.11920292202211757;;;
+Topics::: pious country;;; Score::: 0.11920292202211757;;;
+Topics::: lay rely separation women state;;; Score::: 0.11920292202211757;;;

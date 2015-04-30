@@ -1,0 +1,5 @@
+Text::: In the last few months, there has been an intense new wave of anti-Western fundamentalism unsettling to all Islam, whatever the politics of governments. Moderate Arab states are particularly vulnerable because of the humiliating paradox in which they are caught. They need the West for security and economic viability, but it is the same West which in their people's eyes is responsible for Israel. ;;;
+
+Topics::: months;;; Score::: 0.11920292202211757;;;
+Topics::: west paradox humiliating wave unsettling;;; Score::: 0.11920292202211757;;;
+Topics::: anti-western people's security states arab;;; Score::: 0.19407217169605634;;;

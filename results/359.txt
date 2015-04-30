@@ -1,0 +1,6 @@
+Text::: It is just the kind of subject on which an author might want to hide the agency's provenance. The C.I.A. is forbidden by its charter from covertly attempting to influence domestic opinion. ;;;
+
+Topics::: subject opinion influence;;; Score::: 0.19407217169605634;;;
+Topics::: forbidden agency's author charter kind;;; Score::: 0.19407217169605634;;;
+Topics::: provenance hide covertly attempting;;; Score::: 0.19407217169605634;;;
+Topics::: c.i.a domestic;;; Score::: 0.2689414213699951;;;

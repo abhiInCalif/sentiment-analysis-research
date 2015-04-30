@@ -1,0 +1,6 @@
+Text::: If, on the other hand, King Hussein realizes that buying missiles from the Soviets will buy him no protection from the Moscow-Teheran-Damascus axis, he may find a new charm in arms exclusivity with the West; if the Saudis and Kuwaitis fear the Ayatollah's vengeance as much as they insist, they may discover ways to help Palestinians through other means than the P.L.O. Then, in the context of autonomy talks, states nervous about the rise of Islamic fundamentalism under Iranian banners will find stalwart Egyptians, well-connected Israelis, and powerful Americans prepared to alleviate their concerns. I hear that Mr. Sicherman's third draft of the Haig speech offers a paean to the ''peace process,'' and may emit a loud ''mou'' after a meeting with Ariel Sharon tomorrow. ;;;
+
+Topics::: stalwart banners exclusivity realizes kuwaitis;;; Score::: 0.04742587317756679;;;
+Topics::: sharon emit vengeance moscow-teheran-damascus egyptians;;; Score::: 0.08331439759984219;;;
+Topics::: find paean sicherman's hear well-connected;;; Score::: 0.08331439759984219;;;
+Topics::: ariel mou concerns west arms;;; Score::: 0.08331439759984219;;;

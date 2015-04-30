@@ -1,0 +1,6 @@
+Text::: They call for a higher order and bring disorder. It is easy to call them intolerant, unreasonable, unenlightened (moderate South African whites use that word for the fanatics of apartheid), though they think their particular light burns brighter than any other. But it doesn't explain them, and there are too many kinds of fundamentalism arising now in too many places to be sheer coincidence. ;;;
+
+Topics::: call coincidence arising brighter burns;;; Score::: 0.16911575513807675;;;
+Topics::: sheer;;; Score::: 0.11920292202211757;;;
+Topics::: doesn't moderate order;;; Score::: 0.19407217169605634;;;
+Topics::: disorder apartheid kinds whites word;;; Score::: 0.16911575513807675;;;

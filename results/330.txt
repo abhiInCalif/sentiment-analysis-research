@@ -1,0 +1,7 @@
+Text::: The Sudan has been dominated in turn by Britain and Egypt. More recently, it has tilted toward Libya. The leader of the new regime, Sadiq el-Mahdi, spent exile years in Libya and does not share Washington's hostility to Colonel Qaddafi. ;;;
+
+Topics::: dominated egypt;;; Score::: 0.11920292202211757;;;
+Topics::: exile washington's;;; Score::: 0.11920292202211757;;;
+Topics::: hostility share;;; Score::: 0.11920292202211757;;;
+Topics::: qaddafi spent sudan britain leader;;; Score::: 0.11920292202211757;;;
+Topics::: libya el-mahdi sadiq tilted colonel;;; Score::: 0.11920292202211757;;;

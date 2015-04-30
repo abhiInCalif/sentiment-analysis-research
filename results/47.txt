@@ -1,0 +1,7 @@
+Text::: Should the Russians go home before the 10 months stipulated, the belligerents would still have ample arms to keep fighting - and the hope of further arms if the deal goes sour. The very implacability that baffled Soviet attempts to ''pacify'' Afghanistan still frustrates attempts to end this war and permit the return of five million refugees. Getting the Russians out of Afghanistan has been the overriding Western goal, and the right one, since the 1979 invasion. ;;;
+
+Topics::: hope;;; Score::: 0.11920292202211757;;;
+Topics::: attempts arms overriding frustrates pacify;;; Score::: 0.24613528134807838;;;
+Topics::: russians return permit goal soviet;;; Score::: 0.3096014610110588;;;
+Topics::: baffled stipulated western;;; Score::: 0.11920292202211757;;;
+Topics::: afghanistan home months deal million;;; Score::: 0.11920292202211757;;;

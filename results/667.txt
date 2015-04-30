@@ -1,0 +1,8 @@
+Text::: Although the Khomeini regime has made considerable strides in consolidating its power, it is challenged by several opposition groups and by serious disputes within the ruling party. Domestic conflict is likely to increase after the Ayatollah Ruhollah Khomeini's death, leading perhaps to increased Soviet involvement. Of course, Moscow's opportunies will also depend on the West's response. ;;;
+
+Topics::: ruling ayatollah;;; Score::: 0.11920292202211757;;;
+Topics::: khomeini's party leading soviet;;; Score::: 0.11920292202211757;;;
+Topics::: conflict;;; Score::: 0.11920292202211757;;;
+Topics::: opportunies strides ruhollah domestic depend;;; Score::: 0.19407217169605634;;;
+Topics::: regime;;; Score::: 0.11920292202211757;;;
+Topics::: west's consolidating challenged moscow's involvement;;; Score::: 0.11920292202211757;;;

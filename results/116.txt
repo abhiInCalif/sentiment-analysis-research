@@ -1,0 +1,8 @@
+Text::: The President of Pakistan, Mohammad Zia ul-Haq, is a key player. He is also one of the more interesting men in Asia, presiding over a movement toward political freedom. He still puts on his general's uniform from time to time to remind people the army could return if politics becomes chaos. ;;;
+
+Topics::: uniform presiding asia ul-haq zia;;; Score::: 0.11920292202211757;;;
+Topics::: time remind freedom key;;; Score::: 0.11920292202211757;;;
+Topics::: puts interesting player movement people;;; Score::: 0.11920292202211757;;;
+Topics::: return political mohammad;;; Score::: 0.11920292202211757;;;
+Topics::: general's president;;; Score::: NaN;;;
+Topics::: men politics pakistan;;; Score::: 0.11920292202211757;;;

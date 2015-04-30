@@ -1,0 +1,5 @@
+Text::: Fears are often raised about Pakistan's hypothetical disposition for aggression against India, although history bears testimony to which nation was the victim of aggression when Pakistan was dismembered in 1971. As for the present, even an elementary comparison of military strengths makes it inconceivable Pakistan to contemplate using force against India. India is a vast country 10 times the size of Pakistan with a developed industrial base and massive indigenous military production. ;;;
+
+Topics::: contemplate base raised developed times;;; Score::: 0.29604811446403756;;;
+Topics::: india pakistan aggression military inconceivable;;; Score::: 0.29604811446403756;;;
+Topics::: hypothetical;;; Score::: 0.2689414213699951;;;

@@ -1,0 +1,8 @@
+Text::: For strategic reasons of our own, we may have to swallow this manipulation of our forces, though hawks from Kissinger to Kirkpatrick have registered misgivings at its example. We do not have to pretend to like it, however, and we do not have to let Arab oil sheikdoms jerk us around forever. First, we should stop flagellating ourselves as if our benighted arms-for-hostages dealings with Iran were the cause of the Emir's blackmail. ;;;
+
+Topics::: arab;;; Score::: NaN;;;
+Topics::: emir's dealings arms-for-hostages forever pretend;;; Score::: 0.15818364727378095;;;
+Topics::: flagellating hawks;;; Score::: 0.19407217169605634;;;
+Topics::: manipulation oil;;; Score::: 0.08331439759984219;;;
+Topics::: sheikdoms strategic;;; Score::: 0.08331439759984219;;;
+Topics::: blackmail benighted reasons kissinger forces;;; Score::: 0.19407217169605634;;;

@@ -1,0 +1,6 @@
+Text::: American mediation contributed to five signed agreements between Israel and Egypt and Syria between 1974 and 1979. Many Israelis aspire to a structural condition that will give our country the hope of reconciling its security with its democratic vocation. But if 1987 is to be a year of American passivity and paralysis, it is unlikely to be a year of Middle Eastern negotiation. ;;;
+
+Topics::: contributed american;;; Score::: 0.2689414213699951;;;
+Topics::: give;;; Score::: 0.11920292202211757;;;
+Topics::: passivity mediation negotiation eastern hope;;; Score::: 0.16911575513807675;;;
+Topics::: year paralysis vocation reconciling condition;;; Score::: 0.11920292202211757;;;

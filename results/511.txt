@@ -1,0 +1,6 @@
+Text::: Instability and anarchy have three times caused the military - the traditional guardians of Ataturk's principles - to move in to restore order. The last time was in September 1980 - and there is no question that there was a broad public consensus for the takeover. In the late 1970's and early 1980, the civilian Government was paralyzed, inflation raged at 400 percent and virtually every institution in the country was sharply polarized into rightist and leftist factions. ;;;
+
+Topics::: time;;; Score::: 0.11920292202211757;;;
+Topics::: caused;;; Score::: 0.11920292202211757;;;
+Topics::: polarized sharply institution raged inflation;;; Score::: 0.11920292202211757;;;
+Topics::: rightist anarchy instability times percent;;; Score::: 0.11920292202211757;;;

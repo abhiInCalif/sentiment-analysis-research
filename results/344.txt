@@ -1,0 +1,5 @@
+Text::: He exemplifies a sensibility that cares nothing for American judgments and morality. Most Americans feel good about the raid, but they ought to remember that the culprit is still on the loose. Even were we to be rid of him, there is a larger enemy out there, an impasse with other men, a rage born of an encounter between strangers who traffic with one another only to make a demon of each other. ;;;
+
+Topics::: born rage culprit raid cares;;; Score::: 0.16911575513807675;;;
+Topics::: demon loose exemplifies feel rid;;; Score::: 0.16911575513807675;;;
+Topics::: strangers morality encounter men;;; Score::: 0.11920292202211757;;;

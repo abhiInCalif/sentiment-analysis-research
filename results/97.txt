@@ -1,0 +1,8 @@
+Text::: But nine months after our decision to put Kuwaiti tankers under the American flag, and six months since we deployed a fleet to escort these ships, one must tentatively conclude that our Persian Gulf policy has been a success. Consider the following accomplishments. * Our policy has been crucial to the rebuilding of the Gulf Arabs' confidence - battered by our failures in Lebanon and by Irangate - that they do not stand alone in defending themselves against any Iranian effort to threaten their territorial integrity and political independence. ;;;
+
+Topics::: independence threaten conclude tentatively arabs;;; Score::: 0.11920292202211757;;;
+Topics::: defending crucial persian;;; Score::: 0.11920292202211757;;;
+Topics::: gulf integrity rebuilding fleet decision;;; Score::: 0.11920292202211757;;;
+Topics::: months policy deployed confidence ships;;; Score::: 0.11920292202211757;;;
+Topics::: territorial accomplishments flag escort stand;;; Score::: 0.11920292202211757;;;
+Topics::: irangate battered american effort;;; Score::: 0.11920292202211757;;;

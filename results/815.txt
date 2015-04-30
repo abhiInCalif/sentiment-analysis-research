@@ -1,0 +1,5 @@
+Text::: The Bahais also believe in progressive revelation. They repudiated the notion that non-Moslems are unclean. They taught principles that the clerics found either incomprehensible or odious: universal peace and the unity of mankind, the equality of sexes, the harmony of religion and science, universal education. ;;;
+
+Topics::: universal harmony sexes equality clerics;;; Score::: 0.5;;;
+Topics::: odious notion;;; Score::: 0.3096014610110588;;;
+Topics::: taught education;;; Score::: 0.5;;;

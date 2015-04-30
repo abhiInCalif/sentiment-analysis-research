@@ -1,0 +1,7 @@
+Text::: This sudden brush with modern technology has deeply affected their culture; though once pastoral, they now experiment with farming and artisanship and talk of exploiting the phosphate mines of Bukra when they return to Western Sahara. Though the Saharans are religious people with a constitution rooted in Islamic law, they vehemently reject any comparison between their revolution and the more reactionary, anti-West struggles of Iran and Algeria. In their view, Islamic ideology does not prohibit modernization or good relations with the West. ;;;
+
+Topics::: islamic prohibit reactionary farming rooted;;; Score::: 0.11920292202211757;;;
+Topics::: experiment relations struggles;;; Score::: 0.11920292202211757;;;
+Topics::: anti-west exploiting pastoral saharans modernization;;; Score::: 0.11920292202211757;;;
+Topics::: vehemently brush mines sudden view;;; Score::: 0.11920292202211757;;;
+Topics::: bukra artisanship reject ideology affected;;; Score::: 0.11920292202211757;;;

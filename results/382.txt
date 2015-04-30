@@ -1,0 +1,6 @@
+Text::: But that too is an unacceptable outcome. The inhumane expulsion of millions of Arabs would not be supported by a majority of Israelis or a majority of Jews abroad. No Israeli Government is likely to be able to muster the necessary force and cruelty. ;;;
+
+Topics::: cruelty expulsion inhumane abroad supported;;; Score::: 0.19407217169605634;;;
+Topics::: government jews;;; Score::: NaN;;;
+Topics::: force;;; Score::: 0.2689414213699951;;;
+Topics::: majority muster unacceptable israeli outcome;;; Score::: 0.16911575513807675;;;

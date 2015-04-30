@@ -1,0 +1,7 @@
+Text::: However mixed its motives, Iran's new words defer to the civilized consensus. Perhaps its deeds over the last week and in days to come will bear out the words. To the extent that the change proves real, Mr. Shultz may be able to welcome an unexpected recruit to the anti-terror campaign. ;;;
+
+Topics::: deeds consensus week shultz change;;; Score::: 0.34596094757999674;;;
+Topics::: words anti-terror bear defer proves;;; Score::: 0.34596094757999674;;;
+Topics::: motives days;;; Score::: 0.2689414213699951;;;
+Topics::: recruit;;; Score::: 0.5;;;
+Topics::: civilized extent;;; Score::: 0.38447071068499755;;;

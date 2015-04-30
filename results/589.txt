@@ -1,0 +1,7 @@
+Text::: ''A bit inciteful and intemperate'' is how Mr. Jackson finally chose to dissociate himself from the ugly threats, adding that ''I have no ability to muzzle surrogates who want to make a contribution.'' That kind of permissiveness won't do for the leader of a crusade for peace and justice. Nor will these evasions put an end to the questions about philosophy and responsibility that Mr. Jackson terms harassment. ;;;
+
+Topics::: evasions crusade chose ability responsibility;;; Score::: 0.16911575513807675;;;
+Topics::: jackson harassment permissiveness muzzle adding;;; Score::: 0.16911575513807675;;;
+Topics::: surrogates end;;; Score::: 0.19407217169605634;;;
+Topics::: intemperate philosophy peace;;; Score::: 0.16911575513807675;;;
+Topics::: justice leader;;; Score::: 0.11920292202211757;;;

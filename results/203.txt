@@ -1,0 +1,6 @@
+Text::: This could help pay for long-overdue land reform. Just as important, she can turn to professional military leadership in Defense Minister Rafael Ileto. But he and she have only begun the difficult task of transforming the military into a credible, honest and effective organization. ;;;
+
+Topics::: long-overdue reform leadership organization task;;; Score::: 0.24613528134807838;;;
+Topics::: effective;;; Score::: 0.5;;;
+Topics::: military ileto rafael professional begun;;; Score::: 0.3096014610110588;;;
+Topics::: honest;;; Score::: 0.5;;;

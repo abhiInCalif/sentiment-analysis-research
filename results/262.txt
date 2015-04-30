@@ -1,0 +1,7 @@
+Text::: A summit meeting hastily convened for no apparent reason and without any agenda turned into a serious negotiating process in which a 30-year-old strategic doctrine was suddenly turned on its head. The Europeans are thus understandably perplexed about how the President and Secretary of State could so tamper with the concepts and practice of extended deterrence and yet be so unconcerned over the possible decoupling effects on the Western alliance. For the Soviet leadership, the foregoing creates obvious opportunities. ;;;
+
+Topics::: europeans convened leadership state;;; Score::: 0.11920292202211757;;;
+Topics::: perplexed extended;;; Score::: 0.11920292202211757;;;
+Topics::: decoupling practice concepts doctrine agenda;;; Score::: 0.11920292202211757;;;
+Topics::: creates apparent meeting understandably alliance;;; Score::: 0.11920292202211757;;;
+Topics::: turned obvious foregoing unconcerned deterrence;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: He is looking rather to an Arab summit meeting in Saudi Arabia, which he expects within the next two months. Nobody elsewhere believes that the long-delayed summit meeting can be convened any time soon because of the sharp quarrels among the leaders. But King Hassan said it would be the place to bring the Arab position ''up to date,'' seeking to put it into effect and find ''bridges'' to President Reagan's September 1982 proposal for Israeli-Jordanian talks. ;;;
+
+Topics::: expects quarrels september effect leaders;;; Score::: 0.11920292202211757;;;
+Topics::: talks king proposal;;; Score::: 0.11920292202211757;;;
+Topics::: summit reagan's seeking arabia;;; Score::: 0.11920292202211757;;;
+Topics::: meeting long-delayed believes hassan date;;; Score::: 0.11920292202211757;;;
+Topics::: saudi;;; Score::: NaN;;;
+Topics::: israeli-jordanian bridges bring time president;;; Score::: 0.11920292202211757;;;

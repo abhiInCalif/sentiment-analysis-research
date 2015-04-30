@@ -1,0 +1,5 @@
+Text::: But how plausible is that motive? It's Iraq, not Iran, that attacks most of the shipping, yet the Administration proposes no military response against Iraq. The Administration's means are no more persuasive than its ends. ;;;
+
+Topics::: administration's ends proposes means shipping;;; Score::: 0.11920292202211757;;;
+Topics::: it's;;; Score::: NaN;;;
+Topics::: iraq persuasive motive administration plausible;;; Score::: 0.11920292202211757;;;

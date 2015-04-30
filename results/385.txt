@@ -1,0 +1,5 @@
+Text::: They are on the way, and one may wish them luck. Syria will have to lose its power. This is unlikely as long as the Syrian dictator, Hafez al-Assad, remains at the top, but he is not immortal. ;;;
+
+Topics::: immortal dictator top syrian remains;;; Score::: 0.11920292202211757;;;
+Topics::: syria al-assad;;; Score::: NaN;;;
+Topics::: luck lose power long;;; Score::: 0.16911575513807675;;;

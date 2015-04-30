@@ -1,0 +1,6 @@
+Text::: Congress has accepted General Zia's spongy disavowal of nuclear ambitions, thereby weakening sanctions against proliferation. And the sale of advanced fighters impelled India to turn to France for a matching fleet of Mirages, notching up a traditional rivalry. These costs will be amply repaid if they hasten a Soviet withdrawal from Afghanistan. ;;;
+
+Topics::: notching zia's fighters india afghanistan;;; Score::: 0.11920292202211757;;;
+Topics::: hasten disavowal spongy rivalry traditional;;; Score::: 0.11920292202211757;;;
+Topics::: costs sale nuclear turn ambitions;;; Score::: 0.11920292202211757;;;
+Topics::: repaid amply mirages matching impelled;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: Though its leader, Najibullah, talks of power sharing, he spoke with greater candor last November in declaring that his Marxist party ''does not and will not give up its power.'' Even if Mr. Najibullah departs, that still leaves resistance leaders who quarrel as fiercely with each other as with their common enemy in Kabul. One of the seven rebel factions is the Islamic Party, led by Gulbuddin Hekmatyar, an ultra-fundamentalist accused of murdering rivals. ;;;
+
+Topics::: ultra-fundamentalist rebel fiercely departs sharing;;; Score::: 0.16911575513807675;;;
+Topics::: najibullah murdering kabul november;;; Score::: 0.11920292202211757;;;
+Topics::: power hekmatyar marxist common;;; Score::: 0.19407217169605634;;;
+Topics::: gulbuddin enemy spoke talks leader;;; Score::: 0.19407217169605634;;;
+Topics::: party rivals quarrel leaves declaring;;; Score::: 0.16911575513807675;;;
+Topics::: led;;; Score::: 0.11920292202211757;;;

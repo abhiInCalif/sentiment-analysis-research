@@ -1,0 +1,10 @@
+Text::: This latest flare-up followed two highly positive developments. First, the U.S. Navy, despite a poor start, has surmounted all obstacles and provided an effective escort for Kuwait's oil tankers. Though many other ships have been attacked in the gulf, Iran has been thwarted in its major strategy of neutralizing Kuwait and undermining the gulf states' support of Iraq. ;;;
+
+Topics::: iraq;;; Score::: NaN;;;
+Topics::: kuwait's;;; Score::: NaN;;;
+Topics::: gulf obstacles poor flare-up navy;;; Score::: 0.11920292202211757;;;
+Topics::: undermining strategy thwarted surmounted positive;;; Score::: 0.11920292202211757;;;
+Topics::: ships;;; Score::: 0.11920292202211757;;;
+Topics::: escort effective;;; Score::: 0.11920292202211757;;;
+Topics::: neutralizing provided start u.s;;; Score::: 0.11920292202211757;;;
+Topics::: developments highly;;; Score::: 0.11920292202211757;;;

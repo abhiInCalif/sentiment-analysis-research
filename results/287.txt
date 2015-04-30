@@ -1,0 +1,4 @@
+Text::: The messiah of the Iranian revolution has failed to incite men in the Arab world to take up his cause. The familiar order of things in the states in the Gulf - the attachment to property, the familiar men at the helm of political power - withstood the revolutionary upheaval. Men preferred the world they knew and its compromises and security to the promise of revolution. ;;;
+
+Topics::: men familiar upheaval withstood helm;;; Score::: 0.3096014610110588;;;
+Topics::: world preferred revolutionary knew security;;; Score::: 0.29604811446403756;;;

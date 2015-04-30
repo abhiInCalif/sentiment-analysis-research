@@ -1,0 +1,6 @@
+Text:::  The world's attention span has been reckoned at 90 days, which, unhappily, is probably right. Afghanistan has all but slipped from sight. It is nine times 90 days since the Soviet Union flung its armies at an unaligned and unoffending neighbor. ;;;
+
+Topics::: unoffending flung reckoned armies neighbor;;; Score::: 0.11920292202211757;;;
+Topics::: sight slipped unhappily attention;;; Score::: 0.19407217169605634;;;
+Topics::: days unaligned span times world's;;; Score::: 0.11920292202211757;;;
+Topics::: afghanistan;;; Score::: NaN;;;

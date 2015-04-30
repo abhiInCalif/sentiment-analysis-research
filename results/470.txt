@@ -1,0 +1,5 @@
+Text::: The Sudan was bled by a religious war that opened it to foreign invasion. By playing to the same passions, President Nimiery risks being consumed by them. There are good reasons for the United States to open its purses to help the Sudan feed and resettle a million refugees. ;;;
+
+Topics::: united;;; Score::: NaN;;;
+Topics::: sudan consumed nimiery opened passions;;; Score::: 0.19407217169605634;;;
+Topics::: resettle purses bled playing feed;;; Score::: 0.29604811446403756;;;

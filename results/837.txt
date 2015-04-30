@@ -1,0 +1,8 @@
+Text::: Rather, they fear that Gen. Zia ul-Haq, or one of his successors, might seek to divert attention from internal political and economic difficulties by staging a more limited military adventure, such as seizing a salient along the cease-fire line in disputed Kashmir. This happened in 1965. At that time, India promptly opened a second front, on the Punjab plains, but the risks of such a confrontation would be greater for India now because Pakistan could use its F-16's to destroy airfields, oil depots, and nuclear installations. ;;;
+
+Topics::: line promptly internal greater limited;;; Score::: 0.11920292202211757;;;
+Topics::: zia;;; Score::: NaN;;;
+Topics::: airfields political time;;; Score::: 0.11920292202211757;;;
+Topics::: economic;;; Score::: 0.11920292202211757;;;
+Topics::: india depots disputed salient seizing;;; Score::: 0.11920292202211757;;;
+Topics::: plains kashmir successors installations opened;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: It led to the shelving of the second strategic arms limitations accord, creation of the United States Rapid Deployment Force and an increased American presence in the Indian Ocean. It also constituted a near-fatal blow to detente. Moreover, it shattered the claims of Communism as a principal supporter of peace, anti-imperialism and nonalignment. ;;;
+
+Topics::: communism near-fatal ocean shelving nonalignment;;; Score::: 0.11920292202211757;;;
+Topics::: shattered peace;;; Score::: 0.11920292202211757;;;
+Topics::: limitations creation;;; Score::: 0.11920292202211757;;;
+Topics::: anti-imperialism constituted indian force presence;;; Score::: 0.11920292202211757;;;
+Topics::: rapid arms;;; Score::: 0.11920292202211757;;;

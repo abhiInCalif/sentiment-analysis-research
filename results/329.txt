@@ -1,0 +1,5 @@
+Text::: Improved agriculture could also ease the debt burden. Debt-related austerity measures contributed to Mr. Nimeiry's downfall last year. Finally there is the delicate question of external alignment. ;;;
+
+Topics::: alignment;;; Score::: 0.2689414213699951;;;
+Topics::: downfall austerity debt-related ease contributed;;; Score::: 0.11920292202211757;;;
+Topics::: delicate nimeiry's debt agriculture question;;; Score::: 0.19407217169605634;;;

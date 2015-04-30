@@ -1,0 +1,7 @@
+Text::: It would be equally erroneous to underestimate the depth of the religious and intellectual crisis that confronts thinkers in the Islamic world. It would also be misguided, in the preoccupation with Middle Eastern political developments, to ignore the important debate taking place among Islamic thinkers who are grappling with the immensely difficult task of redefining basic social and political assumptions, and to overlook the significant differences between moderates and radicals, and between Islamic jurists and lay thinkers, in this endeavor. In the Islamic world, the most vigorous attempts at such redefinition have been undertaken largely by men outside the circle of established Islamic jurists, often in piecemeal fashion, and in ways that substitute mere assertion regarding the desirable qualities of Islamic government for rigorous thinking. ;;;
+
+Topics::: assertion equally;;; Score::: 0.11920292202211757;;;
+Topics::: world rigorous qualities piecemeal circle;;; Score::: 0.11920292202211757;;;
+Topics::: islamic thinkers jurists political substitute;;; Score::: 0.11920292202211757;;;
+Topics::: intellectual;;; Score::: 0.11920292202211757;;;
+Topics::: redefinition significant;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: Why warn him in advance and give him the chance to move American citizens into target areas or even to take them hostage? The Administration's theory, or at least its hope, was that this bombing raid would demonstrate President Reagan's determination to stamp out terrorism. But did the Administration really believe this? ;;;
+
+Topics::: stamp;;; Score::: 0.11920292202211757;;;
+Topics::: theory demonstrate bombing administration target;;; Score::: 0.11920292202211757;;;
+Topics::: warn;;; Score::: 0.11920292202211757;;;
+Topics::: determination raid areas hope terrorism;;; Score::: 0.11920292202211757;;;
+Topics::: reagan's administration's president;;; Score::: NaN;;;

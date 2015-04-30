@@ -1,0 +1,6 @@
+Text::: Pakistan does not go unrewarded militarily, but without Pakistan the war against the Soviet occupation could not have been fought. The Pakistanis would like the burden of the refugees to be lifted. In his office the other day President Zia said he thought giving the Afghan Communists a role would be a reasonable price for the resistance to pay. ;;;
+
+Topics::: fought unrewarded refugees;;; Score::: 0.19407217169605634;;;
+Topics::: pakistan pay thought lifted militarily;;; Score::: 0.16911575513807675;;;
+Topics::: price giving burden communists pakistanis;;; Score::: 0.19407217169605634;;;
+Topics::: resistance zia soviet;;; Score::: 0.11920292202211757;;;

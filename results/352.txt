@@ -1,0 +1,5 @@
+Text::: Some are military, like disabling Colonel Qaddafi's prized new Soviet missiles. Some are diplomatic: sharp humiliation of the aggravating, dangerously erratic Libyan leader. Would such humiliation encourage an internal rebellion among disgruntled Libyan officers? ;;;
+
+Topics::: aggravating;;; Score::: 0.11920292202211757;;;
+Topics::: libyan prized disabling sharp colonel;;; Score::: 0.11920292202211757;;;
+Topics::: humiliation disgruntled erratic dangerously qaddafi's;;; Score::: 0.11920292202211757;;;

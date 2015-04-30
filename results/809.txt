@@ -1,0 +1,6 @@
+Text::: And now, ironically, his travail will be invoked as proof of unreliability as a peace-treaty partner. These repressions notwithstanding, Anwar Sadat has been a sane leader and courageous statesman. Beyond criticism, his present troubles cry out for understanding. ;;;
+
+Topics::: notwithstanding sadat repressions;;; Score::: 0.11920292202211757;;;
+Topics::: statesman courageous sane proof present;;; Score::: 0.16911575513807675;;;
+Topics::: partner troubles;;; Score::: 0.19407217169605634;;;
+Topics::: peace-treaty invoked ironically criticism understanding;;; Score::: 0.19407217169605634;;;

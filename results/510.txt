@@ -1,0 +1,6 @@
+Text::: And in many cases, as in Turkey, this intellectual failure is matched by political failure. Not only have many human rights groups been unable to fashion policy recommendations that offer a prayer of being effective but the people they claim to champion frequently resent the activists' shrill and uninformed criticisms of their country. Understanding modern Turkey requires an appreciation of the historical achievement of Kemal Ataturk, who in 1923 created the Turkish Republic and laid down its philosophic foundation - secular civilian rule, an independent judiciary and parliamentary democratic government. ;;;
+
+Topics::: achievement activists champion republic modern;;; Score::: 0.11920292202211757;;;
+Topics::: turkish fashion government;;; Score::: 0.11920292202211757;;;
+Topics::: recommendations prayer independent offer effective;;; Score::: 0.11920292202211757;;;
+Topics::: turkey failure judiciary foundation philosophic;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: We were infuriated by the latest hijacking, of T.W.A. Flight 847; but Washington is trying to deal with a world it knows little about, thinking it's dealing with the liberation of a plane and its passengers when it's up against not merely terrorists but a struggle for personal power in the Arab world and a clash of philosophy about nothing less than the meaning of life, here and hereafter. Stumbling into this, Americans even at the top of the Government are obviously startled. ;;;
+
+Topics::: startled terrorists government dealing liberation;;; Score::: 0.11920292202211757;;;
+Topics::: meaning life;;; Score::: 0.11920292202211757;;;
+Topics::: it's world stumbling clash t.w.a;;; Score::: 0.11920292202211757;;;
+Topics::: hijacking struggle;;; Score::: 0.11920292202211757;;;
+Topics::: flight washington;;; Score::: NaN;;;

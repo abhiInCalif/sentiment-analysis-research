@@ -1,0 +1,5 @@
+Text::: Actually, the only defense you have against terrorist activities is if you can infiltrate and intercept and know in advance where they are going to strike.'' Suicidal bombers launched by an unknown band of terrorists are indeed difficult to deter or stop in mid-attack. But after the marines were shown to be inadequately protected following the first embassy bombing, the slack defenses against this third assault in 17 months appear negligent. ;;;
+
+Topics::: shown;;; Score::: 0.11920292202211757;;;
+Topics::: negligent slack inadequately marines mid-attack;;; Score::: 0.11920292202211757;;;
+Topics::: protected terrorist bombing months advance;;; Score::: 0.11920292202211757;;;

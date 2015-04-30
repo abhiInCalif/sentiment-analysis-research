@@ -1,0 +1,7 @@
+Text::: Hitler showed - and, on quite a different scale, Lebanon continues to show - that treaties do not assure peace unless they have wide popular support and leaders determined to back them. If the Arabs were no more of a threat to Israel than the Canadians are to the United States, Israel would have every reason to give up the occupied territories. But the national aspirations of the Palestinians, however reasonable they sound, are all too likely to pave the way for the annihilation of Israel. ;;;
+
+Topics::: showed popular determined united leaders;;; Score::: 0.11920292202211757;;;
+Topics::: canadians reasonable;;; Score::: 0.11920292202211757;;;
+Topics::: wide assure treaties scale hitler;;; Score::: 0.11920292202211757;;;
+Topics::: continues;;; Score::: 0.11920292202211757;;;
+Topics::: israel annihilation pave occupied support;;; Score::: 0.11920292202211757;;;

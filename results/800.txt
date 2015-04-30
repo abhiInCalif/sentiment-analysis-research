@@ -1,0 +1,6 @@
+Text:::  In the near future, the United Nations General Assembly will debate Afghanistan, the third such discussion since the Sov iet intervention in December 1979. The result, a condemnation of the Soviet role, is a foregone conclusion. No doubt the West will hail it as another victory. ;;;
+
+Topics::: iet hail future debate assembly;;; Score::: 0.11920292202211757;;;
+Topics::: conclusion west role;;; Score::: 0.5;;;
+Topics::: foregone sov december discussion intervention;;; Score::: 0.3096014610110588;;;
+Topics::: doubt soviet;;; Score::: 0.11920292202211757;;;

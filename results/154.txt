@@ -1,0 +1,10 @@
+Text::: There isn't any chance that diplomacy will work without coordination with the Russians, and there is a risk to be averted when both sides are running naval patrols in the same waters. The reason Washington balks is fear of legitimizing Soviet presence in the region. But with or without America's permission, Moscow will calculate its own interest. ;;;
+
+Topics::: permission america's naval;;; Score::: 0.11920292202211757;;;
+Topics::: legitimizing running region;;; Score::: 0.11920292202211757;;;
+Topics::: waters;;; Score::: 0.11920292202211757;;;
+Topics::: patrols moscow russians risk presence;;; Score::: 0.11920292202211757;;;
+Topics::: averted calculate diplomacy washington sides;;; Score::: 0.11920292202211757;;;
+Topics::: soviet;;; Score::: NaN;;;
+Topics::: balks work chance;;; Score::: 0.11920292202211757;;;
+Topics::: coordination isn't;;; Score::: 0.11920292202211757;;;

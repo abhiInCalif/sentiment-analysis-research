@@ -1,0 +1,5 @@
+Text::: That not one of the planners or leaders of these gangs has been identified is either a tribute to their cohesion or an acute failure of Western intelligence. It also shows again that some of the most formidable challenges abroad cannot be met with sophisticated weaponry or displays of superpower will. The first obligation now is to devise more effective passive defenses for American installations, particularly in the Arab world. ;;;
+
+Topics::: devise;;; Score::: 0.11920292202211757;;;
+Topics::: installations passive challenges formidable acute;;; Score::: 0.11920292202211757;;;
+Topics::: obligation planners abroad superpower intelligence;;; Score::: 0.11920292202211757;;;

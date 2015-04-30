@@ -1,0 +1,4 @@
+Text::: When asked if he is committed to the destruction of Israel, Mr. Arafat replies with an evasion: ''You're joking. How can we destroy a state that has 30 atomic bombs?'' Then why not recognize Israel's right to exist? ;;;
+
+Topics::: joking you're evasion bombs destruction;;; Score::: 0.19407217169605634;;;
+Topics::: replies;;; Score::: 0.11920292202211757;;;

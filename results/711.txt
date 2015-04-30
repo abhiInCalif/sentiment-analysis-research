@@ -1,0 +1,7 @@
+Text::: The fighting in Lebanon was truly regrettable. Yet it would never have occurred if the Arab states, including some of the wealthiest, which now shed crocodile tears, had offered a home or even minimal settlement assistance to their ''Palestinian brothers'' during the last 34 years. West Beirut would have been spared its agony weeks ago if other Arabs had been willing to take some of the guerrillas - or if Mr. Arafat had laid down his arms. ;;;
+
+Topics::: laid;;; Score::: 0.11920292202211757;;;
+Topics::: crocodile occurred assistance guerrillas arabs;;; Score::: 0.11920292202211757;;;
+Topics::: spared regrettable minimal beirut home;;; Score::: 0.16911575513807675;;;
+Topics::: brothers tears shed agony wealthiest;;; Score::: 0.11920292202211757;;;
+Topics::: fighting;;; Score::: 0.2689414213699951;;;

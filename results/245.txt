@@ -1,0 +1,9 @@
+Text::: If that had occurred, the Arab-Israel area would look different today. The effective and dignified working of the Presidency is therefore a crucial component of the international balance. In that sense, many non-Americans are the allies of all those working in America for the restoration of domestic stability. ;;;
+
+Topics::: restoration domestic today sense effective;;; Score::: 0.24613528134807838;;;
+Topics::: balance;;; Score::: 0.5;;;
+Topics::: allies;;; Score::: 0.11920292202211757;;;
+Topics::: working non-americans component arab-israel;;; Score::: 0.3096014610110588;;;
+Topics::: presidency;;; Score::: NaN;;;
+Topics::: dignified international;;; Score::: 0.5;;;
+Topics::: occurred crucial;;; Score::: 0.3096014610110588;;;

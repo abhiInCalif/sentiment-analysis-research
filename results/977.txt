@@ -1,0 +1,7 @@
+Text::: Well, it wasn't quite like that when Carter and his colleagues arrived. Venice was full of sunshine and the voices of the hawker and the laughter of children. Some things clearly have changed in Venice. ;;;
+
+Topics::: wasn't changed;;; Score::: 0.2689414213699951;;;
+Topics::: voices arrived things;;; Score::: 0.29604811446403756;;;
+Topics::: laughter;;; Score::: 0.5;;;
+Topics::: full;;; Score::: 0.5;;;
+Topics::: venice hawker sunshine colleagues carter;;; Score::: 0.3096014610110588;;;

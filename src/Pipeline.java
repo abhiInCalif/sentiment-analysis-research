@@ -14,12 +14,12 @@ import java.util.Hashtable;
 public class Pipeline {
 	
 	private ArrayList<PipelineComponent> pipeline;
-	private XmlFileIterator iterator;
+	private CSVIterator iterator;
 	
 	public Pipeline() {
 		// construct all pipeline elements
 		pipeline = new ArrayList<PipelineComponent>();
-		iterator = new XmlFileIterator("../corpus");
+		iterator = new CSVIterator("/Users/abhinavkhanna/Documents/Princeton/Independent_Work/gold_standard/amt");
 		MalletTopicModel malletTopicModel = new MalletTopicModel(Constants.NUM_TOPICS, 1.0, 0.01, 1, 100, 
 													Constants.NUM_SUBTOPICS, Constants.DEBUG_ON);
 		WordFrequencyCounter wfc = new WordFrequencyCounter();
@@ -27,7 +27,7 @@ public class Pipeline {
 		
 		// add all existing components to the pipeline.
 		pipeline.add(malletTopicModel);
-		pipeline.add(wfc);
+//		pipeline.add(wfc);
 		pipeline.add(tse);
 	}
 	
@@ -38,7 +38,7 @@ public class Pipeline {
 	public Pipeline(String directory) {
 		// construct all pipeline elements
 		pipeline = new ArrayList<PipelineComponent>();
-		iterator = new XmlFileIterator(directory);
+		iterator = new CSVIterator(directory);
 		MalletTopicModel malletTopicModel = new MalletTopicModel(Constants.NUM_TOPICS, 1.0, 0.01, 1, 100, 
 													Constants.NUM_SUBTOPICS, Constants.DEBUG_ON);
 		WordFrequencyCounter wfc = new WordFrequencyCounter();
@@ -46,7 +46,7 @@ public class Pipeline {
 		
 		// add all existing components to the pipeline.
 		pipeline.add(malletTopicModel);
-		pipeline.add(wfc);
+//		pipeline.add(wfc);
 		pipeline.add(tse);
 	}
 	
@@ -83,7 +83,15 @@ public class Pipeline {
 		while(iterator.hasNext()) {
 			CorpusDocument doc = iterator.next();
 			for (int i = 0; i < pipeline.size(); i++) {
-				pipeline.get(i).run(doc);
+				try {
+					pipeline.get(i).run(doc);
+				} catch (FileNotFoundException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (UnsupportedEncodingException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 			}
 			storeResults(doc);
 		}
@@ -102,7 +110,15 @@ public class Pipeline {
 					throw new RuntimeException("Incorrect component array!");
 				}
 				
-				pipeline.get(components[i]).run(doc);
+				try {
+					pipeline.get(components[i]).run(doc);
+				} catch (FileNotFoundException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (UnsupportedEncodingException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 				storeResults(doc);
 			}
 			
@@ -128,7 +144,15 @@ public class Pipeline {
 				throw new RuntimeException("Incorrect component number!");
 			}
 
-			pipeline.get(component).run(doc);
+			try {
+				pipeline.get(component).run(doc);
+			} catch (FileNotFoundException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (UnsupportedEncodingException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			storeResults(doc);
 		}
 	}
@@ -162,11 +186,11 @@ public class Pipeline {
 		
 		// testing the WordFrequencyList;
 		// time to print as csv.
-		Hashtable<String, Integer> t = (Hashtable<String, Integer>) p.getData(2);
-		System.out.println("Word, Occurence");
-		for (String k : t.keySet()) {
-			System.out.println("" + k + ", " + t.get(k));
-		}
+//		Hashtable<String, Integer> t = (Hashtable<String, Integer>) p.getData(2);
+//		System.out.println("Word, Occurence");
+//		for (String k : t.keySet()) {
+//			System.out.println("" + k + ", " + t.get(k));
+//		}
 	}
 
 }

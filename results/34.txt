@@ -1,0 +1,6 @@
+Text::: Israelis are coming to realize that Palestinian aspirations are real, strong and growing. More Israelis understand that their own security, so precious to them, will suffer if the world sees them only as brutal occupiers. But from inside, Israel ceases being only ugly TV violence. ;;;
+
+Topics::: inside security strong;;; Score::: 0.24613528134807838;;;
+Topics::: brutal suffer real world;;; Score::: 0.3096014610110588;;;
+Topics::: israelis ugly ceases occupiers understand;;; Score::: 0.11920292202211757;;;
+Topics::: violence sees precious growing;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,5 @@
+Text::: They say it was only to be expected that Adnan Khashoggi, the Saudi arms peddler who helped arrange the U.S.-Iran deal, insisted to Barbara Walters on national television that the Saudis had not been involved. In their view, his statement provided only another layer of ''cover'' for a Saudi royal family that could have stopped but instead gave the green light to the arms sale. Mr. Khashoggi has conceded that he played a middleman's part in bringing together the parties to the sale, and helping to arrange the financing. ;;;
+
+Topics::: khashoggi saudi middleman's conceded layer;;; Score::: 0.3096014610110588;;;
+Topics::: arrange stopped statement view u.s.-iran;;; Score::: 0.24613528134807838;;;
+Topics::: sale arms financing green barbara;;; Score::: 0.24613528134807838;;;

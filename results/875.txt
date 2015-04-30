@@ -1,0 +1,5 @@
+Text::: But Pakistan's diplomacy has been so oblique that it may also serve as a useful exploration. Pakistan insists that no recognition is implied by its willingness to meet the Afghan Foreign Minister - unofficially but in the presence of a United Nations representative. At the same time, Pakistan helped soften the views of Af-ghanistan that an Islamic conference in Saudi Arabia has expressed; its resolution deplored foreign ''intervention'' without ever naming the Soviet Union. ;;;
+
+Topics::: naming deplored soften insists implied;;; Score::: 0.11920292202211757;;;
+Topics::: pakistan af-ghanistan exploration afghan nations;;; Score::: 0.11920292202211757;;;
+Topics::: foreign unofficially oblique recognition helped;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: There is an obvious American interest in resisting this challenge to friendly Arab regimes. But Iraq, until its recent distress, has not been particularly friendly. And Iran itself is not yet a nation to be written off to fanatics or made entirely dependent upon a brooding neighbor-in-waiting, the Soviet Union. ;;;
+
+Topics::: obvious recent resisting challenge dependent;;; Score::: 0.11920292202211757;;;
+Topics::: written iran;;; Score::: 0.11920292202211757;;;
+Topics::: friendly brooding distress regimes nation;;; Score::: 0.11920292202211757;;;
+Topics::: fanatics;;; Score::: 0.11920292202211757;;;
+Topics::: neighbor-in-waiting union soviet made;;; Score::: 0.11920292202211757;;;

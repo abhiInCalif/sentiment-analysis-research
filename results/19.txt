@@ -1,0 +1,9 @@
+Text::: Moreover, the United States' presence in the gulf -which has played a marginal role at best in weakening Iran's war effort -is now hindering peace negotiations more than it's helping. Iran will never strike a deal that even hints of capitulation to the Great Satan. For its part, Iran is almost certainly eager to call off the tanker war. ;;;
+
+Topics::: eager satan deal strike states;;; Score::: 0.11920292202211757;;;
+Topics::: war call hints weakening marginal;;; Score::: 0.24613528134807838;;;
+Topics::: iran role peace;;; Score::: 0.5;;;
+Topics::: part helping hindering presence iran's;;; Score::: 0.3096014610110588;;;
+Topics::: capitulation it's tanker;;; Score::: 0.11920292202211757;;;
+Topics::: negotiations;;; Score::: 0.5;;;
+Topics::: great united;;; Score::: NaN;;;

@@ -1,0 +1,5 @@
+Text::: Iran's chief executioner, Ayatollah Khalkhali, shrugged his assent: ''We approve of anything the Koran says. What is the difference between killing people with stones and with bullets? But throwing stones certainly teaches people a lesson.'' ;;;
+
+Topics::: bullets chief;;; Score::: 0.19407217169605634;;;
+Topics::: stones people teaches assent executioner;;; Score::: 0.16911575513807675;;;
+Topics::: throwing shrugged;;; Score::: 0.11920292202211757;;;

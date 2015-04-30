@@ -1,0 +1,7 @@
+Text::: Debater Mondale will dismiss the reduction of inflation with ''why didn't you tell the people you were going to do it by putting us through the hardest times since the Great Depression?'' He will ridicule last-minute summitry by making it appear a cynical campaign stunt, which it will be. The champ, of course, will be the counterpuncher, making put-upon faces during the blasts and resolutely running against Jimmy Carter, which he knows how to do. ;;;
+
+Topics::: making resolutely champ cynical summitry;;; Score::: 0.11920292202211757;;;
+Topics::: put-upon counterpuncher putting carter;;; Score::: 0.11920292202211757;;;
+Topics::: stunt ridicule reduction inflation didn't;;; Score::: 0.11920292202211757;;;
+Topics::: blasts last-minute hardest;;; Score::: 0.11920292202211757;;;
+Topics::: great;;; Score::: NaN;;;

@@ -1,0 +1,6 @@
+Text::: Realistically, it is the contemporary state of the world. There is no leadership. There is no concert of powers even on perceived mutual interest. ;;;
+
+Topics::: mutual leadership powers;;; Score::: 0.11920292202211757;;;
+Topics::: concert contemporary interest;;; Score::: 0.3096014610110588;;;
+Topics::: realistically;;; Score::: NaN;;;
+Topics::: perceived state world;;; Score::: 0.3096014610110588;;;

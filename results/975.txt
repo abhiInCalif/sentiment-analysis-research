@@ -1,0 +1,6 @@
+Text::: These are, admittedly, routinely flouted, but to argue that lack of compliance invalidates the norms is to argue that an unpunished murder invalidates the laws against homicide. This unhappy epoch teaches no more vivid lesson than the danger of excusing the indefensible. To the medieval mind of an Ayatollah Khalkhali, death by stoning is justified because it is mentioned in the Koran. ;;;
+
+Topics::: teaches;;; Score::: 0.11920292202211757;;;
+Topics::: invalidates medieval indefensible excusing epoch;;; Score::: 0.11920292202211757;;;
+Topics::: unpunished lesson;;; Score::: 0.11920292202211757;;;
+Topics::: argue vivid homicide compliance flouted;;; Score::: 0.11920292202211757;;;

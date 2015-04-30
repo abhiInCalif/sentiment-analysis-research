@@ -1,0 +1,5 @@
+Text::: There are some signs that a sense of the world's revulsion is spreading even among those who sponsored terrorism in the past. Even Iran denounced the hijacking. That may have been only a gesture, since Iran has done nothing to meet its pledge to prosecute hijackers of a Kuwaiti plane. ;;;
+
+Topics::: prosecute spreading revulsion hijackers hijacking;;; Score::: 0.16911575513807675;;;
+Topics::: gesture;;; Score::: 0.11920292202211757;;;
+Topics::: iran pledge denounced sponsored past;;; Score::: 0.16911575513807675;;;

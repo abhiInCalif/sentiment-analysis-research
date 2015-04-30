@@ -1,0 +1,7 @@
+Text::: And for the Syrians, there America was, cutting deals that excluded them -with the Lebanese, the Palestinians and the Jordanians - and sustaining an Israeli drive to remake the politics of the fertile crescent. This amorphous world took America on the only way it could - with terror. For their part, Americans had to give terror a name, had to organize it, assign it a return address, hold someone responsible. ;;;
+
+Topics::: terror america address organize amorphous;;; Score::: 0.19407217169605634;;;
+Topics::: fertile excluded responsible drive americans;;; Score::: 0.11920292202211757;;;
+Topics::: assign israeli;;; Score::: 0.11920292202211757;;;
+Topics::: crescent;;; Score::: 0.11920292202211757;;;
+Topics::: remake jordanians politics;;; Score::: 0.11920292202211757;;;

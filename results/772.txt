@@ -1,0 +1,5 @@
+Text::: Moderates in the Islamic world like Mehdi Bazargan, the former Prime Minister of Iran, look to Islamic tradition to reinforce concepts of political freedom, social justice, and representative government. But there has also emerged a wide spectrum of Islamic groups that pose a serious challenge to the established order. Both clerical and lay Islamic teachers and writers are reinterpreting Islamic doctrine in ways that imply a radical transformation of political and economic institutions. ;;;
+
+Topics::: islamic transformation reinterpreting emerged reinforce;;; Score::: 0.24613528134807838;;;
+Topics::: radical social;;; Score::: 0.11920292202211757;;;
+Topics::: political lay wide established institutions;;; Score::: 0.24613528134807838;;;

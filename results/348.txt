@@ -1,0 +1,5 @@
+Text::: Moscow lost no time in making its position clear on the Libyan raid, and linking it to the larger questions of United States-Soviet relations. After calling the attack on Libya a ''criminal action,'' the Russians canceled the meeting that was to take place May 14 to 16 between Secretary of State Shultz and Soviet Foreign Minister Shevardnadze to discuss the agenda for a Reagan-Gorbachev meeting later in the year. Had the President considered the effect of the bombing raid on allied, Congressional and Soviet relations? ;;;
+
+Topics::: soviet canceled states-soviet libyan agenda;;; Score::: 0.11920292202211757;;;
+Topics::: raid meeting relations reagan-gorbachev considered;;; Score::: 0.11920292202211757;;;
+Topics::: discuss criminal linking libya making;;; Score::: 0.11920292202211757;;;

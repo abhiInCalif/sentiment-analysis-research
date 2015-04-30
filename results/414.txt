@@ -1,0 +1,7 @@
+Text:::  The hijacking of Trans World Airlines Flight 847 has once again raised the question of whether the United States' close association with Israel is a detriment to American interests in the Arab world. That, certainly, is what the hijackers were trying to impress upon us at the point of their rifles. In fact, nothing could be further from the truth. ;;;
+
+Topics::: world rifles airlines trans hijacking;;; Score::: 0.11920292202211757;;;
+Topics::: flight;;; Score::: NaN;;;
+Topics::: detriment association close fact united;;; Score::: 0.11920292202211757;;;
+Topics::: hijackers interests american states;;; Score::: 0.11920292202211757;;;
+Topics::: impress;;; Score::: 0.11920292202211757;;;

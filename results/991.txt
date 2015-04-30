@@ -1,0 +1,5 @@
+Text::: With the party out of the picture, and with leftists in limbo, formal opposition to Mr. Sadat's regime is now limited to the Socialist Labor Party, a small political organization already being called publicly ''the tame opposition.'' Mr. Sadat can be credited with restoring a greater measure of freedom to the Egyptian press. Under Mr. Nasser, the press was a tool in the hands of the Government and the Arab Socialist Union. ;;;
+
+Topics::: socialist party opposition press credited;;; Score::: 0.24613528134807838;;;
+Topics::: measure hands limited arab;;; Score::: 0.24613528134807838;;;
+Topics::: leftists tool;;; Score::: 0.11920292202211757;;;

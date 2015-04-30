@@ -1,0 +1,6 @@
+Text::: Moscow is likely to persist in using these advantages to influence what it calls ''the correlation of forces'' in Iran. But whether it succeeds will depend on several factors beyond Moscow's control. The most important is Iran's domestic politics. ;;;
+
+Topics::: correlation advantages depend moscow politics;;; Score::: 0.24613528134807838;;;
+Topics::: iran's;;; Score::: NaN;;;
+Topics::: domestic moscow's factors calls;;; Score::: 0.24613528134807838;;;
+Topics::: succeeds persist influence important;;; Score::: 0.24613528134807838;;;

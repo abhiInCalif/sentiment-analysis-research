@@ -1,0 +1,6 @@
+Text::: Yet, in the discovery phase, the Jew is investigated by the military police, the Arab by the civilian Israeli police. Where both Arabs and Jews are involved in a crime, two systems of justice have to be called upon. Israeli law and West Bank law provide for extreme remedies in security situations. ;;;
+
+Topics::: israeli remedies systems crime situations;;; Score::: 0.11920292202211757;;;
+Topics::: investigated jew justice extreme discovery;;; Score::: 0.11920292202211757;;;
+Topics::: police phase provide called;;; Score::: 0.11920292202211757;;;
+Topics::: west civilian law jews;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: The moderate French-speaking leaders are pleading with President Mitterrand to intervene more actively. The U.S. supports the massive French airlift of weapons to Chad and would no doubt be pleased if French troops were dispatched. Primarily for domestic political and economic reasons, Mr. Mitterrand has flatly refused, although he has been warned of the risk that otherwise the bulk of the supplies he is sending may be captured by the other side. ;;;
+
+Topics::: french airlift supports intervene pleading;;; Score::: 0.11920292202211757;;;
+Topics::: mitterrand bulk french-speaking warned sending;;; Score::: 0.11920292202211757;;;
+Topics::: flatly actively supplies moderate president;;; Score::: 0.11920292202211757;;;

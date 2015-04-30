@@ -1,0 +1,7 @@
+Text::: The amendment that will pass is the (a) balanced budget; (b) school prayer; (c) anti-abortion; (d) none. 5. The Administration will succeed in getting (a) funding for contras; (b) substantial tax simplification; (c) big cut in Medicare costs; (d) funding for the MX missile; (e) none of these. ;;;
+
+Topics::: medicare prayer cut missile;;; Score::: 0.11920292202211757;;;
+Topics::: amendment;;; Score::: 0.11920292202211757;;;
+Topics::: contras anti-abortion pass succeed school;;; Score::: 0.11920292202211757;;;
+Topics::: funding simplification costs tax administration;;; Score::: 0.11920292202211757;;;
+Topics::: budget substantial balanced;;; Score::: 0.11920292202211757;;;

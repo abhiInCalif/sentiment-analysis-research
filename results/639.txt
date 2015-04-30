@@ -1,0 +1,5 @@
+Text:::  What do an Islamic mosque and a yacht have in common? Only one thing: A visitor is unwelcome if he is wearing street shoes. In the case of the mosque, religious custom is responsible for the insistence that all who enter leave their shoes at the door. ;;;
+
+Topics::: street;;; Score::: 0.2689414213699951;;;
+Topics::: unwelcome religious islamic;;; Score::: 0.19407217169605634;;;
+Topics::: shoes mosque enter wearing visitor;;; Score::: 0.21902858825403593;;;

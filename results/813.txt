@@ -1,0 +1,4 @@
+Text::: Moslem extremists, such as the Moslem Brotherhood, have done nothing to quiet Christian apprehensions. Rather they have found the Christian minorities an easy target for their frustrations and bigotry. While Moslems have failed to exercise tolerance in many situations, Christians, particularly the Copts of Egypt, have suffered from chronic paranoia. ;;;
+
+Topics::: bigotry apprehensions tolerance exercise christians;;; Score::: 0.11920292202211757;;;
+Topics::: christian moslem paranoia frustrations brotherhood;;; Score::: 0.11920292202211757;;;

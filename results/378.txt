@@ -1,0 +1,6 @@
+Text::: The rebels are divided and hostile among themselves. The Russians have created a monster that they cannot dump and replace. In a way, their situation is worse than America's in Vietnam because there is no Hanoi to move in, impose order and let them off the hook, even in ignominy. ;;;
+
+Topics::: monster vietnam situation impose;;; Score::: 0.11920292202211757;;;
+Topics::: ignominy hook hanoi dump worse;;; Score::: 0.11920292202211757;;;
+Topics::: russians;;; Score::: NaN;;;
+Topics::: replace created divided rebels america's;;; Score::: 0.11920292202211757;;;

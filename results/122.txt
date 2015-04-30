@@ -1,0 +1,5 @@
+Text::: And the protest goes on despite successive Israeli measures: deportations, arrests, detentions, at least 35 Palestinians killed. But where can the protest lead politically? I put the question to a leading Palestinian intellectual in Jerusalem, Sari Nusseibeh. ;;;
+
+Topics::: killed;;; Score::: 0.11920292202211757;;;
+Topics::: protest nusseibeh question detentions arrests;;; Score::: 0.16911575513807675;;;
+Topics::: sari politically palestinians put;;; Score::: 0.19407217169605634;;;

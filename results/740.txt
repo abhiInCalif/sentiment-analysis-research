@@ -1,0 +1,7 @@
+Text::: On the other hand, if the American Secretary of State shows no recognition of the danger, he might as well not give a speech. With a sharp Iranian bone in Arab throats, the moment is propitious for some creative diplomacy. Instead of rushing in eagerly, we should tell King Hussein of Jordan that now is the time for him to join the Camp David peace talks. ;;;
+
+Topics::: jordan;;; Score::: NaN;;;
+Topics::: rushing creative propitious throats recognition;;; Score::: 0.24613528134807838;;;
+Topics::: state;;; Score::: NaN;;;
+Topics::: speech american;;; Score::: 0.11920292202211757;;;
+Topics::: secretary join arab peace;;; Score::: 0.11920292202211757;;;

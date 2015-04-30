@@ -1,0 +1,9 @@
+Text::: But any contempt was shown by Henry Kissinger, who largely excluded Saigon from those negotiations - with the well-known result that South Vietnam at first blocked the agreement. Charlton Heston, who narrates the film, says it was ''objectionable'' for the PBS series to state that many American veterans of Vietnam ''are still haunted by the experience.'' Mr. Heston and his supporters do not want the press to speak even the most obvious truth if it is unpleasant. ;;;
+
+Topics::: largely;;; Score::: 0.11920292202211757;;;
+Topics::: veterans excluded series result;;; Score::: 0.11920292202211757;;;
+Topics::: narrates charlton obvious blocked speak;;; Score::: 0.11920292202211757;;;
+Topics::: pbs;;; Score::: NaN;;;
+Topics::: shown negotiations;;; Score::: 0.11920292202211757;;;
+Topics::: heston;;; Score::: NaN;;;
+Topics::: vietnam unpleasant haunted objectionable contempt;;; Score::: 0.11920292202211757;;;

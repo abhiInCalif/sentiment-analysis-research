@@ -1,0 +1,6 @@
+Text::: Under Alexander II (1855-81), Russia added 400,000 square miles of territory in Central Asia, as big as Western Europe. Over time the czars overwhelmed resistance, and in an imperial age, nobody cared. The difference now in Afghanistan is that much of the world does care. ;;;
+
+Topics::: alexander big western;;; Score::: 0.5;;;
+Topics::: central miles;;; Score::: 0.5;;;
+Topics::: overwhelmed square asia resistance;;; Score::: 0.3096014610110588;;;
+Topics::: difference cared czars imperial russia;;; Score::: 0.3096014610110588;;;

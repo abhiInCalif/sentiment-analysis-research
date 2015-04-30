@@ -1,0 +1,6 @@
+Text::: This is a crude attempt to set their families against their Government. What is there to negotiate? Father Jenco apparently brings no new demands from Islamic Holy War, his presumed jailers. ;;;
+
+Topics::: presumed jenco families government apparently;;; Score::: 0.11920292202211757;;;
+Topics::: jailers father crude demands negotiate;;; Score::: 0.16911575513807675;;;
+Topics::: brings set war;;; Score::: 0.11920292202211757;;;
+Topics::: holy;;; Score::: NaN;;;

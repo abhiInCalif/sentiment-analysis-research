@@ -1,0 +1,6 @@
+Text::: So China's desire to reprocess fuel irradiated in American reactors needs to be made subject to American consent. The risks of insisting on strict safeguards are less than exporters contend. American nuclear vendors talk gullibly about a $20 billion market in China. ;;;
+
+Topics::: gullibly;;; Score::: 0.2689414213699951;;;
+Topics::: china's desire;;; Score::: 0.11920292202211757;;;
+Topics::: american market contend exporters safeguards;;; Score::: 0.19407217169605634;;;
+Topics::: made;;; Score::: 0.11920292202211757;;;

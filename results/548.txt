@@ -1,0 +1,5 @@
+Text::: These are sad truths. But it is better to admit them than to go on pretending to be earnestly seeking peace in the troubled Gulf, because the pretense diverts attention from the menace. The essential problems aren't nearly so much the rival ideologies and ambitions that divide the world, but the lazy, neglectful refusal to cooperate in bringing some order. ;;;
+
+Topics::: rival truths problems gulf;;; Score::: 0.11920292202211757;;;
+Topics::: ideologies earnestly sad admit seeking;;; Score::: 0.11920292202211757;;;
+Topics::: neglectful lazy diverts pretending cooperate;;; Score::: 0.11920292202211757;;;

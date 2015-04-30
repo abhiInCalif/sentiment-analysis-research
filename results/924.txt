@@ -1,0 +1,6 @@
+Text::: - should go by unanimous vote to the Islamic Republic of Iran. It's been nearly a year since a mob stormed the United States Embassy in Teheran and had the act condoned, if not encouraged, by the leaders of the Iranian revolution. And for nearly a year, Iran has ignored all appeals for the release of the American diplomats, whose imprisonment violates the Vienna Convention, the precepts of Islam and the universal and ancient diplomatic necessities of civilization. ;;;
+
+Topics::: appeals condoned united revolution;;; Score::: 0.11920292202211757;;;
+Topics::: iran necessities violates mob unanimous;;; Score::: 0.16911575513807675;;;
+Topics::: imprisonment;;; Score::: 0.11920292202211757;;;
+Topics::: year stormed civilization convention vienna;;; Score::: 0.11920292202211757;;;

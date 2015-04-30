@@ -1,0 +1,5 @@
+Text::: No one is sure who did it, or why. Lebanon has ceased, by any plausible definition, to be a nation. Until 1982, Mr. Arafat's Palestine Liberation Organization provided a shadowy government in tense competition with Syrian forces and Israeli-aided Lebanese. ;;;
+
+Topics::: tense arafat's definition syrian lebanese;;; Score::: 0.3096014610110588;;;
+Topics::: shadowy plausible provided government;;; Score::: 0.3096014610110588;;;
+Topics::: israeli-aided ceased competition nation forces;;; Score::: 0.3096014610110588;;;

@@ -1,0 +1,6 @@
+Text::: What shaped the deal was Mr. Reagan's desire for something to sign on his visit, and the nuclear power vendors' thirst for customers. But there are major obstacles to this nuclear trade: China refuses to sign the Nuclear Nonproliferation Treaty and has long been suspected of aiding Pakistan in its clandestine plans to build an ''Islamic bomb.'' When China's Prime Minister, Zhao Ziyang, visited Washington last January, he averred in a White House toast that ''we do not engage in nuclear proliferation ourselves, nor do we help other countries develop nuclear weapons.'' ;;;
+
+Topics::: averred reagan's clandestine january aiding;;; Score::: 0.11920292202211757;;;
+Topics::: nuclear sign ziyang china's toast;;; Score::: 0.11920292202211757;;;
+Topics::: zhao nonproliferation thirst vendors trade;;; Score::: 0.11920292202211757;;;
+Topics::: desire treaty pakistan white power;;; Score::: 0.11920292202211757;;;

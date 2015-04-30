@@ -1,0 +1,9 @@
+Text::: But the dead and the maimed do not suffer less for lack of outsiders cheering on a cause. The critical cause here is to stop the slaughter. It is time for the public to raise its voice, for religious leaders, political leaders, intellectual leaders to insist that governments cast aside their uncertain calculations and block the arms supplies. ;;;
+
+Topics::: raise;;; Score::: 0.11920292202211757;;;
+Topics::: supplies block intellectual religious slaughter;;; Score::: 0.11920292202211757;;;
+Topics::: public time;;; Score::: 0.11920292202211757;;;
+Topics::: governments political;;; Score::: 0.11920292202211757;;;
+Topics::: leaders calculations uncertain cast outsiders;;; Score::: 0.11920292202211757;;;
+Topics::: lack stop;;; Score::: 0.11920292202211757;;;
+Topics::: voice;;; Score::: 0.11920292202211757;;;

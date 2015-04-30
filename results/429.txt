@@ -1,0 +1,7 @@
+Text::: Opening up television time for the equivalent of Op-Ed columns or letters to the editor is fine. But it is another thing to broadcast outside criticism that is made to look like a documentary: as if The New York Times were to let outsiders write bits of page one. It helped a little, but not enough, when PBS wrapped a professional framework around the propaganda piece. ;;;
+
+Topics::: framework op-ed pbs propaganda equivalent;;; Score::: 0.3096014610110588;;;
+Topics::: piece criticism helped time;;; Score::: 0.24613528134807838;;;
+Topics::: wrapped broadcast thing page made;;; Score::: 0.11920292202211757;;;
+Topics::: bits columns york fine;;; Score::: 0.3096014610110588;;;
+Topics::: letters documentary television professional editor;;; Score::: 0.24613528134807838;;;

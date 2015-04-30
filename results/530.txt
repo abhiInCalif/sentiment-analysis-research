@@ -1,0 +1,4 @@
+Text::: There has been a peculiar ambiguity in the intimate American-Israeli relation. Dedication to the state's survival has brought reluctance to criticize. But as Israel's closest and often only friend, with its own resources committed, the U.S. can better help Israel and itself by recognizing when there should be second thoughts. ;;;
+
+Topics::: recognizing criticize dedication relation american-israeli;;; Score::: 0.24613528134807838;;;
+Topics::: closest peculiar israel's state's;;; Score::: 0.3096014610110588;;;

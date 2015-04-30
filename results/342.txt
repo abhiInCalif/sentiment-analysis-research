@@ -1,0 +1,6 @@
+Text::: Americans presumed, or wanted to believe, that this would give them a reprieve from terror. But Mr. Qaddafi knew no other way. One interpretation of the ''terrorism problem'' holds that America is at this point because it has not sponsored an Arab-Israeli ''peace process'' and is left trying to take on political problems through military means. ;;;
+
+Topics::: qaddafi left problems;;; Score::: 0.11920292202211757;;;
+Topics::: sponsored terror knew process arab-israeli;;; Score::: 0.11920292202211757;;;
+Topics::: political;;; Score::: 0.11920292202211757;;;
+Topics::: problem interpretation reprieve holds presumed;;; Score::: 0.11920292202211757;;;

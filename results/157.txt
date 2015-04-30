@@ -1,0 +1,10 @@
+Text::: We are not fighting an army of national liberation nor is anyone proposing to engage American land forces. Our deterrent consists of naval and air assets - an area where we have the clearest comparative advantage, especially against Iran. The risk of an all-out confrontation is low for that reason and the stakes important enough to accept that risk. ;;;
+
+Topics::: proposing advantage;;; Score::: 0.19407217169605634;;;
+Topics::: consists air naval iran;;; Score::: 0.2689414213699951;;;
+Topics::: engage army liberation national;;; Score::: 0.11920292202211757;;;
+Topics::: risk american;;; Score::: 0.11920292202211757;;;
+Topics::: low deterrent reason;;; Score::: 0.19407217169605634;;;
+Topics::: confrontation all-out comparative clearest assets;;; Score::: 0.19407217169605634;;;
+Topics::: accept;;; Score::: 0.11920292202211757;;;
+Topics::: stakes area;;; Score::: 0.19407217169605634;;;

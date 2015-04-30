@@ -1,0 +1,7 @@
+Text::: The United States makes a grave mistake in aiding this harshly repressive Government. Steps should be taken immediately to link our military assistance to the restoration of democracy and independent legal institutions. The growing influence of Islam became official in a December referen dum designed to extend General Zia's tenure as President: despite minimal voter turnout, the vote committed the regime to ''the injunctions of Islam.'' ;;;
+
+Topics::: harshly institutions independent vote growing;;; Score::: 0.11920292202211757;;;
+Topics::: voter tenure zia's dum referen;;; Score::: 0.11920292202211757;;;
+Topics::: aiding;;; Score::: 0.11920292202211757;;;
+Topics::: islam turnout immediately makes minimal;;; Score::: 0.11920292202211757;;;
+Topics::: injunctions extend;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: But the Iraqis do not share the same perception of Gulf security needs. Baghdad emphasizes collaboration among the Gulf states against outsiders - Iran primarily, but also the United States and the Soviet Union - and, in Taif, Iraqi officials have discreetly disagreed with the Saudi proposal for a Gulf security force to buttress the internal stability of the sheikdoms. If there is a novel element in the Saudi world view evident at the summit meeting, it is the intimacy of the relationship with Pakistan. ;;;
+
+Topics::: intimacy share iraqis world;;; Score::: 0.3096014610110588;;;
+Topics::: gulf states saudi element buttress;;; Score::: 0.3096014610110588;;;
+Topics::: taif primarily perception relationship summit;;; Score::: 0.24613528134807838;;;
+Topics::: security emphasizes discreetly view officials;;; Score::: 0.24613528134807838;;;

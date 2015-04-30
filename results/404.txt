@@ -1,0 +1,6 @@
+Text::: They know that there's no self-sufficiency in making and selling soap suds to each other, as Mr. Farrakhan proposes to do with his $5 million loan from Colonel Qaddafi. Yet many want to applaud the morale-boosting generalization that a self-willed salvation is possible. And their reaction defines the challenge for responsible leaders. ;;;
+
+Topics::: salvation self-willed generalization applaud loan;;; Score::: 0.11920292202211757;;;
+Topics::: defines morale-boosting reaction colonel;;; Score::: 0.19407217169605634;;;
+Topics::: suds;;; Score::: 0.11920292202211757;;;
+Topics::: there's leaders;;; Score::: 0.2689414213699951;;;

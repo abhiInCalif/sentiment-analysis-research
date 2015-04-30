@@ -1,0 +1,5 @@
+Text::: Nor can journalists report how the battle is being pressed closer to Pakistan, whose camps are overflowing with more than 1.5 million refugees. In one of the world's largest recent population flights, a further 400,000 have moved to Iran. That, too, has slipped from the world's attention. ;;;
+
+Topics::: million;;; Score::: 0.11920292202211757;;;
+Topics::: world's flights overflowing slipped pressed;;; Score::: 0.24613528134807838;;;
+Topics::: population;;; Score::: 0.5;;;

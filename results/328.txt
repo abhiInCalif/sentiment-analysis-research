@@ -1,0 +1,6 @@
+Text::: Standing up for beleaguered Israel and giving the back of the hand to the oil-price ''gougers'' of the Arab world are politically attractive positions this election year. But Congress should realize that Israel surely is more secure with the kingdom of Saudi Arabia than it would be with the Islamic republic of Saudi Arabia. Selling American arms to the Saudis is not only in America's best interests, it is in Israel's interests too. ;;;
+
+Topics::: surely;;; Score::: 0.11920292202211757;;;
+Topics::: interests israel arabia saudi secure;;; Score::: 0.11920292202211757;;;
+Topics::: beleaguered;;; Score::: 0.5;;;
+Topics::: gougers oil-price giving america's congress;;; Score::: 0.5;;;

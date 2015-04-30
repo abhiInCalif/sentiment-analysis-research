@@ -1,0 +1,8 @@
+Text::: Ms. Rishmawi wrote to an Israeli police official to make a legal complaint about the mistreatment of the detainee. The response she got was to be charged with an offense herself -being in the wrong place in the prison. People wonder why the Palestinians in the occupied territories have risen up now, after 20 years of occupation. ;;;
+
+Topics::: offense official police territories legal;;; Score::: 0.21902858825403593;;;
+Topics::: palestinians;;; Score::: NaN;;;
+Topics::: wrong mistreatment;;; Score::: 0.2689414213699951;;;
+Topics::: occupation risen complaint prison rishmawi;;; Score::: 0.21902858825403593;;;
+Topics::: israeli;;; Score::: NaN;;;
+Topics::: detainee occupied make;;; Score::: 0.19407217169605634;;;

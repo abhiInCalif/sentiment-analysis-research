@@ -1,0 +1,7 @@
+Text::: That policy is blatant appeasement: the U.S. and Israel have been shipping arms to Iran while the Saudis and Kuwaitis accommodate Iran and sell out Iraq by raising oil prices. Indeed, the most striking example of Saudi-Israeli cooperation in this generation has been the officially sanctioned alliance of the arms merchants Al Schwimmer and Adnan Khashoggi to bolster the Iranian war machine. Not since 1970, when Israel saved King Hussein by agreeing to a U.S. request to turn back Syrian tanks menacing Jordan, has there been such close cooperation between Israel and an Arab state. ;;;
+
+Topics::: u.s iran saved request agreeing;;; Score::: 0.11920292202211757;;;
+Topics::: tanks iranian;;; Score::: 0.11920292202211757;;;
+Topics::: cooperation khashoggi officially raising blatant;;; Score::: 0.16911575513807675;;;
+Topics::: israel arms syrian schwimmer saudi-israeli;;; Score::: 0.19407217169605634;;;
+Topics::: menacing adnan sanctioned back iraq;;; Score::: 0.19407217169605634;;;

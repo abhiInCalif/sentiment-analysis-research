@@ -1,0 +1,6 @@
+Text::: Teheran and Washington share at least one interest: freedom of navigation in the Persian Gulf. Iraq can export its oil by pipelines through Turkey and Saudi Arabia. Iran is totally dependent on the gulf waters, not just for oil exports but for imports of basic commodities as well. ;;;
+
+Topics::: teheran iraq;;; Score::: NaN;;;
+Topics::: gulf oil basic export navigation;;; Score::: 0.24613528134807838;;;
+Topics::: commodities imports waters pipelines iran;;; Score::: 0.11920292202211757;;;
+Topics::: dependent totally turkey persian freedom;;; Score::: 0.3096014610110588;;;

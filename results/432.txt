@@ -1,0 +1,5 @@
+Text::: Mr. Reagan has so far blurred this choice by drawing some clever distinctions of his own. He rejects ''negotiation'' but encourages ''communication'' with Mr. Berri. He refuses to ''exchange'' the Israeli-held Lebanese for the Lebanese-held Americans but offers ''assurances'' that release of the Americans would trigger release of the Lebanese. ;;;
+
+Topics::: israeli-held offers;;; Score::: 0.11920292202211757;;;
+Topics::: lebanese americans lebanese-held exchange rejects;;; Score::: 0.11920292202211757;;;
+Topics::: release distinctions choice;;; Score::: 0.3096014610110588;;;

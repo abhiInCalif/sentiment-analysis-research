@@ -1,0 +1,8 @@
+Text::: What does President Reagan owe these latest pawns in a seemingly endless end game? He can make plain Washington's concern for the safety of any American seized as hostage in a foreign conflict. But what needs to be equally clear is that there will be no secret missions, no offers of ransom, no pleas for release of terrorists jailed in Kuwait, no yellow ribbons to hail returning heroes - and please, above all, no more TOW missiles or other weapons for Iran. ;;;
+
+Topics::: reagan weapons;;; Score::: 0.11920292202211757;;;
+Topics::: offers iran;;; Score::: 0.11920292202211757;;;
+Topics::: tow hail ribbons ransom concern;;; Score::: 0.11920292202211757;;;
+Topics::: owe;;; Score::: 0.2689414213699951;;;
+Topics::: yellow pleas missions equally seized;;; Score::: 0.11920292202211757;;;
+Topics::: returning jailed plain secret game;;; Score::: 0.16911575513807675;;;

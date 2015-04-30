@@ -1,0 +1,5 @@
+Text::: Now penetrating the United States, it has doubled heroin deaths in Washington and sent thousands of addicts in New York City, Chicago and other major urban centers in search of treatment. The immediate prospects for substantially reducing the supply of Southwest Asian opium are not promising. The largest supplier country, Iran, also has the largest addict population in the world, more than one million of its 35 million people. ;;;
+
+Topics::: southwest prospects centers major iran;;; Score::: 0.11920292202211757;;;
+Topics::: largest million supplier opium addicts;;; Score::: 0.11920292202211757;;;
+Topics::: addict substantially deaths penetrating search;;; Score::: 0.11920292202211757;;;

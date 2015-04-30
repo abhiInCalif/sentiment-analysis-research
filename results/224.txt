@@ -1,0 +1,6 @@
+Text::: The State Department keeps urging Americans to clear out, as it did only days before the weekend abduction of four teachers at Beirut University College. Understandably, American responses to hostage-taking in Lebanon are hardening. Civil authority in that shattered country has long since vanished. ;;;
+
+Topics::: college weekend urging understandably civil;;; Score::: 0.11920292202211757;;;
+Topics::: shattered;;; Score::: 0.11920292202211757;;;
+Topics::: department vanished authority hostage-taking long;;; Score::: 0.11920292202211757;;;
+Topics::: teachers abduction beirut hardening responses;;; Score::: 0.11920292202211757;;;

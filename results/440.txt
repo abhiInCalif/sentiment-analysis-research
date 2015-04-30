@@ -1,0 +1,5 @@
+Text::: France shaped its borders after the the collapse of the Ottoman Empire in 1920. Thrown together in the new state were Maronite Christians on Mount Lebanon, the Moslem and Druze communities of the coastal regions and the Moslems of the Bekaa, the eastern valley, who probably would have preferred to join the then new Syria. Under foreign tutelage in the 1930's, a constitutional republic evolved with a tradition of power sharing. ;;;
+
+Topics::: evolved constitutional valley coastal mount;;; Score::: 0.08331439759984219;;;
+Topics::: tutelage bekaa communities thrown ottoman;;; Score::: 0.08331439759984219;;;
+Topics::: druze preferred borders moslem;;; Score::: 0.15818364727378095;;;

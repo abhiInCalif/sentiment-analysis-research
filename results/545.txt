@@ -1,0 +1,7 @@
+Text::: But the Syrians, with much face now at stake in a Lebanese solution, know it will not be easy to overcome the encrusted antagonisms of the Lebanese communal leaders, even the ones who have had Syrian backing. Syrian support for a stable, unified Lebanon is consistent with expressed American goals, but here again the deep suspicion of Israel makes mutual understanding difficult. Asked whether the United States could help in Lebanon now, Mr. Khaddam said it could ''press Israel to withdraw, and to stop encouraging some Lebanese parties to continue with the game of the civil war.'' ;;;
+
+Topics::: stable;;; Score::: 0.11920292202211757;;;
+Topics::: lebanese lebanon unified communal encrusted;;; Score::: 0.11920292202211757;;;
+Topics::: syrian antagonisms mutual understanding backing;;; Score::: 0.11920292202211757;;;
+Topics::: suspicion;;; Score::: 0.11920292202211757;;;
+Topics::: civil continue;;; Score::: 0.5;;;

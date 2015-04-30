@@ -1,0 +1,8 @@
+Text::: A century ago, before the modern notions of religious toleration penetrated Iran, the Islamic religious men did not bother to hide the true reasons for their hostility to the Bahai faith. They saw it as a dangerous heresy and its followers as apostates who deserved death. That the Bahais worshipped the same God and held the Koran to be divinely inspired scripture made matters worse. ;;;
+
+Topics::: century;;; Score::: 0.11920292202211757;;;
+Topics::: toleration bahai god followers matters;;; Score::: 0.11920292202211757;;;
+Topics::: bother;;; Score::: 0.11920292202211757;;;
+Topics::: religious scripture worshipped penetrated divinely;;; Score::: 0.11920292202211757;;;
+Topics::: true held;;; Score::: 0.11920292202211757;;;
+Topics::: apostates;;; Score::: 0.11920292202211757;;;

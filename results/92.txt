@@ -1,0 +1,6 @@
+Text::: And Israeli Arabs, whose votes gave Labor three seats in the last election, are outraged at the brutal policy of Mr. Peres's Labor colleague, Yitzhak Rabin, the Minister of Defense. The one Arab Labor member of the Knesset, Abed Darawshe, quit the party last week. Moreover, the Peres idea of negotiating with King Hussein looks less realistic all the time. ;;;
+
+Topics::: colleague brutal election;;; Score::: 0.11920292202211757;;;
+Topics::: negotiating;;; Score::: 0.11920292202211757;;;
+Topics::: quit darawshe abed rabin outraged;;; Score::: 0.11920292202211757;;;
+Topics::: labor realistic idea knesset member;;; Score::: 0.11920292202211757;;;

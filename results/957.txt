@@ -1,0 +1,5 @@
+Text::: Similarly, the Baluchis, living in one of Iran's most underdeveloped regions, have pressed violently for alleviation of their plight. The Berbers of North Africa, whose existence has been particularly well-concealed by the Arab regimes that govern them, number at least 10 million. An indigenous people, the Berbers speak their own language, retain their own culture and are ethnically unique. ;;;
+
+Topics::: berbers ethnically well-concealed plight alleviation;;; Score::: 0.24613528134807838;;;
+Topics::: language million arab;;; Score::: 0.3096014610110588;;;
+Topics::: unique violently baluchis existence africa;;; Score::: 0.24613528134807838;;;

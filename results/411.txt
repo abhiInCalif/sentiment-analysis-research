@@ -1,0 +1,6 @@
+Text::: But it may also be a new recognition that governments must accept some international rules if they expect the international privileges of statehood. It is time to draft a convention, like the Geneva convention on prisoners of war. States that refuse to sign and apply it will name themselves accomplices of terrorism. ;;;
+
+Topics::: accept time;;; Score::: 0.11920292202211757;;;
+Topics::: international accomplices apply draft privileges;;; Score::: 0.11920292202211757;;;
+Topics::: governments;;; Score::: 0.11920292202211757;;;
+Topics::: convention statehood recognition rules sign;;; Score::: 0.11920292202211757;;;

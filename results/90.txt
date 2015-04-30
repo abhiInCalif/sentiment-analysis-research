@@ -1,0 +1,7 @@
+Text::: That will be his main campaign theme in the election due late this year. ''I am convinced,'' he said in an interview, ''that it is the task of my generation and myself to hand over to the younger people a state free of two great dangers. One is that demographically we shall lose our majority and it will stop being a Jewish state. ;;;
+
+Topics::: demographically free generation main majority;;; Score::: 0.29604811446403756;;;
+Topics::: younger late;;; Score::: 0.38447071068499755;;;
+Topics::: year;;; Score::: 0.2689414213699951;;;
+Topics::: hand interview due jewish task;;; Score::: 0.38447071068499755;;;
+Topics::: state dangers convinced theme election;;; Score::: 0.29604811446403756;;;

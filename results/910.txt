@@ -1,0 +1,5 @@
+Text::: We have made a world that works on questions rather than answers, on experiments and tests, constant shifts and changes. It takes an agile mind and heart to maintain a sense of balance. Not long ago, Voyager I swooped briefly past Saturn and exploded another mythical rock of ages. ;;;
+
+Topics::: mind ago;;; Score::: 0.3096014610110588;;;
+Topics::: ages rock mythical saturn voyager;;; Score::: 0.11920292202211757;;;
+Topics::: swooped agile works exploded takes;;; Score::: 0.24613528134807838;;;

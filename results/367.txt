@@ -1,0 +1,7 @@
+Text::: Faced with the prospect of mass starvation, millions of Afghans have fled to neighboring Pakistan. Some four million people - a third of the population - are in exile. This is not the first time that the Soviet Union has resorted to genocide to secure its political ends. ;;;
+
+Topics::: resorted neighboring political pakistan people;;; Score::: 0.16911575513807675;;;
+Topics::: starvation faced time;;; Score::: 0.11920292202211757;;;
+Topics::: genocide fled secure ends population;;; Score::: 0.16911575513807675;;;
+Topics::: mass exile afghans millions prospect;;; Score::: 0.19407217169605634;;;
+Topics::: soviet;;; Score::: NaN;;;

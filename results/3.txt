@@ -1,0 +1,11 @@
+Text::: That brought new aid to Iraq, not only from Saudi Arabia and Arab gulf states, but from the Soviet Union, France and others. Islamic fundamentalism was rising everywhere in response to the Iranian revolution, and the possibility of a triumph by Iran was seen by virtually all powers as a disaster that had to be avoided. The war dragged on, with foreign support flowing to both sides, often from the same countries. ;;;
+
+Topics::: triumph france states gulf revolution;;; Score::: 0.11920292202211757;;;
+Topics::: war;;; Score::: 0.11920292202211757;;;
+Topics::: flowing arabia;;; Score::: 0.11920292202211757;;;
+Topics::: avoided fundamentalism saudi aid iran;;; Score::: 0.11920292202211757;;;
+Topics::: disaster islamic;;; Score::: 0.11920292202211757;;;
+Topics::: countries powers response brought;;; Score::: 0.11920292202211757;;;
+Topics::: support dragged virtually possibility foreign;;; Score::: 0.11920292202211757;;;
+Topics::: rising arab iraq;;; Score::: 0.11920292202211757;;;
+Topics::: sides union soviet;;; Score::: 0.11920292202211757;;;

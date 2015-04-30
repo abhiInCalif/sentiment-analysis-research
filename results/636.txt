@@ -1,0 +1,7 @@
+Text::: He is a very tough bargainer, and his first concern is survival. He seeks to make Lebanon a client state. He deeply mistrusts and fears the Israelis and has positioned himself skillfully to play a bigger role in Arab politics. ;;;
+
+Topics::: survival;;; Score::: 0.11920292202211757;;;
+Topics::: skillfully positioned client state seeks;;; Score::: 0.3096014610110588;;;
+Topics::: play;;; Score::: 0.5;;;
+Topics::: mistrusts bargainer fears make lebanon;;; Score::: 0.24613528134807838;;;
+Topics::: bigger deeply tough concern israelis;;; Score::: 0.3096014610110588;;;

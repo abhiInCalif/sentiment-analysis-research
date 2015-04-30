@@ -1,0 +1,7 @@
+Text::: But recently, as if in resentment against these charges, he has been more assertive, demanding his own way with Congress and the allies. The main question is whether this is achieving the ends he seeks or the opposite. Not only Colonel Qaddafi's Communist and Islamic supporters but also leaders from Spain, Italy, Greece, Denmark, Norway, the Netherlands and Japan have all expressed reservations about the attack. ;;;
+
+Topics::: netherlands norway greece italy assertive;;; Score::: 0.11920292202211757;;;
+Topics::: opposite achieving resentment communist main;;; Score::: 0.11920292202211757;;;
+Topics::: charges;;; Score::: 0.11920292202211757;;;
+Topics::: denmark spain qaddafi's japan;;; Score::: NaN;;;
+Topics::: allies seeks demanding islamic;;; Score::: 0.11920292202211757;;;

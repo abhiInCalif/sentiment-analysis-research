@@ -1,0 +1,7 @@
+Text:::  -Secretary of State Haig is traveling to the Middle West this week to deliver a rare address on the Middle East. The Secretary's speech in Chicago on Wednesday, a draft of which has yet to be whistled past the National Security Adviser, was triggered by pleas from Jordan and Saudi Arabia. Both these monarchies are terrified by the military success of non-Arab Iran against Arab Iraq. ;;;
+
+Topics::: national;;; Score::: NaN;;;
+Topics::: whistled traveling saudi iraq;;; Score::: 0.11920292202211757;;;
+Topics::: middle address week secretary;;; Score::: 0.11920292202211757;;;
+Topics::: wednesday draft monarchies deliver adviser;;; Score::: 0.11920292202211757;;;
+Topics::: non-arab terrified triggered secretary's haig;;; Score::: 0.11920292202211757;;;

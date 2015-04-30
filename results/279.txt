@@ -1,0 +1,6 @@
+Text::: Those who think so are probably wrong. The other argument, supported by Iranian exiles, is that anybody who helps the regime now will be seen as unfriendly when it gives way to the modern world. The Israeli view, however, is that Jerusalem's ''strategic consensus'' with the U.S. means it should not only receive help from America but offer its services. ;;;
+
+Topics::: receive view supported america u.s;;; Score::: 0.11920292202211757;;;
+Topics::: jerusalem's services offer iranian;;; Score::: 0.11920292202211757;;;
+Topics::: consensus helps israeli means regime;;; Score::: 0.11920292202211757;;;
+Topics::: unfriendly argument modern wrong strategic;;; Score::: 0.11920292202211757;;;

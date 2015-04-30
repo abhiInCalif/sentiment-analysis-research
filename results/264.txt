@@ -1,0 +1,7 @@
+Text::: The appointment of the new National Security Council head is likely to infuse the council with greater strength and a sense of direction. But the new adviser can be effective only if he is guaranteed that the council will not be decapitated by new reforms spawned through an overreaction to the present crisis. A weakened council, with a weaker grant of responsibility and with a much reduced staff, will not be able to serve the President as well as he deserves. ;;;
+
+Topics::: reduced guaranteed adviser serve president;;; Score::: 0.11920292202211757;;;
+Topics::: deserves present;;; Score::: 0.11920292202211757;;;
+Topics::: staff;;; Score::: 0.11920292202211757;;;
+Topics::: overreaction spawned head security crisis;;; Score::: 0.3096014610110588;;;
+Topics::: council grant reforms decapitated direction;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,7 @@
+Text::: One lesson to be learned would be a less deferential attitude to clandestine diplomacy in all free societies. These are more colorful than regular statecraft and far more productive of best-selling novels and investigative journalism, but they rarely affect the large currents of history. More work for foreign offices and less for intelligence agencies would give mankind a measure of relief. ;;;
+
+Topics::: relief agencies affect rarely journalism;;; Score::: 0.19407217169605634;;;
+Topics::: mankind currents statecraft colorful clandestine;;; Score::: 0.16911575513807675;;;
+Topics::: history;;; Score::: 0.2689414213699951;;;
+Topics::: best-selling deferential societies intelligence;;; Score::: 0.16911575513807675;;;
+Topics::: investigative;;; Score::: 0.2689414213699951;;;

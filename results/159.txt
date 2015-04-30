@@ -1,0 +1,8 @@
+Text::: Some critics, pointing out correctly that Gulf oil is at least as important to our allies as it is to us, have called for creation of a United Nations peacekeeping naval force to protect freedom of navigation in the Gulf. The presence of allied warships is a valuable symbol of Western political solidarity, but we must also be realistic. Ultimately, only America has the naval and air power to provide an effective military deterrent, and we cannot allow the credibility of that deterrent to be enfeebled by the constraints of collective action. ;;;
+
+Topics::: action peacekeeping allies presence;;; Score::: 0.24613528134807838;;;
+Topics::: enfeebled realistic force america navigation;;; Score::: 0.24613528134807838;;;
+Topics::: valuable western freedom solidarity;;; Score::: 0.3096014610110588;;;
+Topics::: deterrent constraints credibility ultimately pointing;;; Score::: 0.11920292202211757;;;
+Topics::: allied provide called effective oil;;; Score::: 0.24613528134807838;;;
+Topics::: naval gulf collective warships creation;;; Score::: 0.24613528134807838;;;

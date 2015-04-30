@@ -1,0 +1,5 @@
+Text::: The problem of Jerusalem breaks down into three basic issues: the issue of Israeli sovereignty over all of Jerusalem; the issue of Arab sovereignty over East Jerusalem; the issue of Islamic control over Islamic holy places. All of these issues are solvable. What is required is the need to think beyond hard-line positions and old enmities. ;;;
+
+Topics::: sovereignty positions israeli required;;; Score::: 0.08331439759984219;;;
+Topics::: places;;; Score::: 0.04742587317756679;;;
+Topics::: issue jerusalem issues islamic enmities;;; Score::: 0.14519007218989316;;;

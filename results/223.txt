@@ -1,0 +1,4 @@
+Text:::  LEAD: Understandably, American responses to hostage-taking in Lebanon are hardening. Civil authority in that shattered country has long since vanished. Every Westerner still in Beirut surely knows the risks. ;;;
+
+Topics::: vanished hardening hostage-taking country surely;;; Score::: 0.24613528134807838;;;
+Topics::: beirut westerner authority responses understandably;;; Score::: 0.11920292202211757;;;

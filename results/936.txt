@@ -1,0 +1,9 @@
+Text::: Unlike previous military governments, General Zia's has deprived the judiciary of its power to review the decisions of martial-law courts. Citizens have no recourse against any violations of human and legal rights by these military courts, which exercise wide civilian jurisdiction. Similarly, in a development hitherto unknown in Pakistan, the army's field investigative units are responsible for internal security; their powers, too, are unchecked by constitutional or legal provisions. ;;;
+
+Topics::: review;;; Score::: 0.11920292202211757;;;
+Topics::: courts military army's hitherto recourse;;; Score::: 0.11920292202211757;;;
+Topics::: similarly provisions;;; Score::: 0.11920292202211757;;;
+Topics::: governments powers;;; Score::: 0.11920292202211757;;;
+Topics::: jurisdiction martial-law units judiciary human;;; Score::: 0.11920292202211757;;;
+Topics::: legal unchecked unknown investigative responsible;;; Score::: 0.11920292202211757;;;
+Topics::: security;;; Score::: 0.11920292202211757;;;

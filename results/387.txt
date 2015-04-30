@@ -1,0 +1,6 @@
+Text::: Le Pen's campaign has been amplified by an extraordinary demographic projection published in the mass-circulation Figaro magazine. Under the title ''Will we still be French in 30 years?'' it shows France's symbolic Marianne veiled and jeweled as an Arab princess. ;;;
+
+Topics::: jeweled veiled amplified shows years;;; Score::: 0.34596094757999674;;;
+Topics::: symbolic;;; Score::: 0.5;;;
+Topics::: marianne title magazine figaro campaign;;; Score::: 0.2689414213699951;;;
+Topics::: princess france's mass-circulation published projection;;; Score::: 0.38447071068499755;;;

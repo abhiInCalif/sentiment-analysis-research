@@ -1,0 +1,6 @@
+Text::: But new thinking has begun and the conventional wisdom is being challenged. The debate to come, in think tanks there and here, will be more productive than bickering about inviting the Soviet Union to be the host of an international conference. Nothing encourages real movement more quickly than a bone in the throat, and to most Arab leaders, that bone is Iran. ;;;
+
+Topics::: inviting;;; Score::: 0.2689414213699951;;;
+Topics::: begun debate union;;; Score::: 0.19407217169605634;;;
+Topics::: bickering movement wisdom conference real;;; Score::: 0.16911575513807675;;;
+Topics::: bone throat encourages productive challenged;;; Score::: 0.16911575513807675;;;

@@ -1,0 +1,6 @@
+Text::: For the moment, Iran's clerical zealots may remain pre-eminent. They rebounded from the fearful terrorist bombing that killed 72 of their number, including Ayatollah Beheshti, their party leader and Iran's Chief Justice. They have mobilized Islamic militias and a secret police deadlier than the Shah's Savak. ;;;
+
+Topics::: iran's militias mobilized rebounded shah's;;; Score::: 0.11920292202211757;;;
+Topics::: bombing;;; Score::: 0.11920292202211757;;;
+Topics::: savak beheshti pre-eminent zealots fearful;;; Score::: 0.11920292202211757;;;
+Topics::: deadlier terrorist police moment killed;;; Score::: 0.11920292202211757;;;

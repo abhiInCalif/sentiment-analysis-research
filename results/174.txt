@@ -1,0 +1,7 @@
+Text::: It was November 1986.'' I asked, ''It was not coincidental that the Kuwaitis asked the Soviets in as it came to be known throughout the world that we had been shipping arms to Iran?'' He replied: ''It's got to have been a factor.'' ;;;
+
+Topics::: soviets;;; Score::: NaN;;;
+Topics::: kuwaitis;;; Score::: NaN;;;
+Topics::: replied november arms shipping world;;; Score::: 0.19407217169605634;;;
+Topics::: asked factor coincidental iran;;; Score::: 0.19407217169605634;;;
+Topics::: it's;;; Score::: NaN;;;

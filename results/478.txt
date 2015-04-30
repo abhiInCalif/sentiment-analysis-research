@@ -1,0 +1,5 @@
+Text::: White House chief of staff at 1985's end will be (a) James Baker; (b) Michael Deaver; (c) Richard Darman; (d) Robert McFarlane; (e) William Clark. 2. The juiciest political scandal of 1985 will involve (a) illegal eavesdropping; (b) money under the table; (c) leak-plugging lie-detection excesses; (d) sexual favoritism. ;;;
+
+Topics::: lie-detection leak-plugging scandal deaver william;;; Score::: 0.11920292202211757;;;
+Topics::: favoritism excesses table juiciest clark;;; Score::: 0.11920292202211757;;;
+Topics::: sexual eavesdropping darman baker money;;; Score::: 0.11920292202211757;;;

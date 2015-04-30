@@ -1,0 +1,7 @@
+Text::: Moscow clearly fears that the spread of the Iranian revolution would affect internal Soviet stability by appealing to the rapidly increasing Soviet Moslem population. Yet, despite these underlying differences and the recent setback, Moscow enjoys considerable advantages over the United States in dealing with Teheran. Geographic proximity insures Soviet interest and military access -and today, for the first time in this century, Iran has no protective alliance with a countervailing power. ;;;
+
+Topics::: time;;; Score::: 0.11920292202211757;;;
+Topics::: internal;;; Score::: 0.11920292202211757;;;
+Topics::: moscow proximity setback increasing advantages;;; Score::: 0.24613528134807838;;;
+Topics::: protective geographic appealing recent rapidly;;; Score::: 0.24613528134807838;;;
+Topics::: soviet countervailing insures differences spread;;; Score::: 0.24613528134807838;;;

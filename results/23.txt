@@ -1,0 +1,7 @@
+Text::: The Vincennes' attack on the Iranian airliner left 290 civilians dead. What cause can justify the risk of so appalling an accident? It surely occasions a reexamination of the Navy's activities in the Persian Gulf and the goals of American policy. ;;;
+
+Topics::: appalling;;; Score::: 0.11920292202211757;;;
+Topics::: occasions left airliner;;; Score::: 0.11920292202211757;;;
+Topics::: policy navy's surely accident justify;;; Score::: 0.11920292202211757;;;
+Topics::: goals activities risk dead american;;; Score::: 0.11920292202211757;;;
+Topics::: reexamination persian;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: The growing collaboration between Libya and Algeria is enforcing a process of Arabization that the Berbers have defiantly resisted. This resulted in riots and other disturbances in Algiers earlier this year. The friction between the black southern Sudanese and the ethnic-Arab Sudanese in the north, the fear felt by Egyptian Copts that the current respite in their tribulations will last only so long as Anwar el-Sadat remains President, and the continuing Syrian occupation of Lebanon, which has exacerbated inter-ethnic tensions, are among other ethnic problems in the Middle East. ;;;
+
+Topics::: sudanese tribulations arabization resulted collaboration;;; Score::: 0.09527723907393398;;;
+Topics::: inter-ethnic exacerbated respite enforcing berbers;;; Score::: 0.08331439759984219;;;
+Topics::: ethnic-arab ethnic lebanon southern middle;;; Score::: 0.04742587317756679;;;

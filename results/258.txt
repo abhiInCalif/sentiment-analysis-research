@@ -1,0 +1,8 @@
+Text::: He was an advocate of overproduction of plentiful Saudi oil as a means of keeping world prices down; but he was sacrificed, the experts say, when the Saudi Government responded to heavy pressures from other oil producers by cutting production and letting prices rise -an accommodation to the demands of Iran, in particular. * Traditionally, too, the royal family and the Saudi Government have sought to maintain close relations with the United States. In their view, Washington - especially the C.I.A., which among Saudis enjoys an exaggerated reputation for power -would be the ultimate protector of the regime against outside pressures or internal revolution. ;;;
+
+Topics::: oil producers advocate view internal;;; Score::: 0.11920292202211757;;;
+Topics::: pressures ultimate reputation exaggerated traditionally;;; Score::: 0.11920292202211757;;;
+Topics::: saudi government prices enjoys c.i.a;;; Score::: 0.11920292202211757;;;
+Topics::: production royal heavy revolution;;; Score::: 0.11920292202211757;;;
+Topics::: keeping;;; Score::: 0.11920292202211757;;;
+Topics::: protector responded plentiful overproduction;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: That includes the Islamic fundamentalists, if not out of love out of necessity, because they cannot operate by themselves. ''So I think Defense Minister [ Yitzhak ] Rabin should contact the P.L.O. As a signal for future negotiations he could take some immediate steps to alleviate pressures on people in the occupied territories - release prisoners, for example, cancel deportation orders. ;;;
+
+Topics::: prisoners;;; Score::: 0.11920292202211757;;;
+Topics::: operate fundamentalists negotiations;;; Score::: 0.11920292202211757;;;
+Topics::: orders cancel pressures contact necessity;;; Score::: 0.11920292202211757;;;
+Topics::: people;;; Score::: 0.11920292202211757;;;
+Topics::: deportation release alleviate signal love;;; Score::: 0.11920292202211757;;;

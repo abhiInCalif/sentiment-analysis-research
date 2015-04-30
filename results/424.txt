@@ -1,0 +1,5 @@
+Text::: The real point of the film is to blame the press for America's loss in Vietnam. Mr. Heston says: ''In the end, words - disinformation, deception - were the deciding factors in the Vietnam War.'' There it is: the paranoid style in American politics, as Richard Hofstadter called it. ;;;
+
+Topics::: hofstadter deception style loss america's;;; Score::: 0.3730676406740392;;;
+Topics::: paranoid disinformation film factors called;;; Score::: 0.3730676406740392;;;
+Topics::: vietnam deciding heston blame words;;; Score::: 0.3096014610110588;;;

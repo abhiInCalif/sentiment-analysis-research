@@ -1,0 +1,9 @@
+Text::: Arab and Jew should live under one law, equally applied. Then it will be for the Arabs to decide whether to claim their rights, apply for citizenship and seize the opportunity to mold their own futures. Or whether they wish to abdicate, letting time and others decide their fate and risk regressing 3,500 years to the status of resident alien.B ;;;
+
+Topics::: mold;;; Score::: 0.11920292202211757;;;
+Topics::: jew rights arabs;;; Score::: 0.11920292202211757;;;
+Topics::: opportunity;;; Score::: 0.11920292202211757;;;
+Topics::: status arab;;; Score::: 0.2689414213699951;;;
+Topics::: abdicate futures seize claim letting;;; Score::: 0.19407217169605634;;;
+Topics::: decide alien.b regressing fate apply;;; Score::: 0.19407217169605634;;;
+Topics::: resident;;; Score::: 0.2689414213699951;;;

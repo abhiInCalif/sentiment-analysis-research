@@ -1,0 +1,5 @@
+Text::: But if the phrase was bad, its meaning for the world was worse. If the world gave no respect to Washington men of respect, what hope was there for the eventual triumph of school prayer on earth? And everywhere disrespect was upon the face of the globe. ;;;
+
+Topics::: meaning earth hope washington;;; Score::: 0.11920292202211757;;;
+Topics::: disrespect phrase bad gave school;;; Score::: 0.24613528134807838;;;
+Topics::: respect world globe prayer worse;;; Score::: 0.24613528134807838;;;

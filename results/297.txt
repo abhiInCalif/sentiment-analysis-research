@@ -1,0 +1,5 @@
+Text:::  Two, three or more interlocking dramas overlap in the secret diplomacy that freed David Jacobsen after 17 months of captivity in Lebanon. The easiest to grasp is the ordeal of five Americans still missing. ''Those guys are in hell,'' says Mr. Jacobsen. ;;;
+
+Topics::: jacobsen hell guys missing easiest;;; Score::: 0.11920292202211757;;;
+Topics::: ordeal captivity overlap dramas interlocking;;; Score::: 0.11920292202211757;;;
+Topics::: lebanon;;; Score::: NaN;;;

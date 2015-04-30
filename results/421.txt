@@ -1,0 +1,5 @@
+Text::: An extreme right-wing group made a one-hour film denouncing the Public Broadcasting System's documentary series on Vietnam, and public stations are showing the film. It is propaganda dressed up as journalism. The 13-part PBS series, first shown in 1983, was an extraordinarily careful, meticulous television examination of a divisive subject. ;;;
+
+Topics::: film series public divisive examination;;; Score::: 0.08331439759984219;;;
+Topics::: extraordinarily;;; Score::: 0.04742587317756679;;;
+Topics::: dressed denouncing one-hour journalism subject;;; Score::: 0.09527723907393398;;;

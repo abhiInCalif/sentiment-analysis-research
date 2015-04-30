@@ -1,0 +1,6 @@
+Text::: He has committed himself to easing Islamic law and negotiating with the rebels. Such gestures, on top of a clear democratic mandate, encourage optimism. So long as he holds to this course, Mr. Mahdi's Government warrants strong American support. ;;;
+
+Topics::: mahdi's top committed rebels encourage;;; Score::: 0.5;;;
+Topics::: warrants;;; Score::: 0.5;;;
+Topics::: holds optimism easing democratic negotiating;;; Score::: 0.5;;;
+Topics::: gestures;;; Score::: 0.5;;;

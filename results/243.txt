@@ -1,0 +1,6 @@
+Text::: Europe has a sharp sense of its own marginality, and its economic and intellectual potential has not been reflected in an autonomous or international role. This means that a measure of bipolarity still prevails in the international system, and America is the only free society whose domestic events cast a shadow across the entire human scene. All that other family members can do is to indicate as tactfully as possible what they would like the American agenda to be. ;;;
+
+Topics::: shadow marginality domestic events members;;; Score::: 0.5;;;
+Topics::: international tactfully family scene prevails;;; Score::: 0.5;;;
+Topics::: sense cast america;;; Score::: 0.5;;;
+Topics::: bipolarity potential europe human free;;; Score::: 0.5;;;

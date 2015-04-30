@@ -1,0 +1,7 @@
+Text::: The parable might lead students of religion to believe that Mohammed, founder of the religion practiced by the world's 800 million Moslems, endorsed ''ijtihad.'' The term means ''exertion'' and refers to a learned Moslem's intellectual struggle to interpret the Prophet's intent in matters of daily conduct, religion and law. History, however, has found his followers divided on this issue. ;;;
+
+Topics::: prophet's refers;;; Score::: 0.11920292202211757;;;
+Topics::: divided;;; Score::: 0.2689414213699951;;;
+Topics::: students;;; Score::: 0.11920292202211757;;;
+Topics::: moslems;;; Score::: NaN;;;
+Topics::: religion daily interpret moslem's exertion;;; Score::: 0.11920292202211757;;;

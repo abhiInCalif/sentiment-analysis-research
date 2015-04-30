@@ -1,0 +1,6 @@
+Text:::  In the next year or so, the United States may face a very different Middle East and Persian Gulf - far less responsive to our influence, with events on the ground outstripping diplomatic opportunities. For years, our policy has sought peaceful change and co-existence in the Middle East. Again and again, we have pursued active diplomatic efforts as the indispensible third party - the only power acceptable to both sides. ;;;
+
+Topics::: co-existence;;; Score::: 0.11920292202211757;;;
+Topics::: diplomatic east indispensible outstripping acceptable;;; Score::: 0.11920292202211757;;;
+Topics::: middle responsive pursued face party;;; Score::: 0.11920292202211757;;;
+Topics::: peaceful active;;; Score::: 0.11920292202211757;;;

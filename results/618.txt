@@ -1,0 +1,6 @@
+Text::: Yet there have been similar conflicts between mutually exclusive systems in the past, and after deadlocks that seemed absolute and inescapable, our predecessors have in fact managed to achieve a detente.'' This may be possible again, despite the storm and thunder of propaganda. Presidents Reagan and Andropov protest against each other in their old age, yet they are trapped together in problems within their control, and can't even get together to discuss their common danger. ;;;
+
+Topics::: can't;;; Score::: NaN;;;
+Topics::: trapped andropov presidents thunder storm;;; Score::: 0.11920292202211757;;;
+Topics::: inescapable systems absolute;;; Score::: 0.11920292202211757;;;
+Topics::: achieve;;; Score::: 0.11920292202211757;;;

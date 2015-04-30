@@ -1,0 +1,6 @@
+Text:::  Nothing would better suit the Soviet Union than a deal that sanitized its seizure of Afghanistan, cut off help to the insurgents from Pakistan and relieved pressure on its occupation army of 80,000. If that is the purpose of Pakistan's overture to the Soviet puppet regime in Kabul, there is reason for concern. What is Moscow threatening to elicit this nervousness? ;;;
+
+Topics::: seizure threatening pakistan's army;;; Score::: 0.19407217169605634;;;
+Topics::: puppet;;; Score::: 0.11920292202211757;;;
+Topics::: union;;; Score::: NaN;;;
+Topics::: soviet nervousness sanitized suit relieved;;; Score::: 0.19407217169605634;;;

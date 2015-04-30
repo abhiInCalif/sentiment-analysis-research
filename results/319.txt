@@ -1,0 +1,6 @@
+Text::: None of the participants, mostly Western experts and diplomats from Islamic countries, seemed to think there was much real chance that United Nations-sponsored talks in Geneva could bring withdrawal of Soviet troops from Afghanistan. There were poignant pleas for more international support to put greater political pressure on Moscow to pull out. The war has been going on nearly seven years, causing immeasurable misery and pain. ;;;
+
+Topics::: experts pull moscow greater;;; Score::: 0.3096014610110588;;;
+Topics::: immeasurable poignant participants talks troops;;; Score::: 0.24613528134807838;;;
+Topics::: pain misery causing nations-sponsored pleas;;; Score::: 0.3096014610110588;;;
+Topics::: bring international;;; Score::: 0.3096014610110588;;;

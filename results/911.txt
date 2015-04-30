@@ -1,0 +1,6 @@
+Text::: Evidently, many people yearn for more solid, static promises at the core of their lives and look for them in a code of fundamentals, forgetting how little they solved in the past. The problem is real. There is a need for a renewed sense of ability to deal with what may come. ;;;
+
+Topics::: core;;; Score::: 0.11920292202211757;;;
+Topics::: fundamentals people;;; Score::: 0.11920292202211757;;;
+Topics::: solved forgetting static renewed code;;; Score::: 0.3096014610110588;;;
+Topics::: solid;;; Score::: 0.11920292202211757;;;

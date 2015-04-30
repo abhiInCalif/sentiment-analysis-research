@@ -1,0 +1,6 @@
+Text::: These are important steps that need to be advanced so that energy can be freed from shouting and fighting for the real job of dealing with the problems of an expanding world. They are grounds for hope that the somber beginning of the decade contains some sparks of another period of construction: not a new world order - sure to be disorderly - but invigorating and in the West's long-term interest. A sign can be read in the destructive meanness of Vitry-sur-Seine: It points to the emptiness at the heart of the Soviet ideology, and the renewed opportunity for America and the West to offer quiet inspiration of more solid human values, if we choose. ;;;
+
+Topics::: world solid heart emptiness vitry-sur-seine;;; Score::: 0.3730676406740392;;;
+Topics::: decade;;; Score::: 0.11920292202211757;;;
+Topics::: sparks renewed ideology period freed;;; Score::: 0.3730676406740392;;;
+Topics::: shouting;;; Score::: 0.5;;;

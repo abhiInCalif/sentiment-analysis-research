@@ -1,0 +1,5 @@
+Text::: Your hard-line advisers tell you that the only opposition to sending F-16's to General Zia in Pakistan comes from the usual dovecote that flinches at supporting friendly dictators. You are persuaded that the only way to stand up to the Russians in the Persian Gulf is to bolster the Pakistani chief even if he tells us to get lost when we inquire about his atomic-bomb intentions. You, as President, know which side you are on: our side, of course, alongside all those who join our strategic consensus against the Russians. ;;;
+
+Topics::: dovecote dictators strategic;;; Score::: 0.11920292202211757;;;
+Topics::: russians side inquire flinches hard-line;;; Score::: 0.11920292202211757;;;
+Topics::: atomic-bomb tells consensus friendly lost;;; Score::: 0.11920292202211757;;;

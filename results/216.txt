@@ -1,0 +1,7 @@
+Text::: Before we examine the consequences of an Iranian victory, we must understand why so many Western and Middle East experts on the war, now in its seventh year, are becoming reluctantly convinced that the Iranians are going to win. The testing ground was the three and one-half week Iranian offensive in the Basra area. The attackers took terrible losses - perhaps 15,000 to 17,500 dead. ;;;
+
+Topics::: experts offensive ground dead victory;;; Score::: 0.11920292202211757;;;
+Topics::: iranian attackers testing reluctantly consequences;;; Score::: 0.11920292202211757;;;
+Topics::: terrible western;;; Score::: 0.11920292202211757;;;
+Topics::: losses seventh convinced middle;;; Score::: 0.11920292202211757;;;
+Topics::: one-half understand year iranians;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: keep hoping for the best. That's not an exhilarating formula. It prolongs the agony for the families of four Americans and two French citizens cruelly held hostage by terrorists in Lebanon. ;;;
+
+Topics::: hostage;;; Score::: 0.11920292202211757;;;
+Topics::: agony prolongs exhilarating formula citizens;;; Score::: 0.11920292202211757;;;
+Topics::: cruelly hoping terrorists french held;;; Score::: 0.3096014610110588;;;
+Topics::: that's;;; Score::: NaN;;;
+Topics::: families;;; Score::: 0.11920292202211757;;;

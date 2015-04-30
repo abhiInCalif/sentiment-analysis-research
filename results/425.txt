@@ -1,0 +1,6 @@
+Text::: When things go wrong, there must be a conspiracy. To think that way is to miss the purpose of history, which is to show the painful, complicated realities that determine events. In the particular case of Vietnam, it is to miss the reality that Communist leaders were able to rally their people to withstand suffering beyond our imagination. ;;;
+
+Topics::: miss imagination vietnam realities things;;; Score::: 0.11920292202211757;;;
+Topics::: withstand determine;;; Score::: 0.11920292202211757;;;
+Topics::: rally communist case history painful;;; Score::: 0.11920292202211757;;;
+Topics::: wrong;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,9 @@
+Text::: President Zia, a Moslem disturbed by the spectacle of entire villages addicted to smoking opium, interprets the Koran's injunction against intoxicants as including opium. He also sees the threat that unchecked cultivation and trafficking pose to law and order, particularly in impoverished tribal areas of the northwest adjacent to Afghanistan, where much of the opium is grown. President Zia's ban has contributed to a dramatic decline in opium production, from 700 tons in 1979 to perhaps as little as 100 tons this year. ;;;
+
+Topics::: northwest contributed tribal;;; Score::: 0.11920292202211757;;;
+Topics::: opium tons president impoverished injunction;;; Score::: 0.11920292202211757;;;
+Topics::: villages grown;;; Score::: 0.11920292202211757;;;
+Topics::: year;;; Score::: 0.11920292202211757;;;
+Topics::: trafficking;;; Score::: 0.11920292202211757;;;
+Topics::: adjacent intoxicants pose areas law;;; Score::: 0.11920292202211757;;;
+Topics::: interprets;;; Score::: 0.11920292202211757;;;

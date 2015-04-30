@@ -1,0 +1,6 @@
+Text::: Americans have been hearing the region wail for itself. Very little if any of this has to do with the sermons and the sedition of Iran's mullahs. The Reagan overture toward Iran has not altered what for America remains a difficult Middle Eastern landscape. ;;;
+
+Topics::: eastern;;; Score::: NaN;;;
+Topics::: altered reagan america middle;;; Score::: 0.11920292202211757;;;
+Topics::: sedition sermons overture remains region;;; Score::: 0.16911575513807675;;;
+Topics::: landscape wail hearing difficult americans;;; Score::: 0.19407217169605634;;;

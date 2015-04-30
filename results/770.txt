@@ -1,0 +1,5 @@
+Text::: The crisis has already given rise to practical and ideological responses that often cut across national boundaries. There is a renewed, genuine religiosity. There is a desire for reversion to a simpler morality and to what is conceived to be traditional Islamic conduct. ;;;
+
+Topics::: conceived boundaries practical conduct responses;;; Score::: 0.11920292202211757;;;
+Topics::: renewed simpler morality desire cut;;; Score::: 0.24613528134807838;;;
+Topics::: reversion religiosity ideological islamic national;;; Score::: 0.24613528134807838;;;

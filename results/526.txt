@@ -1,0 +1,8 @@
+Text::: But the challenger might slam the ex-CIA chief and ex- Peking Ambassador around the ring: ''How come the President signed a nuclear deal with the Chinese, with great fanfare, and then had to back out? Didn't the CIA tell him at the time that the Chinese were helping Pakistan build the Islamic bomb that could destroy Israel? And by the way - why did your CIA station chief in Rome try to help the Russians deny their part in the plot to assassinate the Pope?'' ;;;
+
+Topics::: assassinate signed station ambassador pakistan;;; Score::: 0.11920292202211757;;;
+Topics::: cia chinese chief slam challenger;;; Score::: 0.11920292202211757;;;
+Topics::: plot islamic;;; Score::: 0.11920292202211757;;;
+Topics::: nuclear;;; Score::: 0.11920292202211757;;;
+Topics::: fanfare ex-cia build israel;;; Score::: 0.11920292202211757;;;
+Topics::: ring bomb didn't back;;; Score::: 0.11920292202211757;;;

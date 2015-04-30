@@ -1,0 +1,9 @@
+Text::: France, another dependent nation that sold the Iraqis planes and missiles, bears a special duty to help contain the war. The United States now draws less than 5 percent of its oil through the gulf but is properly concerned for its allies and for world economic consequences. Its first duty is to calm the markets by joining with Saudi Arabia to give assurances that reserves and idle production capacities are adequate to overcome any foreseeable shortage. ;;;
+
+Topics::: duty capacities reserves overcome missiles;;; Score::: 0.11920292202211757;;;
+Topics::: iraqis;;; Score::: NaN;;;
+Topics::: production;;; Score::: 0.11920292202211757;;;
+Topics::: shortage calm idle properly percent;;; Score::: 0.11920292202211757;;;
+Topics::: joining special concerned;;; Score::: 0.11920292202211757;;;
+Topics::: draws sold markets foreseeable consequences;;; Score::: 0.11920292202211757;;;
+Topics::: adequate bears united gulf oil;;; Score::: 0.11920292202211757;;;

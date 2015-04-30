@@ -1,0 +1,8 @@
+Text:::  If there is a shrewd professor somewhere writing a book on American foreign policy, he has the material at hand for a riveting chapter on What Not to Do. His case study would be the record of Middle East policy in the first nine months of the Reagan Administration. In rapid order the Administration has: * Urged Jordan and Saudi Arabia to join a ''strategic consensus,'' including Israel, to resist Soviet influence in the area; * Agreed to sell Awacs radar planes to the Saudis; * Declared a ''strategic partnership'' with Israel; * Sharply criticized Israel for objecting to the Awacs deal; * Casually announced a profound American commitment to the defense of the present Saudi regime; * Similarly hinted that the United States would act militarily to preserve its role in Egypt; * Announced joint military maneuvers with Egypt and the Sudan, suggesting a new commitment to the Sudanese Government. ;;;
+
+Topics::: commitment policy american saudi suggesting;;; Score::: 0.11920292202211757;;;
+Topics::: sudanese book order;;; Score::: 0.11920292202211757;;;
+Topics::: awacs administration casually sharply sudan;;; Score::: NaN;;;
+Topics::: objecting;;; Score::: 0.11920292202211757;;;
+Topics::: israel joint riveting shrewd writing;;; Score::: 0.11920292202211757;;;
+Topics::: announced egypt strategic radar record;;; Score::: 0.11920292202211757;;;

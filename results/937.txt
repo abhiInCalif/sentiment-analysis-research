@@ -1,0 +1,5 @@
+Text::: Victims report that their interrogating techniques are harsher than those of their civilian counterparts. The bureaucracy, which in the past civilianized military rule, is being systematically militarized. By junta orders, 10 percent of all new posts in the higher civil services must be filled by army officers; today, soldiers occupy important civilian positions. ;;;
+
+Topics::: posts harsher junta past report;;; Score::: 0.24613528134807838;;;
+Topics::: civilianized bureaucracy services today;;; Score::: 0.11920292202211757;;;
+Topics::: civilian militarized interrogating systematically occupy;;; Score::: 0.24613528134807838;;;

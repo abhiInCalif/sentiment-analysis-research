@@ -1,0 +1,6 @@
+Text::: The White House, chastened, seems finally to grasp the effects of its diplomatic blunders. ''There is a limit to what our Government can do for Americans in a chaotic situation such as that in Lebanon today,'' says President Reagan. And he now declares that the U.S. will make no concessions to terrorist groups, whatever their threats. ;;;
+
+Topics::: declares chaotic limit effects grasp;;; Score::: 0.11920292202211757;;;
+Topics::: terrorist;;; Score::: 0.11920292202211757;;;
+Topics::: threats concessions situation blunders groups;;; Score::: 0.11920292202211757;;;
+Topics::: americans;;; Score::: NaN;;;

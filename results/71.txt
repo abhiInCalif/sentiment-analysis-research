@@ -1,0 +1,8 @@
+Text::: Moscow may thus consider it prudent to keep opposing the U.N. embargo resolution. But the battle of the Scuds illustrates the shortsightedness of such a position. Neither Russians nor Americans can control the violent course of the Iran-Iraq war. ;;;
+
+Topics::: shortsightedness illustrates embargo;;; Score::: 0.11920292202211757;;;
+Topics::: position control;;; Score::: 0.11920292202211757;;;
+Topics::: opposing iran-iraq resolution americans war;;; Score::: 0.11920292202211757;;;
+Topics::: scuds u.n russians;;; Score::: NaN;;;
+Topics::: violent moscow battle;;; Score::: 0.11920292202211757;;;
+Topics::: prudent;;; Score::: 0.11920292202211757;;;

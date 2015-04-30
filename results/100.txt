@@ -1,0 +1,6 @@
+Text::: Iran's blunders, such as promoting disturbances in Mecca, have brought the Arabs together and drawn Egypt into being an active participant in the Gulf Arabs' defense. Its indiscriminate attacks on shipping have had the effect of multinationalizing the naval presence in the Gulf. Iran can continue these sporadic attacks, but it does not have the capability to bring about a serious interruption in the flow of oil from the Gulf. ;;;
+
+Topics::: gulf attacks capability multinationalizing indiscriminate;;; Score::: 0.11920292202211757;;;
+Topics::: arabs interruption sporadic mecca disturbances;;; Score::: 0.11920292202211757;;;
+Topics::: flow active presence iran's brought;;; Score::: 0.11920292202211757;;;
+Topics::: shipping;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: But such actions spring from conservative, fearful, hyperbolic notions of national security and international status, that are, unlike revolutionary ideas, reasonable subjects of diplomacy. 2. The Soviet Union is an immutable ''totalitarian'' system that has not changed significantly since the years of Stalin and cold war I. ;;;
+
+Topics::: significantly subjects hyperbolic spring conservative;;; Score::: 0.19407217169605634;;;
+Topics::: totalitarian fearful union;;; Score::: 0.19407217169605634;;;
+Topics::: years;;; Score::: 0.11920292202211757;;;
+Topics::: immutable stalin changed security diplomacy;;; Score::: 0.19407217169605634;;;

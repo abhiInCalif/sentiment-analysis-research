@@ -1,0 +1,6 @@
+Text::: On the problem of security in the Persian Gulf region, Saudi officials have maneuvered deftly but along traditional lines, to reinforce their military collaboration with the sheikdoms - Kuwait, Bahrain, Qatar, United Arab Emirates, and Oman -while seeking to conciliate the two other Gulf countries, Iraq and Iran. Abdel Aziz, the arch-balancer, would not have done otherwise. On the Israel question, the Saudi position is summed up by the rhetorical question that Prince Fahd, the Crown Prince, put to the press the other day: ''What benefit have we gained by moderation?'' ;;;
+
+Topics::: kuwait;;; Score::: NaN;;;
+Topics::: conciliate qatar bahrain maneuvered reinforce;;; Score::: 0.11920292202211757;;;
+Topics::: saudi summed abdel deftly emirates;;; Score::: 0.3096014610110588;;;
+Topics::: prince question gulf arch-balancer aziz;;; Score::: 0.3096014610110588;;;

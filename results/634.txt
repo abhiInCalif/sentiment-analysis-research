@@ -1,0 +1,5 @@
+Text::: Moderate and conservative Arab regimes are under increasing pressure from Islamic fundamentalism and the rising expectations of their people. What can the United States do? Some limited actions can still be undertaken. ;;;
+
+Topics::: regimes;;; Score::: 0.11920292202211757;;;
+Topics::: expectations limited moderate;;; Score::: 0.11920292202211757;;;
+Topics::: increasing conservative undertaken actions united;;; Score::: 0.11920292202211757;;;

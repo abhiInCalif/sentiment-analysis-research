@@ -1,0 +1,6 @@
+Text::: But a territorial compromise that meets the security concerns of both Syria and Israel must not be precluded - nor should a compromise between Israel and Jordan over the West Bank and the Gaza. True, the Syrians may be primarily interested in reducing American influence in the region. They may be relying on American and Israeli public opinion to increase pressure for unilateral disengagement from Lebanon. ;;;
+
+Topics::: israel disengagement relying reducing true;;; Score::: 0.19407217169605634;;;
+Topics::: precluded opinion;;; Score::: 0.11920292202211757;;;
+Topics::: compromise american meets syrians increase;;; Score::: 0.11920292202211757;;;
+Topics::: unilateral primarily territorial gaza west;;; Score::: 0.16911575513807675;;;

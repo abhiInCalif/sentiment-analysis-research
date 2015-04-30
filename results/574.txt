@@ -1,0 +1,5 @@
+Text::: Despite a huge educational program, nearly half the children in some areas don't go to school. Illiteracy is over 75 percent. With a $12 billion foreign debt, which is equal to 85 percent of its gross national product (relatively much more than that of the world's champion debtors, Argentina and Brazil), Morocco is forced into some drastic belt-tightening. ;;;
+
+Topics::: debt;;; Score::: 0.11920292202211757;;;
+Topics::: percent belt-tightening drastic brazil debtors;;; Score::: 0.11920292202211757;;;
+Topics::: argentina gross illiteracy educational areas;;; Score::: 0.11920292202211757;;;

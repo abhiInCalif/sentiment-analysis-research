@@ -1,0 +1,5 @@
+Text::: Americans can draw useful conclusions. A big military machine isn't everything. A clear sense of priorities and of long-term direction can make all the difference in being able to face crises before they become disasters, especially in fragile Africa. ;;;
+
+Topics::: conclusions isn't;;; Score::: 0.11920292202211757;;;
+Topics::: fragile disasters priorities long-term crises;;; Score::: 0.5;;;
+Topics::: face;;; Score::: 0.5;;;

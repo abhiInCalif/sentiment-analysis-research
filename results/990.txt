@@ -1,0 +1,5 @@
+Text::: It is not yet clear what powers the new assembly will have, but it is not expected to replace the People's Assembly. Another amendment institutionalizes the multiparty system. This is a step in the right direction, and Mr. Sadat has often underscored this development as symbolizing the degree of ''liberalization'' he has introduced since President Gamal Abdel Nasser's death in 1970. ;;;
+
+Topics::: assembly nasser's gamal introduced symbolizing;;; Score::: 0.3096014610110588;;;
+Topics::: liberalization amendment degree development expected;;; Score::: 0.24613528134807838;;;
+Topics::: president;;; Score::: NaN;;;

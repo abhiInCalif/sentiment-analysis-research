@@ -1,0 +1,7 @@
+Text::: His popularity remains high, and there is no evidence that he has lost his hold on the armed forces. If he has disappointed economic expectations, he still has held down inflation, increased foreign trade and used subsidies to dampen discontent. Moreover, he has permitted nominal opposition parties, and until now used a velvet hand in dealing with irreconcilable foes. ;;;
+
+Topics::: economic;;; Score::: 0.04742587317756679;;;
+Topics::: disappointed armed forces;;; Score::: 0.08331439759984219;;;
+Topics::: irreconcilable nominal dampen subsidies trade;;; Score::: 0.08331439759984219;;;
+Topics::: expectations evidence permitted increased hold;;; Score::: 0.09527723907393398;;;
+Topics::: foes velvet discontent inflation popularity;;; Score::: 0.09527723907393398;;;

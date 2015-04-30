@@ -1,0 +1,7 @@
+Text::: Venice must be enjoying and even being amused by its latest influx of spectacular visitors, by their proclamations and their protective guards -and by their multitudes of reporters, who have very little indeed to report. Long since, Venice has heard prophecies of its own destruction, of natural forces that would sink it into the sea, of all the other beautiful names that have vanished into the abyss of history. But here Venice is, beaming in the sunshine, a Coney Island in a cathedral, no longer believing in the religious tradition that produced its monuments, but still alive with the clamor of life and the wondering eyes of a new generation. ;;;
+
+Topics::: venice monuments beaming proclamations tradition;;; Score::: 0.3096014610110588;;;
+Topics::: abyss guards destruction eyes spectacular;;; Score::: 0.24613528134807838;;;
+Topics::: wondering cathedral coney multitudes enjoying;;; Score::: 0.3096014610110588;;;
+Topics::: sunshine beautiful;;; Score::: 0.11920292202211757;;;
+Topics::: prophecies amused names natural alive;;; Score::: 0.24613528134807838;;;

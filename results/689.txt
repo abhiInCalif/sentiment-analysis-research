@@ -1,0 +1,5 @@
+Text::: Sharp cuts would drive Nigeria to the wall. Along with some other producing countries, it would have to be rescued. The world economy is near crisis; new shocks will aggravate some problems. ;;;
+
+Topics::: cuts;;; Score::: 0.11920292202211757;;;
+Topics::: rescued producing crisis countries;;; Score::: 0.11920292202211757;;;
+Topics::: aggravate nigeria wall sharp economy;;; Score::: 0.11920292202211757;;;

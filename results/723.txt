@@ -1,0 +1,7 @@
+Text::: Victory is the time for magnanimity, for sensible calculation of the longer-term threat - the beginning of reconciliation. It took him four years, but Anwar Sadat understood how to bring peace from the ashes of war. Now, it is for Israel to make the grand and truly heroic gesture, by offering Palestinians peaceful control of their own destiny, which is what autonomy has to mean. ;;;
+
+Topics::: time;;; Score::: 0.11920292202211757;;;
+Topics::: destiny;;; Score::: 0.5;;;
+Topics::: longer-term offering bring anwar palestinians;;; Score::: 0.24613528134807838;;;
+Topics::: grand ashes sadat calculation magnanimity;;; Score::: 0.24613528134807838;;;
+Topics::: beginning war peace;;; Score::: 0.11920292202211757;;;

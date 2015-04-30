@@ -1,0 +1,7 @@
+Text::: When India exploded a nuclear device in 1974, Zulfikar Ali Bhutto, then Pakistan's Prime Minister, vowed that Pakistan would eat grass if necessary to keep pace: If India and its Hindus had the bomb, Pakistan would make sure that an Islamic nation had the bomb, too. In light of Pakistan's intransigence, some Congressmen believe we should passively accommodate to the inevitable. Others say that Pakistan serves our foreign policy goals in the region, acting as host to thousands of Afghan refugees and providing a supply line for guerrillas resisting Soviet domination of Afghanistan. ;;;
+
+Topics::: serves ali exploded inevitable make;;; Score::: 0.14519007218989316;;;
+Topics::: bhutto;;; Score::: NaN;;;
+Topics::: guerrillas passively pace vowed device;;; Score::: 0.14519007218989316;;;
+Topics::: bomb pakistan's domination resisting line;;; Score::: 0.15818364727378095;;;
+Topics::: pakistan providing accommodate congressmen light;;; Score::: 0.19407217169605634;;;

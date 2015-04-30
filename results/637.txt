@@ -1,0 +1,6 @@
+Text::: We should let Jordan and Syria bring whatever Palestinians they want as part of their delegations, but should also consult fully with the Israelis. While they may be reluctant at first, they have not closed the door entirely on negotiations with Syria. This does not mean the United States should be ready to push Israel off the Golan Heights. ;;;
+
+Topics::: syria heights golan push fully;;; Score::: 0.11920292202211757;;;
+Topics::: consult closed jordan;;; Score::: 0.11920292202211757;;;
+Topics::: delegations ready palestinians;;; Score::: 0.11920292202211757;;;
+Topics::: door negotiations;;; Score::: 0.11920292202211757;;;

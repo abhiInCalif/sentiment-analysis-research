@@ -1,0 +1,7 @@
+Text::: Yet no secrets are really safe on campus. A case in point is The Harvard Crimson's latest disclosure - that the C.I.A. apparently underwrote research on an article entitled ''Dead Dictators and Rioting Mobs.'' ;;;
+
+Topics::: disclosure secrets;;; Score::: 0.11920292202211757;;;
+Topics::: crimson's campus underwrote harvard c.i.a;;; Score::: 0.11920292202211757;;;
+Topics::: research;;; Score::: 0.11920292202211757;;;
+Topics::: rioting article latest safe dead;;; Score::: 0.11920292202211757;;;
+Topics::: dictators entitled case;;; Score::: 0.11920292202211757;;;

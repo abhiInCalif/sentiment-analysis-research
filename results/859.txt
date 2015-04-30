@@ -1,0 +1,5 @@
+Text::: The Giscard-Chirac appeasement of Iraqi oil threats led to France's dishonor in supplying atom bomb materials; Mr. Mitterrand would have found it difficult to extract his nation from ever-deeper involvement. The French are now free to rethink their participation in an Islam bomb. In the Arab world, joy is confined but real. ;;;
+
+Topics::: supplying involvement french nation islam;;; Score::: 0.11920292202211757;;;
+Topics::: france's world;;; Score::: 0.5;;;
+Topics::: bomb ever-deeper extract materials atom;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,10 @@
+Text::: Cry, indeed, for the Ayatollah's flock. Only a few years ago, serious people could be found proclaiming Islamic radicalism as the remedy for the failures of socialism, nationalism and capitalism in the Middle East. The Koran was said to hold the answer to all the region's woes. ;;;
+
+Topics::: radicalism;;; Score::: 0.11920292202211757;;;
+Topics::: koran socialism flock;;; Score::: 0.11920292202211757;;;
+Topics::: capitalism nationalism years cry;;; Score::: 0.11920292202211757;;;
+Topics::: middle;;; Score::: NaN;;;
+Topics::: remedy found ago;;; Score::: 0.11920292202211757;;;
+Topics::: woes hold east proclaiming ayatollah's;;; Score::: 0.19407217169605634;;;
+Topics::: region's failures;;; Score::: 0.11920292202211757;;;
+Topics::: answer;;; Score::: 0.2689414213699951;;;

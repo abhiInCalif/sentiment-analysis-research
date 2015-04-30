@@ -1,0 +1,7 @@
+Text:::  For more than a week now Israelis have been living with a devastating piece of news: the uncovering of an alleged Jewish terrorist underground operating in the occupied West Bank. The arrest of 19 settlers has been followed by a string of official leaks: that the suspects admitted planting bombs on Arab buses, that they killed three persons at the Hebron Islamic University last July, that other terrorist cells planned further attacks on Palestinian students. The facts are traumatic in themselves - if they turn out to be facts after the legal process works. ;;;
+
+Topics::: west;;; Score::: NaN;;;
+Topics::: jewish;;; Score::: NaN;;;
+Topics::: terrorist planned hebron planting admitted;;; Score::: 0.11920292202211757;;;
+Topics::: official;;; Score::: 0.11920292202211757;;;
+Topics::: traumatic persons buses arrest students;;; Score::: 0.19407217169605634;;;

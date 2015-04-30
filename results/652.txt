@@ -1,0 +1,7 @@
+Text:::  No analogies are exact but the Soviet Union's problems in Afghanistan may provide a more instructive parallel than Vietnam to United States policy in Central America. The Afghan revolution of April 1978 succeeded because the Marxist-inclined factions were able to locally exploit increasing disaffection with social and economic conditions. The Kremlin did not trigger the revolution but of course welcomed the gratuitous extension of ''socialism.'' ;;;
+
+Topics::: disaffection marxist-inclined analogies extension welcomed;;; Score::: 0.11920292202211757;;;
+Topics::: exact social provide socialism;;; Score::: 0.11920292202211757;;;
+Topics::: increasing;;; Score::: 0.11920292202211757;;;
+Topics::: revolution exploit locally instructive union's;;; Score::: 0.11920292202211757;;;
+Topics::: central;;; Score::: NaN;;;

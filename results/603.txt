@@ -1,0 +1,6 @@
+Text::: First, on a note of optimism, the Syrian victor may not be as strong as he appears: A power struggle is now going on in Damascus among Hafez al-Assad, his brother, Rifaat, and the army commander. Wishful thinking may be influencing intelligence estimates, but the ailing strongman probably has a problem protecting his power base at home even as he obtains the surrender of the Lebanese across his borders. Second, Amin Gemayel - who always resented the achievements and charisma of his younger brother, Bashir, the Christian leader murdered in 1982 by the Syrians - may not be able to deliver the submission of his fellow Christians. ;;;
+
+Topics::: brother fellow submission achievements surrender;;; Score::: 0.11920292202211757;;;
+Topics::: bashir commander problem hafez;;; Score::: 0.11920292202211757;;;
+Topics::: power resented obtains strongman ailing;;; Score::: 0.11920292202211757;;;
+Topics::: charisma rifaat syrians syrian younger;;; Score::: 0.11920292202211757;;;

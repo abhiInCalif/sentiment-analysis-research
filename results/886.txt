@@ -1,0 +1,7 @@
+Text::: Tripoli declared that French citizens and interests are vulnerable - a Teheran-type hostage threat? - while its radio provocatively quoted Qaddafi as saying that Hitler and Nazism only have a bad name because they lost. But the credibility of France's Africa policy, a longrange program with a cool sense of where raw materials and markets will be found in the future, is also at stake. ;;;
+
+Topics::: raw quoted provocatively teheran-type materials;;; Score::: 0.3096014610110588;;;
+Topics::: africa policy;;; Score::: 0.5;;;
+Topics::: longrange nazism stake france's hitler;;; Score::: 0.5;;;
+Topics::: radio;;; Score::: 0.11920292202211757;;;
+Topics::: interests sense citizens;;; Score::: 0.38447071068499755;;;

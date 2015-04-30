@@ -1,0 +1,6 @@
+Text::: It probably spawned the recent embarrassing headlines about American involvement with a Lebanese gang that attempted freelance murders. Surely a better idea is to punish terrorism lawfully. There's a clear opportunity now pending, involving Iran, that arises from that hijacking in December, which claimed two American lives. ;;;
+
+Topics::: arises lebanese involvement there's;;; Score::: 0.11920292202211757;;;
+Topics::: involving murders gang attempted hijacking;;; Score::: 0.11920292202211757;;;
+Topics::: punish headlines;;; Score::: 0.11920292202211757;;;
+Topics::: american pending lawfully freelance december;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,9 @@
+Text::: But so long as parties were divorced from elections, Pakistan was only halfway to democracy. General Zia wants his constitution to be seen as more than a cloak for his personal rule as armed forces chief. He can advance that cause by confirming reports that he will permit parties to nominate candidates, as urged by Ms. Bhutto and by his outgoing Prime Minister. ;;;
+
+Topics::: parties prime personal;;; Score::: 0.11920292202211757;;;
+Topics::: urged candidates nominate chief armed;;; Score::: 0.11920292202211757;;;
+Topics::: outgoing halfway divorced general elections;;; Score::: 0.11920292202211757;;;
+Topics::: permit;;; Score::: 0.11920292202211757;;;
+Topics::: reports cloak forces;;; Score::: 0.11920292202211757;;;
+Topics::: confirming bhutto pakistan;;; Score::: 0.11920292202211757;;;
+Topics::: constitution;;; Score::: 0.11920292202211757;;;

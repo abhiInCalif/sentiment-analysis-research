@@ -1,0 +1,9 @@
+Text::: There is always an effort to wangle and press others to budge first, a temptation to wait and hope that open disagreement can be veiled. But there are profound and bitter disputes among the Arab states. The concept of an Arab nation is elusive, constantly coming into conflict with state interests. ;;;
+
+Topics::: temptation;;; Score::: 0.5;;;
+Topics::: disputes hope;;; Score::: 0.5;;;
+Topics::: concept states;;; Score::: 0.5;;;
+Topics::: wangle constantly bitter effort;;; Score::: 0.5;;;
+Topics::: elusive;;; Score::: 0.5;;;
+Topics::: arab wait veiled profound coming;;; Score::: 0.5;;;
+Topics::: disagreement budge interests open state;;; Score::: 0.5;;;

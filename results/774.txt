@@ -1,0 +1,6 @@
+Text::: In Iran, the People's Mujahedeen (the Islamic and leftist guerrilla organization), which is trying to overthrow the regime, is committed to a classless society. Ayatollah Ruhollah Khomeini draws on Islamic traditions to argue for government by the Islamic jurists, while the Mujahedeen draws on these same traditions to argue for government based both on popularly elected people's councils and on a popular Islamic citizens' militia. Maulana Abu Ala Maududi, the late Pakistani Islamic scholar, called for a government headed by an emir, who would presumably resemble the early caliphs (the successors of the Prophet Mohammed) assisted by an assembly of pious Moslems. ;;;
+
+Topics::: iran;;; Score::: NaN;;;
+Topics::: militia elected;;; Score::: 0.11920292202211757;;;
+Topics::: islamic government draws traditions people's;;; Score::: 0.08331439759984219;;;
+Topics::: resemble maududi committed headed emir;;; Score::: 0.08331439759984219;;;

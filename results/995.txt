@@ -1,0 +1,6 @@
+Text::: Not enough, if he really cared, for the President quietly to urge prosecution of former Attorney General Clark and other delegates to an anti-American rally in Teheran. No, Mr. Carter had to go looking for reporters to push his views onto the front page and, not incidentally, to undercut Secretary of State Muskie's reasoned effort to distinguish between using a travel ban to protect American tourists and to prosecute American dissenters. One of these days, an Iranian government may actually be functioning and asking to deal with a Ramsey Clark or other admirer of the revolution to arrange the hostages' release. ;;;
+
+Topics::: clark distinguish incidentally travel delegates;;; Score::: 0.11920292202211757;;;
+Topics::: muskie's undercut iranian;;; Score::: 0.11920292202211757;;;
+Topics::: american admirer ramsey tourists reasoned;;; Score::: 0.11920292202211757;;;
+Topics::: dissenters arrange cared reporters government;;; Score::: 0.11920292202211757;;;

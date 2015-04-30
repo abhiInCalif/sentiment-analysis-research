@@ -1,0 +1,6 @@
+Text::: His open-ended supply of highly advanced Soviet weapons - including new, accurate surface-to-surface missiles -is matched by a vast increase in the size of his standing army. And recently there have been reports that a major Syrian chemical weapons program is in the works. None of these developments would threaten Israel's overall ability to win a future war, but they would make the task much more costly and dangerous. ;;;
+
+Topics::: accurate;;; Score::: 0.11920292202211757;;;
+Topics::: make;;; Score::: 0.11920292202211757;;;
+Topics::: works matched surface-to-surface costly increase;;; Score::: 0.11920292202211757;;;
+Topics::: weapons ability chemical vast open-ended;;; Score::: 0.11920292202211757;;;

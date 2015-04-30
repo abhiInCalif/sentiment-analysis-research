@@ -1,0 +1,7 @@
+Text::: All this is dominated by such a crisis between the two major nuclear powers in Washington and Moscow that they are scarcely speaking to one another about the common danger of the arms race on earth and its extension into outer space. Yet it may be relevant at the turning of the year to recall that in the long and bloody journey of the human race, there have been many other seemingly hopeless tangles that were eventually controlled by patience and the unexpected twists and turnings of events. In our own time, the enemies of the Second World War have become our allies. ;;;
+
+Topics::: extension moscow arms war;;; Score::: 0.11920292202211757;;;
+Topics::: twists earth human major allies;;; Score::: 0.16911575513807675;;;
+Topics::: race turnings journey bloody scarcely;;; Score::: 0.19407217169605634;;;
+Topics::: unexpected year eventually world;;; Score::: 0.2689414213699951;;;
+Topics::: outer space recall speaking enemies;;; Score::: 0.16911575513807675;;;

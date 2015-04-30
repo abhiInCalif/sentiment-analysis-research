@@ -1,0 +1,6 @@
+Text::: As for prison conditions, these have not changed for years, and one is entitled to wonder why the great clamor about them is so recent. In any event, berating the Turks will not improve conditions. One high Turkish official, when asked about the prison situation, responded, ''Have you seen our hospitals?'' ;;;
+
+Topics::: berating entitled situation changed official;;; Score::: 0.24613528134807838;;;
+Topics::: prison conditions hospitals turks clamor;;; Score::: 0.24613528134807838;;;
+Topics::: great;;; Score::: 0.11920292202211757;;;
+Topics::: event;;; Score::: 0.11920292202211757;;;

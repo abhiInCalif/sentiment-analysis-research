@@ -1,0 +1,7 @@
+Text::: In the phase ahead, the opening to Iran will be part burden for Mr. Reagan and part opportunity. The burden is easy to see. The President will have to show some evidence of Iran's moderation; he will have to demonstrate that his overture to what some Reagan officials describe as the moderate faction in Iran is worth a break with the American policy of the last several years. ;;;
+
+Topics::: ahead opening president;;; Score::: 0.5;;;
+Topics::: easy;;; Score::: 0.5;;;
+Topics::: moderation years iran's;;; Score::: 0.5;;;
+Topics::: break phase;;; Score::: 0.5;;;
+Topics::: burden reagan part iran faction;;; Score::: 0.5;;;

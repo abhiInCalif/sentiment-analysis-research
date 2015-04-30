@@ -1,0 +1,6 @@
+Text::: And it benefits those in the West who call for ''spoiling operations'' against Moscow. Some Western diplomats admit in private that this is what they favor -continuing to stir the Afghan pot, while asking the Russians to negotiate on unacceptable terms. If this option prevails, we can look forward to many more Western ''successes'' in the General Assembly, and a continued Soviet presence in Afghanistan. ;;;
+
+Topics::: favor prevails operations option forward;;; Score::: 0.24613528134807838;;;
+Topics::: presence;;; Score::: 0.11920292202211757;;;
+Topics::: western stir continuing moscow afghanistan;;; Score::: 0.11920292202211757;;;
+Topics::: pot spoiling admit unacceptable benefits;;; Score::: 0.3096014610110588;;;

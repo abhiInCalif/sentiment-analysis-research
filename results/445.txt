@@ -1,0 +1,5 @@
+Text::: Or rewritten. Romeo's ''Well, Juliet, I will lie with thee tonight'' is denatured for teen-agers by changing ''lie'' to ''be.'' Nice girls and boys are also spared the vernacular in ''Tom Sawyer.'' ;;;
+
+Topics::: lie spared boys girls denatured;;; Score::: 0.19407217169605634;;;
+Topics::: tom vernacular tonight thee romeo's;;; Score::: 0.19407217169605634;;;
+Topics::: changing teen-agers sawyer;;; Score::: 0.11920292202211757;;;

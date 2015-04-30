@@ -1,0 +1,6 @@
+Text:::  Government forces in Chad are advancing again. It looks as though the current effort by Libya's Colonel Qaddafi to install his current client in the big, strategic country to the south is being rebuffed. But there's no reason to think it will settle anything. ;;;
+
+Topics::: rebuffed chad install libya's qaddafi;;; Score::: 0.11920292202211757;;;
+Topics::: big;;; Score::: 0.11920292202211757;;;
+Topics::: south strategic current effort;;; Score::: 0.11920292202211757;;;
+Topics::: advancing client government reason;;; Score::: 0.11920292202211757;;;

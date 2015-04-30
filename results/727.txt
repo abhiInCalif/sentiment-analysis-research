@@ -1,0 +1,8 @@
+Text::: Behind President Assad stands the greatest destabilizing force in the region, the Ayatollah Ruhollah Khomeini and his Islamic militants. Their victories in the war with Iraq already have the Persian Gulf states mortally afraid. Now Iran has seized the opportunity of Israel's attack in Lebanon to call for an anti-Israel crusade. ;;;
+
+Topics::: ruhollah israel's force khomeini iraq;;; Score::: 0.5;;;
+Topics::: afraid president;;; Score::: 0.11920292202211757;;;
+Topics::: victories destabilizing anti-israel crusade militants;;; Score::: 0.24613528134807838;;;
+Topics::: stands opportunity lebanon islamic gulf;;; Score::: 0.3096014610110588;;;
+Topics::: iran;;; Score::: NaN;;;
+Topics::: mortally greatest call region;;; Score::: 0.24613528134807838;;;

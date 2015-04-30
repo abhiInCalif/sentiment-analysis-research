@@ -1,0 +1,7 @@
+Text:::  While the United States tinkers with mines in Nicaragua, the Soviet Union is ripping Afghanistan apart. America's offenses in Central America are relentlessly exposed by an inquisitive Congress and public; yesterday's state secret is tomorrow's leak. No wonder American leaders are tempted to envy the Soviet Union its freedom to deploy force beyond its frontiers. ;;;
+
+Topics::: exposed;;; Score::: 0.5;;;
+Topics::: public;;; Score::: 0.5;;;
+Topics::: union soviet tempted tomorrow's inquisitive;;; Score::: 0.3096014610110588;;;
+Topics::: deploy leak yesterday's relentlessly envy;;; Score::: 0.3096014610110588;;;
+Topics::: america;;; Score::: NaN;;;

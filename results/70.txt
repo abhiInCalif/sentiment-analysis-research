@@ -1,0 +1,8 @@
+Text::: The Soviet Union's stalling has finally driven Iraq to the missile attacks as a new way to pressure Teheran to settle. That the Iraqis have used Soviet-supplied missiles to make their point is a matter of exquisite embarrassment to the Russians. Their embassy in Teheran and consulate in Isfahan have already been stoned by furious mobs. ;;;
+
+Topics::: mobs isfahan embarrassment driven finally;;; Score::: 0.11920292202211757;;;
+Topics::: stoned embassy exquisite soviet-supplied attacks;;; Score::: 0.11920292202211757;;;
+Topics::: stalling soviet iraqis;;; Score::: 0.11920292202211757;;;
+Topics::: russians;;; Score::: NaN;;;
+Topics::: teheran furious consulate union's make;;; Score::: 0.11920292202211757;;;
+Topics::: settle;;; Score::: 0.11920292202211757;;;

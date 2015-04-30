@@ -1,0 +1,5 @@
+Text::: And none will come forward without the blessing of King Hussein of Jordan and Yasir Arafat, the P.L.O. chairman. Whatever the Arafat strategy, King Hussein needs political cover beyond an international conference. ;;;
+
+Topics::: yasir;;; Score::: NaN;;;
+Topics::: cover jordan;;; Score::: 0.11920292202211757;;;
+Topics::: arafat king hussein chairman blessing;;; Score::: 0.11920292202211757;;;

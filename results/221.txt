@@ -1,0 +1,9 @@
+Text::: Or pay ransom in arms for the release of hostages held by Iranian terrorists or by groups influenced by the revolutionary Iranian Government of the Ayatollah Khomeini? The admittedly speculative answer offered by the evening's speaker - a New York Times columnist roaming in the West - was that of course it would be useful for the United States to be in touch with Iranian ''moderates'' who might some day come into power. Similar lines are properly kept open to such organized oppositions as the British Labor Party, and to alternative political forces like those of Corazon Aquino before her unexpected accession to power a year ago. ;;;
+
+Topics::: iranian power accession corazon lines;;; Score::: 0.11920292202211757;;;
+Topics::: oppositions times speculative held answer;;; Score::: 0.16911575513807675;;;
+Topics::: unexpected properly touch day political;;; Score::: 0.11920292202211757;;;
+Topics::: admittedly offered aquino terrorists open;;; Score::: 0.16911575513807675;;;
+Topics::: similar roaming evening's ransom alternative;;; Score::: 0.16911575513807675;;;
+Topics::: influenced revolutionary hostages pay moderates;;; Score::: 0.19407217169605634;;;
+Topics::: york;;; Score::: NaN;;;

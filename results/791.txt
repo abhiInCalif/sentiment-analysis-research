@@ -1,0 +1,6 @@
+Text::: After being exhumed, you will recall, the mummy comes out of his sarcophagus looking perfectly dreadful, what with dust and cobwebs all over his linen wrappings, and stumbles off toward Cairo with what looked like filthy ragged bandages dangling from his heels and elbows. From previous viewings I know the mummy is going to turn up a bit later looking like something off the cover of The Islamic Gentlemen's Quarterly in a stunning tarboosh, silk shirt and gorgeously tailored knee-length coat, suitable for indoor wear on cooler evenings. How did the mummy, with not a thing on his back but those odious old mummy rags, manage to walk into the fanciest haberdashery in Cairo and persuade the salesman to give him threads like those? ;;;
+
+Topics::: indoor coat tailored gorgeously gentlemen's;;; Score::: 0.11920292202211757;;;
+Topics::: evenings shirt wrappings dust turn;;; Score::: 0.11920292202211757;;;
+Topics::: quarterly;;; Score::: NaN;;;
+Topics::: mummy cairo threads salesman fanciest;;; Score::: 0.16911575513807675;;;

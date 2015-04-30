@@ -1,0 +1,6 @@
+Text::: In the meantime, the major threat to India would be a Pakistani nuclear device that might be delivered by a large missile such as those being developed by OTRAG. And wh at, y ou ask, is OTRAG? You are informed that Orbital Transport und Raketen Aktien-Gesellschaft is the Munich-based privatecompany now h elping the Libyans develop a long-range surface-tosur face missile. ;;;
+
+Topics::: libyans delivered developed long-range;;; Score::: 0.11920292202211757;;;
+Topics::: missile elping munich-based aktien-gesellschaft develop;;; Score::: 0.11920292202211757;;;
+Topics::: privatecompany large major pakistani threat;;; Score::: 0.11920292202211757;;;
+Topics::: otrag surface-tosur raketen und orbital;;; Score::: 0.11920292202211757;;;

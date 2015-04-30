@@ -1,0 +1,7 @@
+Text::: Mr. Habash and most of his followers are Christian, presumably uninfected with the concept of jihad. Syria, the country we castigate most frequently as instigator of Arab (and hence, Moslem) terrorism, is ruled by a member of the Alawite minority (whose relationship to Orthodox Sunni Islam is analogous to the relationship of Jews for Jesus to Orthodox Judaism); the dominant Baath Party espouses Arab socialism. In Lebanon, Syria has been propping up the tottering Government of Amin Gemayel, a Christian, while turning alternately warm and cold shoulders to Nabih Berri, a Shiite, and Yasir Arafat, a Sunni. ;;;
+
+Topics::: propping baath analogous alawite uninfected;;; Score::: 0.24613528134807838;;;
+Topics::: orthodox arab alternately tottering followers;;; Score::: 0.3096014610110588;;;
+Topics::: berri nabih dominant judaism ruled;;; Score::: 0.11920292202211757;;;
+Topics::: christian sunni relationship shoulders warm;;; Score::: 0.11920292202211757;;;
+Topics::: syria amin espouses socialism;;; Score::: 0.11920292202211757;;;

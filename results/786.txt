@@ -1,0 +1,8 @@
+Text::: Its rulers could be replaced without a coup by members of a new generation of the royal family who might want to preserve its power by slowing down Westernization and appeasing Islamic fundamentalists - for instance, by reducing oil production and thereby the accumulation of revenues that disrupt traditional values and spread inequity and corruption. Further, the regime could be toppled by its own military. It could be dest royed by fundamentalist tribal groups acting on their own or with out side help. ;;;
+
+Topics::: family power;;; Score::: 0.11920292202211757;;;
+Topics::: preserve;;; Score::: 0.11920292202211757;;;
+Topics::: royed inequity slowing revenues acting;;; Score::: 0.11920292202211757;;;
+Topics::: spread;;; Score::: 0.11920292202211757;;;
+Topics::: disrupt reducing values replaced generation;;; Score::: 0.11920292202211757;;;
+Topics::: dest accumulation appeasing westernization instance;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,9 @@
+Text::: The Shultz initiative is based on the belief that Jordan, a moderate, pro-Western kingdom interested in peace and stability, is capable of leading the Palestinian population. But King Hussein's influence is more limited than many would like to believe. All the Arab inhabitants of the West Bank and Gaza will not accept the King's rule. ;;;
+
+Topics::: gaza limited king interested belief;;; Score::: 0.11920292202211757;;;
+Topics::: king's accept bank stability based;;; Score::: 0.11920292202211757;;;
+Topics::: west population moderate;;; Score::: 0.11920292202211757;;;
+Topics::: capable;;; Score::: 0.11920292202211757;;;
+Topics::: kingdom;;; Score::: 0.11920292202211757;;;
+Topics::: inhabitants pro-western;;; Score::: 0.11920292202211757;;;
+Topics::: hussein's jordan shultz initiative;;; Score::: 0.11920292202211757;;;

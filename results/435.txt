@@ -1,0 +1,7 @@
+Text::: You have to give the President credit for holding his fire so far in the face of this madness and mockery of the United States. In the most painful Presidential news conference in recent memory, he had the courage to say that shooting back at terrorists he couldn't identify, at the risk of killing innocent people, would by itself be an act of terror. Still we have to wonder why, from administration to administration of whatever political party, we are constantly taken by surprise in a world we are trying to help but don't quite understand. ;;;
+
+Topics::: act united;;; Score::: 0.11920292202211757;;;
+Topics::: constantly killing madness couldn't presidential;;; Score::: 0.16911575513807675;;;
+Topics::: administration memory face news party;;; Score::: 0.16911575513807675;;;
+Topics::: shooting fire identify states;;; Score::: 0.19407217169605634;;;
+Topics::: mockery terror terrorists risk give;;; Score::: 0.19407217169605634;;;

@@ -1,0 +1,5 @@
+Text::: There are many reasons to take this seriously, but also reasons that it won't be as easy as a simple ukase from Moscow. The war has dragged on for six years without any ''light at the end of the tunnel,'' to dispense with the Vietnam comparison. The cost and casualties have become a serious nuisance for the Kremlin, though not intolerable. ;;;
+
+Topics::: light cost;;; Score::: 0.11920292202211757;;;
+Topics::: reasons intolerable nuisance comparison dispense;;; Score::: 0.24613528134807838;;;
+Topics::: tunnel simple casualties years;;; Score::: 0.24613528134807838;;;

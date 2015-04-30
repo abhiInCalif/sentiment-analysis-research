@@ -1,0 +1,7 @@
+Text::: An enduring settlement would also require understandings between America, the Soviet Union, and China designed to insulate Pakistan and Iran from great-power rivalry. This would rule out military alliances, one-sided military-aid dependencies, and the use of Pakistani and Iranian territory for intelligence surveillance of the Soviet Union. Just as Sweden stayed out of the North Atlantic Treaty Organization to make Finlandization possible, so Pakistan and Iran would have to be neutralized as part of a stable accommodation in Southwest Asia. ;;;
+
+Topics::: pakistan union soviet iran atlantic;;; Score::: NaN;;;
+Topics::: stayed great-power pakistani rule china;;; Score::: 0.11920292202211757;;;
+Topics::: iranian;;; Score::: NaN;;;
+Topics::: neutralized military-aid make;;; Score::: 0.11920292202211757;;;
+Topics::: finlandization insulate enduring southwest one-sided;;; Score::: 0.11920292202211757;;;

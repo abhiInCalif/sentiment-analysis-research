@@ -1,0 +1,6 @@
+Text::: Capitalism is no more than a method of organizing production, bringing together the essential elements of management, labor and material as effectively as possible. Democracy is a process for accommodation, renewal, correcting mistakes that people are bound to make and adjusting to circumstance. It offers the most decent way for societies to find answers, but it doesn't guarantee right answers beforehand. ;;;
+
+Topics::: answers decent circumstance mistakes accommodation;;; Score::: 0.19407217169605634;;;
+Topics::: people;;; Score::: 0.11920292202211757;;;
+Topics::: guarantee adjusting correcting elements doesn't;;; Score::: 0.29604811446403756;;;
+Topics::: essential bringing organizing societies production;;; Score::: 0.38447071068499755;;;

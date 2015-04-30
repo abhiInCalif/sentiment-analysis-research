@@ -1,0 +1,5 @@
+Text::: The worrying part is how such a film got the sponsorship of PBS. The National Endowment for the Humanities gave it a big leg up with a grant of $30,000. After that PBS apparently decided it would look worse to turn the film down - worse especially to the conservative zealots who now run the Corporation for Public Broadcasting. ;;;
+
+Topics::: pbs film worse sponsorship worrying;;; Score::: 0.3096014610110588;;;
+Topics::: endowment;;; Score::: NaN;;;
+Topics::: corporation leg humanities broadcasting conservative;;; Score::: 0.11920292202211757;;;

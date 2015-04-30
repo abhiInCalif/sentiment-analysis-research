@@ -1,0 +1,7 @@
+Text::: More than a million Israelis voted for anti-annexationist platforms in the 1984 elections. The continuation of a deadlock - with continued Israeli rule over huge Palestine Arab populations - might soon weigh more painfully on Israeli democracy than on the Arabs who live under that rule. And there are Palestinian leaders who are now beginning to understand that the traditional Palestine Liberation Organization slogans envisaging Israel's disappearance are idle fantasy. ;;;
+
+Topics::: deadlock;;; Score::: 0.11920292202211757;;;
+Topics::: slogans;;; Score::: 0.11920292202211757;;;
+Topics::: palestine idle populations platforms anti-annexationist;;; Score::: 0.11920292202211757;;;
+Topics::: envisaging huge;;; Score::: 0.11920292202211757;;;
+Topics::: israeli rule fantasy disappearance beginning;;; Score::: 0.11920292202211757;;;

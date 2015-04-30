@@ -1,0 +1,8 @@
+Text:::  04.8,0,340.4,2,1288,0The Administration has embarked on far-reaching programs of military aid to Pakistan and China, highlighted by a controversial plan to provide NATO-model F-16 fighter-bombers to Islamabad. Both deliberately orchestrated initiatives were intended to send warning signals to Moscow, but their resonance has proved equally powerful in the world's most populous non-Communist country, India, which has fought traumatic wars with Pakistan and China and still considers them potential military adversaries. As the angry Indian reaction crystallizes, it is becoming increasingly clear that the combined impact of the Administration's overtures to Islamabad and Peking has produced the most dangerous crisis in relations between New Delhi and Washington since India won its independence in 1947. ;;;
+
+Topics::: resonance signals fighter-bombers highlighted indian;;; Score::: 0.11920292202211757;;;
+Topics::: embarked produced initiatives wars equally;;; Score::: 0.11920292202211757;;;
+Topics::: considers;;; Score::: 0.11920292202211757;;;
+Topics::: china military crystallizes intended send;;; Score::: 0.11920292202211757;;;
+Topics::: islamabad orchestrated deliberately far-reaching combined;;; Score::: 0.11920292202211757;;;
+Topics::: india pakistan overtures non-communist nato-model;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: Some of the oil giants would lose too, depending on whether they make their money from crude or refining. Banks that have lent to oil companies and oil countries would worry about diminished income. A $2-a-barrel drop would cost Mexico alone $1 billion a year. ;;;
+
+Topics::: lose year;;; Score::: 0.11920292202211757;;;
+Topics::: giants;;; Score::: 0.11920292202211757;;;
+Topics::: diminished lent banks refining companies;;; Score::: 0.11920292202211757;;;
+Topics::: oil a-barrel depending mexico money;;; Score::: 0.11920292202211757;;;

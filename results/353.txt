@@ -1,0 +1,9 @@
+Text::: Could the conflict draw Egypt into the field against a neighbor it detests? Thoughts of such gains, however, also imply big risks. Whatever America learns from engagements that test missiles and missile defenses, the Soviet Union is likely to learn as much or more. ;;;
+
+Topics::: egypt;;; Score::: NaN;;;
+Topics::: engagements defenses america;;; Score::: 0.11920292202211757;;;
+Topics::: learn missile;;; Score::: 0.11920292202211757;;;
+Topics::: learns thoughts gains field risks;;; Score::: 0.11920292202211757;;;
+Topics::: conflict;;; Score::: 0.11920292202211757;;;
+Topics::: detests draw;;; Score::: 0.11920292202211757;;;
+Topics::: imply test big missiles union;;; Score::: 0.11920292202211757;;;

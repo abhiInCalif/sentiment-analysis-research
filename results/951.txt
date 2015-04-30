@@ -1,0 +1,5 @@
+Text::: Neither main party, the center-right Justice Party or the center-left Republican People's Party, has won a majority. Their successive governments have had to appease demands from two smaller political groups, one relentlessly anti-secular and the other protective of right-wing terrorists. With government so fragile, the police, and now the military, have become both factious and politically aggressive. ;;;
+
+Topics::: relentlessly police military;;; Score::: 0.3096014610110588;;;
+Topics::: party center-left fragile protective right-wing;;; Score::: 0.3730676406740392;;;
+Topics::: factious anti-secular smaller aggressive justice;;; Score::: 0.3096014610110588;;;

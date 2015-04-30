@@ -1,0 +1,6 @@
+Text::: A big question is this: what assurances will Secretary Haig give nations most worried by an Iranian victory? If he tells the Saudis, Kuwaitis, Jordanians and Emirates that the U.S. will defend them from Iran, that would be taking on a great deal to get nothing in return. The last time we made such an offer, the Saudis bought our Awacs and told us to park our forces elsewhere. ;;;
+
+Topics::: nations deal;;; Score::: 0.11920292202211757;;;
+Topics::: awacs tells kuwaitis worried big;;; Score::: 0.11920292202211757;;;
+Topics::: bought;;; Score::: 0.5;;;
+Topics::: saudis park haig emirates taking;;; Score::: 0.3096014610110588;;;

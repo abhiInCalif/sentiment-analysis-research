@@ -1,0 +1,7 @@
+Text::: The gulf was virtually a British lake, charted, mapped and cleared of pirates by the Royal Navy. A new player, Germany, then joined what was called the great game. An anxious Britain approached Russia with a tempting idea. ;;;
+
+Topics::: cleared russia game player idea;;; Score::: 0.24613528134807838;;;
+Topics::: tempting navy;;; Score::: 0.11920292202211757;;;
+Topics::: joined mapped british;;; Score::: 0.3096014610110588;;;
+Topics::: approached royal pirates charted lake;;; Score::: 0.11920292202211757;;;
+Topics::: anxious germany britain called;;; Score::: 0.3096014610110588;;;

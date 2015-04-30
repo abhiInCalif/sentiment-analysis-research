@@ -1,0 +1,7 @@
+Text::: Why else would President Reagan send his former national security adviser, Robert McFarlane, on a bizarre secret mission to Teheran? An argument is obviously boiling in Iran and its outcome is uncertain. Someone must have invited him - and someone else must have seen to it that he was expelled. ;;;
+
+Topics::: adviser secret mission;;; Score::: 0.11920292202211757;;;
+Topics::: reagan uncertain outcome;;; Score::: 0.11920292202211757;;;
+Topics::: boiling send robert mcfarlane invited;;; Score::: 0.11920292202211757;;;
+Topics::: expelled;;; Score::: 0.11920292202211757;;;
+Topics::: argument bizarre iran;;; Score::: 0.11920292202211757;;;

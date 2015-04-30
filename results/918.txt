@@ -1,0 +1,5 @@
+Text::: The captors have made great gains in recent weeks; America's public abasement comforts them and strengthens their hand in the anti-American world of Iranian politics. Further, they can probably extract especially favorable terms for the hostages' release, adding to their prestige within Iran. Whether or not the militants choose to make a deal before Nov. 4 - on the whole this seems unlikely - they have profited immensely from the hostages having become a campaign issue in America. ;;;
+
+Topics::: hostages nov extract immensely profited;;; Score::: 0.3096014610110588;;;
+Topics::: prestige strengthens comforts abasement militants;;; Score::: 0.3730676406740392;;;
+Topics::: favorable make;;; Score::: 0.3096014610110588;;;

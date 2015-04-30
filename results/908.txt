@@ -1,0 +1,6 @@
+Text::: American fundamentalism is limited to some specific issues and obviously doesn't incorporate such parts of the religious heritage as the Golden Rule and the call for charity. Nor is it a revival of the kind of puritanism that led one part of the country to ban ''Demon Rum'' with post-World War I Prohibition, while the other part toasted defiant naughtiness with bathtub gin. Still, the movement wants to restore something found missing. ;;;
+
+Topics::: bathtub revival parts led rule;;; Score::: 0.11920292202211757;;;
+Topics::: part toasted prohibition post-world ban;;; Score::: 0.11920292202211757;;;
+Topics::: gin puritanism defiant country found;;; Score::: 0.3096014610110588;;;
+Topics::: naughtiness rum heritage movement call;;; Score::: 0.24613528134807838;;;

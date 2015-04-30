@@ -1,0 +1,6 @@
+Text::: And they are determined to act on their beliefs: thus, the violent opposition to the established order in the attempt to realize the city of God on Earth. Their intense rejection of the West is uncompromising. Less obvious, however, than the gap between radical and moderate responses is the difference of approach between lay thinkers and jurists as guardians of law and theology. ;;;
+
+Topics::: uncompromising approach difference earth determined;;; Score::: 0.32315480755808;;;
+Topics::: beliefs thinkers lay guardians gap;;; Score::: 0.11920292202211757;;;
+Topics::: theology responses;;; Score::: 0.11920292202211757;;;
+Topics::: jurists;;; Score::: 0.11920292202211757;;;

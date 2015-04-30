@@ -1,0 +1,7 @@
+Text:::  Besides mourning the dead, Americans can show their sympathy for France by sparing it gratuitous advice on how to quell a savage burst of terrorism. Five explosions in 10 days have killed 8 and injured more than 170 Parisians. Wednesday's assault was the most despicable: a bomb was unloaded from a passing car outside a crowded department store favored by low-income customers, many of them Arab immigrants, at a time when children were out of school. ;;;
+
+Topics::: explosions;;; Score::: 0.11920292202211757;;;
+Topics::: crowded mourning department savage;;; Score::: 0.08331439759984219;;;
+Topics::: customers bomb terrorism school children;;; Score::: 0.08331439759984219;;;
+Topics::: despicable sparing dead;;; Score::: 0.08331439759984219;;;
+Topics::: immigrants low-income favored store car;;; Score::: 0.04742587317756679;;;

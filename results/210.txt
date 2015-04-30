@@ -1,0 +1,5 @@
+Text::: This time, however, Israel and the big-money Arab state are working together to appease, and not confront, a common threat. That certainly has been the Saudis' method of operation - they have been buying off the P.L.O. since its inception - but it is not the Israeli way. ;;;
+
+Topics::: inception buying big-money common threat;;; Score::: 0.11920292202211757;;;
+Topics::: method state;;; Score::: 0.11920292202211757;;;
+Topics::: operation confront appease working israeli;;; Score::: 0.11920292202211757;;;

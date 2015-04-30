@@ -1,0 +1,6 @@
+Text::: Western policy makers would be totally irresponsible not to plan ahead. One choice is for the West, possibly in consultation with Moscow, to try, with additional diplomatic and military efforts, to end the war. Another is to figure out, if Iraq should fall, where and how to draw the next line of defense. ;;;
+
+Topics::: makers ahead efforts end;;; Score::: 0.11920292202211757;;;
+Topics::: figure consultation line moscow west;;; Score::: 0.11920292202211757;;;
+Topics::: draw diplomatic fall choice plan;;; Score::: 0.11920292202211757;;;
+Topics::: additional irresponsible western;;; Score::: 0.11920292202211757;;;

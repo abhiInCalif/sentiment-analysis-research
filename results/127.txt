@@ -1,0 +1,5 @@
+Text::: ''But the way to avoid that is not to shy away from the political effort but to press it. If there are tangible results, the risk is decreased. Peace is a game in which two people are involved. ;;;
+
+Topics::: game political involved people press;;; Score::: 0.19407217169605634;;;
+Topics::: decreased tangible results risk effort;;; Score::: 0.11920292202211757;;;
+Topics::: shy avoid;;; Score::: 0.11920292202211757;;;

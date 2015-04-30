@@ -1,0 +1,14 @@
+Text::: And if a cease-fire can be achieved, followed by peace negotiations, the fighting could stop on the one basis practically everybody except the combatants required - victory for neither side. One reason the war has been going on so long is that the rest of the world did not want Iran or Iraq to win. Iraq's surprise invasion in 1979 brought important initial successes. ;;;
+
+Topics::: successes;;; Score::: 0.5;;;
+Topics::: initial iraq's reason practically;;; Score::: 0.24613528134807838;;;
+Topics::: win iran war victory;;; Score::: 0.11920292202211757;;;
+Topics::: rest achieved;;; Score::: 0.11920292202211757;;;
+Topics::: long;;; Score::: 0.11920292202211757;;;
+Topics::: important;;; Score::: 0.5;;;
+Topics::: side required stop negotiations cease-fire;;; Score::: 0.11920292202211757;;;
+Topics::: invasion surprise fighting;;; Score::: 0.3096014610110588;;;
+Topics::: iraq basis;;; Score::: 0.11920292202211757;;;
+Topics::: world;;; Score::: 0.11920292202211757;;;
+Topics::: peace;;; Score::: 0.11920292202211757;;;
+Topics::: brought combatants;;; Score::: 0.3096014610110588;;;

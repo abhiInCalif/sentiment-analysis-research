@@ -1,0 +1,4 @@
+Text::: The fact that public television broadcast a doctrinaire harangue posing as a news documentary raises worrying questions about political pressure and public television's will to resist it. Much of the criticism offered in the rebuttal is demonstrably mistaken. Mr. Pike says the PBS series showed ''contempt'' for the South Vietnamese by minimizing their Government's role in the 1973 Paris cease-fire agreement. ;;;
+
+Topics::: public contempt pike mistaken demonstrably;;; Score::: 0.11920292202211757;;;
+Topics::: government's minimizing television's pbs paris;;; Score::: 0.11920292202211757;;;

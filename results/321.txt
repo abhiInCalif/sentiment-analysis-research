@@ -1,0 +1,7 @@
+Text::: The Afghan fighters are often lumped with the anti-Communist insurgents in Nicaragua and Angola, but it is a mistake. There are quarrels among them, but they are fighting a foreign invasion, not essentially a civil war in which opposing sides draw on foreign help. Evidently Moscow is counting on heavy military pressure, weakening will and growing fears of disruption in Pakistan, and disputes among the Afghans to produce an accord that will leave their friends in control. ;;;
+
+Topics::: foreign produce fears civil disputes;;; Score::: 0.3096014610110588;;;
+Topics::: angola lumped insurgents draw friends;;; Score::: 0.24613528134807838;;;
+Topics::: fighters leave sides;;; Score::: 0.24613528134807838;;;
+Topics::: quarrels evidently military;;; Score::: 0.3096014610110588;;;
+Topics::: disruption anti-communist heavy opposing afghans;;; Score::: 0.3096014610110588;;;

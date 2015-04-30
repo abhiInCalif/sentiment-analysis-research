@@ -1,0 +1,9 @@
+Text:::  LEAD: Last July a Palestinian lawyer, Mona Rishmawi, went to the Ramallah prison to interview a client. While there she saw a handcuffed detainee being held with a heavy hood over his head, making it difficult for him to breathe. The temperature was 100 degrees Fahrenheit. ;;;
+
+Topics::: detainee;;; Score::: 0.11920292202211757;;;
+Topics::: mona;;; Score::: NaN;;;
+Topics::: breathe;;; Score::: 0.11920292202211757;;;
+Topics::: lead;;; Score::: NaN;;;
+Topics::: palestinian;;; Score::: NaN;;;
+Topics::: making heavy rishmawi lawyer;;; Score::: 0.11920292202211757;;;
+Topics::: fahrenheit degrees temperature head hood;;; Score::: 0.11920292202211757;;;

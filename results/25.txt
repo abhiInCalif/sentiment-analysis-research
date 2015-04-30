@@ -1,0 +1,6 @@
+Text::: It could allow the mullahs to dominate the gulf and its oil. This prospect seemed imminent after Iran's ground campaigns of 1986 and 1987 in which it captured Iraq's Fao peninsula. Iran also started to menace Kuwait, Iraq's neighbor and pivotal supporter. ;;;
+
+Topics::: supporter started captured dominate fao;;; Score::: 0.21902858825403593;;;
+Topics::: iraq's pivotal neighbor campaigns peninsula;;; Score::: 0.19407217169605634;;;
+Topics::: prospect iran's;;; Score::: 0.2689414213699951;;;
+Topics::: menace ground imminent gulf oil;;; Score::: 0.21902858825403593;;;

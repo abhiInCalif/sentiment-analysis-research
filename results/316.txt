@@ -1,0 +1,8 @@
+Text::: Ayatollah Khomeini, whom Mr. Rajavi supported in the revolutionary period, learned well how to conduct agitation in his country from the safety of France. Earlier, from his haven in Iraq, he was not nearly as effective in stirring people against the Shah. However, other Iranian refugees living in France were neither angry nor worried by Mr. Rajavi's treatment. ;;;
+
+Topics::: agitation;;; Score::: 0.11920292202211757;;;
+Topics::: conduct revolutionary learned;;; Score::: 0.11920292202211757;;;
+Topics::: france treatment stirring rajavi's earlier;;; Score::: 0.19407217169605634;;;
+Topics::: angry haven safety living country;;; Score::: 0.16911575513807675;;;
+Topics::: rajavi;;; Score::: NaN;;;
+Topics::: period;;; Score::: 0.11920292202211757;;;

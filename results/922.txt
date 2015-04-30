@@ -1,0 +1,5 @@
+Text::: Israeli sovereignty over West Jerusalem was achieved by war in 1948, and extended to East Jerusalem after the 1967 war. It was formalized by an act of the Knesset this year. While this appears to have an air of finality about it, since both the Israeli Government and Israelis in general consider Jerusalem an integral part of Israel, there is certainly room to modify and maneuver within these limitations. ;;;
+
+Topics::: modify integral appears government part;;; Score::: 0.11920292202211757;;;
+Topics::: general;;; Score::: 0.11920292202211757;;;
+Topics::: jerusalem israeli war maneuver finality;;; Score::: 0.11920292202211757;;;

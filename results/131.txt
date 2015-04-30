@@ -1,0 +1,7 @@
+Text::: A pullout would show that Mr. Gorbachev is giving priority to internal reform. It would make credible his offers to work with the U.S. on regional peacemaking and third world development. In public Mr. Gorbachev pronounces familiar boilerplate; he denounces imperialism and foreign intervention for turning Afghanistan into ''a bleeding wound.'' ;;;
+
+Topics::: work;;; Score::: 0.5;;;
+Topics::: familiar development peacemaking internal priority;;; Score::: 0.24613528134807838;;;
+Topics::: reform offers;;; Score::: 0.3096014610110588;;;
+Topics::: wound denounces boilerplate credible pullout;;; Score::: 0.24613528134807838;;;
+Topics::: gorbachev bleeding imperialism pronounces turning;;; Score::: 0.11920292202211757;;;

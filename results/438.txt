@@ -1,0 +1,6 @@
+Text::: It's no wonder Americans are surprised by this opposition in the Middle East. It is part envy and part fear of the materialism and self-indulgence of the Western democracies, part anti-Semitism and hatred of Israel as an ally of America. We are not likely to understand all these tangles unless we recognize they're not the fault of ''Jimmy Reagan,'' as The Wall Street Journal mockingly says, but the result of centuries of human conflict and stupidity. ;;;
+
+Topics::: part stupidity fault recognize centuries;;; Score::: 0.11920292202211757;;;
+Topics::: mockingly street they're ally democracies;;; Score::: 0.11920292202211757;;;
+Topics::: journal wall tangles anti-semitism self-indulgence;;; Score::: 0.11920292202211757;;;
+Topics::: jimmy;;; Score::: NaN;;;

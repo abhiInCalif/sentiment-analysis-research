@@ -1,0 +1,4 @@
+Text::: It is this law that defines political legitimacy, and it is the jurists who in some fashion sanction existing political and economic relations for the mass of the people. In the Middle East, a social, political, or economic crisis of sufficient depth inevitably translates into a crisis of religious ideology. In Iran, Egypt, and in Pakistan, men argue passionately about the interpretation of Islamic law because they are also arguing about political power, economic interests, and relations with the outside world. ;;;
+
+Topics::: political crisis passionately sanction jurists;;; Score::: 0.11920292202211757;;;
+Topics::: economic relations law translates inevitably;;; Score::: 0.11920292202211757;;;

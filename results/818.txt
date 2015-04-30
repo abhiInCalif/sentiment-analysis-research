@@ -1,0 +1,5 @@
+Text::: During the anti-Communist 1930's, the Bahais were linked with Russia, Czarist and Soviet. When American influence in the Middle East increased after World War II, the Bahais were linked by their opponents to the United States. More recently they have been accused of supporting Zionism. ;;;
+
+Topics::: opponents czarist supporting increased united;;; Score::: 0.11920292202211757;;;
+Topics::: linked zionism anti-communist bahais russia;;; Score::: 0.11920292202211757;;;
+Topics::: bahais;;; Score::: NaN;;;

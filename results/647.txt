@@ -1,0 +1,5 @@
+Text::: Mohammed pressed. ''Then I will make an 'ijtihad' and act on that.'' Mohammed then declared: ''Praise be to God who guides the messenger of his Prophet in what he pleases.'' ;;;
+
+Topics::: mohammed pleases guides praise ijtihad;;; Score::: 0.19407217169605634;;;
+Topics::: make;;; Score::: 0.2689414213699951;;;
+Topics::: prophet;;; Score::: NaN;;;

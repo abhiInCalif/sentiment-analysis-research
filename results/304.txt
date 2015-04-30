@@ -1,0 +1,4 @@
+Text::: In the last resort, one thing we have going for us is Mr. Assad's pragmatism. He fears fundamentalist Islam as much as we do. He does not want to see a Palestinian state on Syria's border, and to that extent he has common ground with Israel. ;;;
+
+Topics::: pragmatism assad's thing islam ground;;; Score::: 0.19407217169605634;;;
+Topics::: resort extent fears fundamentalist state;;; Score::: 0.16911575513807675;;;

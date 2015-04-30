@@ -1,0 +1,6 @@
+Text::: He is the Muhammed Ali of political debaters. People may forget his excellent showing against Robert Kennedy in the 60's and against William F. Buckley on the Panama Canal a decade later, but remember well his ''there-you-go- again'' clobbering of President Carter in 1980. Richard Nixon believes that in a Reagan-Mondale matchup, President Reagan may ''lose the debate and win the audience.'' ;;;
+
+Topics::: audience there-you-go excellent nixon remember;;; Score::: 0.19407217169605634;;;
+Topics::: clobbering panama;;; Score::: 0.11920292202211757;;;
+Topics::: canal robert;;; Score::: NaN;;;
+Topics::: president matchup reagan-mondale debaters muhammed;;; Score::: 0.19407217169605634;;;

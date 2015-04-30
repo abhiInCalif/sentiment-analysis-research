@@ -1,0 +1,6 @@
+Text::: Fortunately, the dilemma in the Pakistani case is not quite as sharp as it first appears. Cutting off all aid would cost us what leverage we have in trying to persuade Pakistan not to take the next nuclear steps. But merely renewing the aid package without new restrictions would reduce our leverage and set a terrible precedent. ;;;
+
+Topics::: leverage aid terrible pakistan cutting;;; Score::: 0.11920292202211757;;;
+Topics::: restrictions sharp persuade;;; Score::: 0.16911575513807675;;;
+Topics::: precedent set cost;;; Score::: 0.11920292202211757;;;
+Topics::: renewing dilemma fortunately package nuclear;;; Score::: 0.16911575513807675;;;

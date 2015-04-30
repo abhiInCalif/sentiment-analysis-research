@@ -1,0 +1,5 @@
+Text::: Conservation, recession and new oil sources like the North Sea and Mexico have glutted the market. And there is war in the Islamic nations. Saudi Arabia, struggling to retain its standing in the Middle East, has poured in huge sums to back Iraq against Iran. ;;;
+
+Topics::: mexico standing huge back sea;;; Score::: 0.11920292202211757;;;
+Topics::: sums poured struggling glutted sources;;; Score::: 0.3096014610110588;;;
+Topics::: recession;;; Score::: 0.5;;;

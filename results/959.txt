@@ -1,0 +1,6 @@
+Text::: These claims, however, have remained neglected by decision-makers and public opinion in deference to facile and conventional portrayals of the Middle East. The Arab nations, for too long victims of Ottoman subjugation, colonialist penetration and superpower machinations are now at a crossroads in their development. They can either continue to endure prevailing conditions by which leadership is gained and preserved through coups d'etat, dictatorship or usurpation, or they can move toward democratization and tolerance. ;;;
+
+Topics::: dictatorship portrayals deference coups machinations;;; Score::: 0.11920292202211757;;;
+Topics::: democratization usurpation decision-makers neglected claims;;; Score::: 0.11920292202211757;;;
+Topics::: preserved colonialist facile d'etat gained;;; Score::: 0.11920292202211757;;;
+Topics::: endure crossroads penetration subjugation prevailing;;; Score::: 0.11920292202211757;;;

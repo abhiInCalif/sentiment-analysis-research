@@ -1,0 +1,5 @@
+Text::: Quiet probes and contacts are going on continually. One way and another, all sides are talking to each other nowadays and that is a big change from earlier refusals to recognize any point in exchanges. But the guarded or indirect meetings aren't getting anywhere. ;;;
+
+Topics::: indirect guarded refusals probes aren't;;; Score::: 0.29604811446403756;;;
+Topics::: recognize talking continually big sides;;; Score::: 0.38447071068499755;;;
+Topics::: meetings exchanges earlier nowadays contacts;;; Score::: 0.29604811446403756;;;

@@ -1,0 +1,11 @@
+Text::: But it was a grave miscalculation, rallying Iranian patriotism despite the chaos and hatreds unleashed by the mullahs' revolution. Ayatollah Khomeini might have been gone by now, quite possibly Iran might have settled down from its travail, were it not for the national solidarity provoked by foreign attack. Iraq could not win a long war against a much more populous, oil-rich Iran. ;;;
+
+Topics::: possibly miscalculation;;; Score::: 0.11920292202211757;;;
+Topics::: iran oil-rich;;; Score::: 0.11920292202211757;;;
+Topics::: national khomeini ayatollah rallying;;; Score::: 0.11920292202211757;;;
+Topics::: iranian win;;; Score::: 0.11920292202211757;;;
+Topics::: attack patriotism iraq;;; Score::: 0.11920292202211757;;;
+Topics::: foreign unleashed;;; Score::: 0.11920292202211757;;;
+Topics::: solidarity travail revolution chaos grave;;; Score::: 0.11920292202211757;;;
+Topics::: populous long;;; Score::: 0.11920292202211757;;;
+Topics::: provoked settled mullahs hatreds war;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,11 @@
+Text::: Mr. Cokely charged that Jews are involved in an international conspiracy to control the world and that ''the AIDS epidemic is a result of doctors, especially Jewish ones, who inject AIDS into blacks.'' He has attacked Mr. Jackson, whom he calls ''the nigger,'' and the late Mayor Washington for having Jewish advisers. In addition, Mr. Cokely has asserted that the crucifix is a ''symbol of white supremacy'' and that the Illinois law requiring children to remain in school until age 16 exists to promote white control of blacks. ;;;
+
+Topics::: jewish cokely asserted nigger epidemic;;; Score::: 0.11920292202211757;;;
+Topics::: blacks law doctors;;; Score::: 0.11920292202211757;;;
+Topics::: crucifix international;;; Score::: 0.11920292202211757;;;
+Topics::: control exists school children addition;;; Score::: 0.11920292202211757;;;
+Topics::: requiring advisers;;; Score::: 0.11920292202211757;;;
+Topics::: symbol washington mayor world;;; Score::: 0.11920292202211757;;;
+Topics::: white conspiracy;;; Score::: 0.11920292202211757;;;
+Topics::: aids promote age remain late;;; Score::: 0.11920292202211757;;;
+Topics::: illinois supremacy;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: Jesse Jackson. Another country has been entangled in the negotiations. Kuwait courageously tracked down and convicted 17 terrorists responsible for bombing American and French embassies in 1983. ;;;
+
+Topics::: american negotiations;;; Score::: 0.11920292202211757;;;
+Topics::: courageously bombing responsible jackson;;; Score::: 0.11920292202211757;;;
+Topics::: entangled embassies jesse french;;; Score::: 0.11920292202211757;;;
+Topics::: convicted;;; Score::: 0.11920292202211757;;;
+Topics::: tracked country;;; Score::: 0.11920292202211757;;;
+Topics::: terrorists kuwait;;; Score::: 0.11920292202211757;;;

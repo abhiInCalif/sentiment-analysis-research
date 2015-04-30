@@ -1,0 +1,9 @@
+Text::: Islamabad, for its part, has its own deep-seated fears of Indian intentions. They result not only from Pakistan's military vulnerability but also from its fragility as a multi-ethnic state torn by growing internal tensions. Islamabad suspects that New Delhi would like to undo the 1947 partition and swallow Pakistan whole or encourage Baluch, Sindhi, and Pashtun separatism. ;;;
+
+Topics::: indian;;; Score::: NaN;;;
+Topics::: growing;;; Score::: 0.11920292202211757;;;
+Topics::: islamabad separatism pashtun partition undo;;; Score::: 0.11920292202211757;;;
+Topics::: multi-ethnic deep-seated torn tensions part;;; Score::: 0.3096014610110588;;;
+Topics::: baluch state pakistan result;;; Score::: 0.11920292202211757;;;
+Topics::: intentions;;; Score::: 0.5;;;
+Topics::: pakistan's;;; Score::: NaN;;;

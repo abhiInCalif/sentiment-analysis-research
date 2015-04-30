@@ -1,0 +1,7 @@
+Text::: In the name of the Islamic revival, Ayatollah Ruhollah Khomeini has declared war on narcotics; yet despite his polemics and the recent spate of summary executions of alleged heroin traffickers, the fundamental problem of rapidly expanding opium cultivation remains. Even if the Iranian Government were willing to help farmers switch to other crops, the erosion of central Government control, particularly in important poppy-growing areas such as Iranian Baluchistan and Kurdistan, would make enforcement of an opium ban virtually impossible. In Afghanistan, although some opium crops have been destroyed in the fighting between Islamic nationalists and Communists that has ravaged much of the countryside since the Soviet intervention in December, recent reports indicate that in certain areas opium cultivation is flourishing. ;;;
+
+Topics::: ravaged;;; Score::: 0.11920292202211757;;;
+Topics::: kurdistan narcotics;;; Score::: 0.04742587317756679;;;
+Topics::: opium crops cultivation recent islamic;;; Score::: 0.09527723907393398;;;
+Topics::: areas government ban heroin farmers;;; Score::: 0.09527723907393398;;;
+Topics::: erosion flourishing problem control fighting;;; Score::: 0.09527723907393398;;;

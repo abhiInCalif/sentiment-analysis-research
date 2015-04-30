@@ -1,0 +1,5 @@
+Text::: But the Israeli Army drove on north to Beirut. ''When a head of state addresses a letter to another,'' Mr. Khaddam said, ''this means a clear undertaking. Otherwise what is the value of (such) messages? ;;;
+
+Topics::: messages letter;;; Score::: 0.38447071068499755;;;
+Topics::: undertaking addresses beirut head clear;;; Score::: 0.5;;;
+Topics::: khaddam drove;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,10 @@
+Text::: When Iraq tried to take over Kuwait in 1973, Saudi Arabia correctly saw it as a serious threat. The emergence of Iraq as the strongest gulf power would endanger all states in the region, including Israel. The Saudis, the U.S., the Soviets and others must now use their influence to convince Baghdad that it cannot afford to miss this chance for peace. ;;;
+
+Topics::: power threat states;;; Score::: 0.3096014610110588;;;
+Topics::: soviets region gulf;;; Score::: 0.5;;;
+Topics::: arabia;;; Score::: NaN;;;
+Topics::: iraq u.s emergence correctly peace;;; Score::: 0.24613528134807838;;;
+Topics::: including endanger strongest;;; Score::: 0.5;;;
+Topics::: chance miss baghdad influence kuwait;;; Score::: 0.11920292202211757;;;
+Topics::: convince saudis israel saudi;;; Score::: 0.11920292202211757;;;
+Topics::: afford;;; Score::: 0.11920292202211757;;;

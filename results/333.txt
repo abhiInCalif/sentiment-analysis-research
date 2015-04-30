@@ -1,0 +1,6 @@
+Text::: Washington has tried to compete with substantial development support. Despite the regime's recent tilt toward Libya, the contest isn't over. Once greater safety for Americans can again be assured, they should return to the fray. ;;;
+
+Topics::: regime's return support;;; Score::: 0.3096014610110588;;;
+Topics::: fray substantial compete contest recent;;; Score::: 0.24613528134807838;;;
+Topics::: safety isn't americans washington;;; Score::: 0.11920292202211757;;;
+Topics::: libya development assured;;; Score::: 0.3096014610110588;;;

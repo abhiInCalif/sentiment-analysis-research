@@ -1,0 +1,5 @@
+Text::: He has, however, furnished Hassan with $100 million in military equipment, with more to come, to help the royal army hold the Polisario and Algeria at bay until Hassan's ''settlement program'' (a la Israel in the West Bank) can nail the territory down once and for all. When the war is over, demobilized soldiers can only add to the unemployment problem. Many of the nearly one million Moroccan workers in Western Europe are already being forced to return home (where the annual per capita income is $850) to rejoin the ranks of the unemployed or perhaps to earn wages at the legal minimum of $50 per month. ;;;
+
+Topics::: wages ranks rejoin nail hassan's;;; Score::: 0.3096014610110588;;;
+Topics::: million earn demobilized unemployed unemployment;;; Score::: 0.24613528134807838;;;
+Topics::: settlement;;; Score::: 0.5;;;

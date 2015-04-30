@@ -1,0 +1,7 @@
+Text::: But both men went too far. Robespierre, after guillotining many, was guillotined himself; his fall marked a decisive turn in the French Revolution. Now Ayatollah Khalkhali has been forced out as Iran's chief scourge of narcotics traffickers. ;;;
+
+Topics::: narcotics marked men fall chief;;; Score::: 0.11920292202211757;;;
+Topics::: guillotining robespierre;;; Score::: 0.11920292202211757;;;
+Topics::: guillotined scourge french;;; Score::: 0.11920292202211757;;;
+Topics::: turn forced;;; Score::: 0.11920292202211757;;;
+Topics::: traffickers khalkhali ayatollah;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: As matters hold in the Persian Gulf, there is a standoff between the theocratic revolution of Ayatollah Khomeini and the status quo in the neighboring states. For the last several years, Iran's revolution has offered others in the Moslem world a reign of virtue, a break with routine, a Utopia. But Iran's neighbors have on the whole turned away from Iran's Utopia. ;;;
+
+Topics::: iran's utopia revolution reign standoff;;; Score::: 0.11920292202211757;;;
+Topics::: theocratic break neighboring hold years;;; Score::: 0.11920292202211757;;;
+Topics::: neighbors routine virtue matters quo;;; Score::: 0.16911575513807675;;;

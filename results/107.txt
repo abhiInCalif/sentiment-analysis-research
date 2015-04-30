@@ -1,0 +1,4 @@
+Text::: The official replied with a threat. Al-Haq then held a press conference and gave the prisoners' affidavits to reporters. As the conference began, occupation authorities ordered Mr. Shashtari detained without trial for six months. ;;;
+
+Topics::: began reporters affidavits prisoners replied;;; Score::: 0.16911575513807675;;;
+Topics::: conference trial detained ordered authorities;;; Score::: 0.11920292202211757;;;

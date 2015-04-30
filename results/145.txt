@@ -1,0 +1,6 @@
+Text::: Why not keep the Germans away and carve up Iran into spheres of influence? The deed was done in 1907. The Czar was barred from the gulf but rewarded with northern Iran and its fabled cities. ;;;
+
+Topics::: rewarded barred;;; Score::: 0.11920292202211757;;;
+Topics::: deed;;; Score::: 0.11920292202211757;;;
+Topics::: germans;;; Score::: NaN;;;
+Topics::: iran cities fabled northern czar;;; Score::: 0.11920292202211757;;;

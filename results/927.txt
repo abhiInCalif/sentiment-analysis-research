@@ -1,0 +1,5 @@
+Text::: The principle shrines and pilgrimage centers of Shiite Islam are all situated in Iraq. Indeed, all Shiites in Iran when praying use a small tablet made of the clay of the Karbala plain, near Baghdad, site of the death of the principal Shiite martyr, Imam Hussein. They put it in front of them so that their heads touch the dust of the holy site each time they do obeisance. ;;;
+
+Topics::: shrines;;; Score::: 0.11920292202211757;;;
+Topics::: site shiite obeisance karbala clay;;; Score::: 0.3096014610110588;;;
+Topics::: made;;; Score::: 0.11920292202211757;;;

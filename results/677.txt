@@ -1,0 +1,6 @@
+Text::: They still delude themselves that somebody else can be wheedled or blasted into making their wishes come true. The current Israeli leadership is determined, with substantial popular support, to bring the whole of Palestine into the Israeli state. It doesn't want talks on the future of the West Bank and Gaza. ;;;
+
+Topics::: wishes gaza;;; Score::: 0.11920292202211757;;;
+Topics::: israeli blasted wheedled substantial delude;;; Score::: 0.3096014610110588;;;
+Topics::: true;;; Score::: 0.11920292202211757;;;
+Topics::: doesn't west;;; Score::: NaN;;;

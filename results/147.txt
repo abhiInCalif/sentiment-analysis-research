@@ -1,0 +1,5 @@
+Text::: Second, the victory strategy demands that the price of that Iranian oil be maintained at a level high enough to support Iran's military machine. Taken together, high-priced oil transported safely will buy Persians the guns and missiles needed to back up their will to win. How are the Arabs and their American allies combatting this strategy? ;;;
+
+Topics::: strategy oil guns persians buy;;; Score::: 0.21902858825403593;;;
+Topics::: combatting transported maintained demands allies;;; Score::: 0.21902858825403593;;;
+Topics::: high-priced machine price arabs level;;; Score::: 0.19407217169605634;;;

@@ -1,0 +1,5 @@
+Text::: The last two months have made it clearer than ever that any political solution that matters has to be negotiated with the Palestinians. King Hussein is certainly aware of the dangers of trying to speak for them. At best, as an American diplomat said, King Hussein ''can provide the Palestinians with an entree into the negotiating process.'' ;;;
+
+Topics::: negotiating;;; Score::: 0.11920292202211757;;;
+Topics::: king palestinians hussein entree diplomat;;; Score::: 0.11920292202211757;;;
+Topics::: solution clearer provide months american;;; Score::: 0.3096014610110588;;;

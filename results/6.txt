@@ -1,0 +1,11 @@
+Text::: Even so, the course of the war has not only devastated the people of both countries, it has brought the whole region to a much more sophisticated, dangerous level of armaments. Iraq has a point in demanding that a cease-fire not become just a pause to restore forces, and Iran's need for a bit of face-saving should be understood. Teheran is trying to preserve its revolution, a goal no one else can share, but the war has only served to bolster the extremists. ;;;
+
+Topics::: extremists preserve teheran bit pause;;; Score::: 0.11920292202211757;;;
+Topics::: war level iran's brought;;; Score::: 0.3096014610110588;;;
+Topics::: demanding;;; Score::: 0.11920292202211757;;;
+Topics::: dangerous goal;;; Score::: 0.3096014610110588;;;
+Topics::: restore iraq;;; Score::: 0.11920292202211757;;;
+Topics::: face-saving armaments countries;;; Score::: 0.3096014610110588;;;
+Topics::: understood region point cease-fire;;; Score::: 0.3096014610110588;;;
+Topics::: share devastated revolution;;; Score::: 0.3096014610110588;;;
+Topics::: bolster served forces sophisticated people;;; Score::: 0.24613528134807838;;;

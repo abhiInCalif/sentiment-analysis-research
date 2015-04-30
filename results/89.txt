@@ -1,0 +1,5 @@
+Text::: ''Often the victims were quiet residents,'' the newspaper Haaretz said, ''not suspected in violent or illegal activity.'' But they were Palestinians. Those reports - those events - cry out with a political warning. ;;;
+
+Topics::: illegal residents quiet victims reports;;; Score::: 0.11920292202211757;;;
+Topics::: warning events haaretz newspaper violent;;; Score::: 0.11920292202211757;;;
+Topics::: activity suspected palestinians;;; Score::: 0.11920292202211757;;;

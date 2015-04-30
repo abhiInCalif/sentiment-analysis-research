@@ -1,0 +1,7 @@
+Text::: Each new Washington pronouncement helps harden the anti-American sentiment that has festered beneath the surface in India as a result of the 1954-1965 American military-aid fiasco in Pakistan and the pro-Islamabad tilt of the Kissinger years. To some extent, it was possible for Indians to forgive and forget after that first, $4 billion military buildup of Pakistan. America was a neophyte on the world stage and had shown goodwill toward India through its economic assistance. ;;;
+
+Topics::: shown;;; Score::: 0.11920292202211757;;;
+Topics::: india goodwill neophyte pronouncement beneath;;; Score::: 0.11920292202211757;;;
+Topics::: pakistan pro-islamabad fiasco military-aid festered;;; Score::: 0.11920292202211757;;;
+Topics::: indians extent kissinger sentiment;;; Score::: 0.11920292202211757;;;
+Topics::: tilt assistance;;; Score::: 0.11920292202211757;;;

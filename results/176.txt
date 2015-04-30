@@ -1,0 +1,8 @@
+Text::: (Herat, within fighter-bomber range of the Gulf, figures considerably in the correspondence of Queen Victoria, when the Russians were probing Baluchistan a century ago.) With the Punjab in some disarray and West Bengal under a Communist government, the Russians have now taken up station in the Gulf athwart the shipping lanes on which the economies of Japan and Western Europe depend utterly. Soviet protection has its price, however. ;;;
+
+Topics::: considerably fighter-bomber price;;; Score::: 0.3096014610110588;;;
+Topics::: russians gulf depend economies athwart;;; Score::: 0.11920292202211757;;;
+Topics::: baluchistan herat japan utterly communist;;; Score::: 0.11920292202211757;;;
+Topics::: lanes;;; Score::: 0.11920292202211757;;;
+Topics::: probing government soviet;;; Score::: 0.11920292202211757;;;
+Topics::: station disarray century victoria queen;;; Score::: 0.11920292202211757;;;

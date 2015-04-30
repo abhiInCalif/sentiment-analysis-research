@@ -1,0 +1,5 @@
+Text::: To this point, American efforts have almost all been directed against Iran. That had a certain logic as long as Iran was winning. Now that Iran is losing, it's time to put the pressure on Baghdad to negotiate. ;;;
+
+Topics::: put winning logic pressure time;;; Score::: 0.11920292202211757;;;
+Topics::: point;;; Score::: 0.11920292202211757;;;
+Topics::: iran negotiate directed efforts it's;;; Score::: 0.11920292202211757;;;

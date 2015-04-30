@@ -1,0 +1,9 @@
+Text::: A professor of philosophy at Bir Zeit University in the West Bank, he is known to many Israelis and is usually characterized as a moderate, a centrist. ''Ideally you would get the negotiating process going,'' Mr. Nusseibeh said. ''Not that the protest began for that end. ;;;
+
+Topics::: process;;; Score::: 0.11920292202211757;;;
+Topics::: ideally;;; Score::: NaN;;;
+Topics::: university bank moderate end;;; Score::: 0.19407217169605634;;;
+Topics::: zeit;;; Score::: NaN;;;
+Topics::: professor nusseibeh protest began west;;; Score::: 0.19407217169605634;;;
+Topics::: characterized;;; Score::: 0.11920292202211757;;;
+Topics::: centrist bir philosophy negotiating;;; Score::: 0.11920292202211757;;;

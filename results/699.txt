@@ -1,0 +1,6 @@
+Text:::  The swiftness of the Soviet succession surprised the commentators, including us. Chastened, we decline to predict whether Yuri Andropov will be hard or soft, detentnik or warmonger in his new role as party chief. What is clear, depressingly so, is that President Reagan is passing up a precious chance to establish a personal tie with the new order, claiming that business and protocol leave no room for attending Leonid Brezhnev's funeral. ;;;
+
+Topics::: predict establish party;;; Score::: 0.3096014610110588;;;
+Topics::: depressingly detentnik commentators funeral yuri;;; Score::: 0.3730676406740392;;;
+Topics::: room protocol warmonger soft succession;;; Score::: 0.3730676406740392;;;
+Topics::: attending tie decline swiftness andropov;;; Score::: 0.3730676406740392;;;

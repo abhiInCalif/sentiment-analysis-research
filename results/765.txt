@@ -1,0 +1,8 @@
+Text::: However, the U.S. has been vetoing the radical African, saving the Russians the embarrassment of doing so; both superpowers view Mr. Salim as too effective an activist, and prefer the continuation of Mr. Waldheim, the Uriah Heep of diplomacy, who can be counted upon to turn any independent initiatives into mush. For example, Mr. Waldheim's intercession in the Iranian hostage crisis blended moral confusion, ineptitude and duplicity so typical of U.N. affairs, which the superpowers do not mind seeing perpetuated; such lefthanded support remains his hope for salvation. The Africans now realize that their candidate cannot win; but before they withdraw Mr. Salim, they demand that the European Mr. Waldheim step down too. ;;;
+
+Topics::: counted russians;;; Score::: 0.2689414213699951;;;
+Topics::: perpetuated ineptitude blended mush saving;;; Score::: 0.19407217169605634;;;
+Topics::: lefthanded typical intercession vetoing prefer;;; Score::: 0.19407217169605634;;;
+Topics::: waldheim's activist embarrassment u.n iranian;;; Score::: 0.2689414213699951;;;
+Topics::: waldheim salim heep uriah initiatives;;; Score::: 0.2689414213699951;;;
+Topics::: u.s;;; Score::: NaN;;;

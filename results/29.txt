@@ -1,0 +1,9 @@
+Text::: There are encouraging signs that General Zia means to let political parties play a role in the voting now due within 90 days. Parties were barred from the 1984 election, provoking boycotts and clouding the legitimacy of the new civilian cabinet under Prime Minister Mohammed Khan Junejo. On the credit side, martial law was ended and more freedom was allowed to opposition figures like Benizir Bhutto, daughter of Pakistan's last elected Prime Minister, ousted and executed by General Zia. ;;;
+
+Topics::: zia bhutto junejo legitimacy barred;;; Score::: 0.11920292202211757;;;
+Topics::: general prime executed ousted elected;;; Score::: 0.11920292202211757;;;
+Topics::: mohammed side;;; Score::: 0.11920292202211757;;;
+Topics::: martial clouding play political;;; Score::: 0.24613528134807838;;;
+Topics::: daughter figures opposition allowed cabinet;;; Score::: 0.11920292202211757;;;
+Topics::: benizir election;;; Score::: 0.11920292202211757;;;
+Topics::: parties minister ended credit khan;;; Score::: 0.3096014610110588;;;

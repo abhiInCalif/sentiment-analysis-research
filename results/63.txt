@@ -1,0 +1,8 @@
+Text::: Presumably, Soviet reluctance to agree to an arms embargo on Iran is a long-range hedge in hopes of exerting future influence on Teheran and a current worry lest Iran, with two million Afghan refugees, make Soviet plans for withdrawal from Afghanistan more difficult. China has come around to saying it would go along with an embargo if everybody else does, but it is evidently counting on Soviet refusal. The rest of the world seems to calculate that letting the war grind on is less of a risk than the political cost of sanctions. ;;;
+
+Topics::: grind calculate future reluctance agree;;; Score::: 0.11920292202211757;;;
+Topics::: evidently exerting political million teheran;;; Score::: 0.11920292202211757;;;
+Topics::: refugees hopes;;; Score::: 0.11920292202211757;;;
+Topics::: afghanistan refusal;;; Score::: 0.11920292202211757;;;
+Topics::: worry;;; Score::: 0.11920292202211757;;;
+Topics::: soviet embargo iran sanctions cost;;; Score::: 0.11920292202211757;;;

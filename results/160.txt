@@ -1,0 +1,8 @@
+Text::: I am not aware that any of the Congressional critics of our Gulf policy expressed reservations when Jimmy Carter and Ronald Reagan made these policy statements. Selling our policy. The Administration has not been very adroit about this. ;;;
+
+Topics::: ronald congressional critics expressed administration;;; Score::: 0.11920292202211757;;;
+Topics::: policy selling reservations carter made;;; Score::: 0.19407217169605634;;;
+Topics::: adroit statements;;; Score::: 0.11920292202211757;;;
+Topics::: jimmy;;; Score::: NaN;;;
+Topics::: aware;;; Score::: 0.11920292202211757;;;
+Topics::: gulf;;; Score::: NaN;;;

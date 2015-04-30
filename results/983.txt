@@ -1,0 +1,6 @@
+Text::: If America had admitted significant numbers of Cambodians, Thailand would perhaps feel under less pressure to repatriate Cambodians. Most of the Khmer refugees who meet Washington's criteria for admittance - those criteria include having immediate family members in America, being at high risk of losing one's life, having had close association with the United States Government - have already been resettled in other countries. Thus, of the 14,000 Indochinese refugees admitted monthly, only about 3 percent are Cambodians. ;;;
+
+Topics::: resettled include;;; Score::: 0.11920292202211757;;;
+Topics::: cambodians criteria admitted refugees america;;; Score::: 0.11920292202211757;;;
+Topics::: government united;;; Score::: NaN;;;
+Topics::: members;;; Score::: 0.11920292202211757;;;

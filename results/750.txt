@@ -1,0 +1,7 @@
+Text::: He does not make a point of his closeness to the American Government; he does not talk of ''Walter'' or ''Barbara.'' He understands what had begun to grate in Sadat's style. When President Sadat was assassinated, most diplomats took a pretty skeptical view of Mr. Mubarak. ;;;
+
+Topics::: sadat's;;; Score::: NaN;;;
+Topics::: skeptical assassinated grate understands walter;;; Score::: 0.3096014610110588;;;
+Topics::: style talk president;;; Score::: 0.3096014610110588;;;
+Topics::: sadat view make government american;;; Score::: 0.11920292202211757;;;
+Topics::: barbara;;; Score::: NaN;;;

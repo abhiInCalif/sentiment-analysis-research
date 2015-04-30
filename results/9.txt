@@ -1,0 +1,9 @@
+Text::: Chicago's leaders have ominously been silent about Mr. Cokely. Only after local newspapers broke the story did Mayor Sawyer, behaving like a man forced to drink poison in public, dismiss him. Afterward, charging that he was the object of a plot, Mr. Cokely accepted a job with the Rev. ;;;
+
+Topics::: job;;; Score::: 0.11920292202211757;;;
+Topics::: local;;; Score::: 0.11920292202211757;;;
+Topics::: plot man chicago's;;; Score::: 0.11920292202211757;;;
+Topics::: accepted charging ominously;;; Score::: 0.19407217169605634;;;
+Topics::: rev public drink newspapers mayor;;; Score::: 0.11920292202211757;;;
+Topics::: afterward dismiss poison leaders;;; Score::: 0.19407217169605634;;;
+Topics::: cokely object forced behaving sawyer;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,4 @@
+Text::: Moral outrage is a proper response - but it must be accompanied by a political reaction that involves an appreciation of political realities and even of some parallels between Soviet involvement in Afghanistan and American concern about Nicaragua. Both small countries are geographically close to the respective superpowers. Both superpowers first welcomed the internal upheavals in their respective small neighbors - and then felt that the upheavals went sour. ;;;
+
+Topics::: welcomed appreciation reaction accompanied internal;;; Score::: 0.19407217169605634;;;
+Topics::: upheavals respective small superpowers political;;; Score::: 0.16911575513807675;;;

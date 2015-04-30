@@ -1,0 +1,5 @@
+Text::: Yet all is not well. For 30 years, most Arabs have lived in national-security states. Since the eradication of Palestine, Arab states' policy often has been built around reactions to Israelicreated ''facts,'' Western imperialism, and the battle for Palestinian rights. ;;;
+
+Topics::: states reactions eradication national-security rights;;; Score::: 0.11920292202211757;;;
+Topics::: facts palestine palestinian western arab;;; Score::: 0.11920292202211757;;;
+Topics::: israelicreated imperialism arabs lived battle;;; Score::: 0.11920292202211757;;;

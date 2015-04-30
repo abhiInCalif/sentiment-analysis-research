@@ -1,0 +1,6 @@
+Text::: Short of an outright commitment of military forces, America has no decisive leverage. But the limited leverage we do have has been effectively used. We have sought with some success to make it more difficult for Iran to acquire the weapons it needs to pursue the war. ;;;
+
+Topics::: pursue acquire;;; Score::: 0.11920292202211757;;;
+Topics::: weapons sought america short success;;; Score::: 0.11920292202211757;;;
+Topics::: commitment outright difficult war;;; Score::: 0.11920292202211757;;;
+Topics::: leverage effectively make limited military;;; Score::: 0.11920292202211757;;;

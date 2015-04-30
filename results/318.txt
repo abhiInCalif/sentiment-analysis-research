@@ -1,0 +1,8 @@
+Text::: All of this makes it a little easier for France to revert to normal policies in the area. There is no assurance that Iran could deliver the hostages if it wished, though Ayatollah Khomeini does have some influence on the fanatic Lebanese gangs that seized them. It is a reminder of the folly of outsiders trying to play factional politics in the Middle East. ;;;
+
+Topics::: factional revert assurance lebanese policies;;; Score::: 0.21902858825403593;;;
+Topics::: wished reminder folly politics ayatollah;;; Score::: 0.19407217169605634;;;
+Topics::: play;;; Score::: 0.2689414213699951;;;
+Topics::: gangs easier makes normal influence;;; Score::: 0.19407217169605634;;;
+Topics::: hostages;;; Score::: 0.11920292202211757;;;
+Topics::: fanatic deliver seized outsiders area;;; Score::: 0.21902858825403593;;;

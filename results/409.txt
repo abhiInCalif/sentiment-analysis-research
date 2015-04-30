@@ -1,0 +1,7 @@
+Text::: The lack of effective authority, the convenient location and cosmopolitan flavor, easy access to arms and money have made Beirut the hub of international terrorism for years. It's not the source, but it cannot escape degradation for harboring such a commerce. Attempting to cut off the airport makes sense as a temporary preventive measure that will complicate the plans of hijackers. ;;;
+
+Topics::: hijackers preventive commerce location measure;;; Score::: 0.11920292202211757;;;
+Topics::: degradation temporary cut effective;;; Score::: 0.11920292202211757;;;
+Topics::: source hub money makes attempting;;; Score::: 0.11920292202211757;;;
+Topics::: complicate flavor years arms made;;; Score::: 0.11920292202211757;;;
+Topics::: escape cosmopolitan harboring airport;;; Score::: 0.11920292202211757;;;

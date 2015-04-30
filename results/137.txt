@@ -1,0 +1,6 @@
+Text::: Friction is the inevitable result, and Soviet military capabilities demand counterbalance and vigilance. Yet there are important common and parallel interests, which also demand attention. Telling these truths will be less exciting than spinning dreams or spitting insults, but far more helpful to steady policy. ;;;
+
+Topics::: spitting counterbalance;;; Score::: 0.11920292202211757;;;
+Topics::: insults truths interests vigilance friction;;; Score::: 0.24613528134807838;;;
+Topics::: parallel;;; Score::: 0.5;;;
+Topics::: demand steady helpful dreams spinning;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,7 @@
+Text:::  Six years ago, Soviet armed forces invaded Afghanistan, killed the president and installed a puppet regime. Since then, the occupation has grown in size and brutality. Supported by tanks, artillery and air power, Soviet troops have increased to about 120,000; Soviet losses already exceed 30,000. ;;;
+
+Topics::: losses invaded regime;;; Score::: 0.08331439759984219;;;
+Topics::: soviet brutality grown puppet artillery;;; Score::: 0.09527723907393398;;;
+Topics::: exceed supported size armed increased;;; Score::: 0.09527723907393398;;;
+Topics::: installed tanks troops ago power;;; Score::: 0.08331439759984219;;;
+Topics::: killed;;; Score::: 0.11920292202211757;;;

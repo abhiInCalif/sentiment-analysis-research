@@ -1,0 +1,7 @@
+Text::: A coalition dominated by Islamic fundamentalists clamors to be the authentic voice of the Afghan people, a claim supported by Pakistan. Are they right? It would be arrogant for foreigners to presume to know who truly speaks for an occupied nation. ;;;
+
+Topics::: claim authentic clamors dominated supported;;; Score::: 0.11920292202211757;;;
+Topics::: foreigners occupied fundamentalists afghan nation;;; Score::: 0.11920292202211757;;;
+Topics::: presume;;; Score::: 0.11920292202211757;;;
+Topics::: arrogant voice pakistan coalition people;;; Score::: 0.11920292202211757;;;
+Topics::: speaks;;; Score::: 0.11920292202211757;;;

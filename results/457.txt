@@ -1,0 +1,6 @@
+Text::: He said the colonel ''may have his moods, as we all do, but he keeps his word. He is a man of his word.'' Nor was he concerned by the fact that Algeria has filled the gap and is giving the Polisario even better equipment than it had before. ;;;
+
+Topics::: word polisario algeria moods equipment;;; Score::: 0.2689414213699951;;;
+Topics::: giving;;; Score::: 0.2689414213699951;;;
+Topics::: concerned;;; Score::: 0.2689414213699951;;;
+Topics::: gap filled fact;;; Score::: 0.2689414213699951;;;

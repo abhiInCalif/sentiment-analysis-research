@@ -1,0 +1,6 @@
+Text::: The people, who are from desert tribes, learned to surmount the harshness of life in a wasteland with an ardent faith. Col. Qaddafi has always known he could not expect to succeed Nasser as the champion of Arabs without more and more sophisticated people. So he tried merger after merger -with Egypt, with Syria, with Tunisia - offering money in return for population and cultural tradition. ;;;
+
+Topics::: population;;; Score::: 0.11920292202211757;;;
+Topics::: expect arabs;;; Score::: 0.11920292202211757;;;
+Topics::: ardent wasteland surmount harshness tribes;;; Score::: 0.11920292202211757;;;
+Topics::: merger people tunisia offering col;;; Score::: 0.11920292202211757;;;

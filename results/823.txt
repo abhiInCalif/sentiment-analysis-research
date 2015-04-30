@@ -1,0 +1,5 @@
+Text::: Thought may be given to the imperative of upholding principles in international relations and to the responsibility of the United States as one of the main custodians of international peace. Peace will be effectively strengthened in Southwest Asia by a firm American commitment to help Pakistan maintain itself as an independent, sovereign and nonaligned nation. On its part, Pakistan remains committed to a policy of strict nonalignment and to the purposes and principles of the Islamic Conference. ;;;
+
+Topics::: peace southwest custodians committed thought;;; Score::: 0.19407217169605634;;;
+Topics::: principles pakistan international imperative strict;;; Score::: 0.19407217169605634;;;
+Topics::: sovereign nonaligned responsibility commitment conference;;; Score::: 0.19407217169605634;;;

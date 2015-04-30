@@ -1,0 +1,6 @@
+Text::: expenses, says Mr. Arafat, are met not only by contributions from many Arab countries, particularly the Saudis, but also by a ''tithe'' of 3 to 6 percent of the income of all Palestinians working in the Arab world abroad. As for the future, ''We will continue our struggle.'' With an air of resignation, he adds: ''It's our destiny - and no one can escape his destiny.'' ;;;
+
+Topics::: met palestinians;;; Score::: 0.11920292202211757;;;
+Topics::: countries;;; Score::: 0.11920292202211757;;;
+Topics::: destiny arab resignation tithe contributions;;; Score::: 0.11920292202211757;;;
+Topics::: adds air;;; Score::: 0.11920292202211757;;;

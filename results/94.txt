@@ -1,0 +1,6 @@
+Text::: ''We don't want Israel to lose face. We don't want winners and losers.'' Mr. Siniora is a moderate with whom it would no doubt be nice to negotiate. ;;;
+
+Topics::: siniora;;; Score::: NaN;;;
+Topics::: doubt;;; Score::: 0.11920292202211757;;;
+Topics::: don't winners face losers moderate;;; Score::: 0.11920292202211757;;;
+Topics::: nice;;; Score::: 0.11920292202211757;;;

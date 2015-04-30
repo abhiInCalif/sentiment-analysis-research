@@ -1,0 +1,6 @@
+Text::: The Western interest is to build the power of Egypt and Israel, allies that do not flaunt their unreliability. Fourth, the arrogant nonsense of refusing us landing bases for the planes protecting oil-tanker convoys must stop. Perdicaris alive or Raisuli dead; let us land our planes or let us get our ships out of there. ;;;
+
+Topics::: oil-tanker refusing fourth build ships;;; Score::: 0.24613528134807838;;;
+Topics::: planes raisuli perdicaris landing unreliability;;; Score::: 0.24613528134807838;;;
+Topics::: alive convoys nonsense flaunt bases;;; Score::: 0.24613528134807838;;;
+Topics::: protecting arrogant interest stop;;; Score::: 0.3096014610110588;;;

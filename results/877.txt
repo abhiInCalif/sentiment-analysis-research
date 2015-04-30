@@ -1,0 +1,7 @@
+Text::: And France has proposed a peace conference of unclear value. The overriding American concern has been to prevent a permanent Soviet military deployment in Afghanistan, which would extend Moscow's reach toward the Persian Gulf. And any political settlement ought to reaffirm the principle that Soviet military intervention in Afghanistan is unacceptable. ;;;
+
+Topics::: unacceptable military;;; Score::: 0.11920292202211757;;;
+Topics::: afghanistan soviet unclear reaffirm reach;;; Score::: 0.24613528134807838;;;
+Topics::: prevent;;; Score::: 0.11920292202211757;;;
+Topics::: proposed moscow's political persian;;; Score::: 0.3096014610110588;;;
+Topics::: overriding principle american;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: He knows what chance he has now of persuading King Hussein or West Bank leaders to speak out for peace with Israel. The effect of Israel's massive attack is to vindicate, in the Arab world, the arguments of the intransigents who said it was not possible to do business with Israel. President Assad of Syria, who spiked the Fahd plan at Fez last year, is the key figure among them - and his part in the current war, however reluctant, will help his Arab image. ;;;
+
+Topics::: israel's syria;;; Score::: NaN;;;
+Topics::: image spiked arguments business world;;; Score::: 0.08331439759984219;;;
+Topics::: west;;; Score::: NaN;;;
+Topics::: vindicate fez assad fahd reluctant;;; Score::: 0.08331439759984219;;;
+Topics::: israel figure chance;;; Score::: 0.2737129365887834;;;
+Topics::: arab intransigents persuading massive speak;;; Score::: 0.3096014610110588;;;

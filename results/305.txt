@@ -1,0 +1,8 @@
+Text:::  This year of Gramm-Rudman-Hollings sure isn't the best time to vote for more foreign aid. And yes, the Senate majority leader, Bob Dole, a Republican, has reason to be annoyed with the Democratic House. Just after hearing President Corazon Aquino of the Philippines last Thursday, the House voted an extra $200 million for her country - what Mr. Dole scorns as a ''$200 million honorarium'' for a speech. ;;;
+
+Topics::: scorns annoyed president foreign;;; Score::: 0.11920292202211757;;;
+Topics::: senate;;; Score::: NaN;;;
+Topics::: thursday republican corazon house hearing;;; Score::: 0.11920292202211757;;;
+Topics::: speech vote;;; Score::: 0.11920292202211757;;;
+Topics::: honorarium extra gramm-rudman-hollings voted democratic;;; Score::: 0.11920292202211757;;;
+Topics::: dole million house philippines majority;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: Of this total, 17 percent are Laotians, 78 percent are Vietnamese, and only 5 percent are Cambodians. In the wake of Thailand's repatriation of Cambodians begun this week, the disappointment in the Cambodian community here regarding the small percentage of Cambodians admitted to this country has begun turning to bitterness. Complaints are widespread that certain criteria for admitting Indochinese refugees have left most Cambodians ineligible for resettlement here. ;;;
+
+Topics::: admitted;;; Score::: 0.2689414213699951;;;
+Topics::: cambodians percent begun resettlement ineligible;;; Score::: 0.16911575513807675;;;
+Topics::: disappointment;;; Score::: 0.2689414213699951;;;

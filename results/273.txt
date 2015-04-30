@@ -1,0 +1,7 @@
+Text::: How plausible would it be to insist on a policy of never bargaining with terrorists? Would Congress lightly forgive the flouting of law and consultation? How quickly would such a sudden contradiction confuse, even inflame a public that has learned to despise the cruel zealots of Iran? ;;;
+
+Topics::: despise confuse sudden policy;;; Score::: 0.11920292202211757;;;
+Topics::: inflame lightly bargaining learned congress;;; Score::: 0.16911575513807675;;;
+Topics::: zealots forgive consultation terrorists quickly;;; Score::: 0.16911575513807675;;;
+Topics::: cruel law iran;;; Score::: 0.19407217169605634;;;
+Topics::: contradiction flouting;;; Score::: 0.19407217169605634;;;

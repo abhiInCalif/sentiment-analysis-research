@@ -1,0 +1,5 @@
+Text::: They fear that a Soviet-Iranian-Syrian axis could grab Kuwait, topple the King of Jordan and encourage subversion in the Saudi oilfields. Responding to this fear, Secretary Haig is reversing his approach to the autonomy talks between Egypt and Israel. Up to now, we have been content to leave those talks about administration of the West Bank impaled on an impasse, with the Israelis insisting on talks in Jerusalem, and the Egyptians resisting. ;;;
+
+Topics::: talks fear impaled reversing soviet-iranian-syrian;;; Score::: 0.11920292202211757;;;
+Topics::: egyptians grab haig topple autonomy;;; Score::: 0.11920292202211757;;;
+Topics::: content leave king secretary kuwait;;; Score::: 0.11920292202211757;;;

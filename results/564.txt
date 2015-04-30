@@ -1,0 +1,5 @@
+Text::: in the past. The only reason he ever gave, as far as I know, is that he is ready to support any fight against ''colonialism.'' The more shadowy threat to the U.S. suggests a navy base but it is improbable he would consider it in his own interest to go so far. ;;;
+
+Topics::: suggests improbable ready interest u.s;;; Score::: 0.11920292202211757;;;
+Topics::: colonialism;;; Score::: 0.11920292202211757;;;
+Topics::: shadowy base past gave fight;;; Score::: 0.16911575513807675;;;

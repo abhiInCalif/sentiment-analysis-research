@@ -1,0 +1,11 @@
+Text::: When Jews have objected to them, they have been accused of trying to impose their will on the black community. Mad as the entire series of incidents may be regarded, madder still is the failure of any but the State's Attorney, Richard M. Daley, and editorial writers and columnists to denounce them. In a mirror reflection of the opportunistic racism they have criticized in such white leaders as Edward R. Vrdolyak, black politicians cynically fan the anti-Jewish mood in their wards. ;;;
+
+Topics::: wards racism;;; Score::: 0.11920292202211757;;;
+Topics::: opportunistic failure;;; Score::: 0.11920292202211757;;;
+Topics::: attorney leaders;;; Score::: 0.11920292202211757;;;
+Topics::: mood fan cynically anti-jewish;;; Score::: 0.11920292202211757;;;
+Topics::: vrdolyak mirror columnists editorial impose;;; Score::: 0.11920292202211757;;;
+Topics::: black criticized richard;;; Score::: 0.11920292202211757;;;
+Topics::: series entire mad;;; Score::: 0.11920292202211757;;;
+Topics::: reflection denounce state's;;; Score::: 0.11920292202211757;;;
+Topics::: politicians edward writers daley madder;;; Score::: 0.11920292202211757;;;

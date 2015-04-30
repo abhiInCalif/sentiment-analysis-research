@@ -1,0 +1,9 @@
+Text:::  LEAD: Secretary of State George P. Shultz should be commended for his earnest efforts to reinvigorate the Arab-Israeli peace process. Most of the debate about his proposal has focused on the pros and cons of an international peace conference and on the principle of exchanging land for peace. While these are important issues, his plan is fundamentally flawed in two ways that have received too little attention. ;;;
+
+Topics::: proposal debate process earnest efforts;;; Score::: 0.5;;;
+Topics::: plan conference cons international important;;; Score::: 0.3096014610110588;;;
+Topics::: arab-israeli;;; Score::: NaN;;;
+Topics::: principle pros;;; Score::: 0.5;;;
+Topics::: ways flawed focused state lead;;; Score::: 0.3096014610110588;;;
+Topics::: commended secretary;;; Score::: 0.5;;;
+Topics::: peace attention received fundamentally issues;;; Score::: 0.3730676406740392;;;

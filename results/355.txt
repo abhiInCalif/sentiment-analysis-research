@@ -1,0 +1,7 @@
+Text::: With the important exceptions of Iran and Syria, Libya's claim and cause have received only lip service from Middle Eastern and Islamic nations. European allies, some with big commercial stakes in Libya, are restraining their tongues. Despite the destruction of a Soviet missile installation in Libya, the response from Moscow has thus far been guarded. ;;;
+
+Topics::: big iran;;; Score::: 0.11920292202211757;;;
+Topics::: commercial missile;;; Score::: 0.11920292202211757;;;
+Topics::: installation islamic;;; Score::: 0.11920292202211757;;;
+Topics::: lip syria middle;;; Score::: 0.11920292202211757;;;
+Topics::: libya destruction tongues exceptions libya's;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: But before that day a lot more Afghan blood will have to be spilled to give the resistance the fruit of victory it has already earned - a chance to form a new government. Americans do not seem to care a great deal. The major reason probably is that the withdrawal of Soviet forces is so welcome and desirable. ;;;
+
+Topics::: major form earned blood day;;; Score::: 0.5;;;
+Topics::: withdrawal;;; Score::: 0.5;;;
+Topics::: desirable care fruit lot government;;; Score::: 0.3730676406740392;;;
+Topics::: chance reason;;; Score::: 0.5;;;

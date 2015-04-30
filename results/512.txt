@@ -1,0 +1,5 @@
+Text::: Only those who wished to see Turkey further destabilized objected to the takeover. The military's pledge to restore order and return to democracy is being kept. A new Constitution was adopted by national referendum in 1982, national and local elections have been held and journalists and generals alike expect that martial law will gradually be lifted in all provinces. ;;;
+
+Topics::: pledge adopted local restore;;; Score::: 0.19407217169605634;;;
+Topics::: wished referendum lifted;;; Score::: 0.19407217169605634;;;
+Topics::: national provinces alike military's destabilized;;; Score::: 0.19407217169605634;;;

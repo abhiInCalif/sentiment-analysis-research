@@ -1,0 +1,5 @@
+Text:::  Secretary of State Shultz was surely not including Iran among the law-abiding nations he summoned last Sunday to help put an end to terrorism. Iran has usually appeared high on Washington's list of nations thought to be supporting terror. Yet Iran has now spoken the right words and, however tardily, apparently done some right things in storming a hijacked Kuwaiti airliner in Teheran. ;;;
+
+Topics::: things;;; Score::: 0.11920292202211757;;;
+Topics::: hijacked storming summoned terror sunday;;; Score::: 0.24613528134807838;;;
+Topics::: iran nations tardily spoken list;;; Score::: 0.24613528134807838;;;

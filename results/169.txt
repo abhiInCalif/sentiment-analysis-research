@@ -1,0 +1,8 @@
+Text::: Can American warships defend themselves against the Silkworm missiles or can't they? The trouble with all this confusion on means and ends is that it fuzzes over the very real interests the United States has in the gulf. If it wants to be taken seriously in negotiations between moderate Arabs and Israelis, and between Iran and Iraq, and in the struggle against Islamic revolutions and terrorism, and in global rivalry with the Soviet Union, the United States must be prepared to take risks in the gulf. ;;;
+
+Topics::: global trouble union;;; Score::: 0.11920292202211757;;;
+Topics::: rivalry prepared arabs islamic negotiations;;; Score::: 0.11920292202211757;;;
+Topics::: defend revolutions israelis;;; Score::: 0.19407217169605634;;;
+Topics::: states fuzzes;;; Score::: 0.11920292202211757;;;
+Topics::: united ends confusion silkworm interests;;; Score::: 0.11920292202211757;;;
+Topics::: gulf struggle warships risks can't;;; Score::: 0.16911575513807675;;;

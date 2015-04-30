@@ -1,0 +1,6 @@
+Text::: The caption reads, ''Le Pen tells the truth but he is being gagged.'' The problem is precisely that his mean-minded message, offered with cheerful, charming style, is getting across. The message is that the problems of France all stem from the influx of migrants, specifically Arabs and Africans. ;;;
+
+Topics::: mean-minded tells pen precisely arabs;;; Score::: 0.3096014610110588;;;
+Topics::: style;;; Score::: 0.5;;;
+Topics::: specifically influx stem charming cheerful;;; Score::: 0.3096014610110588;;;
+Topics::: message africans migrants caption problem;;; Score::: 0.24613528134807838;;;

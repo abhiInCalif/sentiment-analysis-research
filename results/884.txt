@@ -1,0 +1,9 @@
+Text::: Although they winced when the French Embassy in Tripoli was deliberately burned down a year ago, their oil thirst and general pro-Arab policy kept them on fairly good terms with Libya despite their conflicting stands in black Africa. But now Qaddafi has probably gone too far. Not only have his tanks and planes taken over Chad's capital, Ndjamena, he has also proclaimed a ''merger'' - others call it an annexation - of his vast southern neighbor, within whose borders he had been backing one or another faction in their endemic civil war for years. ;;;
+
+Topics::: burned planes french call war;;; Score::: 0.08331439759984219;;;
+Topics::: deliberately qaddafi africa year black;;; Score::: 0.11920292202211757;;;
+Topics::: merger fairly;;; Score::: 0.08331439759984219;;;
+Topics::: endemic ndjamena winced chad's annexation;;; Score::: 0.08331439759984219;;;
+Topics::: civil;;; Score::: 0.04742587317756679;;;
+Topics::: libya stands southern;;; Score::: 0.08331439759984219;;;
+Topics::: thirst pro-arab tripoli proclaimed faction;;; Score::: 0.08331439759984219;;;

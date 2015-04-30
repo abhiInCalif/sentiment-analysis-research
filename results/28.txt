@@ -1,0 +1,8 @@
+Text:::  LEAD: When Pakistan's President, Mohammad Zia ul-Haq, declared himself a democrat four years ago and held the first elections since his 1977 coup, skeptics dismissed his move as cosmetic. A more substantive change could result from the steps he has just taken, sacking his Prime Minister and dissolving the National Assembly - for alleged corruption, indifference to growing lawlessness and delay in transforming Pakistan into an When Pakistan's President, Mohammad Zia ul-Haq, declared himself a democrat four years ago and held the first elections since his 1977 coup, skeptics dismissed his move as cosmetic. A more substantive change could result from the steps he has just taken, sacking his Prime Minister and dissolving the National Assembly - for alleged corruption, indifference to growing lawlessness and delay in transforming Pakistan into an Islamic society. ;;;
+
+Topics::: lawlessness;;; Score::: 0.11920292202211757;;;
+Topics::: pakistan growing prime sacking steps;;; Score::: 0.11920292202211757;;;
+Topics::: corruption alleged coup elections transforming;;; Score::: 0.11920292202211757;;;
+Topics::: assembly dismissed held ago;;; Score::: 0.11920292202211757;;;
+Topics::: delay indifference minister change democrat;;; Score::: 0.11920292202211757;;;
+Topics::: dissolving cosmetic move mohammad result;;; Score::: 0.11920292202211757;;;

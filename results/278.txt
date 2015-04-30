@@ -1,0 +1,6 @@
+Text::: There have been changes since: the effects of the war, the deteriorated economic situation in Iran. But there is a raging battle for succession to Ayatollah Khomeini. Instead of thinking it can influence the outcome, the U.S. should have known there couldn't be a worse time to venture into a power struggle it knows little about. ;;;
+
+Topics::: worse couldn't thinking battle outcome;;; Score::: 0.11920292202211757;;;
+Topics::: war;;; Score::: 0.2689414213699951;;;
+Topics::: venture effects struggle economic influence;;; Score::: 0.19407217169605634;;;
+Topics::: succession deteriorated raging situation;;; Score::: 0.19407217169605634;;;

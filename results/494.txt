@@ -1,0 +1,6 @@
+Text:::  Israel and its neighbors are backing away from both war and diplomacy toward a new equilibrium of forces. As Secretary of State Shultz wisely recognizes, the most useful immediate American response is to stand clear of the process. Israel wants to end the occupation of Lebanon, leaving Syria to make what it can of the factional strife there. ;;;
+
+Topics::: neighbors occupation make wisely lebanon;;; Score::: 0.16911575513807675;;;
+Topics::: recognizes process;;; Score::: 0.11920292202211757;;;
+Topics::: clear;;; Score::: 0.11920292202211757;;;
+Topics::: israel strife equilibrium factional backing;;; Score::: 0.19407217169605634;;;

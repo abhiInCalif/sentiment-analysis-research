@@ -1,0 +1,10 @@
+Text::: At the same time, Tripoli smugly announced the signing of a new oil exploration pact with a Government-dominated French company. It triggered a political explosion both inside France and among the pro-French states of Africa. President Giscard d'Estaing was accused of selling out Chad, whose small French garrison was withdrawn last year at the request of the Organization of African Unity, in return for hopes of oil. ;;;
+
+Topics::: tripoli africa hopes states;;; Score::: 0.19407217169605634;;;
+Topics::: pact;;; Score::: 0.11920292202211757;;;
+Topics::: oil d'estaing pro-french exploration explosion;;; Score::: 0.16911575513807675;;;
+Topics::: inside;;; Score::: 0.2689414213699951;;;
+Topics::: garrison triggered;;; Score::: 0.19407217169605634;;;
+Topics::: withdrawn;;; Score::: 0.11920292202211757;;;
+Topics::: giscard;;; Score::: NaN;;;
+Topics::: french government-dominated smugly announced request;;; Score::: 0.11920292202211757;;;

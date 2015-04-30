@@ -1,0 +1,7 @@
+Text::: But public reaction so far indicates there is also sensitivity to the human issues, and some shift in the battle lines of ideology. The French Communists, whose return to a ll0 percent pro-Moscow line has virtually killed the notion of a relatively independent, vaguely liberal Eurocommunism, have shown where they stand on the aspirations of nonwhites just when wider world perceptions of who is ''progressive'' are changing. Though isolated, the incident has broad implications about morality and global political conflict. ;;;
+
+Topics::: eurocommunism ideology reaction progressive shown;;; Score::: 0.2737129365887834;;;
+Topics::: wider;;; Score::: 0.04742587317756679;;;
+Topics::: pro-moscow line independent implications;;; Score::: 0.08331439759984219;;;
+Topics::: nonwhites vaguely isolated notion liberal;;; Score::: 0.08331439759984219;;;
+Topics::: perceptions incident changing sensitivity morality;;; Score::: 0.22220959839989476;;;

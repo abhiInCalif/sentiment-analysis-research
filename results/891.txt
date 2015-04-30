@@ -1,0 +1,9 @@
+Text::: For an American, there is stinging but ironic familiarity in the Communist charge that it's mere hypocrisy for the comfortable middle classes to condemn bigotry when their neighborhoods and schools are safe from significant racial change. With elections coming next spring, the Communists were obviously seeking to exploit gut fears and resentments stirred by the economic crisis. There are the makings of something extremely ugly here, not just among Communists. ;;;
+
+Topics::: racial exploit mere extremely condemn;;; Score::: 0.11920292202211757;;;
+Topics::: stinging coming;;; Score::: 0.11920292202211757;;;
+Topics::: resentments significant;;; Score::: 0.11920292202211757;;;
+Topics::: ugly;;; Score::: 0.11920292202211757;;;
+Topics::: communists gut comfortable hypocrisy ironic;;; Score::: 0.11920292202211757;;;
+Topics::: stirred neighborhoods classes spring seeking;;; Score::: 0.11920292202211757;;;
+Topics::: safe;;; Score::: 0.11920292202211757;;;

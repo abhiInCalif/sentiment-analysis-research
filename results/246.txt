@@ -1,0 +1,7 @@
+Text::: But the main question is whether arms control should pre-empt the American-Soviet agenda to the exclusion of the regional tensions that are more likely to threaten world peace than erudite debate on the number of warheads. There is no possible outcome of an arms control agreement that would not leave the world exposed to the threat of a nuclear war - even if there were spectacular reductions in nuclear weaponry. On the other hand, wars raging in the Gulf and Afghanistan and unresolved tensions elsewhere could conceivably lead to fatal miscalculations. ;;;
+
+Topics::: nuclear arms reductions spectacular exposed;;; Score::: 0.11920292202211757;;;
+Topics::: tensions wars american-soviet pre-empt agenda;;; Score::: 0.11920292202211757;;;
+Topics::: main;;; Score::: 0.11920292202211757;;;
+Topics::: fatal;;; Score::: 0.11920292202211757;;;
+Topics::: control world conceivably unresolved raging;;; Score::: 0.11920292202211757;;;

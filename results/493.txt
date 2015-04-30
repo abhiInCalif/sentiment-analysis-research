@@ -1,0 +1,6 @@
+Text::: The Afghan rebels are obviously receiving relatively unsophisticated weapons from Western and Islamic well-wishers. That help, allowing them to hold sway in the countryside, is no less justifiable than Soviet help to Communist insurgents in Indochina not so long ago. In Vietnam, Soviet diplomacy argued for reconciliation and a withdrawal of foreign armies, the terms it rejects for Afghanistan. ;;;
+
+Topics::: countryside rejects rebels argued afghanistan;;; Score::: 0.11920292202211757;;;
+Topics::: soviet sway well-wishers unsophisticated justifiable;;; Score::: 0.11920292202211757;;;
+Topics::: receiving armies terms afghan;;; Score::: 0.11920292202211757;;;
+Topics::: indochina communist western hold;;; Score::: 0.11920292202211757;;;

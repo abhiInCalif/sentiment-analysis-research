@@ -1,0 +1,10 @@
+Text::: That was when the Iranian oil minister paid a visit to Saudi Arabia's King Fahd in Riyadh. Reduce production to raise prices or else, was the message; Iran was prepared to stimulate an uprising of Shiite followers of the Ayatollah within Fahd's sparsely populated Kingdom. The nervous Saudis caved in; Sheik Yamani was fired, production was cut and the price of oil has risen to over $20 a barrel. ;;;
+
+Topics::: production barrel fired nervous populated;;; Score::: 0.11920292202211757;;;
+Topics::: oil riyadh;;; Score::: 0.19407217169605634;;;
+Topics::: sheik prepared prices saudis;;; Score::: 0.11920292202211757;;;
+Topics::: price;;; Score::: 0.11920292202211757;;;
+Topics::: caved stimulate reduce kingdom;;; Score::: 0.11920292202211757;;;
+Topics::: cut message fahd paid king;;; Score::: 0.16911575513807675;;;
+Topics::: yamani raise minister saudi;;; Score::: 0.19407217169605634;;;
+Topics::: followers;;; Score::: 0.11920292202211757;;;

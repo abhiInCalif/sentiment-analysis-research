@@ -1,0 +1,7 @@
+Text::: Now there is little pretense of holding new elections. Instead, General Zia has launched a plan of ''Islamization'' designed to win over conservative Moslem clerics. His Islam is shorn of the spiritual, moral and civic virtues that had assured Islamic civilization its richness and humanity. ;;;
+
+Topics::: humanity virtues civic conservative pretense;;; Score::: 0.29604811446403756;;;
+Topics::: richness shorn islamization moral assured;;; Score::: 0.5;;;
+Topics::: spiritual civilization holding plan;;; Score::: 0.29604811446403756;;;
+Topics::: clerics;;; Score::: 0.11920292202211757;;;
+Topics::: general;;; Score::: NaN;;;

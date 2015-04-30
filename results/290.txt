@@ -1,0 +1,5 @@
+Text::: But even in that hopeless country of warring sects, the Shiite rebellion sprang out of Lebanon's own situation - out of a deep sense of disinheritance and a decade of Israeli-Palestinian war. In Lebanon and throughout the region, the issues raised by Iran's revolution were issues of the social contract in the Arab world. And these are issues that America could approach with equanimity and with no great partisanship. ;;;
+
+Topics::: contract lebanon's sects hopeless rebellion;;; Score::: 0.19407217169605634;;;
+Topics::: issues equanimity approach raised disinheritance;;; Score::: 0.16911575513807675;;;
+Topics::: partisanship warring situation sense decade;;; Score::: 0.11920292202211757;;;

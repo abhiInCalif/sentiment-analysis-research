@@ -1,0 +1,7 @@
+Text::: Any practical solution to the Jerusalem problem must be arrived at after the peace process has come to its logical conclusion with a settlement between Israel and the Arab countries and the solution to the questions of Palestine, the West Bank, and Gaza. When those ends are achieved, the question of Jerusalem must be approached with an open mind that goes beyond the issue of Israeli sovereignty and that will address that difficult issue but also other intricate problems inherent in the Jerusalem problem. What will be needed are innovative approaches and subtle negotiations to what is basically a political problem. ;;;
+
+Topics::: jerusalem solution issue subtle innovative;;; Score::: 0.24613528134807838;;;
+Topics::: sovereignty ends approached peace;;; Score::: 0.11920292202211757;;;
+Topics::: open;;; Score::: 0.11920292202211757;;;
+Topics::: question difficult israel;;; Score::: 0.11920292202211757;;;
+Topics::: problem inherent practical basically conclusion;;; Score::: 0.24613528134807838;;;

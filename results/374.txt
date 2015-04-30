@@ -1,0 +1,5 @@
+Text::: The war in Afghanistan has become a serious irritant in Moscow's relations with the third world, as the last United Nations condemnation showed. It is also an obstacle in Moscow's search for better relations with China, and President Reagan has made clear that the United States considers it a major test of Soviet intentions. So there are internal and external reasons to support the assessment that Moscow is prepared to seek a compromise. ;;;
+
+Topics::: intentions reasons external test major;;; Score::: 0.11920292202211757;;;
+Topics::: obstacle seek reagan prepared clear;;; Score::: 0.11920292202211757;;;
+Topics::: moscow's relations united assessment search;;; Score::: 0.11920292202211757;;;

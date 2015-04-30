@@ -1,0 +1,6 @@
+Text::: Mr. Shultz's call to move from ''passive'' to ''active defense'' against such terrorism is disturbing. What does he mean? If it's more surveillance and infiltration of conspirators in order to be warned of plots, that's useful. ;;;
+
+Topics::: conspirators;;; Score::: 0.11920292202211757;;;
+Topics::: warned order;;; Score::: 0.11920292202211757;;;
+Topics::: plots infiltration disturbing active terrorism;;; Score::: 0.19407217169605634;;;
+Topics::: passive surveillance shultz's that's move;;; Score::: 0.19407217169605634;;;

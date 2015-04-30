@@ -1,0 +1,7 @@
+Text::: That is why an Iranian mission has been dispatched to Kuwait to offer a deal: get Arab Iraq to stop its effective bombing of our tankers, say the Persians, and we will stop our ineffective efforts to interdict your shipping. The Iranians would thus get what they need - unmolested transport of their oil. The U.S. would have intervened on the side of the Arabs but, in the name of free navigation, would be aiding the Persians. ;;;
+
+Topics::: persians stop aiding intervened transport;;; Score::: 0.09527723907393398;;;
+Topics::: effective navigation;;; Score::: 0.08331439759984219;;;
+Topics::: bombing free deal oil iranian;;; Score::: 0.09527723907393398;;;
+Topics::: efforts tankers;;; Score::: 0.04742587317756679;;;
+Topics::: arabs u.s arab;;; Score::: NaN;;;

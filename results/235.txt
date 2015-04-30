@@ -1,0 +1,5 @@
+Text::: The test for Mr. Gorbachev, as it was for the United States in Vietnam, is whether he is prepared to lose, or risk losing. To acknowledge a blunder of such magnitude would have adverse repercussions for Soviet power at home and in Eastern Europe -though it also might open the way for a rapprochement with China. But carrying on is hardly more attractive. ;;;
+
+Topics::: vietnam open risk;;; Score::: 0.11920292202211757;;;
+Topics::: rapprochement repercussions adverse magnitude blunder;;; Score::: 0.11920292202211757;;;
+Topics::: carrying europe lose united;;; Score::: 0.11920292202211757;;;

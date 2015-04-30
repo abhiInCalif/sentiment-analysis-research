@@ -1,0 +1,10 @@
+Text::: These are matters that can be independently corroborated. Exploring this underworld may also show why Bulgaria gave sanctuary to Gray Wolves who fled Turkey when the military seized power there in 1980. Whether Mr. Agca dissembles for reasons of madness or design, some valuable truths may emerge about Turkey's right-wing terrorists and their connections with Communist Bulgaria. ;;;
+
+Topics::: madness;;; Score::: 0.5;;;
+Topics::: right-wing dissembles independently wolves sanctuary;;; Score::: 0.29604811446403756;;;
+Topics::: exploring valuable;;; Score::: 0.5;;;
+Topics::: underworld gray agca;;; Score::: 0.11920292202211757;;;
+Topics::: bulgaria connections turkey's fled seized;;; Score::: 0.3096014610110588;;;
+Topics::: design;;; Score::: 0.5;;;
+Topics::: corroborated terrorists show;;; Score::: 0.29604811446403756;;;
+Topics::: reasons;;; Score::: 0.5;;;

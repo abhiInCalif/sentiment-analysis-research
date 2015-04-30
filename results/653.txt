@@ -1,0 +1,6 @@
+Text::: Yet before long, the ideological militancy of Hafizullah Amin, Prime Minister and later President, led to the disintegration of the revolutionary coalition, as both the nationalists and the conservative tribes and mullahs who originally supported it became alienated from the new Government. When widespread insurgency showed that the country was turning hostile to the Soviet Union, the Russians tried to eliminate Mr. Amin. The attempt misfired, however, and then, in nervous impetuosity, the Kremlin launched the ill-fated military intervention. ;;;
+
+Topics::: ill-fated revolutionary led minister;;; Score::: 0.11920292202211757;;;
+Topics::: amin insurgency tribes nationalists disintegration;;; Score::: 0.11920292202211757;;;
+Topics::: misfired nervous government long;;; Score::: 0.11920292202211757;;;
+Topics::: impetuosity alienated originally hafizullah showed;;; Score::: 0.11920292202211757;;;

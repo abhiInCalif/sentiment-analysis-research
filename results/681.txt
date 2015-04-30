@@ -1,0 +1,6 @@
+Text::: The killings appalled German diplomats, who had no motive for exaggeration. Their dismay was shared by the American envoy, Henry Morgenthau Sr., who fed eyewitness accounts to foreign journalists. The weight of the evidence makes credible an Ottoman document, dated Sept. 16, 1915, asserting that the regime's purpose was ''to destroy completely all the Armenians living in Turkey.'' ;;;
+
+Topics::: dated german motive diplomats destroy;;; Score::: 0.11920292202211757;;;
+Topics::: fed accounts;;; Score::: 0.11920292202211757;;;
+Topics::: completely asserting document eyewitness envoy;;; Score::: 0.11920292202211757;;;
+Topics::: morgenthau exaggeration appalled killings ottoman;;; Score::: 0.11920292202211757;;;

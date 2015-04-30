@@ -1,0 +1,6 @@
+Text::: And it would help all moderates concerned if Arab leaders would say so, in the same way many American Jewish leaders give Mr. Shultz their open support. The Shultz plan, sensibly flexible, calls for an international conference to bless the process and legitimize the outcome of direct Arab-Israeli talks. The conference would provide the necessary political cover for leaders like King Hussein of Jordan to bargain directly with Israel. ;;;
+
+Topics::: bargain cover provide legitimize sensibly;;; Score::: 0.11920292202211757;;;
+Topics::: leaders conference shultz direct bless;;; Score::: 0.11920292202211757;;;
+Topics::: flexible king plan process jewish;;; Score::: 0.11920292202211757;;;
+Topics::: concerned jordan;;; Score::: 0.11920292202211757;;;

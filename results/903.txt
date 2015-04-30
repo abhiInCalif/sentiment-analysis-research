@@ -1,0 +1,7 @@
+Text::: That is hardly the end of the Iranian Revolution but it does suggest weariness with its ''hanging judge.'' He is the fanatic, remember, who once announced that anyone was free to kill the Shah in exile. He dispatched gunmen to do the job, he said, and later took credit for the murder of the Shah's nephew in Paris. ;;;
+
+Topics::: judge murder free;;; Score::: 0.11920292202211757;;;
+Topics::: nephew shah's gunmen paris suggest;;; Score::: 0.11920292202211757;;;
+Topics::: announced shah end;;; Score::: 0.11920292202211757;;;
+Topics::: exile dispatched credit job iranian;;; Score::: 0.11920292202211757;;;
+Topics::: weariness hanging fanatic remember;;; Score::: 0.11920292202211757;;;

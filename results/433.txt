@@ -1,0 +1,6 @@
+Text::: And let him adopt the formula by which Mr. Peres defends this course to his own militants: ''In war sometimes there is retreat. There are tactics, and there is strategy.'' That distinction may be the week's wisest. ;;;
+
+Topics::: adopt formula;;; Score::: 0.11920292202211757;;;
+Topics::: peres;;; Score::: NaN;;;
+Topics::: wisest retreat militants distinction tactics;;; Score::: 0.16911575513807675;;;
+Topics::: week's defends;;; Score::: 0.11920292202211757;;;

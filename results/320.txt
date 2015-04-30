@@ -1,0 +1,5 @@
+Text::: Moscow has said it has a staged withdrawal program, but refuses to say when it will start or how long it will take. That is crucial. The Russians give the impression of having reached the point where the U.S. was in 1970 in the Vietnam War. ;;;
+
+Topics::: staged vietnam program crucial reached;;; Score::: 0.21902858825403593;;;
+Topics::: refuses start;;; Score::: 0.11920292202211757;;;
+Topics::: point;;; Score::: 0.2689414213699951;;;

@@ -1,0 +1,7 @@
+Text::: When he speaks of the Arab world, there is no doubt who he thinks is its ordained leader. And there are intimations of a bolder dream: an Islamic empire spanning the Sahara, with Tripoli its Rome. Only this week, Libya unilaterally announced a ''merger'' with neighboring Chad, a vast country that Colonel Qaddafi reportedly sees as Libya's ''vital living space.'' ;;;
+
+Topics::: spanning merger empire vast country;;; Score::: 0.3096014610110588;;;
+Topics::: unilaterally bolder ordained chad libya;;; Score::: 0.24613528134807838;;;
+Topics::: intimations thinks announced sahara libya's;;; Score::: 0.24613528134807838;;;
+Topics::: qaddafi;;; Score::: NaN;;;
+Topics::: space reportedly leader living;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: We have helped Iraq with food credits, intelligence and by agreeing to a restoration of diplomatic relations. The presence of our naval and air task force outside the Strait of Hormuz is a further factor restraining Iran from expanding the conflict into the Gulf. At the same time, our overall posture has made clear to Iran that this ''tilt'' toward Iraq is not driven by some kind of implacable vendetta against the Islamic Republic. ;;;
+
+Topics::: iran restraining hormuz strait restoration;;; Score::: 0.3096014610110588;;;
+Topics::: iraq implacable posture agreeing naval;;; Score::: 0.24613528134807838;;;
+Topics::: factor;;; Score::: 0.11920292202211757;;;
+Topics::: republic vendetta expanding food diplomatic;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,7 @@
+Text::: The first hope is that Washington will break out of its obsession with a single issue that is, after all, not the central human cause. Irregularities have to be addressed in a democratic society in which law is the major social consensus, but the spectacle of a great power having little time for anything except relentless self-investigation drives its friends to compassionate frustration. Governments in free societies must learn to be multi-dimensional. ;;;
+
+Topics::: democratic addressed irregularities break learn;;; Score::: 0.24613528134807838;;;
+Topics::: compassionate central friends hope law;;; Score::: 0.3096014610110588;;;
+Topics::: multi-dimensional self-investigation consensus societies major;;; Score::: 0.11920292202211757;;;
+Topics::: frustration drives relentless social obsession;;; Score::: 0.3096014610110588;;;
+Topics::: spectacle single free issue great;;; Score::: 0.24613528134807838;;;

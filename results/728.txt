@@ -1,0 +1,6 @@
+Text::: It may even be that he will not survive. Within the diverse ranks of the Palestine Liberation Organization Mr. Arafat has been a cautious figure, resisting the all-out terrorism of various splinters. His people have themselves become targets of those groups - including the one that attacked the Israeli Ambassador in London and that Israel made the thin excuse for action. ;;;
+
+Topics::: survive figure targets action groups;;; Score::: 0.16911575513807675;;;
+Topics::: made;;; Score::: 0.11920292202211757;;;
+Topics::: splinters diverse cautious ranks london;;; Score::: 0.11920292202211757;;;
+Topics::: thin terrorism palestine;;; Score::: 0.11920292202211757;;;

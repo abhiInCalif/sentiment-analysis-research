@@ -1,0 +1,10 @@
+Text::: Jordan's long-established position is that there can be peace and secure coexistence, but only if Israel accepts the principle of withdrawing from the territory it occupied in 1967 and negotiates on that basis. The Likud coalition that has governed Israel since 1977 has rejected the idea of withdrawal and set out to absorb the West Bank. Jordan might therefore be expected to favor change in the Israeli election on July 23, but here again there is a certain ambiguity. ;;;
+
+Topics::: change;;; Score::: 0.11920292202211757;;;
+Topics::: ambiguity jordan's likud expected;;; Score::: 0.11920292202211757;;;
+Topics::: israel withdrawing set absorb;;; Score::: 0.11920292202211757;;;
+Topics::: governed;;; Score::: 0.11920292202211757;;;
+Topics::: accepts coexistence long-established negotiates idea;;; Score::: 0.11920292202211757;;;
+Topics::: secure territory peace;;; Score::: 0.11920292202211757;;;
+Topics::: rejected july occupied election;;; Score::: 0.11920292202211757;;;
+Topics::: favor position withdrawal west jordan;;; Score::: 0.11920292202211757;;;

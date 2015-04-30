@@ -1,0 +1,4 @@
+Text::: To the west, Israel is consolidating its grip on the Arab territory it occupied in 1967. To the north, Syria, newly armed by the Soviet Union, is playing an increasingly militant role in regional politics. And all around, Islamic fundamentalism is growing in influence. ;;;
+
+Topics::: syria role newly;;; Score::: 0.11920292202211757;;;
+Topics::: grip consolidating militant playing increasingly;;; Score::: 0.11920292202211757;;;

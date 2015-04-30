@@ -1,0 +1,6 @@
+Text::: France can be expected to do the same. The adage that the Palestinian issue is the crux of the conflict isn't necessarily so. Yasir Arafat is being strangled by his tightrope, and the rest of the Arabs no longer care much about Palestinian aspirations. ;;;
+
+Topics::: adage arafat yasir arabs longer;;; Score::: 0.11920292202211757;;;
+Topics::: isn't aspirations;;; Score::: 0.11920292202211757;;;
+Topics::: strangled necessarily;;; Score::: 0.11920292202211757;;;
+Topics::: palestinian tightrope crux issue care;;; Score::: 0.11920292202211757;;;

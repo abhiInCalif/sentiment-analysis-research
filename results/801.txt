@@ -1,0 +1,6 @@
+Text::: It may also see it as relief from o ther less-welcome motions on such issues as Namibia or the Middle Ea st. In practice, the vote will be a hollow triumph. It is not going to alter the Soviet Union's policy or bring an Afghanistan solution one jot nearer. ;;;
+
+Topics::: vote soviet;;; Score::: 0.11920292202211757;;;
+Topics::: jot hollow motions less-welcome ther;;; Score::: 0.11920292202211757;;;
+Topics::: solution afghanistan;;; Score::: 0.11920292202211757;;;
+Topics::: alter namibia union's;;; Score::: 0.11920292202211757;;;

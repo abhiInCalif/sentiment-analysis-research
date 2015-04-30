@@ -1,0 +1,8 @@
+Text::: None in this broad coalition have excoriated the United States for the Airbus tragedy. American diplomacy seeks peace through the United Nations. These efforts are at an impasse: the Soviet Union and China refuse to join an arms embargo against Iran. ;;;
+
+Topics::: embargo join tragedy excoriated peace;;; Score::: 0.16911575513807675;;;
+Topics::: soviet;;; Score::: NaN;;;
+Topics::: refuse diplomacy airbus broad states;;; Score::: 0.16911575513807675;;;
+Topics::: nations seeks union;;; Score::: 0.2689414213699951;;;
+Topics::: impasse coalition american arms;;; Score::: 0.11920292202211757;;;
+Topics::: united china efforts;;; Score::: 0.11920292202211757;;;

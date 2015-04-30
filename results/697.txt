@@ -1,0 +1,5 @@
+Text::: A U.N. mediation effort is apparently stuck in that thicket. President Zia needs encouragement as he tests Soviet intentions. A Soviet pullback from Afghanistan would shrink the perimeter of empire and reverse a Communist coup. ;;;
+
+Topics::: soviet shrink pullback empire intentions;;; Score::: 0.11920292202211757;;;
+Topics::: thicket stuck communist u.n;;; Score::: 0.11920292202211757;;;
+Topics::: perimeter encouragement reverse;;; Score::: 0.11920292202211757;;;

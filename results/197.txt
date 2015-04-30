@@ -1,0 +1,7 @@
+Text::: * * * Iran precipitated the latest gulf crisis by deploying missiles, obtained from China. Kuwait asked Moscow and Washington for protection. The Reagan team rightly resists the invitation to the Russians, at least until the two superpowers talk seriously about the Iranian threat. ;;;
+
+Topics::: missiles;;; Score::: 0.11920292202211757;;;
+Topics::: invitation resists rightly obtained deploying;;; Score::: 0.11920292202211757;;;
+Topics::: asked moscow crisis protection iran;;; Score::: 0.11920292202211757;;;
+Topics::: superpowers gulf;;; Score::: 0.11920292202211757;;;
+Topics::: russians;;; Score::: NaN;;;

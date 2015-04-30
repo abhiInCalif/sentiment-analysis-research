@@ -1,0 +1,8 @@
+Text::: If the candidates have a substantive program to address any of these problems - a program for the nation to consider and approve - it is thus far entirely inaudible. Of course, this terrible game suits Mr. Jackson's purposes as well: The less these issues are openly faced, the more whites and blacks are separated, the more will his power increase. Only now are the politicians beginning to sense the possible dimensions of the deal Mr. Jackson's eventually wants to cut. ;;;
+
+Topics::: approve;;; Score::: 0.11920292202211757;;;
+Topics::: issues problems;;; Score::: 0.11920292202211757;;;
+Topics::: increase;;; Score::: 0.11920292202211757;;;
+Topics::: eventually;;; Score::: 0.2689414213699951;;;
+Topics::: suits inaudible address beginning terrible;;; Score::: 0.16911575513807675;;;
+Topics::: jackson's program dimensions whites separated;;; Score::: 0.16911575513807675;;;

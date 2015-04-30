@@ -1,0 +1,7 @@
+Text::: The modest efforts of a largely indifferent world to stop the carnage haven't worked at all. Iran has not launched its expected winter human-wave offensive, apparently because the supply of candidates for martyrdom is getting harder to mobilize. Iraq has not been able to retake the Fao Peninsula. ;;;
+
+Topics::: mobilize apparently efforts fao iran;;; Score::: 0.11920292202211757;;;
+Topics::: retake harder expected stop;;; Score::: 0.11920292202211757;;;
+Topics::: martyrdom supply offensive winter haven't;;; Score::: 0.11920292202211757;;;
+Topics::: worked largely peninsula;;; Score::: 0.11920292202211757;;;
+Topics::: human-wave;;; Score::: 0.11920292202211757;;;

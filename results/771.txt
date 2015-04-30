@@ -1,0 +1,9 @@
+Text::: Different classes seek to legitimize a wide variety of interests by an appeal to Islam. In the Shah's Iran, merchants saw in Islam protection for traditional business and the rights of private property against a predatory Government and the modern industrial sector. Yet in its more radical forms, the revival across much of the Moslem world seems to express the aspirations of upwardly mobile members of lower and lower-middle-class families who feel uprooted by change, feel insufficiently rewarded by their societies, are disenchanted by capitalism, and see greater hope in ''Islamic egalitarianism.'' ;;;
+
+Topics::: property express moslem;;; Score::: 0.11920292202211757;;;
+Topics::: variety appeal rights aspirations world;;; Score::: 0.24613528134807838;;;
+Topics::: feel revival classes private legitimize;;; Score::: 0.24613528134807838;;;
+Topics::: islam disenchanted uprooted lower-middle-class upwardly;;; Score::: 0.11920292202211757;;;
+Topics::: egalitarianism insufficiently predatory members capitalism;;; Score::: 0.11920292202211757;;;
+Topics::: lower societies sector rewarded families;;; Score::: 0.11920292202211757;;;
+Topics::: wide business;;; Score::: 0.3096014610110588;;;

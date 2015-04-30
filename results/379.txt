@@ -1,0 +1,7 @@
+Text:::  Disturbed by charges of Iran's barbarous abuse of its own people, the United Nations last March ordered an inquiry by its Human Rights Commission. Iran has responded predictably. The U.N.'s special representative, Andres Aguilar of Venezuela, was barred from visiting Iran and could not even elicit a reply to detailed accounts of torture and summary executions. ;;;
+
+Topics::: ordered;;; Score::: 0.11920292202211757;;;
+Topics::: summary reply venezuela barbarous disturbed;;; Score::: 0.08331439759984219;;;
+Topics::: iran executions accounts detailed visiting;;; Score::: 0.04742587317756679;;;
+Topics::: commission;;; Score::: NaN;;;
+Topics::: elicit iran's;;; Score::: 0.04742587317756679;;;

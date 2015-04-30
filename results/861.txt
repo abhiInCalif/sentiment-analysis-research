@@ -1,0 +1,5 @@
+Text:::  Iran is no longer in the spotlight; its war with Iraq drags on indecisively and a now-indifferent world shrugs off its unending internal wrangles. This apathy perfectly suits Iran's clerical zealots as they silence newspapers, jail their opponents and bloodily settle old scores. Especially ominous has been their systematic execution of adherents of Baha'i. ;;;
+
+Topics::: baha'i execution systematic scores unending;;; Score::: 0.11920292202211757;;;
+Topics::: wrangles now-indifferent suits jail iraq;;; Score::: 0.11920292202211757;;;
+Topics::: bloodily apathy indecisively zealots settle;;; Score::: 0.11920292202211757;;;

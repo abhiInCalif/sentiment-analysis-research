@@ -1,0 +1,6 @@
+Text::: These shortcomings have been dramatized by the much-publicized Teheran affair, but it would be a profound mistake to ignore the badly managed summit encounter in Reykjavik. Teheran and Reykjavik together illustrate what the President needs urgently to correct. The consequences of Teheran and Reykjavik pose a potential threat to the President's legacy. ;;;
+
+Topics::: reykjavik president's urgently legacy dramatized;;; Score::: 0.11920292202211757;;;
+Topics::: teheran correct much-publicized shortcomings affair;;; Score::: 0.11920292202211757;;;
+Topics::: pose illustrate profound potential consequences;;; Score::: 0.11920292202211757;;;
+Topics::: encounter summit threat president;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: Rather than counting too much on Hussein, we should test Syria. I have known President Hafez el-Assad for years. I have met with him more often than any American official except Henry A. Kissinger. ;;;
+
+Topics::: el-assad official kissinger henry syria;;; Score::: 0.11920292202211757;;;
+Topics::: met;;; Score::: 0.11920292202211757;;;
+Topics::: counting president;;; Score::: 0.04742587317756679;;;
+Topics::: test hussein;;; Score::: 0.04742587317756679;;;

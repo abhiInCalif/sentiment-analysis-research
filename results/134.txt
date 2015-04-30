@@ -1,0 +1,5 @@
+Text::: But changed circumstances call for addressing those worries more constructively, with less emphasis on arms and more on diplomacy and cooperation. President Reagan can leave no greater legacy than to take account of the new realities in East-West relations and put forward new guidelines for managing the transition from cold war to cold peace and peaceful competition. The new factors that challenge cold war principles are plain. ;;;
+
+Topics::: principles factors competition peaceful managing;;; Score::: 0.11920292202211757;;;
+Topics::: cold war plain transition guidelines;;; Score::: 0.11920292202211757;;;
+Topics::: diplomacy;;; Score::: 0.2689414213699951;;;

@@ -1,0 +1,6 @@
+Text::: He was protesting racism; the explanation was relevant and in fairness should have been included. The article spoke of Abdul-Jabbar's announcement of ''allegiance to the Moslem God, Allah,'' phrasing that seemed to suggest a cult deity rather than the Supreme Being shared by Islam with major Western faiths. The passage, which implied eccentricity, should have been omitted or coupled with his reasoning. ;;;
+
+Topics::: reasoning omitted passage deity explanation;;; Score::: 0.11920292202211757;;;
+Topics::: coupled eccentricity implied supreme allegiance;;; Score::: 0.11920292202211757;;;
+Topics::: shared;;; Score::: 0.11920292202211757;;;
+Topics::: faiths cult phrasing allah god;;; Score::: 0.11920292202211757;;;

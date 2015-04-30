@@ -1,0 +1,8 @@
+Text::: Motivated by patriotism and grievance, they staged a kind of Lebanese Boston Tea Party - and if dozens of American civilians were terrorized, a Marine murdered and Jewish passengers separated from the others Auschwitz-style, it was the regrettable but justifiable reaction to Israeli provocation. The ''underlying cause'' theory is not new - it has been used to blame Israel for virtually every Arab outrage, from the assassination of President Anwar el-Sadat to Palestine Liberation Organization attacks on innocent civilians - and its corollary is equally well-known. If Israel is the cause of Arab terror, then support for Israel puts America on the wrong side of the terrorists. ;;;
+
+Topics::: well-known provocation marine terrorized boston;;; Score::: 0.11920292202211757;;;
+Topics::: israel civilians justifiable regrettable tea;;; Score::: 0.11920292202211757;;;
+Topics::: staged equally el-sadat;;; Score::: 0.11920292202211757;;;
+Topics::: arab corollary passengers dozens motivated;;; Score::: 0.11920292202211757;;;
+Topics::: auschwitz-style;;; Score::: NaN;;;
+Topics::: separated murdered underlying america support;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: What would Dr. King have done if a prominent political ally had threatened a critic with such warnings as, ''One day soon we will punish you with death''? Or called on churches to ostracize the critic and his family? That was how Louis Farrakhan, leader of the Nation of Islam and Mr. Jackson's campaign companion, tried to intimidate Milton Coleman, a Washington Post reporter, and other blacks who might put professional standards ahead of support for Mr. Jackson. ;;;
+
+Topics::: critic coleman churches warnings punish;;; Score::: 0.19407217169605634;;;
+Topics::: milton standards reporter ally prominent;;; Score::: 0.11920292202211757;;;
+Topics::: post companion ostracize farrakhan professional;;; Score::: 0.19407217169605634;;;

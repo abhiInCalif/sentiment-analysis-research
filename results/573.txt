@@ -1,0 +1,6 @@
+Text::: The price of its principal export, phosphate (accounting for 70 percent of the world's output) has plummeted. Agricultural production has dropped. Unemployment is rated at 20 percent; underemployment, visible in every marketplace, is incomparably higher. ;;;
+
+Topics::: plummeted;;; Score::: 0.11920292202211757;;;
+Topics::: phosphate accounting world's higher;;; Score::: 0.11920292202211757;;;
+Topics::: percent incomparably marketplace visible underemployment;;; Score::: 0.11920292202211757;;;
+Topics::: dropped;;; Score::: 0.5;;;

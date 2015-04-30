@@ -1,0 +1,7 @@
+Text::: For more than a year, President Corazon Aquino has tried to find non-military ways to end two insurgencies in the Philippines. To the leftist New People's Army she offered amnesties, opened the jail cells of guerrilla leaders and agreed to a 60-day cease-fire. To stop a war with Moslem insurgents she made offers of qualified autonomy. ;;;
+
+Topics::: insurgents cells opened insurgencies non-military;;; Score::: 0.11920292202211757;;;
+Topics::: jail corazon offers day;;; Score::: 0.11920292202211757;;;
+Topics::: guerrilla autonomy cease-fire;;; Score::: 0.11920292202211757;;;
+Topics::: offered year end find president;;; Score::: 0.11920292202211757;;;
+Topics::: qualified amnesties agreed leaders made;;; Score::: 0.11920292202211757;;;

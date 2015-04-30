@@ -1,0 +1,5 @@
+Text::: Yes, three of them. But three others were kidnapped in the meantime. The Administration's policy impels such horrible human arithmetic. ;;;
+
+Topics::: arithmetic administration's policy;;; Score::: 0.11920292202211757;;;
+Topics::: human;;; Score::: 0.11920292202211757;;;
+Topics::: horrible impels kidnapped meantime;;; Score::: 0.19407217169605634;;;

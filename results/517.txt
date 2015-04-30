@@ -1,0 +1,6 @@
+Text::: His point was that Turkey is a developing country with a per capita income one-third that of Portugal or Greece. The most egregious human rights violation in Turkey is the existence of torture. Again, this abhorrent practice was not unknown under prior Turkish governments, and one may wonder why so many human rights activists chose to make it an issue only after the military takeover of 1980. ;;;
+
+Topics::: chose violation income country;;; Score::: 0.11920292202211757;;;
+Topics::: portugal practice egregious point;;; Score::: 0.11920292202211757;;;
+Topics::: takeover turkish developing issue;;; Score::: 0.11920292202211757;;;
+Topics::: human rights turkey prior capita;;; Score::: 0.11920292202211757;;;

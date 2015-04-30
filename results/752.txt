@@ -1,0 +1,8 @@
+Text::: What answers can Hosni Mubarak produce to the challenges of population and jobs and food? A low-profile leadership suits the mood in Egypt today. But sooner or later people will want some results. ;;;
+
+Topics::: low-profile hosni food mood;;; Score::: 0.3096014610110588;;;
+Topics::: egypt;;; Score::: NaN;;;
+Topics::: mubarak today people;;; Score::: 0.38447071068499755;;;
+Topics::: answers;;; Score::: 0.11920292202211757;;;
+Topics::: jobs suits challenges produce sooner;;; Score::: 0.29604811446403756;;;
+Topics::: leadership;;; Score::: 0.5;;;

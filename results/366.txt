@@ -1,0 +1,6 @@
+Text::: an increasingly violent stalemate exists. The war has inflicted great hardship on the Afghan people. Indiscriminate carpet bombing has leveled entire villages; whole populations have been massacred. ;;;
+
+Topics::: hardship populations indiscriminate afghan people;;; Score::: 0.3096014610110588;;;
+Topics::: exists;;; Score::: 0.11920292202211757;;;
+Topics::: villages carpet inflicted increasingly stalemate;;; Score::: 0.24613528134807838;;;
+Topics::: great;;; Score::: 0.5;;;

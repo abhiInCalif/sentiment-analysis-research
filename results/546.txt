@@ -1,0 +1,6 @@
+Text::: It is that nobody is willing or able to take the risks and sacrifices that stopping the war would require. Therefore there is tacit agreement that it is better to sustain the fighting than to permit a military decision. In fact, the nations are already involved. ;;;
+
+Topics::: sacrifices require nations;;; Score::: 0.11920292202211757;;;
+Topics::: tacit risks fact agreement permit;;; Score::: 0.24613528134807838;;;
+Topics::: fighting;;; Score::: 0.5;;;
+Topics::: sustain decision stopping military involved;;; Score::: 0.24613528134807838;;;

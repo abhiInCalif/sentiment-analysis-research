@@ -1,0 +1,5 @@
+Text::: To debate the similarities and the all-important differences is not a weakness but a corrective. It may hinder decision-making of the moment but provides long-run assurance that foreign policy, and particularly military ventures, will be tested by the evidence of their consequences. No such test is possible in the Soviet Union. ;;;
+
+Topics::: tested;;; Score::: 0.11920292202211757;;;
+Topics::: ventures differences all-important similarities weakness;;; Score::: 0.11920292202211757;;;
+Topics::: long-run hinder assurance decision-making corrective;;; Score::: 0.11920292202211757;;;

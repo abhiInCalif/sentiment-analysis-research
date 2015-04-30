@@ -1,0 +1,7 @@
+Text::: What would the Russians do? Probably nothing, except to convince Colonel Qaddafi, as they have been trying to do ever since he took over Libya, that the Soviet Union should have a permanent naval base at Tripoli in the middle of the Mediterranean. Such a development would be ''some success,'' not for President Reagan or even for Colonel Qaddafi, but for Mikhail Gorbachev, the Soviet leader, and his naval strategic planners in Moscow. ;;;
+
+Topics::: qaddafi colonel naval soviet planners;;; Score::: 0.11920292202211757;;;
+Topics::: base gorbachev mikhail convince;;; Score::: 0.11920292202211757;;;
+Topics::: tripoli mediterranean success;;; Score::: 0.11920292202211757;;;
+Topics::: libya;;; Score::: NaN;;;
+Topics::: reagan;;; Score::: NaN;;;

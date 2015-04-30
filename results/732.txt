@@ -1,0 +1,7 @@
+Text::: No one, for example, publicly described the Afghan capital on May 1 when it was torn by explosions. Who is there to record what is most conspicuously absent from Kabul - young men of draft age? Potential conscripts fled to the hills long ago, to avoid being pressed into the sad rabble known as the Afghan Army. ;;;
+
+Topics::: conscripts conspicuously torn draft explosions;;; Score::: 0.16911575513807675;;;
+Topics::: ago;;; Score::: 0.11920292202211757;;;
+Topics::: young;;; Score::: 0.2689414213699951;;;
+Topics::: absent capital;;; Score::: 0.19407217169605634;;;
+Topics::: afghan rabble hills sad pressed;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: This is a time when it is useful to question all going assumptions. U.S. policy has broken down, mired in old slogans while everything else is shifting. Conventional wisdom has become unreliable, including the expectation that nothing much can happen in a Presidential election year. ;;;
+
+Topics::: unreliable mired assumptions shifting u.s;;; Score::: 0.11920292202211757;;;
+Topics::: question happen wisdom;;; Score::: 0.11920292202211757;;;
+Topics::: expectation slogans presidential broken conventional;;; Score::: 0.11920292202211757;;;

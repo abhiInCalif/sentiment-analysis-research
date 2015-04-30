@@ -1,0 +1,7 @@
+Text::: Israel faces grave economic difficulty. Egypt is threatened by a politicized Islamic fundamentalism that could appeal to millions of disadvantaged people. The Palestinian issue remains unresolved. ;;;
+
+Topics::: politicized remains difficulty issue egypt;;; Score::: 0.21902858825403593;;;
+Topics::: millions threatened;;; Score::: 0.11920292202211757;;;
+Topics::: appeal unresolved faces islamic;;; Score::: 0.21902858825403593;;;
+Topics::: palestinian economic;;; Score::: 0.2689414213699951;;;
+Topics::: disadvantaged grave;;; Score::: 0.19407217169605634;;;

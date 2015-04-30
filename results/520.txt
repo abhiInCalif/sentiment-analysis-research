@@ -1,0 +1,6 @@
+Text:::  WASHINGTON When real disposable income rises strongly during his term, the incumbent should win; he can truly say ''You never had it so good.'' When the ''misery index'' of inflation plus unemployment has been cut in half, then the opposition doesn't have a leg to run on. In such a bind, what's an opposition leader to do? ;;;
+
+Topics::: unemployment index strongly rises disposable;;; Score::: 0.11920292202211757;;;
+Topics::: bind half;;; Score::: 0.11920292202211757;;;
+Topics::: opposition leg term cut doesn't;;; Score::: 0.11920292202211757;;;
+Topics::: incumbent income leader real win;;; Score::: 0.11920292202211757;;;

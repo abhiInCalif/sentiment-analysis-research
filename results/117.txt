@@ -1,0 +1,6 @@
+Text::: His country, poor and troubled, took in three million Afghan refugees and shared what it had with them. Few countries have done as much for refugees as has Pakistan. It is through Pakistan that American military aid reaches the Afghans. ;;;
+
+Topics::: reaches troubled shared country military;;; Score::: 0.11920292202211757;;;
+Topics::: poor refugees;;; Score::: 0.19407217169605634;;;
+Topics::: pakistan afghan american;;; Score::: NaN;;;
+Topics::: afghans refugees;;; Score::: 0.19407217169605634;;;

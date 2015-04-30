@@ -1,0 +1,9 @@
+Text::: The Iranians have a number of attractive options. They can maintain pressure in the Basra sector, eventually drawing reinforcements from other areas for the depleted Iraqi forces there. The latter, in making any troop transfers, will understand that they are outmanned - that a stronger defense at Basra may mean a weaker one for Baghdad or Kut. ;;;
+
+Topics::: making forces;;; Score::: 0.11920292202211757;;;
+Topics::: outmanned;;; Score::: 0.11920292202211757;;;
+Topics::: kut stronger areas reinforcements options;;; Score::: 0.24613528134807838;;;
+Topics::: understand;;; Score::: 0.11920292202211757;;;
+Topics::: attractive;;; Score::: 0.5;;;
+Topics::: basra weaker transfers depleted sector;;; Score::: 0.11920292202211757;;;
+Topics::: drawing number eventually iraqi;;; Score::: 0.3096014610110588;;;

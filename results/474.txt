@@ -1,0 +1,6 @@
+Text::: Syrians are pleased when their Government, even if they don't like it, appears weighty and influential in the neighborhood. Iraqis are defending not just their land and their chief against Iran, but their sense of independence. Among many dark speculations about various regimes' intentions is that Iraq's enemies want to break up the country into its Kurdish, Shiite and Sunni segments. ;;;
+
+Topics::: segments kurdish neighborhood influential syrians;;; Score::: 0.19407217169605634;;;
+Topics::: speculations dark weighty pleased intentions;;; Score::: 0.19407217169605634;;;
+Topics::: regimes;;; Score::: 0.11920292202211757;;;
+Topics::: sunni;;; Score::: NaN;;;

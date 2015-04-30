@@ -1,0 +1,7 @@
+Text::: Consequently, hijackers do not ride El Al as their first choice. Even when Israeli children were at risk, as at a school in Maalot, the Israeli Defense Forces stormed the building to remove the terrorists although some children held hostage were killed. Lebanon is a country that has been held hostage by the Palestine Liberation Organization and ravaged by it for a decade. ;;;
+
+Topics::: stormed remove decade choice lebanon;;; Score::: 0.11920292202211757;;;
+Topics::: building country;;; Score::: 0.11920292202211757;;;
+Topics::: israeli ravaged maalot killed organization;;; Score::: 0.11920292202211757;;;
+Topics::: school;;; Score::: 0.11920292202211757;;;
+Topics::: hostage held children ride hijackers;;; Score::: 0.11920292202211757;;;

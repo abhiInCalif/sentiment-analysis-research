@@ -1,0 +1,8 @@
+Text::: How? Will the thousands of Soviet specialists embedded in the Afghan Government get out too? Who will run the huge air bases and intelligence centers built by the Russians? ;;;
+
+Topics::: run embedded government;;; Score::: 0.3096014610110588;;;
+Topics::: centers afghan soviet;;; Score::: 0.5;;;
+Topics::: intelligence;;; Score::: 0.5;;;
+Topics::: thousands specialists russians;;; Score::: 0.11920292202211757;;;
+Topics::: huge built;;; Score::: 0.5;;;
+Topics::: bases air;;; Score::: 0.5;;;

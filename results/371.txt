@@ -1,0 +1,7 @@
+Text:::  American leaders came home from Geneva with the impression that Moscow now would like to find a way out of Afghanistan. This was conveyed in public by Soviet spokesmen, who repeatedly spoke of the need for a ''political solution,'' as well as officially in private. They emphasized the role that United Nations mediation should play. ;;;
+
+Topics::: officially private solution play find;;; Score::: 0.21902858825403593;;;
+Topics::: conveyed;;; Score::: 0.11920292202211757;;;
+Topics::: moscow geneva;;; Score::: NaN;;;
+Topics::: emphasized repeatedly spokesmen mediation spoke;;; Score::: 0.19407217169605634;;;
+Topics::: political american;;; Score::: 0.11920292202211757;;;

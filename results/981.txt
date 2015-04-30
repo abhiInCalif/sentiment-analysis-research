@@ -1,0 +1,6 @@
+Text:::  The Cambodian tragedy has left approximately 3.2 to 3.5 million people dead - that is, half the population. Hundreds of thousands have fled their devastated homeland in search of a better life elsewhere. There are about 800,000 refugees in Thai camps and along the frontier areas. ;;;
+
+Topics::: camps;;; Score::: 0.11920292202211757;;;
+Topics::: approximately search areas population homeland;;; Score::: 0.11920292202211757;;;
+Topics::: frontier;;; Score::: 0.11920292202211757;;;
+Topics::: thai cambodian hundreds fled life;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: On a well-kept motor yacht big enough to have a teakwood deck, it's the phenomenal passion for neatness that afflicts boat owners. No matter how shaggy the lawns around their homes or cluttered their attics, most will fly into a rage if someone drops a chewing-gum wrapper in the bilge or toys with a neatly flemished and whipped dock line. The worshipers who leave their shoes at the entrance to the mosque doff shoes as a Christian man doffs his hat and a woman covers her hair on entering the house of God. ;;;
+
+Topics::: hair teakwood well-kept rage house;;; Score::: 0.29604811446403756;;;
+Topics::: entering doffs phenomenal god line;;; Score::: 0.29604811446403756;;;
+Topics::: flemished neatly wrapper worshipers hat;;; Score::: 0.19407217169605634;;;
+Topics::: shoes covers whipped bilge chewing-gum;;; Score::: 0.19407217169605634;;;
+Topics::: doff entrance dock yacht woman;;; Score::: 0.29604811446403756;;;

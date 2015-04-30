@@ -1,0 +1,6 @@
+Text::: That is a prize worthy of determined diplomacy, and General Zia knows it. What is missing is a willingness on his part to permit in Pakistan what he asks of Afghanistan: guarantees for a scorned opposition. To deplore the harshness of the Zia regime is not to indulge in righteous perfectionism. ;;;
+
+Topics::: perfectionism righteous deplore worthy guarantees;;; Score::: 0.24613528134807838;;;
+Topics::: harshness;;; Score::: 0.11920292202211757;;;
+Topics::: scorned diplomacy;;; Score::: 0.3096014610110588;;;
+Topics::: zia indulge asks missing permit;;; Score::: 0.11920292202211757;;;

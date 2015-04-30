@@ -1,0 +1,5 @@
+Text::: The Kurds have vigorously resisted a number of genocidal campaigns, particularly those undertaken by the Iraqis, with Syrian, Iranian and Turkish collusion, in the mid-1960's. Their movement has taken various forms ranging from demands for constitutional guarantees of equality under the regimes that have partitioned and currently govern Kurdistan - which extends into Iraq, Iran, Turkey, Syria and the Soviet Union - to outright calls for self-determination and independent statehood. Whether these aims can be achieved depends largely on how far the rulers of the Kurdish areas are willing to go to preserve their control over state oil fields beneath Kurdistan. ;;;
+
+Topics::: govern beneath iraqis;;; Score::: 0.11920292202211757;;;
+Topics::: kurdistan partitioned ranging vigorously equality;;; Score::: 0.11920292202211757;;;
+Topics::: extends forms fields kurdish regimes;;; Score::: 0.11920292202211757;;;

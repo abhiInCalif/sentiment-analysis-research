@@ -1,0 +1,8 @@
+Text::: Their silence then and vociferous criticism now persuades many Turks that they are concerned less with eliminating torture than with making a political point. Unlike its predecessors, the current Turkish Government has acknowledged the existence of torture, and dozens of officals have been prosecuted - and convicted. One prison warden was sentenced to death for participating in the torture of a prisoner and most recently, in late July, a prison doctor and an army captain and sergeant were sentenced to 25 to 32 years by a criminal court in a torture case. ;;;
+
+Topics::: captain;;; Score::: 0.11920292202211757;;;
+Topics::: court unlike recently;;; Score::: 0.11920292202211757;;;
+Topics::: dozens;;; Score::: 0.11920292202211757;;;
+Topics::: torture sentenced sergeant warden vociferous;;; Score::: 0.11920292202211757;;;
+Topics::: prison doctor participating prosecuted officals;;; Score::: 0.11920292202211757;;;
+Topics::: prisoner persuades case;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: Reflagging. Since September 1986, when Iran started targeting Kuwaiti cargoes, 27 of the 32 ships Iran has attacked in the Gulf have been ships proceeding to or from Kuwait. This has been a clear attempt to intimidate Kuwait and pressure it into dropping its support for Iraq. ;;;
+
+Topics::: ships kuwait september;;; Score::: 0.11920292202211757;;;
+Topics::: iran intimidate targeting kuwaiti started;;; Score::: 0.11920292202211757;;;
+Topics::: dropping proceeding cargoes reflagging clear;;; Score::: 0.11920292202211757;;;

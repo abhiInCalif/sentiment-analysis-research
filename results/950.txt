@@ -1,0 +1,5 @@
+Text::: During years of relative stability, Turkey's geopolitical role came to be taken for granted. No longer. A quick glance at the map makes clear what is at stake. ;;;
+
+Topics::: makes quick stability role;;; Score::: 0.3096014610110588;;;
+Topics::: stake map turkey's years;;; Score::: 0.3096014610110588;;;
+Topics::: glance relative granted geopolitical clear;;; Score::: 0.3096014610110588;;;

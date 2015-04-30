@@ -1,0 +1,5 @@
+Text::: ''We decided to respond.'' There is an Arab side to the story. A report prepared by the Deputy Attorney General of Israel, Judith Karp, asserts that most complaints filed with Israeli authorities by West Bank Arabs against Jews were shelved because of a systemic lethargy in pursuing alleged offenses by Jews. ;;;
+
+Topics::: jews offenses lethargy systemic filed;;; Score::: 0.11920292202211757;;;
+Topics::: shelved karp israeli israel arab;;; Score::: 0.11920292202211757;;;
+Topics::: complaints asserts pursuing respond decided;;; Score::: 0.19407217169605634;;;

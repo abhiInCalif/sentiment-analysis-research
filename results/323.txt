@@ -1,0 +1,6 @@
+Text::: They would hope that a series of deals and dilution of the Kabul organization with some non-Communists would permit the restoration of that old balance, leaving a facade of complaisant national authority in the capital. But it isn't clear whether that is firm Soviet policy. There may well be disagreements within the Moscow hierarchy and with the military over how much they dare to let go of the reins. ;;;
+
+Topics::: firm balance reins kabul;;; Score::: 0.29604811446403756;;;
+Topics::: facade deals authority capital moscow;;; Score::: 0.2689414213699951;;;
+Topics::: hierarchy complaisant non-communists dilution disagreements;;; Score::: 0.38447071068499755;;;
+Topics::: restoration dare isn't leaving hope;;; Score::: 0.38447071068499755;;;

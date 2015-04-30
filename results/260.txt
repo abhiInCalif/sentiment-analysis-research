@@ -1,0 +1,6 @@
+Text:::  American foreign policy is in crisis. President Reagan can recoup, however, provided he recognizes the depth and extent of his foreign policy problems. That requires facing up to basic substantive and operational shortcomings that recent events have brought to the surface. ;;;
+
+Topics::: facing;;; Score::: 0.11920292202211757;;;
+Topics::: foreign surface shortcomings operational extent;;; Score::: 0.16911575513807675;;;
+Topics::: policy depth provided crisis basic;;; Score::: 0.16911575513807675;;;
+Topics::: recent events;;; Score::: 0.11920292202211757;;;

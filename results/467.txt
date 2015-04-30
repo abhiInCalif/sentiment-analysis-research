@@ -1,0 +1,5 @@
+Text::: The military Government and its American advisers are already discussing the possibility of an increase in American aid when it comes up for renewal next year. In considering this, Washington must think carefully about how it might use American influence to help restore democracy in Pakistan. In the long run, that is the only reliable way to retain a stable and vital ally in the turbulent subcontinent.B ;;;
+
+Topics::: renewal vital advisers washington aid;;; Score::: 0.11920292202211757;;;
+Topics::: reliable discussing carefully pakistan;;; Score::: 0.11920292202211757;;;
+Topics::: american subcontinent.b turbulent retain ally;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: This is intimated in growing numbers of young Afghans enrolled in Soviet schools, where they lose ethnic loyalties that feed resistance. Without breaking faith with anyone, the United States could explore Mr. Gorbachev's hints. A good number of Afghans might support an interim regime headed by the former King, but not if dominated by the Kabul Communists. ;;;
+
+Topics::: afghans headed ethnic intimated dominated;;; Score::: 0.3096014610110588;;;
+Topics::: faith feed schools enrolled young;;; Score::: 0.11920292202211757;;;
+Topics::: breaking;;; Score::: 0.11920292202211757;;;
+Topics::: gorbachev's king regime;;; Score::: 0.5;;;
+Topics::: number growing;;; Score::: 0.3096014610110588;;;

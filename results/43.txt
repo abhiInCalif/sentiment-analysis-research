@@ -1,0 +1,8 @@
+Text::: It's worth recalling the mood and the predictions when the Russians invaded in 1979 to prevent the toppling of a weak leftist regime in Kabul. The conventional wisdom, widely shared by diplomats, generals and pundits, forecast a quick Soviet victory. A former U.S. ambassador to Afghanistan assured journalists that the Russians would wipe out the resistance in months. ;;;
+
+Topics::: regime;;; Score::: 0.5;;;
+Topics::: months journalists quick generals wisdom;;; Score::: 0.11920292202211757;;;
+Topics::: widely conventional weak worth wipe;;; Score::: 0.24613528134807838;;;
+Topics::: russians afghanistan ambassador pundits toppling;;; Score::: 0.24613528134807838;;;
+Topics::: shared victory;;; Score::: 0.11920292202211757;;;
+Topics::: resistance assured forecast diplomats invaded;;; Score::: 0.24613528134807838;;;

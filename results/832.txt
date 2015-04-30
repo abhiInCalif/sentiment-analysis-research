@@ -1,0 +1,5 @@
+Text::: And next week, Iranian voters will dutifully ratify their choice for President. But the weakness of this cruel regime is scarcely a secret. It is advertised daily in the death lists from Teheran. ;;;
+
+Topics::: iranian;;; Score::: NaN;;;
+Topics::: ratify choice;;; Score::: 0.11920292202211757;;;
+Topics::: lists advertised dutifully daily scarcely;;; Score::: 0.16911575513807675;;;

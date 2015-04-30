@@ -1,0 +1,6 @@
+Text::: Still, there is a similar claim to a right to command a way of life, all aspects of life, on the grounds of a divine inspiration that provides knowledge of all man needs to know. The claim would leave no vacuum, and that is the basis of its appeal. For there is a vacuum in today's world of ideas. ;;;
+
+Topics::: knowledge;;; Score::: 0.5;;;
+Topics::: appeal grounds aspects leave basis;;; Score::: 0.38447071068499755;;;
+Topics::: command ideas;;; Score::: 0.38447071068499755;;;
+Topics::: vacuum claim life today's inspiration;;; Score::: 0.34596094757999674;;;

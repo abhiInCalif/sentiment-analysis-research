@@ -1,0 +1,6 @@
+Text:::  LEAD: Is it possible, just possible, that the Administration has done something right in the Middle East for a change? Is it possible, just possible, that the Administration has done something right in the Middle East for a change? After the string of policy failures we have suffered -the Iran-contra affair, our precipitate withdrawal from Lebanon and a chronic inability to get negotiations under way on the Arab-Israel issue -it seems difficult to believe. ;;;
+
+Topics::: change east chronic suffered lebanon;;; Score::: 0.3730676406740392;;;
+Topics::: issue policy;;; Score::: 0.11920292202211757;;;
+Topics::: difficult failures;;; Score::: 0.11920292202211757;;;
+Topics::: administration middle arab-israel inability precipitate;;; Score::: 0.11920292202211757;;;

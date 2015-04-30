@@ -1,0 +1,7 @@
+Text::: So people who ache from confusion and yearn for certitudes turn to old prescriptions, hallowed by custom but no more assuredly divine than a new spark, a new sense of the miracle and wonder of life. Fearful of the future, confounded by the present, they seek refuge in the past. This is a massive failure of contemporary thought, of modern intellectuals. ;;;
+
+Topics::: contemporary fearful certitudes yearn modern;;; Score::: 0.3096014610110588;;;
+Topics::: intellectuals;;; Score::: 0.11920292202211757;;;
+Topics::: custom sense;;; Score::: 0.5;;;
+Topics::: miracle assuredly divine thought life;;; Score::: 0.3096014610110588;;;
+Topics::: massive past spark hallowed prescriptions;;; Score::: 0.24613528134807838;;;

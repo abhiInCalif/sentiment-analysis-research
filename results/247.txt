@@ -1,0 +1,5 @@
+Text::: The summit meeting has been followed by some hopeful first signs of progress in human rights, as the release of Andrei D. Sakharov proves. The pretense that arms control is the only key to detente has not stood any empirical test. Third, while it might seem unrealistic for me to sit in Jerusalem and assume that tormented Washington might now give its attention to the idea of encouraging a peace process in the Middle East, the potential for America's good offices is greater than is widely assumed. ;;;
+
+Topics::: tormented assume sit sakharov progress;;; Score::: 0.3096014610110588;;;
+Topics::: assumed empirical stood detente pretense;;; Score::: 0.3096014610110588;;;
+Topics::: hopeful;;; Score::: 0.11920292202211757;;;

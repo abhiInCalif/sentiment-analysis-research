@@ -1,0 +1,6 @@
+Text::: As the Ayatollah was condemning zealotry last month, 125 Bahais in Shiraz were reported arrested. Their offense: stubborn fidelity to a faith that had its origins in Iran a century ago but is deemed heretical and denied constitutional recognition by the present regime. World Order, a Bahai journal, has been publishing prison letters from those awaiting death. ;;;
+
+Topics::: awaiting deemed origins fidelity zealotry;;; Score::: 0.11920292202211757;;;
+Topics::: letters;;; Score::: 0.11920292202211757;;;
+Topics::: publishing arrested month death;;; Score::: 0.11920292202211757;;;
+Topics::: heretical constitutional shiraz faith prison;;; Score::: 0.11920292202211757;;;

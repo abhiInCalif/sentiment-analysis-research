@@ -1,0 +1,6 @@
+Text::: There is widespread anger at the United States now, even among intellectuals and officials who were educated there or have close American ties. One complaint, for example, is that President Reagan's peace initiative of Sept. 1, 1982, was never really followed up - never pushed as a policy. A high-ranking political figure here said: ''What a difference it would have made if there had been an American response when Prime Minister Begin rejected it and ordered the intensification of settlements on the West Bank, with the help of American money. ;;;
+
+Topics::: high-ranking anger widespread sept begin;;; Score::: 0.11920292202211757;;;
+Topics::: american intensification educated rejected settlements;;; Score::: 0.11920292202211757;;;
+Topics::: ordered;;; Score::: 0.11920292202211757;;;
+Topics::: intellectuals political;;; Score::: 0.11920292202211757;;;

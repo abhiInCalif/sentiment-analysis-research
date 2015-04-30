@@ -1,0 +1,6 @@
+Text::: Some kind of P.L.O. will doubtless survive, but its fighters will be under Syrian control. The Syrian President, Hafez al- Assad, has devised an exquisitely cunning demise for Mr. Arafat's leadership, probably not assassination as Israeli officials predict. ;;;
+
+Topics::: syrian devised doubtless survive kind;;; Score::: 0.08331439759984219;;;
+Topics::: exquisitely;;; Score::: 0.04742587317756679;;;
+Topics::: assad israeli;;; Score::: NaN;;;
+Topics::: predict demise cunning arafat's assassination;;; Score::: 0.04742587317756679;;;

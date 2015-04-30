@@ -1,0 +1,8 @@
+Text::: Other death-camp survivors, like the Nobel laureate Elie Wiesel, support the idea. A hearing at The Hague could focus the world's attention on extensive evidence of a crazed regime's attempt to carve up a whole people on a butcher block. The Khmer Rouge term for liquidation was ''scatter them to the last one''; cities were emptied as suspected class enemies were worked to death in ''purification'' camps. ;;;
+
+Topics::: class wiesel nobel survivors carve;;; Score::: 0.11920292202211757;;;
+Topics::: enemies emptied scatter butcher crazed;;; Score::: 0.11920292202211757;;;
+Topics::: regime's;;; Score::: NaN;;;
+Topics::: term;;; Score::: 0.11920292202211757;;;
+Topics::: khmer elie evidence idea worked;;; Score::: 0.11920292202211757;;;
+Topics::: purification liquidation rouge hague hearing;;; Score::: 0.11920292202211757;;;

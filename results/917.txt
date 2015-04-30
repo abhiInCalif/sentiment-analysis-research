@@ -1,0 +1,5 @@
+Text::: By accepting such a deal, Iran could end American neutrality in its war with Iraq and bind us to its side. Iranian leaders - not ours - potentially could decide our Persian Gulf policy; what should be a cautious American choice would be forfeited to them. Tilting toward Iran could gravely affect our relations with all the Arab countries, especially Iraq, Jordan, and Saudi Arabia. ;;;
+
+Topics::: forfeited;;; Score::: 0.11920292202211757;;;
+Topics::: american iraq iran gravely potentially;;; Score::: 0.11920292202211757;;;
+Topics::: jordan end iranian;;; Score::: 0.11920292202211757;;;

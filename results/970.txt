@@ -1,0 +1,5 @@
+Text::: Especially alarming is the news that two other victims were identified simply as adherents of Bahai, the largest religious minority. The specter of persecution has haunted various minorities in Iran - 230,000 Christians (mostly Armenians), 100,000 Jews and 25,000 Zoroastrians. But at least these creeds are expressly accorded freedom of worship in Iran's new Constitution - a status denied to 400,000 members of Bahai, whose church is branded a ''political'' group. ;;;
+
+Topics::: bahai accorded zoroastrians armenians church;;; Score::: 0.2689414213699951;;;
+Topics::: jews;;; Score::: NaN;;;
+Topics::: worship expressly creeds specter alarming;;; Score::: 0.16911575513807675;;;

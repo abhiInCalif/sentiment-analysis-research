@@ -1,0 +1,5 @@
+Text::: This campaign has seen no discussion of the growth in the last generation of a seemingly permanent underclass nurtured in the culture of welfare; no discussion of tens of thousands of young people dissociated from school, useful work and the civilizing process; no discussion of the ravages of crime, of heroin, of corrupt and racist law enforcement in the ghetto. The special economic problems of black communities? The problems of black colleges, black students, black professionals? ;;;
+
+Topics::: ravages nurtured crime work;;; Score::: 0.11920292202211757;;;
+Topics::: black discussion problems professionals colleges;;; Score::: 0.11920292202211757;;;
+Topics::: permanent;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: I think you'll agree that a leader must recognize great opportunity - and so Nancy and I will go to Moscow for the funeral if invited.'' But in fact, the President showed no sense of history. He has lost a chance to present himself to the Soviet people as something more than a distant, sour voice. ;;;
+
+Topics::: invited opportunity chance;;; Score::: 0.19407217169605634;;;
+Topics::: you'll;;; Score::: NaN;;;
+Topics::: present sense;;; Score::: 0.19407217169605634;;;
+Topics::: showed president;;; Score::: 0.2689414213699951;;;
+Topics::: recognize agree fact moscow history;;; Score::: 0.2689414213699951;;;
+Topics::: nancy funeral voice leader sour;;; Score::: 0.19407217169605634;;;

@@ -1,0 +1,8 @@
+Text::: Secretary of State Shultz will fly to Geneva this week for the signing of the Afghanistan accord, which promises a withdrawal of 115,000 Soviet troops. The agreement is historic, and probably the best that could be expected of an intricate and messy war. But it offers not peace, only the prelude to a peace. ;;;
+
+Topics::: geneva;;; Score::: NaN;;;
+Topics::: week fly shultz;;; Score::: 0.11920292202211757;;;
+Topics::: offers afghanistan state;;; Score::: 0.11920292202211757;;;
+Topics::: prelude intricate agreement accord soviet;;; Score::: 0.24613528134807838;;;
+Topics::: withdrawal;;; Score::: 0.11920292202211757;;;
+Topics::: peace messy expected historic troops;;; Score::: 0.24613528134807838;;;

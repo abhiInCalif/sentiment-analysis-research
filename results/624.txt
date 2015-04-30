@@ -1,0 +1,5 @@
+Text::: That current can accommodate the troubling issue of minorities such as Copts in Egypt, Maronites in Lebanon, various Arab sects and so on. But it produces the state rivalries that racked Europe for so many centuries. And no single state can dominate and impose order. ;;;
+
+Topics::: state maronites minorities sects produces;;; Score::: 0.11920292202211757;;;
+Topics::: rivalries;;; Score::: 0.11920292202211757;;;
+Topics::: racked troubling copts impose current;;; Score::: 0.11920292202211757;;;

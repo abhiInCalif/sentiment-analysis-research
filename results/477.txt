@@ -1,0 +1,6 @@
+Text::: All this, plus exposure to a modern world where national sovereignty offers decisive, even lavish advantages if there is oil beneath the desert, is strengthening the states. They don't like to admit that this is at the expense of the concept of the Arab nation, but it is. It is the reason that it is probably no longer possible for a man to become the Arab leader, as Egypt's Nasser was, nor for one country to win acknowledgment as the primary power, as Syria's Hafez al-Assad would wish. ;;;
+
+Topics::: admit beneath lavish expense leader;;; Score::: 0.16911575513807675;;;
+Topics::: sovereignty;;; Score::: 0.11920292202211757;;;
+Topics::: acknowledgment exposure desert man states;;; Score::: 0.11920292202211757;;;
+Topics::: arab nasser strengthening advantages egypt's;;; Score::: 0.11920292202211757;;;

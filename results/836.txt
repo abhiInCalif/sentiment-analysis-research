@@ -1,0 +1,7 @@
+Text::: The F-16 -which Israel used to destroy Iraq's nuclear reactor - has wide-ranging technological superiority over both fighter-bombers India has selected to update its air force, the Soviet MIG-23 and the British-French Jaguar. In any protracted military conflict with its smaller neighbor, India would no doubt come out on top, given its overall military potential and strong defense production base. But Indian leaders are not really afraid of an all-out frontal attack. ;;;
+
+Topics::: production;;; Score::: 0.11920292202211757;;;
+Topics::: smaller jaguar technological conflict soviet;;; Score::: 0.11920292202211757;;;
+Topics::: mig;;; Score::: NaN;;;
+Topics::: british-french fighter-bombers indian afraid top;;; Score::: 0.11920292202211757;;;
+Topics::: india military update selected wide-ranging;;; Score::: 0.11920292202211757;;;

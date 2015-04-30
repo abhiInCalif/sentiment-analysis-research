@@ -1,0 +1,7 @@
+Text::: Secretary of State Alexander M. Haig said at NATO last week that the United States wasn't asking allied support for measures against Libya but only understanding. It was perfectly clear that there was no support and, in fact, precious little understanding. Some Western diplomats worry that the Libyan issue will produce the kind of strains between the U.S. and allies that developed during the emotional hostage crisis in Iran, when Americans felt friends were failing them. ;;;
+
+Topics::: failing libyan wasn't friends issue;;; Score::: 0.11920292202211757;;;
+Topics::: fact;;; Score::: 0.11920292202211757;;;
+Topics::: allied;;; Score::: 0.11920292202211757;;;
+Topics::: clear;;; Score::: 0.11920292202211757;;;
+Topics::: understanding support emotional strains perfectly;;; Score::: 0.11920292202211757;;;

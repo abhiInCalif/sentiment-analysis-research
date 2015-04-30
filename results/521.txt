@@ -1,0 +1,7 @@
+Text::: He takes chances. He picks a woman to run with him. He stuns pols by predicting a tax increase and thereby turns the President into a weasel-worder. ;;;
+
+Topics::: weasel-worder;;; Score::: 0.11920292202211757;;;
+Topics::: picks;;; Score::: 0.2689414213699951;;;
+Topics::: woman increase president;;; Score::: 0.19407217169605634;;;
+Topics::: predicting pols stuns chances takes;;; Score::: 0.11920292202211757;;;
+Topics::: turns run;;; Score::: 0.19407217169605634;;;

@@ -1,0 +1,6 @@
+Text::: Army intrigue is incessant, despite repeated purges. Once before in Africa, Libyan soldiers stumbled ingloriously, unable to save Uganda's Idi Amin. Paradoxically, the more the colonel seems to succeed, the more resistance he will face. ;;;
+
+Topics::: uganda's ingloriously stumbled purges incessant;;; Score::: 0.11920292202211757;;;
+Topics::: intrigue;;; Score::: 0.11920292202211757;;;
+Topics::: paradoxically libyan colonel resistance army;;; Score::: 0.11920292202211757;;;
+Topics::: idi repeated soldiers amin unable;;; Score::: 0.11920292202211757;;;

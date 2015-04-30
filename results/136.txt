@@ -1,0 +1,6 @@
+Text::: This goal, now in hand, was pursued for its own sake and as a balance against the Soviet Union. American policymakers have also tried to promote a pluralistic world. That world has long since arrived, with its surpassing difficulties and conflicts mostly beyond the power of either Moscow or Washington to control. ;;;
+
+Topics::: surpassing balance washington long;;; Score::: 0.3096014610110588;;;
+Topics::: pluralistic pursued moscow soviet;;; Score::: 0.38447071068499755;;;
+Topics::: world conflicts difficulties arrived policymakers;;; Score::: 0.19407217169605634;;;
+Topics::: sake;;; Score::: 0.5;;;

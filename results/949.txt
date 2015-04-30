@@ -1,0 +1,8 @@
+Text::: The Turkish Government has not carried out a death sentence in eight years; Turkey's political killings are a private enterprise. The Government's authority is so weak that Prime Minister Suleyman Demirel relies for support on a party implicated in the private terror. This slide toward anarchy in Turkey portends a crisis for the West. ;;;
+
+Topics::: killings;;; Score::: 0.11920292202211757;;;
+Topics::: enterprise sentence government west crisis;;; Score::: 0.11920292202211757;;;
+Topics::: private portends slide relies suleyman;;; Score::: 0.11920292202211757;;;
+Topics::: implicated demirel government's authority weak;;; Score::: 0.11920292202211757;;;
+Topics::: minister;;; Score::: NaN;;;
+Topics::: anarchy;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,9 @@
+Text::: The refugee crisis is a prime incubator of the hatred, riots and terrorism plaguing the area. More than 350,000 refugees are cooped up in squalid camps in the West Bank and Gaza, and 600,000 more live in Jordan, Lebanon and Syria. What they all have in common is that for 40 years they have lived in these camps, expecting one day to repossess their homes in Israel. ;;;
+
+Topics::: gaza;;; Score::: NaN;;;
+Topics::: lived syria live crisis israel;;; Score::: 0.11920292202211757;;;
+Topics::: homes repossess squalid riots west;;; Score::: 0.11920292202211757;;;
+Topics::: plaguing;;; Score::: 0.11920292202211757;;;
+Topics::: day;;; Score::: 0.11920292202211757;;;
+Topics::: lebanon refugees area;;; Score::: 0.11920292202211757;;;
+Topics::: camps expecting cooped terrorism hatred;;; Score::: 0.11920292202211757;;;

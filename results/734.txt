@@ -1,0 +1,5 @@
+Text::: The leaders of the Kabul regime are rightly despised as quislings by the nonaligned nations. Some Soviet diplomats admit, privately, that the occupation of Afghanistan was a blunder. They also concede that the local party in Kabul is a disaster and that Afghanistan won't really be pacified until its government has a broader base. ;;;
+
+Topics::: pacified admit;;; Score::: 0.11920292202211757;;;
+Topics::: kabul despised privately base concede;;; Score::: 0.11920292202211757;;;
+Topics::: afghanistan broader quislings nonaligned blunder;;; Score::: 0.11920292202211757;;;

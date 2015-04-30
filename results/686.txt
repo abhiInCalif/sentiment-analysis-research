@@ -1,0 +1,5 @@
+Text::: ''I don't recall that the exchange was all that forceful,'' Senator Glenn tells me. ''I do know there was a misunderstanding, and that it was blown out of all proportion.'' He believes Israel should declare a moratorium on new settlements in the West Bank - ''moratorium is a better word than freeze'' - and that Israel should have tried to negotiate Iraq out of its reactor without an attack, though he does not know if it could have been done. ;;;
+
+Topics::: proportion misunderstanding tells settlements negotiate;;; Score::: 0.11920292202211757;;;
+Topics::: moratorium israel forceful glenn reactor;;; Score::: 0.11920292202211757;;;
+Topics::: freeze senator declare west don't;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: The Chinese affect to believe that this oral declaration was an acceptable alternative to tight, written agreements. It's not. Quite apart from China's suspect nuclear dealings with Pakistan - which nation in Senator Cranston's view is now able to produce several nuclear weapons a year - there is every reason for the United States to condition a nuclear relationship on China's full commitment to preventing the further spread of nuclear weapons. ;;;
+
+Topics::: affect;;; Score::: 0.2689414213699951;;;
+Topics::: senator agreements relationship;;; Score::: 0.19407217169605634;;;
+Topics::: written tight view commitment it's;;; Score::: 0.19407217169605634;;;
+Topics::: nuclear china's weapons cranston's declaration;;; Score::: 0.19407217169605634;;;

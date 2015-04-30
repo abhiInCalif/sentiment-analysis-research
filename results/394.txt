@@ -1,0 +1,7 @@
+Text:::  To imply the possibility of some political linkage between the crises in Afghanistan and Nicaragua is not the same as to equate morally the roles that the two superpowers are playing in these crises. The contrasts could not be sharper. Though the United States has applied direct economic and political pressure on the regime in Managua, its military leverage has been both indirect and limited. ;;;
+
+Topics::: crises roles equate imply playing;;; Score::: 0.11920292202211757;;;
+Topics::: direct nicaragua limited;;; Score::: 0.11920292202211757;;;
+Topics::: managua applied morally superpowers;;; Score::: 0.11920292202211757;;;
+Topics::: political sharper contrasts afghanistan united;;; Score::: 0.16911575513807675;;;
+Topics::: linkage leverage;;; Score::: 0.11920292202211757;;;

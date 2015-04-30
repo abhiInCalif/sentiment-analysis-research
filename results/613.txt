@@ -1,0 +1,4 @@
+Text::: . . To the ferocity of the Zulu are added the craft of the Redskin and the marksmanship of the Boer.'' ;;;
+
+Topics::: boer marksmanship redskin zulu ferocity;;; Score::: 0.11920292202211757;;;
+Topics::: craft added;;; Score::: 0.11920292202211757;;;

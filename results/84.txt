@@ -1,0 +1,7 @@
+Text::: Ambassador Philip Habib lacks clout. It's unrealistic to think Mr. Shultz can seek a strategic arms treaty with Moscow and give the Middle East the attention it requires, though he will certainly be reluctant to yield the reins to either. Probably the only chance to accomplish the Mideast task is to wheel in one of the two former Secretaries of State who got the job done before -Cyrus Vance or Henry Kissinger. ;;;
+
+Topics::: kissinger secretaries unrealistic habib philip;;; Score::: 0.11920292202211757;;;
+Topics::: henry wheel seek lacks attention;;; Score::: 0.11920292202211757;;;
+Topics::: cyrus mideast reluctant treaty middle;;; Score::: 0.11920292202211757;;;
+Topics::: reins clout it's arms;;; Score::: 0.11920292202211757;;;
+Topics::: vance accomplish yield requires moscow;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,9 @@
+Text::: Meanwhile, over in the Afghan rebel camp, many Mujahedeen forswear all compromises. The message, often forgotten, rears inescapably: When and if Moscow is ready to risk control of Afghanistan through negotiations, Afghans themselves could block the way. But the first question for Washington remains: What, if anything, can it do to help bring about the withdrawal of 115,000 Soviet troops? ;;;
+
+Topics::: withdrawal control;;; Score::: 0.11920292202211757;;;
+Topics::: remains mujahedeen;;; Score::: 0.11920292202211757;;;
+Topics::: inescapably rears forswear message question;;; Score::: 0.11920292202211757;;;
+Topics::: forgotten afghan washington soviet;;; Score::: 0.11920292202211757;;;
+Topics::: block;;; Score::: 0.11920292202211757;;;
+Topics::: moscow troops;;; Score::: 0.11920292202211757;;;
+Topics::: compromises ready risk;;; Score::: 0.11920292202211757;;;

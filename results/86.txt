@@ -1,0 +1,7 @@
+Text::: He has to be in a position to promise Palestinians that an interim accord on autonomy will not be the final one. As their November election approaches, Israeli leaders will also require political protection. The Administration proposes to provide it in the form of the international peace conference, but with a new twist. ;;;
+
+Topics::: require promise provide conference palestinians;;; Score::: 0.24613528134807838;;;
+Topics::: twist form election protection november;;; Score::: 0.3096014610110588;;;
+Topics::: position accord political;;; Score::: 0.11920292202211757;;;
+Topics::: interim administration autonomy;;; Score::: 0.11920292202211757;;;
+Topics::: proposes approaches final israeli leaders;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,9 @@
+Text::: We should try to remember that for Palestinian Moslems in Lebanese refugee camps, terror wears Christian and Jewish faces. We should try not to forget, however, that Moslems, Christians and Jews of faith and courage share the common goal of striving toward understanding. Those of all backgrounds who allow political aspirations and short-sighted territorial aims to subvert the impetus toward peace are the real terrorists in the Middle East. ;;;
+
+Topics::: east;;; Score::: NaN;;;
+Topics::: remember palestinian;;; Score::: 0.11920292202211757;;;
+Topics::: christian courage jews;;; Score::: 0.11920292202211757;;;
+Topics::: camps;;; Score::: 0.11920292202211757;;;
+Topics::: forget;;; Score::: 0.11920292202211757;;;
+Topics::: moslems short-sighted understanding christians faces;;; Score::: 0.16911575513807675;;;
+Topics::: impetus subvert backgrounds striving wears;;; Score::: 0.16911575513807675;;;

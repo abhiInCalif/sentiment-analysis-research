@@ -1,0 +1,6 @@
+Text::: We would do well to consider helping the Turks raise the level of education and professional training of their police forces. Unfortunately, the United States is precluded from helping in this effort by Vietnam-era legislation that prevents us from training foreign police forces. This section of the Foreign Assistance Act, hailed as a great human rights advance, bars a sensible and active approach to the elimination of police human rights abuses. ;;;
+
+Topics::: police training human rights foreign;;; Score::: 0.24613528134807838;;;
+Topics::: legislation level advance;;; Score::: 0.24613528134807838;;;
+Topics::: helping forces united;;; Score::: 0.11920292202211757;;;
+Topics::: hailed;;; Score::: 0.5;;;

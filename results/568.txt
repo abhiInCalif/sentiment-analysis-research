@@ -1,0 +1,4 @@
+Text::: It used to be called ''tweaking the lion's tail'' when Britain was dominant, and ''plucking the eagle's feathers'' where the U.S. holds sway. It is cunning political psychology. For all the disgust in the West, it brings delirious satisfaction to those who feel impotent, nameless, faceless. ;;;
+
+Topics::: nameless satisfaction delirious disgust psychology;;; Score::: 0.19407217169605634;;;
+Topics::: faceless feathers plucking lion's holds;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: Only hard-line American policies can bring about improvements in Soviet behavior at home and abroad. This fallacy is twofold. First, liberalizing change in Soviet policy cannot be imposed from outside the system, either by foreign governments or Soviet dissidents. ;;;
+
+Topics::: behavior;;; Score::: 0.11920292202211757;;;
+Topics::: dissidents twofold improvements hard-line liberalizing;;; Score::: 0.16911575513807675;;;
+Topics::: soviet fallacy home;;; Score::: 0.19407217169605634;;;

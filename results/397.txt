@@ -1,0 +1,6 @@
+Text::: External neutralization would involve arrangements to insure that the country concerned not become allied with forces hostile to the relevant superpower or engage in political or military activities contrary to the regional interests of that superpower. Internal self-determination would mean that political arrangements within the country correspond to the freely expressed views of the population and that such arrangements be at least initially reinforced by external forces acceptable to, but not controlled by, the pertinent superpower. To achieve the external neutralization of Afghanistan, the United States must be ready to participate - with the Soviet Union, China, Pakistan, Iran and possibly India - in a five- or six-power guarantee of the genuine neutrality of Afghanistan. ;;;
+
+Topics::: superpower arrangements external neutralization country;;; Score::: 0.11920292202211757;;;
+Topics::: afghanistan political engage expressed genuine;;; Score::: 0.11920292202211757;;;
+Topics::: acceptable possibly;;; Score::: 0.11920292202211757;;;
+Topics::: six-power participate pertinent controlled guarantee;;; Score::: 0.11920292202211757;;;

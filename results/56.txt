@@ -1,0 +1,10 @@
+Text::: It overshadows the fact that it will take place under conditions of Soviet choosing that can extend the war, not end it. And Americans know that there are powerful groups in the Afghan resistance that are totally repugnant to them - fundamentalist Moslems, who keep women in deep purdah and are eager to establish a Khomeini-type government. But Afghan specialists believe that most Afghans are not fundamentalist and that a traditional Islamic government would emerge as the choice of the people and most of the resistance. ;;;
+
+Topics::: totally;;; Score::: 0.5;;;
+Topics::: fact;;; Score::: 0.11920292202211757;;;
+Topics::: deep;;; Score::: 0.5;;;
+Topics::: resistance emerge khomeini-type women moslems;;; Score::: 0.3096014610110588;;;
+Topics::: fundamentalist afghan traditional establish repugnant;;; Score::: 0.3096014610110588;;;
+Topics::: choice;;; Score::: 0.11920292202211757;;;
+Topics::: government afghans specialists groups americans;;; Score::: 0.3096014610110588;;;
+Topics::: purdah;;; Score::: 0.5;;;

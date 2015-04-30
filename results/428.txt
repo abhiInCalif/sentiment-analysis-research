@@ -1,0 +1,5 @@
+Text::: Defenders of this affair say it is a precedent for opening up television so any critics can get a counter-program on the air, not just right-wingers. That presumably means we can expect to see ''documentaries'' produced by the Islamic Party of God and the Communist Party. The press needs more criticism, broadcasting not least. ;;;
+
+Topics::: defenders broadcasting god television;;; Score::: 0.11920292202211757;;;
+Topics::: counter-program precedent critics opening;;; Score::: 0.11920292202211757;;;
+Topics::: party documentaries right-wingers produced expect;;; Score::: 0.19407217169605634;;;

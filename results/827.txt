@@ -1,0 +1,5 @@
+Text::: The Russians continue to select and train guerrilla units in a score of camps from Czechoslovakia to North Korea, as the Cubans do outside Havana. They are committed to the support of the Palestinian, Namibian (South-West African), and South African guerrillas. Not unreasonably, they anticipate further successes. ;;;
+
+Topics::: south-west czechoslovakia continue palestinian;;; Score::: 0.11920292202211757;;;
+Topics::: anticipate unreasonably cubans havana units;;; Score::: 0.11920292202211757;;;
+Topics::: african namibian train russians north;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: Who is in the corner now? ''Last year, I was named vice chairman of the nonaligned movement in New Delhi. Last month, I was elected permanent vice chairman of the Islamic Conference in Rabat. ;;;
+
+Topics::: vice chairman rabat named nonaligned;;; Score::: 0.11920292202211757;;;
+Topics::: delhi permanent;;; Score::: 0.11920292202211757;;;
+Topics::: corner;;; Score::: 0.2689414213699951;;;

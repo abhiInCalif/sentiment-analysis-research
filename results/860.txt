@@ -1,0 +1,7 @@
+Text::: Defense Secretary Weinberger and his deputy, Frank Carlucci, supported elements of this proposed betrayal, contrary to all Reagan campaign pledges about supporting friends in trouble. Secretary of State Haig and the national security adviser, Richard Allen, argued against most of the strictures. President Reagan chose finally to suspend only the F-16 deliveries and to try to keep the decision to put this heat on Israel away from Congress. ;;;
+
+Topics::: suspend weinberger put richard;;; Score::: 0.11920292202211757;;;
+Topics::: strictures frank elements argued proposed;;; Score::: 0.3096014610110588;;;
+Topics::: reagan secretary heat allen carlucci;;; Score::: 0.11920292202211757;;;
+Topics::: betrayal supporting deliveries contrary friends;;; Score::: 0.3096014610110588;;;
+Topics::: haig;;; Score::: NaN;;;

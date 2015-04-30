@@ -1,0 +1,9 @@
+Text::: His account was sufficiently convincing to justify this trial. If testimony so far has failed to establish the truth of the Bulgarian link, it has at least given weight to a simpler hypothesis - that the roots of this plot were in Turkey. As a student, Mr. Agca enlisted in an Islamic terror gang known as the Gray Wolves, which aimed to destroy Turkey's secular democracy. ;;;
+
+Topics::: hypothesis link;;; Score::: 0.11920292202211757;;;
+Topics::: simpler weight agca failed islamic;;; Score::: 0.11920292202211757;;;
+Topics::: gray gang enlisted sufficiently convincing;;; Score::: 0.3096014610110588;;;
+Topics::: wolves;;; Score::: NaN;;;
+Topics::: bulgarian destroy;;; Score::: 0.11920292202211757;;;
+Topics::: student testimony terror;;; Score::: 0.11920292202211757;;;
+Topics::: turkey's roots secular trial truth;;; Score::: 0.24613528134807838;;;

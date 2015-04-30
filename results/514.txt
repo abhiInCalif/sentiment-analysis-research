@@ -1,0 +1,7 @@
+Text::: Most of the loud and public Western criticism of Turkey has taken place only since 1980. Helsinki Watch, for example, predicted that the election of November 1983 would be a farce, claiming that the Motherland Party, which is hardly the favorite of the generals, would be forced into a coalition with one of the military's favored parties. When the Motherland Party won an overwhelming victory, Helsinki Watch then claimed, with bizarre logic, that the results demonstrated the Turkish people's lack of confidence in the return to parliamentary democracy. ;;;
+
+Topics::: favored bizarre people's election forced;;; Score::: 0.08331439759984219;;;
+Topics::: farce;;; Score::: 0.04742587317756679;;;
+Topics::: party military's loud criticism generals;;; Score::: 0.15818364727378095;;;
+Topics::: overwhelming results democracy;;; Score::: 0.11920292202211757;;;
+Topics::: motherland watch helsinki demonstrated favorite;;; Score::: 0.08331439759984219;;;

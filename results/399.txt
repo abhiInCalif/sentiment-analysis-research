@@ -1,0 +1,8 @@
+Text:::  Instead of fading away, as many people hoped he would after the 1984 campaign, the Rev. Louis Farrakhan, the leader of the Nation of Islam, has grown in influence. Once lucky to draw hundreds for a speech, he now attracts thousands - 10,000 in Washington last summer, 15,000 in Los Angeles this month. ;;;
+
+Topics::: lucky;;; Score::: 0.5;;;
+Topics::: hundreds;;; Score::: 0.5;;;
+Topics::: farrakhan grown summer thousands nation;;; Score::: 0.3096014610110588;;;
+Topics::: fading angeles los louis draw;;; Score::: 0.3096014610110588;;;
+Topics::: speech;;; Score::: 0.5;;;
+Topics::: attracts hoped campaign washington;;; Score::: 0.3096014610110588;;;

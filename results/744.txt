@@ -1,0 +1,7 @@
+Text::: My grandmother believed that if a Turk walked into her kitchen the food would spoil. She said that when the Ottoman tax collectors came to her village the blood ran in the streets. Her happiest memories seemed to be of cooking for the cardinal, whose ample larder filled her with awe. ;;;
+
+Topics::: collectors ample;;; Score::: 0.2689414213699951;;;
+Topics::: cooking memories kitchen ottoman believed;;; Score::: 0.19407217169605634;;;
+Topics::: happiest turk filled tax;;; Score::: 0.2689414213699951;;;
+Topics::: spoil streets;;; Score::: 0.19407217169605634;;;
+Topics::: awe larder cardinal ran walked;;; Score::: 0.21902858825403593;;;

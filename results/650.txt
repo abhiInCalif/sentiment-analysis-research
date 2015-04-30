@@ -1,0 +1,9 @@
+Text::: King Fahd proposed holding an international conference to begin the process with the Sharia, the recorded deeds and sayings of the Prophet that govern virtually every aspect of a Moslem's life. The King's message has been given opposite constructions: On the one hand, it could be a plea for liberalizing Islamic law and, through that, for reinvigorating science and technology throughout the Moslem world, where both once flourished. On the other hand, it could point the way to an Islam stripped of the so-called modernizations of the past and to a conservative interpretation of the Prophet's words. ;;;
+
+Topics::: flourished govern recorded moslem's deeds;;; Score::: 0.11920292202211757;;;
+Topics::: constructions opposite islamic;;; Score::: 0.11920292202211757;;;
+Topics::: reinvigorating prophet's stripped message fahd;;; Score::: 0.11920292202211757;;;
+Topics::: liberalizing sharia words law international;;; Score::: 0.11920292202211757;;;
+Topics::: modernizations;;; Score::: 0.11920292202211757;;;
+Topics::: proposed king point;;; Score::: 0.11920292202211757;;;
+Topics::: hand science aspect sayings interpretation;;; Score::: 0.11920292202211757;;;

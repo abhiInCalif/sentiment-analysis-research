@@ -1,0 +1,5 @@
+Text::: These promises need to be weighed against Iran's appalling record. Note the case of Zia Nassry, an American citizen arrested by masked men in 1980 and imprisoned until last November. An Afghan-born management consultant suspected of being a spy, Mr. Nassry was twice subjected to mock executions, sealed for months in solitary confinement and even hung upside down. ;;;
+
+Topics::: nassry solitary spy consultant masked;;; Score::: 0.11920292202211757;;;
+Topics::: upside hung confinement sealed mock;;; Score::: 0.11920292202211757;;;
+Topics::: suspected november iran's;;; Score::: 0.11920292202211757;;;

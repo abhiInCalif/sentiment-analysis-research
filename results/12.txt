@@ -1,0 +1,9 @@
+Text::: Disingenuously, some argue that only suspicious and badly intentioned people would consider the charges harmful to Jews. It all reminds me of the poet Charles Mauras's defense of the forged documents used against Capt. Alfred Dreyfus in one of history's most painful anti-Semitic episodes. ;;;
+
+Topics::: charles reminds;;; Score::: 0.11920292202211757;;;
+Topics::: documents defense poet suspicious argue;;; Score::: 0.11920292202211757;;;
+Topics::: forged;;; Score::: 0.11920292202211757;;;
+Topics::: anti-semitic painful;;; Score::: 0.11920292202211757;;;
+Topics::: history's capt harmful intentioned badly;;; Score::: 0.11920292202211757;;;
+Topics::: dreyfus mauras's disingenuously;;; Score::: NaN;;;
+Topics::: episodes alfred charges;;; Score::: 0.11920292202211757;;;

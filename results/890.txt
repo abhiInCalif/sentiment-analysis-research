@@ -1,0 +1,9 @@
+Text::: Paris sharply protested the alleged merger with Chad, reinforced its own African garrisons and put off an oil exploration project in Libya. Nearby Egypt has already had one military brush with Libya, and powerful Nigeria now seems to be losing patience. Even Libya's sometime friend, Algeria, is unlikely to remain passive about further Libyan conquests. ;;;
+
+Topics::: patience protested reinforced;;; Score::: 0.11920292202211757;;;
+Topics::: libya conquests sharply libyan african;;; Score::: 0.11920292202211757;;;
+Topics::: powerful alleged;;; Score::: 0.11920292202211757;;;
+Topics::: nearby chad passive libya's egypt;;; Score::: 0.11920292202211757;;;
+Topics::: put military oil;;; Score::: 0.11920292202211757;;;
+Topics::: project garrisons exploration brush merger;;; Score::: 0.11920292202211757;;;
+Topics::: algeria;;; Score::: NaN;;;

@@ -1,0 +1,9 @@
+Text::: An exception is made for skull wounds, which need not be measured in depth. ''To preserve fairness, the extent of the injury must be measured accurately.'' So clothes over the spot must be removed or covering hair shaved, and if the ''criminal's resistance may cause an increase in the extent of the retaliatory wound, his hands and feet must be bound.'' ;;;
+
+Topics::: depth preserve;;; Score::: 0.11920292202211757;;;
+Topics::: criminal's covering made;;; Score::: 0.11920292202211757;;;
+Topics::: feet spot wound increase;;; Score::: 0.11920292202211757;;;
+Topics::: clothes;;; Score::: 0.11920292202211757;;;
+Topics::: shaved accurately injury wounds skull;;; Score::: 0.11920292202211757;;;
+Topics::: extent retaliatory removed hands bound;;; Score::: 0.11920292202211757;;;
+Topics::: measured;;; Score::: 0.11920292202211757;;;

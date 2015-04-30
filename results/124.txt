@@ -1,0 +1,5 @@
+Text::: Mr. Nusseibeh said it should be an international conference including Israel and the Palestine Liberation Organization. The P.L.O. is of course political anathema in Israel. ;;;
+
+Topics::: nusseibeh palestine p.l.o political;;; Score::: 0.2689414213699951;;;
+Topics::: anathema organization conference international liberation;;; Score::: 0.2689414213699951;;;
+Topics::: israel including;;; Score::: 0.2689414213699951;;;

@@ -1,0 +1,7 @@
+Text::: Had Kuwait been intimidated, Iraq would have been pushed closer to disastrous collapse. The United States became directly involved when Kuwait sought protection for its threatened shipping. The Navy increased its forces in the gulf to protect American-flagged Kuwaiti tankers - a service now extended to all NATO and neutral shipping. ;;;
+
+Topics::: american-flagged united involved;;; Score::: 0.2689414213699951;;;
+Topics::: protect protection closer gulf threatened;;; Score::: 0.16911575513807675;;;
+Topics::: kuwait neutral sought collapse disastrous;;; Score::: 0.16911575513807675;;;
+Topics::: nato;;; Score::: NaN;;;
+Topics::: shipping extended service kuwaiti increased;;; Score::: 0.19407217169605634;;;

@@ -1,0 +1,6 @@
+Text::: Nor did the highly trained Iraqi Army respond to the opportunities for counterattack provided by the tired invaders. Counterblows were struck. But only a few had the effect of delaying the overall Iranian operation, When that resumed, the Iraqis found that their shells, again plunging into swamplands, had little impact on the invaders' inexorable advance. ;;;
+
+Topics::: invaders inexorable swamplands resumed counterblows;;; Score::: 0.19407217169605634;;;
+Topics::: tired found advance;;; Score::: 0.19407217169605634;;;
+Topics::: plunging delaying;;; Score::: 0.11920292202211757;;;
+Topics::: impact shells opportunities operation provided;;; Score::: 0.19407217169605634;;;

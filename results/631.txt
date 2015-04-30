@@ -1,0 +1,5 @@
+Text::: Invading Mexico looked like a ''no-win'' adventure. What was needed was a ''can't- lose'' expedition. ''Some place we can conquer and straighten out for democracy in a couple of days so we can show how tough we are without getting bogged down in a real fight'': that was the consensus. ;;;
+
+Topics::: can't place;;; Score::: 0.11920292202211757;;;
+Topics::: straighten conquer expedition adventure no-win;;; Score::: 0.11920292202211757;;;
+Topics::: bogged couple consensus looked needed;;; Score::: 0.11920292202211757;;;

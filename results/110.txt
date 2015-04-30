@@ -1,0 +1,6 @@
+Text::: Feelings here have been further inflamed by the Israeli policy of responding to protests by beating people -often people who have done nothing, as Israeli military officers concede. The Government of Israel is highly sensitive to comparisons to South Africa. Officials bring it up to deny that occupation practices have anything in common with white South African rule. ;;;
+
+Topics::: south people practices deny sensitive;;; Score::: 0.24613528134807838;;;
+Topics::: officials protests;;; Score::: 0.11920292202211757;;;
+Topics::: israeli african africa concede officers;;; Score::: 0.11920292202211757;;;
+Topics::: comparisons bring rule common israel;;; Score::: 0.3096014610110588;;;

@@ -1,0 +1,6 @@
+Text::: They beg for concern, especially at the United Nations. But the U.N. has no time for Iran's crimes. A few months ago, an Iranian exile gave delegates a list of 7,746 names, most of them leftists slain by the Ayatollah's firing squads. ;;;
+
+Topics::: leftists;;; Score::: 0.11920292202211757;;;
+Topics::: squads beg ayatollah's iran's;;; Score::: 0.11920292202211757;;;
+Topics::: slain list exile u.n months;;; Score::: 0.11920292202211757;;;
+Topics::: delegates crimes names firing gave;;; Score::: 0.11920292202211757;;;

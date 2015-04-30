@@ -1,0 +1,7 @@
+Text::: Administration officials do not seek to justify arms aid solely or even primarily in terms of the threat posed by Soviet forces in Afghanistan. They frankly acknowledge that Pakistan wants help mainly to build up its military posture vis-a-vis India, and they have pointedly refused to give public or private assurances to New Delhi that Washington would not permit American weaponry to be used in an Indian-Pakistani conflict. This momentous policy reversal has been given an extra wallop by the alarming decision to place NATO-model offensive aircraft in the hands of the unstable military junta in Islamabad. ;;;
+
+Topics::: primarily india administration place afghanistan;;; Score::: 0.11920292202211757;;;
+Topics::: private;;; Score::: 0.11920292202211757;;;
+Topics::: junta alarming momentous vis-a-vis posed;;; Score::: 0.11920292202211757;;;
+Topics::: military unstable wallop pointedly nato-model;;; Score::: 0.11920292202211757;;;
+Topics::: reversal indian-pakistani frankly solely islamabad;;; Score::: 0.11920292202211757;;;

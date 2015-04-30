@@ -1,0 +1,7 @@
+Text::: Exceedingly small in stature, he has a balding head, darting eyes, a ready smile that fades as quickly as it appears, a beard that seems uncombed rather than unkempt. Virtually ignoring both the clock and a group of P.L.O. officers (in civilian clothes) who had arrived for a midnight conference, Mr. Arafat held forth in more than three hours' conversation. ;;;
+
+Topics::: ignoring fades exceedingly arrived hours;;; Score::: 0.11920292202211757;;;
+Topics::: ready;;; Score::: 0.11920292202211757;;;
+Topics::: unkempt beard;;; Score::: 0.11920292202211757;;;
+Topics::: conversation midnight clothes clock uncombed;;; Score::: 0.11920292202211757;;;
+Topics::: small officers p.l.o;;; Score::: 0.11920292202211757;;;

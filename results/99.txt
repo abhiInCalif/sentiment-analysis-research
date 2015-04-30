@@ -1,0 +1,9 @@
+Text::: But this attempt to have it both ways has not really paid off: The Iranians show little sign of warming toward the Soviet Union, and, in the meantime, Soviet-Arab relations are being strained over this issue. Moreover, the Soviet Union must know that pursuit of an obstructionist policy in the Gulf will not improve Washington's disposition to help the Kremlin find a way out of its predicament in Afghanistan. * There are wider implications as well for America's success in the Gulf. ;;;
+
+Topics::: policy;;; Score::: 0.11920292202211757;;;
+Topics::: union gulf kremlin strained paid;;; Score::: 0.04742587317756679;;;
+Topics::: implications wider predicament improve;;; Score::: 0.11920292202211757;;;
+Topics::: soviet disposition relations meantime warming;;; Score::: 0.08331439759984219;;;
+Topics::: america's obstructionist soviet-arab ways success;;; Score::: 0.09527723907393398;;;
+Topics::: washington's;;; Score::: NaN;;;
+Topics::: sign iranians;;; Score::: 0.04742587317756679;;;

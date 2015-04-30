@@ -1,0 +1,8 @@
+Text::: But they say the Syrian Government evidently did believe it had been misled. In Lebanon today Syria is working for an effective central government. Mr. Khaddam said the new cabinet of Prime Minister Rashid Karami represented ''the best opportunity for internal peace,'' and he thought it had ''the will and intention to end the crisis.'' ;;;
+
+Topics::: effective;;; Score::: 0.5;;;
+Topics::: central thought working opportunity crisis;;; Score::: 0.5;;;
+Topics::: rashid misled lebanon;;; Score::: 0.2689414213699951;;;
+Topics::: peace;;; Score::: 0.5;;;
+Topics::: represented karami syrian today internal;;; Score::: 0.5;;;
+Topics::: government khaddam intention minister;;; Score::: 0.5;;;

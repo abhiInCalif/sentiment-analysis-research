@@ -1,0 +1,10 @@
+Text::: The Israeli Government, meanwhile, has taken positions almost as intransigent as the P.L.O. Mr. Shultz will have to navigate between Prime Minister Shamir, who seems interested most in avoiding serious negotiations, and Foreign Minister Peres, weakened by his own vacillations. If, on a subject of such intense importance, Israel can't put together a competent government with a positive attitude toward peace talks, its standing among Americans and in Congress will be damaged. ;;;
+
+Topics::: peres put foreign;;; Score::: 0.5;;;
+Topics::: standing importance intense israeli;;; Score::: 0.5;;;
+Topics::: can't;;; Score::: NaN;;;
+Topics::: government damaged congress weakened avoiding;;; Score::: 0.3096014610110588;;;
+Topics::: positive;;; Score::: 0.5;;;
+Topics::: americans;;; Score::: NaN;;;
+Topics::: competent vacillations;;; Score::: 0.3096014610110588;;;
+Topics::: minister attitude subject shamir navigate;;; Score::: 0.3096014610110588;;;

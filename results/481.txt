@@ -1,0 +1,10 @@
+Text::: The Soviet leader at year's end will be (a) Chernenko; (b) Gorbachev; (c) Romanov; (d) Grishin; (e) Ogarkov. 14. The People's Republic of China will (a) make a surprise deal with Taiwan; (b) dispense with chopsticks; (c) have a rapprochement with the Russians; (d) continue on the capitalist road; (e) have this decade's upheaval. ;;;
+
+Topics::: ogarkov year's dispense people's;;; Score::: 0.11920292202211757;;;
+Topics::: decade's chopsticks road make gorbachev;;; Score::: 0.11920292202211757;;;
+Topics::: romanov;;; Score::: NaN;;;
+Topics::: taiwan grishin;;; Score::: NaN;;;
+Topics::: capitalist deal end soviet;;; Score::: 0.11920292202211757;;;
+Topics::: chernenko rapprochement republic leader china;;; Score::: 0.11920292202211757;;;
+Topics::: upheaval;;; Score::: 0.11920292202211757;;;
+Topics::: continue;;; Score::: 0.11920292202211757;;;

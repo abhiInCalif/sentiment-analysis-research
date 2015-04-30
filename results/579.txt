@@ -1,0 +1,5 @@
+Text::: Three regimes in Moscow have been unable or unwilling to negotiate a face- saving withdrawal on lines proposed by a United Nations negotiator. Perhaps they really believe the nonsense that only help from the West through Pakistan keeps the angry rebellion alive. To believe that is to ignore Afghanistan's history of passionate resistance to every invader. ;;;
+
+Topics::: regimes nonsense nations;;; Score::: 0.11920292202211757;;;
+Topics::: unwilling unable alive afghanistan's ignore;;; Score::: 0.11920292202211757;;;
+Topics::: invader passionate negotiator saving angry;;; Score::: 0.11920292202211757;;;

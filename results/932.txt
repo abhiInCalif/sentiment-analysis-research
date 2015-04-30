@@ -1,0 +1,6 @@
+Text::: As the fighting continues, the Iraqi regime only weakens itself, for once the war is over it must still justify its actions and the ruin of its cities and industrial base to an unsympathetic population that likely has never viewed Iran as its enemy anyway. William O. Beeman, assistant professor of anthropology at Brown University, lived and carried out research in Iran for seven years, ended in 1979. He is a frequent contributor to the Pacific News Service. ;;;
+
+Topics::: weakens base actions university professor;;; Score::: 0.11920292202211757;;;
+Topics::: iran contributor frequent brown anthropology;;; Score::: 0.3096014610110588;;;
+Topics::: enemy iraqi fighting;;; Score::: 0.11920292202211757;;;
+Topics::: beeman viewed industrial pacific ruin;;; Score::: 0.11920292202211757;;;

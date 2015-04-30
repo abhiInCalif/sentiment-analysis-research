@@ -1,0 +1,6 @@
+Text::: Sadat's successor, Hosni Mubarak, will be struggling in the months ahead to consolidate his position and achieve a new stability. What does he most urgently need? Not American B-52's flying by but economic gains at home - and next door in the Sudan, where food shortages underlie much unrest. ;;;
+
+Topics::: sadat's successor food;;; Score::: 0.11920292202211757;;;
+Topics::: shortages flying consolidate struggling achieve;;; Score::: 0.11920292202211757;;;
+Topics::: underlie unrest sudan urgently mubarak;;; Score::: 0.19407217169605634;;;
+Topics::: months;;; Score::: 0.11920292202211757;;;

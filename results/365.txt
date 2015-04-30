@@ -1,0 +1,7 @@
+Text::: The resistance is better armed, better trained and more effective than ever before. As a result, neither side has been able to defeat the other. Today, Bill Bradley, Democrat of New Jersey, is a member of the Senate Select Committee on Intelligence. ;;;
+
+Topics::: select bradley today resistance democrat;;; Score::: 0.11920292202211757;;;
+Topics::: jersey effective armed;;; Score::: 0.11920292202211757;;;
+Topics::: senate defeat;;; Score::: 0.11920292202211757;;;
+Topics::: bill member;;; Score::: 0.11920292202211757;;;
+Topics::: trained committee intelligence side;;; Score::: 0.11920292202211757;;;

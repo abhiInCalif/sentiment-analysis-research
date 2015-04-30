@@ -1,0 +1,7 @@
+Text:::  Egypt is not Iran, and Anwar Sadat is hardly the hapless Shah. But there is a parallel now between Cairo and Teheran. Islamic fundamentalists and secular leftists are winning allure as martyrs, as a pro-Western regime claps them in prison. ;;;
+
+Topics::: claps sadat;;; Score::: 0.11920292202211757;;;
+Topics::: martyrs allure hapless leftists cairo;;; Score::: 0.11920292202211757;;;
+Topics::: parallel egypt regime iran;;; Score::: 0.19407217169605634;;;
+Topics::: secular anwar;;; Score::: 0.11920292202211757;;;
+Topics::: prison fundamentalists winning;;; Score::: 0.11920292202211757;;;

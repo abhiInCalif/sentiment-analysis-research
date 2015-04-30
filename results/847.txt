@@ -1,0 +1,8 @@
+Text::: Vast, expensive armies, single-party frameworks, the general suspension of democratic processes, radically distorted economies - these and the sacrifice of many lives have made up a part of the price paid by Arabs on behalf of their leaders and countries. Still, there is no part of the Arab world that is not vulnerable to Israeli attacks. It is only honest to admit that every Arab probably feels more humiliated today than in 1967. ;;;
+
+Topics::: single-party expensive world;;; Score::: 0.11920292202211757;;;
+Topics::: price paid general;;; Score::: 0.11920292202211757;;;
+Topics::: armies;;; Score::: 0.11920292202211757;;;
+Topics::: part today vulnerable arabs;;; Score::: 0.11920292202211757;;;
+Topics::: sacrifice radically suspension frameworks admit;;; Score::: 0.11920292202211757;;;
+Topics::: arab humiliated distorted processes feels;;; Score::: 0.11920292202211757;;;

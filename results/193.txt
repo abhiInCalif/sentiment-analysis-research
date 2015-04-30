@@ -1,0 +1,8 @@
+Text:::  LEAD: To the Editor: To the Editor: Contrary to Irfan Ahmad (letter, March 10), political considerations, not religious precepts, motivate terrorists in the Middle East. He states, ''the Islamic religion facilitates destructive jihad.'' However, the most violent Arab group, in action and rhetoric, is George Habash's Popular Front. ;;;
+
+Topics::: lead;;; Score::: NaN;;;
+Topics::: terrorists motivate march religious political;;; Score::: 0.11920292202211757;;;
+Topics::: popular habash's considerations contrary religion;;; Score::: 0.11920292202211757;;;
+Topics::: jihad facilitates precepts states;;; Score::: 0.11920292202211757;;;
+Topics::: editor destructive letter irfan rhetoric;;; Score::: 0.16911575513807675;;;
+Topics::: ahmad;;; Score::: NaN;;;

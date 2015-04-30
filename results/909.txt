@@ -1,0 +1,6 @@
+Text::: Clearly, there is a crisis of spirit. All the movements offer certainties i n place of questing doubts, righteousness in place of reason, indig nation in place of compassionate effort. For all the thunder, they are defensive, confident only of terrible dangers to beovercome by i ntransigence. ;;;
+
+Topics::: questing certainties thunder doubts righteousness;;; Score::: 0.11920292202211757;;;
+Topics::: place ntransigence beovercome offer;;; Score::: 0.11920292202211757;;;
+Topics::: indig compassionate;;; Score::: 0.11920292202211757;;;
+Topics::: reason;;; Score::: 0.11920292202211757;;;

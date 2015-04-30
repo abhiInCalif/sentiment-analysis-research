@@ -1,0 +1,7 @@
+Text::: The statement cited no names, but by implication it attacked the stances of such Catholic public figures as Geraldine Ferraro, the Democratic Vice-Presidential candidate, Governor Cuomo and the late President John F. Kennedy. The other front-page story disclosed that Malaysia, a country where Moslems are a majority and the state religion is Islam, had told the New York Philharmonic it could not play a work by a Jewish composer on an upcoming tour. The orchestra first agreed and then reversed itself - canceling its two concerts there. ;;;
+
+Topics::: reversed tour disclosed cuomo candidate;;; Score::: 0.11920292202211757;;;
+Topics::: orchestra upcoming kennedy vice-presidential stances;;; Score::: 0.11920292202211757;;;
+Topics::: philharmonic president;;; Score::: NaN;;;
+Topics::: front-page john ferraro agreed late;;; Score::: 0.11920292202211757;;;
+Topics::: concerts canceling composer malaysia governor;;; Score::: 0.11920292202211757;;;

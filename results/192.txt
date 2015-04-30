@@ -1,0 +1,8 @@
+Text::: If, however, Pakistan or India were willing to take steps to allow neutral inspection of their nuclear facilities, or to develop the concept of South Asia as a nonnuclear-weapons zone, we would then be prepared to increase levels of assistance. None of these proposed measures is perfect. But if Congress merely renews the aid package with no new nuclear conditions, it will sell short a critical national security interest. ;;;
+
+Topics::: nuclear interest;;; Score::: 0.11920292202211757;;;
+Topics::: sell perfect zone nonnuclear-weapons develop;;; Score::: 0.11920292202211757;;;
+Topics::: proposed assistance india critical concept;;; Score::: 0.11920292202211757;;;
+Topics::: inspection prepared security neutral aid;;; Score::: 0.11920292202211757;;;
+Topics::: steps;;; Score::: 0.11920292202211757;;;
+Topics::: renews package measures;;; Score::: 0.11920292202211757;;;

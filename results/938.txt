@@ -1,0 +1,4 @@
+Text::: The most reprehensible aspect of the Zia Government is that it is brutalizing Pakistan's political culture. For the first time in living memory, highly publicized public executions have been carried out, and people have been flogged publicly and in prisons. Arbitrary arrests and imprisonments without trial have become the norm. ;;;
+
+Topics::: imprisonments arbitrary flogged publicized memory;;; Score::: 0.11920292202211757;;;
+Topics::: brutalizing reprehensible aspect norm prisons;;; Score::: 0.11920292202211757;;;

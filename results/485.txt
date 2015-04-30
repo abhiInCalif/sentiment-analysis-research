@@ -1,0 +1,5 @@
+Text::: Iran has kept itself in gloomy isolation and has had few friends in its now-deadlocked war with Iraq. Iraq, by contrast, has been reaching out for new friends, including even the United States. Until now, Iran has appeared a hostage of its recent past. ;;;
+
+Topics::: reaching gloomy past recent hostage;;; Score::: 0.11920292202211757;;;
+Topics::: friends iraq iran now-deadlocked appeared;;; Score::: 0.11920292202211757;;;
+Topics::: contrast isolation states;;; Score::: 0.11920292202211757;;;

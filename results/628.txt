@@ -1,0 +1,5 @@
+Text::: It was bad. In the first place it was a bad phrase, a weak variation on Mao Zedong's phrase about America being a paper tiger. But Mao was dead, and the world had no great phrasemakers left, but only Margaret Thatcher and men named Helmut and Moscow commissars who, reliving the early days of American television, talked like John Cameron Swayze. ;;;
+
+Topics::: weak;;; Score::: 0.11920292202211757;;;
+Topics::: talked men left american;;; Score::: 0.11920292202211757;;;
+Topics::: mao phrase bad swayze cameron;;; Score::: 0.11920292202211757;;;

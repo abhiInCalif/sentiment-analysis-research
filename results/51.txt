@@ -1,0 +1,8 @@
+Text::: firebrand have apparently acquired American Stinger missiles - and so, ominously, has Iran. With Stingers, airliners are an easy target - as shown by the downing on Sunday of a Soviet-built passenger plane. Continued fighting could trigger the resumption of Soviet arms and bring the return of ''advisers.'' ;;;
+
+Topics::: easy;;; Score::: 0.11920292202211757;;;
+Topics::: continued sunday american advisers;;; Score::: 0.2689414213699951;;;
+Topics::: bring trigger airliners apparently ominously;;; Score::: 0.29604811446403756;;;
+Topics::: shown iran;;; Score::: 0.11920292202211757;;;
+Topics::: plane soviet-built downing target stingers;;; Score::: 0.11920292202211757;;;
+Topics::: resumption passenger missiles stinger return;;; Score::: 0.29604811446403756;;;

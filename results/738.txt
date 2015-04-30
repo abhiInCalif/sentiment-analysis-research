@@ -1,0 +1,5 @@
+Text::: Here's a complication that could only happen in the Middle East: since the Russians have stolen a march on us in Iran, we have been tacitly approving Israel's spare-parts help to the ayatollahs in the hope that the West will have some contact on the inside when Iran implodes. Now State Department Arabists are leaking disapproval of any Israeli help to Iran. Such a tilt toward Iraq is unlikely to surface in a Haig speech; while publicly deploring an Iraqi humiliation, we are more likely to continue to turn a blind eye to the Israeli foot in the Iranian door, and to encourage Israeli arms production with American contracts and military credits. ;;;
+
+Topics::: credits;;; Score::: 0.04742587317756679;;;
+Topics::: iran contracts eye stolen complication;;; Score::: 0.08331439759984219;;;
+Topics::: israeli blind deploring disapproval leaking;;; Score::: 0.08331439759984219;;;

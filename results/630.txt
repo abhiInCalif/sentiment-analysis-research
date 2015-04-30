@@ -1,0 +1,6 @@
+Text::: In Lebanon the Marines were devastated by obscure Islamic sects. In Nicaragua insolent Latin revolutionaries cried ''Fie to your gringo C.I.A.!'' and preached the doctrine that Babe Ruth was no better than Roberto Clemente. ;;;
+
+Topics::: fie latin c.i.a;;; Score::: NaN;;;
+Topics::: clemente ruth gringo cried insolent;;; Score::: 0.11920292202211757;;;
+Topics::: roberto preached revolutionaries;;; Score::: 0.11920292202211757;;;
+Topics::: babe islamic;;; Score::: NaN;;;

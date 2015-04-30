@@ -1,0 +1,5 @@
+Text::: Mr. Berri asks for the release of 766 Lebanese, mostly Shiites, held by Israel. Since he knew their release was imminent, he may have thought it a modest price, calculated to end the crisis quickly. The Holy Warriors, by contrast, call for a price the United States will not and should not pay: the return of 17 comrades soon to be tried for murderous attacks on the American and French Embassies in Kuwait last year. ;;;
+
+Topics::: murderous comrades contrast asks embassies;;; Score::: 0.11920292202211757;;;
+Topics::: price calculated lebanese warriors french;;; Score::: 0.19407217169605634;;;
+Topics::: release shiites pay attacks modest;;; Score::: 0.16911575513807675;;;

@@ -1,0 +1,8 @@
+Text::: The moment has come for the United States to put the resolution to a vote and let the Russians choose: Support it and incur the ire of Iran, or vote no and offend moderate Arabs and America. The missiles raining down on Teheran and Baghdad are too inaccurate to serve any military purpose. Their effect is only to terrify and kill civilians. ;;;
+
+Topics::: raining arabs missiles states;;; Score::: 0.11920292202211757;;;
+Topics::: serve america united;;; Score::: 0.11920292202211757;;;
+Topics::: baghdad;;; Score::: NaN;;;
+Topics::: vote ire incur choose moment;;; Score::: 0.11920292202211757;;;
+Topics::: kill terrify offend resolution put;;; Score::: 0.11920292202211757;;;
+Topics::: effect purpose inaccurate support;;; Score::: 0.11920292202211757;;;

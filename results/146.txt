@@ -1,0 +1,7 @@
+Text::: The accord provoked an outcry in Iran, where reformers were in the midst of a brave attempt to write a constitution and curb corruption. To that end, they turned to the United States. They heard that the 34-year-old W. Morgan Shuster had done well as an honest fiscal caulker in Cuba and the Philippines; they invited him to bring a team of experts and serve as Persia's treasurer general. ;;;
+
+Topics::: bring constitution heard attempt;;; Score::: 0.11920292202211757;;;
+Topics::: team philippines midst honest general;;; Score::: 0.11920292202211757;;;
+Topics::: treasurer persia's invited write shuster;;; Score::: 0.11920292202211757;;;
+Topics::: morgan;;; Score::: NaN;;;
+Topics::: experts caulker fiscal year-old curb;;; Score::: 0.11920292202211757;;;

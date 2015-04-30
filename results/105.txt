@@ -1,0 +1,7 @@
+Text::: There are external reasons: the Arab countries and the superpowers turning away from the Israeli-Palestinian issue, the sense of hopelessness about negotiations. But there is also an accumulated bitterness at injustice and humiliation. A public-interest law office here in Ramallah, Al-Haq (known also as Law in the Service of Man), helps people who get in trouble with the occupation forces. ;;;
+
+Topics::: office public-interest external service man;;; Score::: 0.11920292202211757;;;
+Topics::: helps bitterness superpowers sense trouble;;; Score::: 0.11920292202211757;;;
+Topics::: israeli-palestinian turning reasons issue people;;; Score::: 0.11920292202211757;;;
+Topics::: law injustice accumulated hopelessness forces;;; Score::: 0.11920292202211757;;;
+Topics::: al-haq humiliation occupation ramallah;;; Score::: 0.11920292202211757;;;

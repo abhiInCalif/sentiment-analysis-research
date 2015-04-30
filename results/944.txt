@@ -1,0 +1,8 @@
+Text::: (If Soviet ''Communism'' professes anything substantive at home today, it is Russian nationalism, law and order, cradle-to-grave welfarism, and mass consumerism.) A conservative great power will, of course, zealously defend and seek to expand its influence in the world. It can behave aggressively and obscenely, as the United States did in Vietnam and Chile, and as the Soviet Union did in Czechoslovakia and Afghanistan. ;;;
+
+Topics::: zealously;;; Score::: 0.5;;;
+Topics::: soviet expand consumerism professes aggressively;;; Score::: 0.24613528134807838;;;
+Topics::: chile welfarism cradle-to-grave communism substantive;;; Score::: 0.11920292202211757;;;
+Topics::: obscenely;;; Score::: 0.11920292202211757;;;
+Topics::: defend behave;;; Score::: 0.3096014610110588;;;
+Topics::: vietnam;;; Score::: NaN;;;

@@ -1,0 +1,7 @@
+Text::: If successful, it would reduce opportunities for Soviet gains in the Gulf and discourage Iran and others from tilting toward Moscow. There is no realistic possibility of early resumption of American diplomatic relations with Teheran, but we do not require them to clarify the importance we place on the territorial integrity of Iran and its neighbors. We should reaffirm that commitment in our own national interest. ;;;
+
+Topics::: successful opportunities tilting teheran soviet;;; Score::: 0.11920292202211757;;;
+Topics::: reaffirm integrity gulf;;; Score::: 0.11920292202211757;;;
+Topics::: iran clarify discourage neighbors commitment;;; Score::: 0.11920292202211757;;;
+Topics::: reduce diplomatic require;;; Score::: 0.11920292202211757;;;
+Topics::: gains importance place resumption;;; Score::: 0.11920292202211757;;;

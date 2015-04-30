@@ -1,0 +1,6 @@
+Text::: The Russians, faced with military defeat, have wisely agreed to pull out. They are doing it pretty much on their own terms, designed to keep the Afghan Communists in Kabul in power as long as possible. The Kabul Government will probably be defeated one day. ;;;
+
+Topics::: designed pull afghan day defeat;;; Score::: 0.24613528134807838;;;
+Topics::: defeated communists;;; Score::: 0.11920292202211757;;;
+Topics::: pretty faced;;; Score::: 0.3096014610110588;;;
+Topics::: kabul government terms agreed wisely;;; Score::: 0.3096014610110588;;;

@@ -1,0 +1,7 @@
+Text::: Rather it seems to have been an attempt to correct a political mistake and restore some balance to heavily pro-Iraqi French policy. Now the French are seeking more normal relations with Iran, reportedly even to the point of arms sales. There is neat irony, of course, in the ostensible reason for Mr. Rajavi's being obliged to leave - that his political activity, which was directed from here against the Ayatollah Khomeini's regime, violated the traditions of asylum. ;;;
+
+Topics::: violated neat;;; Score::: 0.11920292202211757;;;
+Topics::: political asylum obliged rajavi's pro-iraqi;;; Score::: 0.11920292202211757;;;
+Topics::: ostensible irony normal correct leave;;; Score::: 0.16911575513807675;;;
+Topics::: heavily;;; Score::: 0.11920292202211757;;;
+Topics::: french khomeini's seeking relations activity;;; Score::: 0.19407217169605634;;;

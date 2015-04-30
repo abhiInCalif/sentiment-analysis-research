@@ -1,0 +1,7 @@
+Text::: President Reagan delayed sending a message to Prime Minister Begin urging restraint until the day of the invasion. That was American leadership. That is why Israel treats American views with indifference bordering on contempt. ;;;
+
+Topics::: sending;;; Score::: 0.11920292202211757;;;
+Topics::: delayed;;; Score::: 0.11920292202211757;;;
+Topics::: contempt;;; Score::: 0.11920292202211757;;;
+Topics::: american bordering minister;;; Score::: 0.11920292202211757;;;
+Topics::: treats restraint urging views message;;; Score::: 0.11920292202211757;;;

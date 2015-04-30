@@ -1,0 +1,5 @@
+Text::: Congress has passed a resolution. What speaks louder is the silence among so many who used to denounce the Shah as a tyrant and pleaded for patience when Ayatollah Khomeini replaced him five years ago. At that time, an article on the opposite page castigated the press for depicting the Ayatollah as a fanatic. ;;;
+
+Topics::: ayatollah depicting patience louder silence;;; Score::: 0.11920292202211757;;;
+Topics::: castigated tyrant article congress;;; Score::: 0.11920292202211757;;;
+Topics::: page replaced resolution ago denounce;;; Score::: 0.16911575513807675;;;

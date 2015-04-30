@@ -1,0 +1,6 @@
+Text::: Israeli hard-liners who see all negotiations as a form of subversion will be vindicated in their intransigence. P.L.O. radicals who preach violence as the only path to Palestinian autonomy will be strengthened. ;;;
+
+Topics::: autonomy path preach radicals hard-liners;;; Score::: 0.11920292202211757;;;
+Topics::: vindicated;;; Score::: 0.11920292202211757;;;
+Topics::: subversion;;; Score::: 0.11920292202211757;;;
+Topics::: strengthened intransigence form violence negotiations;;; Score::: 0.11920292202211757;;;

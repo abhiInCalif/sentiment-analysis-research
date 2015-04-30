@@ -1,0 +1,6 @@
+Text::: Yet what happened then helps explain how Russia was shut out of the Persian Gulf and why Iranians behave as they do today. Before that pact, Iranians looked upon Russia as a traditional enemy and Britain as a well-meaning friend. Britain had aimed to keep all rivals, especially Russia, away from approaches to India, notably the Persian Gulf. ;;;
+
+Topics::: notably today behave shut explain;;; Score::: 0.19407217169605634;;;
+Topics::: happened approaches;;; Score::: 0.19407217169605634;;;
+Topics::: iranians india looked helps;;; Score::: 0.11920292202211757;;;
+Topics::: russia britain persian gulf friend;;; Score::: 0.11920292202211757;;;

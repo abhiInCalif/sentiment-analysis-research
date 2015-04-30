@@ -1,0 +1,5 @@
+Text::: There are rudiments of rationality even in this jungle. Only live hostages have value; murdering them further blackens the captors and their cause. Syria seems to have some influence on Islamic Holy War and some interest in curbing the kidnapping. ;;;
+
+Topics::: captors blackens jungle rudiments holy;;; Score::: 0.11920292202211757;;;
+Topics::: kidnapping curbing;;; Score::: 0.11920292202211757;;;
+Topics::: rationality;;; Score::: 0.11920292202211757;;;

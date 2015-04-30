@@ -1,0 +1,6 @@
+Text::: But they carry even more profound political implications. That was evident in the reaction of some Israelis who have led the effort to plant Jewish settlements in the occupied territories as a step toward annexing them. Prime Minister Yitzhak Shamir told a Knesset committee that the arrests of the alleged terrorists had prevented a ''catastrophe'' for Israel. ;;;
+
+Topics::: implications;;; Score::: 0.5;;;
+Topics::: prevented reaction annexing plant carry;;; Score::: 0.24613528134807838;;;
+Topics::: evident step shamir territories occupied;;; Score::: 0.11920292202211757;;;
+Topics::: catastrophe settlements profound terrorists committee;;; Score::: 0.24613528134807838;;;

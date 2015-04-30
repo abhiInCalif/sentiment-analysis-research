@@ -1,0 +1,7 @@
+Text::: President Mubarak has hoped to persuade Jordan and the Saudis to try Egypt's road of recognition and diplomacy. You do not have to be a professor of psychology to understand that, after Lebanon, the counsels of accommodation are going to have hard going. Mr. Mubarak has made his despair plain in strong statements condemning the invasion. ;;;
+
+Topics::: professor president;;; Score::: 0.11920292202211757;;;
+Topics::: mubarak despair counsels condemning recognition;;; Score::: 0.16911575513807675;;;
+Topics::: hoped lebanon understand;;; Score::: 0.11920292202211757;;;
+Topics::: psychology accommodation egypt's jordan diplomacy;;; Score::: 0.11920292202211757;;;
+Topics::: strong;;; Score::: 0.2689414213699951;;;

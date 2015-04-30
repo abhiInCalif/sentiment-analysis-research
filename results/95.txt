@@ -1,0 +1,7 @@
+Text::: The United States now stands on the sidelines, wringing its hands. An Israeli, trying to be optimistic, remarked that he had visited Alsace and seen peace where for 100 years there had been war and hatred between French and Germans. Yes, but that happened because there were two great leaders, de Gaulle and Adenauer, who dared greatly for peace. ;;;
+
+Topics::: germans optimistic sidelines war;;; Score::: 0.11920292202211757;;;
+Topics::: greatly adenauer wringing stands united;;; Score::: 0.11920292202211757;;;
+Topics::: happened hands;;; Score::: 0.11920292202211757;;;
+Topics::: peace dared gaulle french alsace;;; Score::: 0.11920292202211757;;;
+Topics::: remarked hatred great leaders;;; Score::: 0.11920292202211757;;;

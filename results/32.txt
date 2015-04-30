@@ -1,0 +1,6 @@
+Text:::  LEAD: This is the news from Jerusalem: This is the news from Jerusalem: Israel is sailing in seas of peril. Safe shore is distant. The Arab states denounce Israel as one more Western imposition of a foreign concept and foreign people in the territory of Islam. ;;;
+
+Topics::: concept distant safe sailing seas;;; Score::: 0.24613528134807838;;;
+Topics::: news israel islam peril lead;;; Score::: 0.5;;;
+Topics::: jerusalem foreign imposition western shore;;; Score::: 0.11920292202211757;;;
+Topics::: states;;; Score::: 0.11920292202211757;;;

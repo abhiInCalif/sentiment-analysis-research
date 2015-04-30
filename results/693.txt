@@ -1,0 +1,5 @@
+Text::: One, from Zhinus Mahmudi to her three children, is dated June 7, 1981. It concludes: ''I love you. The desire to see you - which is an unattainable desire now -whenever it comes over me, makes my whole being tremble. ;;;
+
+Topics::: unattainable love;;; Score::: 0.3096014610110588;;;
+Topics::: desire tremble concludes mahmudi zhinus;;; Score::: 0.3096014610110588;;;
+Topics::: june;;; Score::: NaN;;;

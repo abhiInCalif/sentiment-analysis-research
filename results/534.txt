@@ -1,0 +1,6 @@
+Text::: A lax agreement with China, which is not an American ally, would offend all Asian countries that are. Ambiguities, however tempting to the drafters, would only sow the seeds of future resentments like India's about the reactor at Tarapur. Since China has no foreseeable civilian need for reprocessing nuclear fuel, there is a tangible possibility that its plutonium will be diverted to military use. ;;;
+
+Topics::: fuel india's resentments tempting agreement;;; Score::: 0.09527723907393398;;;
+Topics::: china plutonium reprocessing foreseeable reactor;;; Score::: 0.11920292202211757;;;
+Topics::: tarapur ally lax tangible countries;;; Score::: 0.08331439759984219;;;
+Topics::: civilian;;; Score::: 0.11920292202211757;;;

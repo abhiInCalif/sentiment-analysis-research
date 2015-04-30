@@ -1,0 +1,11 @@
+Text::: When the Iranians pulled themselves together, they not only expelled the Iraqis but advanced to the point where the regime of President Saddam Hussein was threatened. Syria's President, Hafez al-Assad, went to the aid of Iran by closing the Syrian-Iraqi border, cutting off most of Iraq's oil exports until pipelines could be built. Iraq's narrow access to the gulf shipping lanes was made unusable by Iran's advance. ;;;
+
+Topics::: exports;;; Score::: 0.11920292202211757;;;
+Topics::: syria's;;; Score::: NaN;;;
+Topics::: border syrian-iraqi point;;; Score::: 0.11920292202211757;;;
+Topics::: narrow oil closing threatened regime;;; Score::: 0.11920292202211757;;;
+Topics::: president advance iran's shipping built;;; Score::: 0.11920292202211757;;;
+Topics::: iraq's access pipelines hafez saddam;;; Score::: 0.11920292202211757;;;
+Topics::: al-assad hussein iraqis;;; Score::: NaN;;;
+Topics::: unusable;;; Score::: 0.11920292202211757;;;
+Topics::: made lanes gulf pulled;;; Score::: 0.11920292202211757;;;

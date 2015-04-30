@@ -1,0 +1,9 @@
+Text::: This would prompt a parallel resumption of American aid to the resistance - as permitted in a side agreement to the Geneva pact. The cruel truth is that all sides are bound to try to enmesh Moscow and Washington in their continuing feuds. Thus Mr. Shultz and Foreign Minister Shevardnadze of the Soviet Union will be signing an important prelude to peace in Geneva. ;;;
+
+Topics::: geneva feuds continuing shultz soviet;;; Score::: 0.11920292202211757;;;
+Topics::: shevardnadze prompt resistance;;; Score::: 0.11920292202211757;;;
+Topics::: bound cruel agreement signing minister;;; Score::: 0.24613528134807838;;;
+Topics::: moscow truth washington foreign;;; Score::: 0.11920292202211757;;;
+Topics::: sides important side;;; Score::: 0.24613528134807838;;;
+Topics::: pact permitted parallel resumption;;; Score::: 0.11920292202211757;;;
+Topics::: enmesh prelude american peace;;; Score::: 0.3096014610110588;;;

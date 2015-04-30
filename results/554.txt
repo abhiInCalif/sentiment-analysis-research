@@ -1,0 +1,6 @@
+Text::: But then she saw hope in deeper factors. ''Everybody is longing for peaceful coexistence now,'' she said, ''Arabs and Israelis. I think there is a new generation in Israel, born on the land, realizing that security lies in human relations and not in more territory, accepting that they must be on good terms with their environment.'' ;;;
+
+Topics::: born environment accepting peaceful human;;; Score::: 0.19407217169605634;;;
+Topics::: realizing longing terms security;;; Score::: 0.19407217169605634;;;
+Topics::: deeper factors lies arabs israel;;; Score::: 0.38447071068499755;;;
+Topics::: coexistence;;; Score::: 0.11920292202211757;;;

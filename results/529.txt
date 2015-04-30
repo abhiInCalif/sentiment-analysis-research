@@ -1,0 +1,5 @@
+Text::: His followers understand. The support they find in the U.S. is even more disturbing. No doubt it is marginal, a small minority as in Israel, but it tends to intimidate reasonable people with its charges of less than full sympathy for Israel's destiny. ;;;
+
+Topics::: intimidate small understand charges find;;; Score::: 0.16911575513807675;;;
+Topics::: destiny disturbing followers full doubt;;; Score::: 0.16911575513807675;;;
+Topics::: minority reasonable israel's marginal sympathy;;; Score::: 0.11920292202211757;;;

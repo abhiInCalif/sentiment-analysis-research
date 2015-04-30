@@ -1,0 +1,6 @@
+Text::: Iraq did start the war in the wake of the Iranian revolution. It was a terrible, tragic mistake. Now it wants out with a return to the status quo ante, but it cannot impose its wish. ;;;
+
+Topics::: ante;;; Score::: 0.2689414213699951;;;
+Topics::: quo mistake wake return revolution;;; Score::: 0.21902858825403593;;;
+Topics::: terrible impose;;; Score::: 0.19407217169605634;;;
+Topics::: tragic start status;;; Score::: 0.21902858825403593;;;

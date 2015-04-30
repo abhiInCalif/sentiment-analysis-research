@@ -1,0 +1,7 @@
+Text::: But for different reasons, different nations - Western, Arab and even Communist - now share a common anxiety about Iran's danger to the stability of the region. In finally taking up a standing American offer to renew relations, Iraq has opened a space in which these shared interests may find root. In the fractured Middle East, that is progress. ;;;
+
+Topics::: fractured root space interests offer;;; Score::: 0.3096014610110588;;;
+Topics::: progress iran's;;; Score::: 0.11920292202211757;;;
+Topics::: taking renew communist reasons relations;;; Score::: 0.5;;;
+Topics::: anxiety opened finally;;; Score::: 0.5;;;
+Topics::: danger arab;;; Score::: 0.5;;;

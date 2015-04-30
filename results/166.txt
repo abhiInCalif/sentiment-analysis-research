@@ -1,0 +1,6 @@
+Text::: * * * The President is inconsistent on ends. On some days, he tries to scare Americans with rhetoric about long lines at the gas pumps because of imperiled oil supplies. But with a glut in world oil, temporary disruptions of tanker traffic in the gulf would be no cause for war. ;;;
+
+Topics::: oil traffic temporary glut imperiled;;; Score::: 0.11920292202211757;;;
+Topics::: disruptions scare inconsistent ends gulf;;; Score::: 0.11920292202211757;;;
+Topics::: days;;; Score::: 0.11920292202211757;;;
+Topics::: gas americans;;; Score::: 0.11920292202211757;;;

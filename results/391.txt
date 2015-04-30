@@ -1,0 +1,4 @@
+Text::: Le Pen's popularity with their ''lax'' policies and their electoral reform. Both sides are playing with fire. Both have had to accept ''immigration'' and crime as major campaign issues. ;;;
+
+Topics::: electoral popularity immigration pen's playing;;; Score::: 0.21902858825403593;;;
+Topics::: lax crime fire reform sides;;; Score::: 0.21902858825403593;;;

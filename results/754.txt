@@ -1,0 +1,6 @@
+Text::: Each time he failed because much as they needed his money, those lands refused to submit to his headstrong leadership. For a year or so, he even lost his glamour as the most defiant, incorruptible fanatic of Islam to Iran's Ayatollah Khomeini. Khomeini fired the imagination of restless young Moslems with what appeared to be his victory over the U.S. and his restoration of a dream of glory. ;;;
+
+Topics::: incorruptible headstrong imagination young fired;;; Score::: 0.22220959839989476;;;
+Topics::: defiant lands glory money failed;;; Score::: 0.22220959839989476;;;
+Topics::: glamour submit appeared refused u.s;;; Score::: 0.22220959839989476;;;
+Topics::: fanatic dream;;; Score::: 0.3096014610110588;;;

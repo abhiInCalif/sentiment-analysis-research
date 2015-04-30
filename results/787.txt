@@ -1,0 +1,6 @@
+Text::: It could be threatened by non-Saudi Arabs working in the country - Palestinians, for example. There could be a coup or a protr acted civil war. Ea ch threat would require a different configuration of American military forces. ;;;
+
+Topics::: configuration non-saudi palestinians country coup;;; Score::: 0.16911575513807675;;;
+Topics::: working require american threat;;; Score::: 0.11920292202211757;;;
+Topics::: arabs;;; Score::: NaN;;;
+Topics::: protr acted civil;;; Score::: 0.2689414213699951;;;

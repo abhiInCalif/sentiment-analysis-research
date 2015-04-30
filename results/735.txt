@@ -1,0 +1,6 @@
+Text::: But it may take a change of leadership - in Moscow - before Soviet policy can admit the error. When the mess can be blamed on men no longer in power, military and diplomatic retreat may finally be possible. Meanwhile, Afghanistan bleeds, its pain neglected, as the caravan moves on. ;;;
+
+Topics::: leadership;;; Score::: 0.11920292202211757;;;
+Topics::: caravan mess admit retreat men;;; Score::: 0.11920292202211757;;;
+Topics::: bleeds;;; Score::: 0.11920292202211757;;;
+Topics::: neglected error blamed pain finally;;; Score::: 0.11920292202211757;;;

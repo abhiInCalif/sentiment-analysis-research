@@ -1,0 +1,8 @@
+Text::: State Department officials dispute this interpretation, and other intelligence analysts argue that no credible evidence has come our way to suggest that the Argentine nuclear program - by far the most extensive in Latin America - has been diverting nuclear fuel to produce a bomb. That brouhaha among spooks may be academic; as Philip Boffey of The New York Times reports, Argentina mines its own uranium and is building a plant that could turn out bomb material with nobody the wiser. Here comes the controversy: Since Argentina refuses to sign the Nuclear Non-Proliferation Treaty, should the United States help that nation develop its nuclear potential by selling it heavy water and computers? ;;;
+
+Topics::: computers wiser academic brouhaha water;;; Score::: 0.11920292202211757;;;
+Topics::: treaty;;; Score::: NaN;;;
+Topics::: nuclear boffey mines fuel material;;; Score::: 0.09527723907393398;;;
+Topics::: uranium spooks plant sign philip;;; Score::: 0.11920292202211757;;;
+Topics::: department america;;; Score::: NaN;;;
+Topics::: argentina bomb non-proliferation building diverting;;; Score::: 0.08331439759984219;;;

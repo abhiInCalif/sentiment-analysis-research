@@ -1,0 +1,7 @@
+Text::: Each Latin is careful not to put his candidacy forward until Africa's Mr. Salim withdraws, lest the new starter lose African support; the Africans wait upon Mr. Waldheim to withdraw, but he puts his personal ambition to hang onto his job ahead of the interests of the world body. And so the world's nations sit in stalemate. Unless our good neighbors to the south get their act together, the moment will be missed. ;;;
+
+Topics::: body ambition africans good job;;; Score::: 0.3096014610110588;;;
+Topics::: africa's;;; Score::: NaN;;;
+Topics::: hang starter salim candidacy latin;;; Score::: 0.5;;;
+Topics::: forward act put;;; Score::: 0.3096014610110588;;;
+Topics::: withdraws waldheim sit african moment;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,7 @@
+Text:::  LEAD: Holding secret services accountable to law is difficult in the stablest democracies; witness Britain's refusal even to allow publication of a book alleging a secret service plot to overthrow a Labor Prime Minister in the mid-1970's. By the world's measure, Israelis can take solace in a remarkable judicial decision exposing lawlessness by Shin Holding secret services accountable to law is difficult in the stablest democracies; witness Britain's refusal even to allow publication of a book alleging a secret service plot to overthrow a Labor Prime Minister in the mid-1970's. By the world's measure, Israelis can take solace in a remarkable judicial decision exposing lawlessness by Shin Beth, their domestic intelligence service. ;;;
+
+Topics::: secret service shin exposing judicial;;; Score::: 0.24613528134807838;;;
+Topics::: lead;;; Score::: NaN;;;
+Topics::: domestic;;; Score::: 0.5;;;
+Topics::: solace mid publication democracies labor;;; Score::: 0.24613528134807838;;;
+Topics::: britain's holding difficult refusal intelligence;;; Score::: 0.24613528134807838;;;

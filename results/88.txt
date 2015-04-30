@@ -1,0 +1,7 @@
+Text::: The Likud bloc, if not Prime Minister Shamir himself, is bound to resist. Mr. Arafat is a proven political coward. And no one on any side displays the leadership and courage that Anwar el-Sadat and Menachem Begin - and Jimmy Carter - displayed at Camp David. ;;;
+
+Topics::: jimmy;;; Score::: NaN;;;
+Topics::: displayed bloc david shamir leadership;;; Score::: 0.11920292202211757;;;
+Topics::: el-sadat;;; Score::: NaN;;;
+Topics::: displays resist bound carter;;; Score::: 0.11920292202211757;;;
+Topics::: begin menachem coward proven likud;;; Score::: 0.2689414213699951;;;

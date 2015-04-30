@@ -1,0 +1,8 @@
+Text::: It is not within America's power to exorcise the troubles of this tormented region or to make the place work or produce. The fragments of America that will survive in the Moslem world - the economic interests, the cultural institutions and ties, the political bonds - will do so to the extent that the people in the region share them. By offering the Iranians an olive branch and speaking of the legitimacy of their revolution, President Reagan has in effect declared American neutrality in the great ideological schism in the Moslem world between the Iranian revolution and its enemies. ;;;
+
+Topics::: olive;;; Score::: 0.11920292202211757;;;
+Topics::: fragments ties ideological reagan effect;;; Score::: 0.3096014610110588;;;
+Topics::: moslem region revolution world speaking;;; Score::: 0.24613528134807838;;;
+Topics::: schism declared america iranians;;; Score::: 0.11920292202211757;;;
+Topics::: bonds cultural political;;; Score::: 0.5;;;
+Topics::: institutions survive extent produce troubles;;; Score::: 0.3096014610110588;;;

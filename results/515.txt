@@ -1,0 +1,6 @@
+Text::: Let there be no doubt: Turkey is a country with serious human rights problems. Martial law regulations limit freedom of the press, free speech and trade union activity. Conditions in Turkish prisons are often utterly unacceptable by Western standards. ;;;
+
+Topics::: prisons human utterly free activity;;; Score::: 0.11920292202211757;;;
+Topics::: unacceptable limit rights martial turkey;;; Score::: 0.11920292202211757;;;
+Topics::: standards regulations turkish doubt country;;; Score::: 0.11920292202211757;;;
+Topics::: trade speech freedom union;;; Score::: 0.11920292202211757;;;

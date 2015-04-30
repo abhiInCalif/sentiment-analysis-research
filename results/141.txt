@@ -1,0 +1,4 @@
+Text:::  LEAD: On a fine September day 80 years ago, Iranians awoke to learn that their country had been carved like a cutlet into spheres of influence by Britain and Russia. Neither country troubled to consult Persia, as Iran was then called, even though the agreement expressed pious concern for its independence and integrity. On a fine September day 80 years ago, Iranians awoke to learn that their country had been carved like a cutlet into spheres of influence by Britain and Russia. ;;;
+
+Topics::: independence lead;;; Score::: 0.11920292202211757;;;
+Topics::: country russia britain cutlet carved;;; Score::: 0.11920292202211757;;;

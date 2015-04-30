@@ -1,0 +1,7 @@
+Text::: Second, should the United States abandon or seek to weaken its longstanding diplomatic and military relationships with Israel? Third, has Israel changed - that is, is Menachem Begin's Israel different from David Ben-Gurion's and Golda Meir's? First, Israel has never temporized with terror, blackmail and hostage-taking, convinced that such a course only encourages these cowardly and deadly tactics and raises the eventual cost of inevitable confrontation. ;;;
+
+Topics::: abandon;;; Score::: 0.2689414213699951;;;
+Topics::: cowardly golda relationships longstanding tactics;;; Score::: 0.19407217169605634;;;
+Topics::: israel deadly temporized meir's ben-gurion's;;; Score::: 0.11920292202211757;;;
+Topics::: begin's diplomatic military;;; Score::: 0.2689414213699951;;;
+Topics::: weaken;;; Score::: 0.2689414213699951;;;

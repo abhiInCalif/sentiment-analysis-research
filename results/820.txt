@@ -1,0 +1,6 @@
+Text::: It is a myth that sales of arms to Pakistan would stir an arms race in South Asia. Pakistan cannot buy a significant quantity of modern arms with less than $2 billion at 14 percent interest over five years. Pakistan has offered India to let the military experts of the two sides determine the ratio of forces, their deployment and the level of armaments that could establish mutual trust and reduce the threat to each nation's security. ;;;
+
+Topics::: pakistan myth modern buy experts;;; Score::: 0.16911575513807675;;;
+Topics::: arms nation's ratio quantity reduce;;; Score::: 0.16911575513807675;;;
+Topics::: trust deployment;;; Score::: 0.2689414213699951;;;
+Topics::: stir mutual significant offered billion;;; Score::: 0.16911575513807675;;;

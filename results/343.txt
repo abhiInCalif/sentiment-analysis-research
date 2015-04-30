@@ -1,0 +1,7 @@
+Text::: In reality, to talk of a peace process that would end this wave of terror is naive. If Americans can be sure of anything, they can be sure of this: Nothing would inflame the passions of the extremists in the region more than a major American diplomatic initiative. No American diplomatic scheme would spare America the fury of those bent upon eradicating its presence in the region. ;;;
+
+Topics::: bent spare reality america extremists;;; Score::: 0.11920292202211757;;;
+Topics::: american region eradicating fury scheme;;; Score::: 0.11920292202211757;;;
+Topics::: diplomatic;;; Score::: 0.11920292202211757;;;
+Topics::: wave terror major;;; Score::: 0.11920292202211757;;;
+Topics::: initiative;;; Score::: 0.11920292202211757;;;

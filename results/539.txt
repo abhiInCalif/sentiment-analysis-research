@@ -1,0 +1,7 @@
+Text::: How best to do that depends on facts not always quickly available. What seems to have happened this year is that Iraq countered the massing of 500,000 Iranian invaders with an economic offensive: air attacks on shipping to Iran's main oil terminal at Kharg Island in the gulf. Then Iran said that if its trade was to be ruptured so would every- one's, and attacked ships bound for Kuwait, Saudi Arabia and the Emirates across the gulf. ;;;
+
+Topics::: gulf emirates ruptured massing happened;;; Score::: 0.11920292202211757;;;
+Topics::: one's facts invaders quickly ships;;; Score::: 0.24613528134807838;;;
+Topics::: attacks island;;; Score::: 0.11920292202211757;;;
+Topics::: depends saudi;;; Score::: 0.5;;;
+Topics::: terminal countered trade main air;;; Score::: 0.11920292202211757;;;

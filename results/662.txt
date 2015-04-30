@@ -1,0 +1,6 @@
+Text::: One of the regime's more familiar slogans is ''Neither East nor West.'' Seeking to avoid dependence on its northern neighbor, Iran is improving economic relations with Turkey, Japan, Pakistan, China and India. Second, Iranians fear Soviet intervention. ;;;
+
+Topics::: japan pakistan iran;;; Score::: NaN;;;
+Topics::: dependence seeking regime's northern familiar;;; Score::: 0.19407217169605634;;;
+Topics::: india relations intervention soviet;;; Score::: 0.19407217169605634;;;
+Topics::: improving slogans west neighbor turkey;;; Score::: 0.19407217169605634;;;

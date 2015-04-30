@@ -1,0 +1,11 @@
+Text::: This delusion would be reinforced by the establishment of a Palestinian state, which would give the Arab nations an excuse to force the migration of the refugees to the new homeland. But the barren state, the size of Delaware, would not be able to cope with the 350,000 refugees already living in the area, let alone 600,000 more from neighboring countries. The result would be more refugee camps at Israel's borders, with up to one million bitter, frustrated, homeless people demanding repatriation. ;;;
+
+Topics::: refugee give demanding;;; Score::: 0.11920292202211757;;;
+Topics::: delaware force homeland;;; Score::: 0.11920292202211757;;;
+Topics::: neighboring delusion nations million people;;; Score::: 0.11920292202211757;;;
+Topics::: living establishment;;; Score::: 0.11920292202211757;;;
+Topics::: state repatriation israel's size result;;; Score::: 0.11920292202211757;;;
+Topics::: refugees frustrated barren migration excuse;;; Score::: 0.11920292202211757;;;
+Topics::: homeless countries arab;;; Score::: 0.11920292202211757;;;
+Topics::: bitter cope;;; Score::: 0.11920292202211757;;;
+Topics::: borders area;;; Score::: 0.11920292202211757;;;

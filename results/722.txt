@@ -1,0 +1,5 @@
+Text::: But it is important, for Israel as well, to minimize the humiliation which spawns the urge to fanaticism, if reason is to have a chance. Some real progress toward resolving the long Israeli-Palestinian conflict is crucial if these wild forces are to be contained. Once they spread massively, it will be too late. ;;;
+
+Topics::: contained spawns minimize spread progress;;; Score::: 0.24613528134807838;;;
+Topics::: massively resolving fanaticism urge humiliation;;; Score::: 0.24613528134807838;;;
+Topics::: important;;; Score::: 0.5;;;

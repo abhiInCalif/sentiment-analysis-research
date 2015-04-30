@@ -1,0 +1,8 @@
+Text::: Last week CBS News' ''Face the Nation'' did a program on the protests here. When an Arabic newspaper, Al Fajr, tried to print the CBS transcript, the censors struck out a comment by Irving Shapiro, former chairman of the Du Pont Company, that the deportations were ''abhorrent.'' Due process of law and freedom of the press are middle-class concerns. ;;;
+
+Topics::: concerns deportations pont transcript print;;; Score::: 0.11920292202211757;;;
+Topics::: cbs arabic newspaper week freedom;;; Score::: 0.11920292202211757;;;
+Topics::: abhorrent company shapiro;;; Score::: 0.11920292202211757;;;
+Topics::: protests law;;; Score::: 0.11920292202211757;;;
+Topics::: comment;;; Score::: 0.11920292202211757;;;
+Topics::: middle-class irving censors fajr program;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: Cambodians here fear that this small percentage will drop even further while large number of their countrymen will continue to be left behind, breaking up the traditional extended families. Some American officials say that the Thai Government has prevented introduction of a screening program to determine the qualifications for resettlement of Cambodian refugees in Thai camps. That Government, on the other hand, has said periodically that it is willing to accept Cambodian refugees temporarily on its soil only if the world community provides financial assistance. ;;;
+
+Topics::: qualifications screening resettlement percentage periodically;;; Score::: 0.11920292202211757;;;
+Topics::: countrymen determine officials;;; Score::: 0.11920292202211757;;;
+Topics::: thai cambodian government refugees financial;;; Score::: 0.11920292202211757;;;

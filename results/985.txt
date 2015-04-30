@@ -1,0 +1,6 @@
+Text::: In the past, Thailand has expressed disillusionment over the slow progress of third-country resettlement of the refugees. Because of the great pressures arising from serving as a refuge for so many, Thailand is now offering to aid in repatriating any Cambodians who wish to return home. It is not inconceivable that the vulnerable inhabitants of the ''holding centers'' are being coerced. ;;;
+
+Topics::: third-country pressures serving;;; Score::: 0.11920292202211757;;;
+Topics::: repatriating cambodians arising offering past;;; Score::: 0.11920292202211757;;;
+Topics::: centers;;; Score::: 0.11920292202211757;;;
+Topics::: thailand coerced slow disillusionment resettlement;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,9 @@
+Text::: have massacred each other in Tripoli; and a wild and uncontrolled civil war has turned Lebanon into perhaps the most violent, irrational and uncivilized place on earth. Israel is not even remotely responsible for any of these developments. They flow naturally out of the fanaticism and despotism that characterizes regimes led by the Ayatollah Ruhollah Khomeini, Colonel Qaddafi, the Iraqi President, Saddam Hussein, the Syrian President, Hafez el-Assad, Yassir Arafat and the heads of the various factions in Lebanon. ;;;
+
+Topics::: characterizes remotely uncivilized civil;;; Score::: 0.11920292202211757;;;
+Topics::: fanaticism;;; Score::: 0.11920292202211757;;;
+Topics::: regimes iraqi;;; Score::: 0.11920292202211757;;;
+Topics::: lebanon president despotism uncontrolled syrian;;; Score::: 0.11920292202211757;;;
+Topics::: ruhollah place;;; Score::: 0.11920292202211757;;;
+Topics::: yassir irrational tripoli qaddafi massacred;;; Score::: 0.11920292202211757;;;
+Topics::: el-assad colonel earth responsible flow;;; Score::: 0.11920292202211757;;;

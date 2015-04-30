@@ -1,0 +1,4 @@
+Text::: But Colonel Qaddafi's apparently mindless tactics shouldn't be underestimated. The contradictory cliche ''crazy like a fox'' applies to him. He knows the value of provoking the fury of powers that be in a world full of restive, frustrated people. ;;;
+
+Topics::: restive applies crazy cliche underestimated;;; Score::: 0.24613528134807838;;;
+Topics::: fox full;;; Score::: 0.3096014610110588;;;

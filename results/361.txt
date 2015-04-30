@@ -1,0 +1,6 @@
+Text::: Nobody talks about sanctions against Syria, that would be too delicate, but it does weaken the logic of singling out Libya. 2. Queries about the ''effectiveness'' of sanctions are a way of asking whether American companies will really observe them, or will return to Libya by the back door as they did when Americans were ordered out in 1981. ;;;
+
+Topics::: ordered;;; Score::: 0.11920292202211757;;;
+Topics::: door companies queries singling return;;; Score::: 0.11920292202211757;;;
+Topics::: american;;; Score::: NaN;;;
+Topics::: libya sanctions observe effectiveness weaken;;; Score::: 0.11920292202211757;;;

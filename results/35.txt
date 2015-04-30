@@ -1,0 +1,6 @@
+Text::: The Palestinians have scored a triumph. Their uprising has made them heroes throughout the world, a brave people defying a powerful occupying power. They appear, fighting only with stones, on world TV. ;;;
+
+Topics::: brave;;; Score::: 0.7310585786300049;;;
+Topics::: defying;;; Score::: 0.7310585786300049;;;
+Topics::: world stones occupying powerful heroes;;; Score::: 0.5;;;
+Topics::: scored palestinians made;;; Score::: 0.6155292893150024;;;

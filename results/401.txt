@@ -1,0 +1,6 @@
+Text::: His main message now is like that of Marcus Garvey in an earlier era: ''Up, you mighty race! You can accomplish what you will.'' That seems to be a striking message to people more accustomed to hearing about their shortcomings and deprivations. ;;;
+
+Topics::: garvey;;; Score::: NaN;;;
+Topics::: mighty;;; Score::: 0.11920292202211757;;;
+Topics::: race;;; Score::: 0.11920292202211757;;;
+Topics::: message deprivations accustomed era marcus;;; Score::: 0.3096014610110588;;;

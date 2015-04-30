@@ -1,0 +1,5 @@
+Text::: The reductionist view that the Middle East is synonymous with the Arab world has led to the submergence and persecution of many of the minorities in the region. An example of the suppression of nationalities is the ongoing attempt to undercut the Kurdish national movement. The Kurds, perhaps 14 million to 18 million, are an indigenous people with a distinct ethnic, linguistic and cultural milieu. ;;;
+
+Topics::: undercut nationalities submergence reductionist linguistic;;; Score::: 0.11920292202211757;;;
+Topics::: million milieu ongoing suppression synonymous;;; Score::: 0.11920292202211757;;;
+Topics::: cultural east;;; Score::: 0.11920292202211757;;;

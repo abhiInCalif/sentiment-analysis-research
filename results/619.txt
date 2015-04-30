@@ -1,0 +1,4 @@
+Text::: Something new is happening. The fear of nuclear war has the feel of mortality in it. It is an elemental thing having to do with life and children, and is not just another passing political issue. ;;;
+
+Topics::: elemental mortality feel passing thing;;; Score::: 0.2689414213699951;;;
+Topics::: political;;; Score::: 0.2689414213699951;;;

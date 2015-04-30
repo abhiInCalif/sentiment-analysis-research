@@ -1,0 +1,7 @@
+Text:::  Calls for tougher action against Syria were inevitable after the conviction of Nezar Hindawi for his attempt to blow up an Israeli airliner. So far, all the United States has done is to recall its ambassador from Damascus and offer support to Prime Minister Margaret Thatcher of Britain as she struggles to persuade the rest of Europe to show some solidarity. What we must decide before too long is whether we want to isolate Syria diplomatically - and risk pushing it further into the arms of Moscow - or use more sophisticated and possibly devious methods to press Damascus to stop supporting terrorism. ;;;
+
+Topics::: action terrorism sophisticated;;; Score::: 0.11920292202211757;;;
+Topics::: damascus syria methods devious pushing;;; Score::: 0.11920292202211757;;;
+Topics::: supporting thatcher recall blow minister;;; Score::: 0.11920292202211757;;;
+Topics::: decide conviction tougher airliner calls;;; Score::: 0.11920292202211757;;;
+Topics::: diplomatically margaret europe moscow;;; Score::: 0.11920292202211757;;;

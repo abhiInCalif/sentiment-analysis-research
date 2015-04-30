@@ -1,0 +1,6 @@
+Text::: They are rising again in opposition to President Gaafar el-Nimeiry's imposition of Islamic law in an attempt to appease the Arab northeners. There is historic hostility between the two groups. Colonel Qaddafi's meddling is particularly cynical because General Nimeiry had been making progress toward the reconciliation that is essential for development. ;;;
+
+Topics::: gaafar qaddafi's reconciliation colonel development;;; Score::: 0.11920292202211757;;;
+Topics::: meddling el-nimeiry's essential hostility attempt;;; Score::: 0.24613528134807838;;;
+Topics::: progress;;; Score::: 0.11920292202211757;;;
+Topics::: nimeiry northeners cynical appease making;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: The Socialists accuse the conservatives of secret collusion, although they evidently hope Mr. Le Pen's group will prevent the respectable right from winning an absolute majority. The conservatives blame the Socialists for fanning Mr. ;;;
+
+Topics::: secret;;; Score::: 0.11920292202211757;;;
+Topics::: socialists evidently;;; Score::: 0.11920292202211757;;;
+Topics::: conservatives fanning blame absolute respectable;;; Score::: 0.19407217169605634;;;

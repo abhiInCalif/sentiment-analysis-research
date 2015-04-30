@@ -1,0 +1,7 @@
+Text:::  Lebanese President Amin Gemayel has brought home from Damascus the kind of ''peace for our time'' that Neville Chamberlain brought home from Munich. The American-sponsored withdrawal agreement with Israel is to be torn up; the Syrian forces or proxies are to remain in control in the territory they now occupy; and the delicate balance between Christians and Moslems that once made possible a free, Western-oriented Lebanese state is supposed to be tilted toward Moslem dominance. His attempt to negotiate peace at any price may backfire. ;;;
+
+Topics::: home western-oriented american-sponsored occupy supposed;;; Score::: 0.11920292202211757;;;
+Topics::: proxies chamberlain control;;; Score::: 0.11920292202211757;;;
+Topics::: brought tilted delicate free moslems;;; Score::: 0.11920292202211757;;;
+Topics::: lebanese peace backfire torn munich;;; Score::: 0.11920292202211757;;;
+Topics::: withdrawal attempt;;; Score::: 0.11920292202211757;;;

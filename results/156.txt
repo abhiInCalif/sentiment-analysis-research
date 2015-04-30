@@ -1,0 +1,6 @@
+Text::: This is to insure the territorial integrity and political independence of the Gulf's Arab states, which produce 80 percent of the oil that leaves the Gulf and whose oil reserves are even more important for the future. We cannot afford to have these countries quarrel under the influence of a power whose purposes are hostile to the United States, whether that power is the Soviet Union or Iran. At present, the greatest danger to Western interests is the possibility of an Iranian victory over Iraq, which would extend Iran's influence throughout the Gulf and encourage Islamic extremist movements elsewhere in the Middle East. ;;;
+
+Topics::: influence states greatest purposes produce;;; Score::: 0.11920292202211757;;;
+Topics::: gulf movements extremist present reserves;;; Score::: 0.11920292202211757;;;
+Topics::: power oil percent danger integrity;;; Score::: 0.11920292202211757;;;
+Topics::: encourage;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: The American Jewish community shouldn't be afraid to speak out when it is misrepresented, even by American-born Israelis. And it isn't improper intervention to urge a national unity government now for the one purpose of revising the electoral system so that Israel can at last produce a viable majority, thereby relegating fringes to the fringe. The United States contributed to Israel's deadlock, as well as to its existence. ;;;
+
+Topics::: viable american-born afraid shouldn't contributed;;; Score::: 0.24613528134807838;;;
+Topics::: fringe fringes relegating revising misrepresented;;; Score::: 0.11920292202211757;;;
+Topics::: existence purpose system;;; Score::: 0.3096014610110588;;;
+Topics::: improper urge israel's united jewish;;; Score::: 0.11920292202211757;;;
+Topics::: israel national;;; Score::: 0.11920292202211757;;;

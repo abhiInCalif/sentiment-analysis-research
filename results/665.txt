@@ -1,0 +1,7 @@
+Text::: Iran's break with the West and the substantial Soviet forces across Iran's border in Afghanistan and the Soviet Union give clear advantages to the Russians. Unlike Washington, Moscow maintains a sizeable embassy and a large number of economic advisers in Iran. Teheran also has close political and security ties with several Soviet allies and friends, including Syria, Libya and North Korea. ;;;
+
+Topics::: ties moscow allies unlike advisers;;; Score::: 0.3096014610110588;;;
+Topics::: sizeable close;;; Score::: 0.3096014610110588;;;
+Topics::: soviet iran's substantial libya maintains;;; Score::: 0.3096014610110588;;;
+Topics::: advantages;;; Score::: 0.5;;;
+Topics::: korea afghanistan give forces;;; Score::: 0.5;;;

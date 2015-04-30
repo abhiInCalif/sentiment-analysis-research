@@ -1,0 +1,8 @@
+Text::: Zia ul-Haq is specially burdened by a record of disloyalty, broken oaths, betrayed promises, illegal acts and extreme violations of human rights. In July 1977, he staged the coup d'etat against Prime Minister Zulfikar Ali Bhutto, for whom he had professed admiration and who had promoted him to chief of staff for presumed loyalty; in April 1979, General Zia executed his benefactor, violating one of the most cherished norms of Moslem culture. To legalize the murder, he rigged the higher courts and inaugurated a policy of systematically destroying the relatively independent judiciary. ;;;
+
+Topics::: legalize cherished violations destroying staged;;; Score::: 0.11920292202211757;;;
+Topics::: zia inaugurated rigged benefactor admiration;;; Score::: 0.11920292202211757;;;
+Topics::: judiciary professed courts;;; Score::: 0.11920292202211757;;;
+Topics::: disloyalty loyalty extreme promoted bhutto;;; Score::: 0.11920292202211757;;;
+Topics::: policy;;; Score::: 0.11920292202211757;;;
+Topics::: violating record human july moslem;;; Score::: 0.11920292202211757;;;

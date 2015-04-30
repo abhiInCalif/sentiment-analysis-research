@@ -1,0 +1,5 @@
+Text::: It certainly is not too late to seek a specific arms control agreement regarding theater nuclear forces in Europe and some reductions in the overall totals of strategic warheads as part of an interim arms control agreement. Beyond that, the President should move to translate gradually his Strategic Defense Initiative from research into reality. Instead of talking about an eventual ''astrodome'' over the United States, he should take some of the initial deployment decisions designed to provide for the United States a limited strategic defense capable of protecting America's strategic forces and principal command and control centers. ;;;
+
+Topics::: agreement arms principal eventual translate;;; Score::: 0.24613528134807838;;;
+Topics::: strategic control united defense forces;;; Score::: 0.11920292202211757;;;
+Topics::: theater;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: But his failure to make any visible progress with Israel on the Palestinian question left him friendless in the Arab world. His failure to produce tangible economic benefits hurt him in Egypt. And he was murdered, we are told, by Islamic fundamentalists who could not imaginably be moved by U.S. military commitments. ;;;
+
+Topics::: u.s;;; Score::: NaN;;;
+Topics::: friendless visible left economic;;; Score::: 0.04742587317756679;;;
+Topics::: failure imaginably hurt benefits progress;;; Score::: 0.07135155612575038;;;
+Topics::: make;;; Score::: 0.04742587317756679;;;
+Topics::: murdered palestinian moved islamic;;; Score::: 0.11920292202211757;;;

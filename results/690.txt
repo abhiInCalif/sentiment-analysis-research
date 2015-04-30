@@ -1,0 +1,7 @@
+Text::: For reasons hard to discern, the ruling mullahs are now moderating the repression. Some 400 political prisoners have been freed, and the Ayatollah decrees that no one should henceforth be arrested without a court order, that telephone taps should stop and that Iranians should cease spying on each other. Clerical inquisitors accused of being ''pseudo-religious'' have been dismissed and middle-class exiles implored to return to a more tolerant Iran. ;;;
+
+Topics::: implored pseudo-religious clerical spying cease;;; Score::: 0.11920292202211757;;;
+Topics::: return;;; Score::: 0.11920292202211757;;;
+Topics::: iran;;; Score::: NaN;;;
+Topics::: telephone decrees discern ruling court;;; Score::: 0.11920292202211757;;;
+Topics::: inquisitors reasons;;; Score::: 0.11920292202211757;;;

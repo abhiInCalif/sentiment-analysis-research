@@ -1,0 +1,5 @@
+Text::: In reality, the Soviet Union has become one of the most conservative political systems in the world. Many historical and contemporary factors have contributed to the deep-rooted conservatism that permeates both the political regime and society. Even the official ideology, Marxism-Leninism, plays a conservative role, having become an exaltation of the Soviet status quo rather than a source of change. ;;;
+
+Topics::: exaltation permeates ideology status role;;; Score::: 0.19407217169605634;;;
+Topics::: contributed;;; Score::: 0.2689414213699951;;;
+Topics::: conservative political plays marxism-leninism conservatism;;; Score::: 0.29604811446403756;;;

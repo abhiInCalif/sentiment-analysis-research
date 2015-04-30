@@ -1,0 +1,6 @@
+Text:::  What began in May as ''the trial of the century'' is recessing in August as a farce by Pirandello -with eight more months to go. Having persuaded an Italian magistrate that Bulgarians hired him to murder the Pope, Mehmet Ali Agca has made a buffoon of himself. To the dismay of those who believed him, he has claimed divinity, promised to perform miracles and offered conflicting accounts of his assassination attempt. ;;;
+
+Topics::: miracles divinity believed agca murder;;; Score::: 0.11920292202211757;;;
+Topics::: assassination promised dismay mehmet bulgarians;;; Score::: 0.11920292202211757;;;
+Topics::: perform pope century months;;; Score::: 0.11920292202211757;;;
+Topics::: buffoon hired italian recessing;;; Score::: 0.11920292202211757;;;

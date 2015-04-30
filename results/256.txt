@@ -1,0 +1,5 @@
+Text:::  The Saudi Arabian Government has denied having had anything to do with the American arms sales to Iran. But that doesn't seem to square with the discovery by the F.B.I. of Saudi links to a suspect Swiss bank account that may have been used in the complicated transaction; and the denial is taken with a large grain of salt by some Middle East experts who are familiar with Saudi affairs and attitudes. ;;;
+
+Topics::: attitudes salt denial swiss arabian;;; Score::: 0.11920292202211757;;;
+Topics::: american;;; Score::: NaN;;;
+Topics::: saudi grain transaction suspect links;;; Score::: 0.11920292202211757;;;

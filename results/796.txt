@@ -1,0 +1,6 @@
+Text::: I watch the mummy in total absorption as he contends with this most trying of social problems, and the mummy does not fail me. Without blinking an eye, he replies suavely, conclusively, with the only response that brooks no argument. ''I regret,'' says the mummy, ''I am too occupied to accept invitations.'' ;;;
+
+Topics::: invitations suavely eye response;;; Score::: 0.11920292202211757;;;
+Topics::: blinking;;; Score::: 0.11920292202211757;;;
+Topics::: mummy regret brooks conclusively contends;;; Score::: 0.09527723907393398;;;
+Topics::: problems;;; Score::: 0.04742587317756679;;;

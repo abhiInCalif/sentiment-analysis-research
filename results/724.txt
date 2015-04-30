@@ -1,0 +1,5 @@
+Text::: The fatuous optimism of those views would make Dr. Pangloss blush. In fact the Israeli operation, in its ever more ambitious and dangerous scope, is building up Arab radicals and making life more difficult for the moderates. It is reducing the influence of the United States and inviting a larger Soviet role. ;;;
+
+Topics::: scope optimism reducing operation radicals;;; Score::: 0.24613528134807838;;;
+Topics::: ambitious blush pangloss building life;;; Score::: 0.11920292202211757;;;
+Topics::: fatuous inviting views moderates fact;;; Score::: 0.24613528134807838;;;

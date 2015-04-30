@@ -1,0 +1,7 @@
+Text::: President Bani-Sadr has accused him of torturing prisoners. Now Ayatollah Khalkhali replies, saying he personally supervised whippings so that prisoners would not be beaten too softly. We cannot tell what political twists made ''Judge Blood'' lose his job. ;;;
+
+Topics::: beaten khalkhali bani-sadr;;; Score::: 0.11920292202211757;;;
+Topics::: prisoners whippings torturing replies softly;;; Score::: 0.11920292202211757;;;
+Topics::: judge made ayatollah;;; Score::: 0.11920292202211757;;;
+Topics::: twists political accused;;; Score::: 0.11920292202211757;;;
+Topics::: personally supervised blood lose job;;; Score::: 0.11920292202211757;;;

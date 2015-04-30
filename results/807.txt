@@ -1,0 +1,5 @@
+Text::: But he is talking nonsense when he says that ''democracy is flourishing in Egypt.'' He may be right that Egypt's laws permitted the roundup of Moslem clergymen and Coptic priests, dissenting journalists and troublesome politicians. But with laws like that, Egyptian democracy will never flourish. ;;;
+
+Topics::: flourishing politicians;;; Score::: 0.11920292202211757;;;
+Topics::: flourish;;; Score::: 0.11920292202211757;;;
+Topics::: laws democracy dissenting priests coptic;;; Score::: 0.11920292202211757;;;

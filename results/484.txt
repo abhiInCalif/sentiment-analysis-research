@@ -1,0 +1,7 @@
+Text::: When Iran backed up Kuwait and professed to be delaying its commando assault only until the Kuwaiti Cabinet approved, Americans had reason to be surprised. Perhaps Iran has learned the value of the international norms it once scorned. There are good reasons, beyond the safety of Iranian travelers and diplomats, that a new attitude may be dawning. ;;;
+
+Topics::: dawning reasons attitude americans kuwait;;; Score::: 0.5;;;
+Topics::: diplomats;;; Score::: 0.5;;;
+Topics::: scorned safety delaying;;; Score::: 0.29604811446403756;;;
+Topics::: iran backed travelers surprised commando;;; Score::: 0.3096014610110588;;;
+Topics::: norms professed assault approved learned;;; Score::: 0.19407217169605634;;;

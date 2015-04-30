@@ -1,0 +1,6 @@
+Text:::  We should see the military strike against Libya for what it is: a reprisal for a specific act of terror, and an invitation to the Libyan ruler to rethink his ways. We should also refrain from expecting great results. If the Administration were to do so, Americans would find themselves with no alternative to yet another dosage of military power. ;;;
+
+Topics::: rethink administration ways;;; Score::: 0.11920292202211757;;;
+Topics::: dosage reprisal invitation results strike;;; Score::: 0.24613528134807838;;;
+Topics::: military refrain ruler specific terror;;; Score::: 0.24613528134807838;;;
+Topics::: libyan libya great;;; Score::: 0.5;;;

@@ -1,0 +1,8 @@
+Text::: This issue must be examined with a sense of longer strategy in mind. It would be wise for the President and his immediate advisers to take stock of this situation before a crisis surfaces. In the Middle East, the damage done will take long to heal. ;;;
+
+Topics::: wise middle;;; Score::: 0.11920292202211757;;;
+Topics::: heal longer president long;;; Score::: 0.19407217169605634;;;
+Topics::: sense;;; Score::: 0.2689414213699951;;;
+Topics::: surfaces examined east;;; Score::: 0.19407217169605634;;;
+Topics::: damage stock mind situation advisers;;; Score::: 0.16911575513807675;;;
+Topics::: issue strategy crisis;;; Score::: 0.19407217169605634;;;

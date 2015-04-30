@@ -1,0 +1,8 @@
+Text:::  A s always when ''The Mummy'' is shown on te levision, I was riveted to my armchair the other night when the rotti ng casket containing theScroll of Thoth was excavated from the sands of Egypt, along with a linen-wrapped object that looked suspiciously like Boris Karloff. What has always fetched me to ''The Mummy,'' a film which dates from the Administration of Herbert Hoover, is the high-society poise maintained by the principle characters in situations that might make even the Duke of Edinburgh forget to shave. On first encountering the film, as a shabby but ambitious lad eager to learn how the swells lived, I marveled at the cool savoir-faire with which, despite murder, hypnotic spells and an ambulatory mummy in their midst, the leading characters always found time to don evening gowns or tuxedos for dinner and dancing. ;;;
+
+Topics::: dinner;;; Score::: 0.2689414213699951;;;
+Topics::: ambulatory savoir-faire suspiciously riveted ambitious;;; Score::: 0.15818364727378095;;;
+Topics::: mummy characters film gowns shave;;; Score::: 0.19407217169605634;;;
+Topics::: dancing evening don spells hypnotic;;; Score::: 0.2689414213699951;;;
+Topics::: edinburgh high-society murder shown;;; Score::: 0.14519007218989316;;;
+Topics::: tuxedos lad casket;;; Score::: 0.15818364727378095;;;

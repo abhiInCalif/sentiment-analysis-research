@@ -1,0 +1,7 @@
+Text::: But to understand President Nimiery's jitters does not require condoning his ruthless and risky moves. Coming to power after a military coup in 1969, General Nimiery initially gave his huge country a rare interlude of social peace by ending a 17-year civil war. With some courage, he supported the Camp David agreement. ;;;
+
+Topics::: interlude supported understand power;;; Score::: 0.24613528134807838;;;
+Topics::: rare nimiery's civil courage;;; Score::: 0.3096014610110588;;;
+Topics::: ruthless condoning gave moves david;;; Score::: 0.11920292202211757;;;
+Topics::: jitters nimiery initially risky require;;; Score::: 0.11920292202211757;;;
+Topics::: social camp military;;; Score::: 0.11920292202211757;;;

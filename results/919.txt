@@ -1,0 +1,7 @@
+Text:::  Jerusalem has always been the thorniest issue in the Arab-Israeli conflict, as far back as 1947. Again having recently emerged as a volatile issue, it may in the end derail the Camp David peace negotiations. Putting Jerusalem on top of the peace-negotiation agenda is putting the cart before the horse. ;;;
+
+Topics::: volatile;;; Score::: 0.11920292202211757;;;
+Topics::: horse;;; Score::: 0.11920292202211757;;;
+Topics::: putting jerusalem cart derail emerged;;; Score::: 0.11920292202211757;;;
+Topics::: issue peace-negotiation thorniest agenda arab-israeli;;; Score::: 0.11920292202211757;;;
+Topics::: end;;; Score::: 0.11920292202211757;;;

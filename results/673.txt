@@ -1,0 +1,5 @@
+Text::: It's natural for Americans to wonder what their diplomats and marines are doing trying to impose peace on this tortured region, where so many forces rely only on violence. There is likely to be a growing sense of disgust with the bloody brawlers, and a desire to get out of the cross-fire. That is just what the terrorists and their mentors are trying to promote. ;;;
+
+Topics::: mentors cross-fire disgust tortured it's;;; Score::: 0.11920292202211757;;;
+Topics::: bloody marines terrorists forces;;; Score::: 0.11920292202211757;;;
+Topics::: brawlers rely natural desire sense;;; Score::: 0.11920292202211757;;;

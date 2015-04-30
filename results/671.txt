@@ -1,0 +1,5 @@
+Text::: This could be the Administration's biggest mistake, which is saying something. For the spread of these apocalyptic weapons has provoked the deepest anxieties about the future of life among old and young, believer and unbeliever alike, and is not likely to go away even if the U.S. and the Soviet Union reach some kind of compromise that still leaves both with enough nuclear weapons to blow up the world. The church is sustaining the peace movement, and the movement is giving new strength and purpose to the church in its struggle for a voice in the secular world. ;;;
+
+Topics::: movement believer anxieties deepest sustaining;;; Score::: 0.3096014610110588;;;
+Topics::: leaves;;; Score::: 0.11920292202211757;;;
+Topics::: church weapons world unbeliever apocalyptic;;; Score::: 0.3096014610110588;;;

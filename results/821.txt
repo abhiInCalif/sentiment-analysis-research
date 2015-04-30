@@ -1,0 +1,4 @@
+Text::: Pakistan believes in a normal and positive relationship with India. Some political analysts assert that American military aid to Pakistan has in the past led to tension in South Asia and in American-Indian relations and that the present American decision could revive that malaise. Such theses ignore the imperatives of the area's geopolitical situation. ;;;
+
+Topics::: pakistan area's imperatives theses assert;;; Score::: 0.11920292202211757;;;
+Topics::: american geopolitical malaise american-indian tension;;; Score::: 0.11920292202211757;;;

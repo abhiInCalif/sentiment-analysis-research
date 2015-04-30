@@ -1,0 +1,9 @@
+Text::: Improved decision-making machinery can also help the President chart a more clearly defined course for the next two years. Mr. Reagan should at the earliest opportunity spell out what his goals actually are in the arms control negotiations. This should not involve visionary and counterproductive utopias but a coherent and concrete program of middle-level initiatives designed to stabilize the strategic relationship with Moscow. ;;;
+
+Topics::: decision-making involve years;;; Score::: 0.11920292202211757;;;
+Topics::: chart;;; Score::: 0.11920292202211757;;;
+Topics::: stabilize middle-level utopias earliest program;;; Score::: 0.19407217169605634;;;
+Topics::: concrete counterproductive machinery moscow negotiations;;; Score::: 0.16911575513807675;;;
+Topics::: initiatives visionary spell defined relationship;;; Score::: 0.16911575513807675;;;
+Topics::: improved reagan goals arms;;; Score::: 0.2689414213699951;;;
+Topics::: coherent;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: The Reagan Administration, aware of the unsettling situation in the Middle East, wants to sell $354 million worth of missiles to Saudi Arabia in order to bolster the kingdom against Khomeiniite incursions and subversion. Although the Israeli Government has decided not to actively oppose the arms sale, many of Israel's supporters in Congress - most notably Senator Alan Cranston, Democrat of California - feel that the Saudis have not been sufficiently cooperative with the United States in seeking the kind of Middle East peace settlement Washington wants. They also fear that weapons shipped to the Saudis could wind up in the hands of terrorists who would use them against Israel. ;;;
+
+Topics::: shipped cooperative sufficiently unsettling khomeiniite;;; Score::: 0.11920292202211757;;;
+Topics::: actively terrorists notably administration reagan;;; Score::: 0.11920292202211757;;;
+Topics::: east feel cranston oppose sell;;; Score::: 0.11920292202211757;;;
+Topics::: aware;;; Score::: 0.11920292202211757;;;
+Topics::: saudis alan incursions senator seeking;;; Score::: 0.11920292202211757;;;
+Topics::: congress fear peace;;; Score::: 0.11920292202211757;;;

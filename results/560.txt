@@ -1,0 +1,7 @@
+Text:::  The annals of great airport meetings were enriched Tuesday when President Reagan and Pope John Paul II met for slightly less than half an hour at the airport in Fairbanks, Alaska. The Holy Father was headed for South Korea and the President was coming home from China, and they took the opportunity to discuss Asia, arms control, East-West relations, Poland, the Middle East and Central America. As a connoisseur of great airport meetings, proud of my participation in many, I concede that this was a fine specimen. ;;;
+
+Topics::: airport meetings great president connoisseur;;; Score::: 0.3096014610110588;;;
+Topics::: home;;; Score::: 0.5;;;
+Topics::: tuesday china;;; Score::: NaN;;;
+Topics::: specimen poland fairbanks john participation;;; Score::: 0.5;;;
+Topics::: fine reagan east;;; Score::: 0.5;;;

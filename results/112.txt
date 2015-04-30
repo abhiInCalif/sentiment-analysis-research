@@ -1,0 +1,7 @@
+Text::: From the United States, the Afghan resistance seems complicated and obscure. It appears splintered, full of feuds and feudalism, led by leaders with conflicting ambitions and full of intensities and tribal loyalties almost incomprehensible to Western minds. It looks different closer up, in this capital of Pakistan, which for a decade has given refuge to millions of Afghans. ;;;
+
+Topics::: capital loyalties resistance states;;; Score::: 0.11920292202211757;;;
+Topics::: complicated feuds led millions pakistan;;; Score::: 0.11920292202211757;;;
+Topics::: refuge incomprehensible intensities ambitions feudalism;;; Score::: 0.11920292202211757;;;
+Topics::: full minds conflicting splintered afghans;;; Score::: 0.11920292202211757;;;
+Topics::: tribal western;;; Score::: 0.11920292202211757;;;

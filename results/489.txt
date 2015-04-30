@@ -1,0 +1,8 @@
+Text::: But Iraq's President, Saddam Hussein, found an important friend in France, which provided the warplanes that equalized the battle. At one desperate point, Iraq apparently resorted to chemical weapons - a breach of treaty properly exposed by the State Department. The outcry over poison gas had a salutary effect: reports of its use have ceased. ;;;
+
+Topics::: salutary breach ceased department weapons;;; Score::: 0.11920292202211757;;;
+Topics::: desperate equalized treaty state;;; Score::: 0.11920292202211757;;;
+Topics::: chemical exposed properly gas provided;;; Score::: 0.11920292202211757;;;
+Topics::: resorted poison hussein;;; Score::: 0.11920292202211757;;;
+Topics::: warplanes outcry found;;; Score::: 0.11920292202211757;;;
+Topics::: friend president;;; Score::: 0.11920292202211757;;;

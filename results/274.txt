@@ -1,0 +1,6 @@
+Text::: These likely consequences glow so brightly that even if the policy had succeeded in freeing the hostages, it would still have produced a failure over all. No wonder Mr. Reagan says ''I want to speak to you about something else, not the policies themselves, but how they were carried out.'' That turns the spotlight away from the substance of his policy and puts it entirely on process. ;;;
+
+Topics::: glow;;; Score::: 0.11920292202211757;;;
+Topics::: succeeded puts speak;;; Score::: 0.24613528134807838;;;
+Topics::: policy substance spotlight carried produced;;; Score::: 0.24613528134807838;;;
+Topics::: turns reagan;;; Score::: 0.5;;;

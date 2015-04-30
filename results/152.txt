@@ -1,0 +1,6 @@
+Text::: But Teheran is not yet convinced that this is so and views anything short of fulfilling its war aims as tantamount to accepting defeat. Practically everybody else in the world would consider victory by either side a disaster. The U.S. is tilting to Iraq because it is the underdog. ;;;
+
+Topics::: accepting views convinced short u.s;;; Score::: 0.11920292202211757;;;
+Topics::: underdog teheran side;;; Score::: 0.11920292202211757;;;
+Topics::: tilting tantamount aims fulfilling disaster;;; Score::: 0.11920292202211757;;;
+Topics::: world;;; Score::: 0.11920292202211757;;;

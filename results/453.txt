@@ -1,0 +1,6 @@
+Text::: In brazen lies that denied all this, Mr. Hoxha was faithful to his Stalinist creed. But though the words of his ideology spoke of freedom his spirit didn't. Like his Soviet mentor, he died having built his own monument. ;;;
+
+Topics::: mentor brazen freedom;;; Score::: 0.16911575513807675;;;
+Topics::: monument stalinist spirit spoke;;; Score::: 0.19407217169605634;;;
+Topics::: ideology denied didn't lies soviet;;; Score::: 0.19407217169605634;;;
+Topics::: died creed hoxha faithful words;;; Score::: 0.16911575513807675;;;

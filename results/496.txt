@@ -1,0 +1,6 @@
+Text::: King Hussein, meanwhile, has confirmed his need for Egypt by resuming diplomatic relations, thereby violating the Arab ostracism that protested the Camp David treaties. He atones for this with ritual criticism of the United States and more strident rejection of any negotiation with Israel. Protecting his shrunken kingdom remains a higher priority than regaining lost territory in the West Bank. ;;;
+
+Topics::: shrunken strident atones resuming rejection;;; Score::: 0.11920292202211757;;;
+Topics::: protested ostracism violating negotiation criticism;;; Score::: 0.11920292202211757;;;
+Topics::: ritual treaties priority diplomatic bank;;; Score::: 0.11920292202211757;;;
+Topics::: regaining;;; Score::: 0.11920292202211757;;;

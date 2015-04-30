@@ -1,0 +1,4 @@
+Text::: They were foot soldiers sent to establish a Jewish presence in biblical Israel. They say they were provided with the amenities - roads, houses, water, electricity - yet largely left to fend for their own security. ''We felt ourselves being abandoned by our Government and army,'' said one of the accused. ;;;
+
+Topics::: water establish felt accused jewish;;; Score::: 0.21902858825403593;;;
+Topics::: abandoned fend electricity houses roads;;; Score::: 0.19407217169605634;;;

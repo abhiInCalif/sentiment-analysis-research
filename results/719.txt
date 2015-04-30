@@ -1,0 +1,9 @@
+Text::: Washington, worrying about Moscow, needs to realize that in comparison the Soviets are a distant, cautious threat. A French traveler, with close and trusted ties to regimes in the Persian Gulf, said leaders there scarcely mention the Israeli war because they are so frightened of the impact of the Iran-Iraq conflict. The old quarrels between Shiites and Sunnites, between Persians and Arabs, are receding before the tide of militant revivalism. ;;;
+
+Topics::: tide leaders;;; Score::: 0.11920292202211757;;;
+Topics::: sunnites mention regimes comparison impact;;; Score::: 0.11920292202211757;;;
+Topics::: conflict;;; Score::: 0.11920292202211757;;;
+Topics::: militant realize;;; Score::: 0.11920292202211757;;;
+Topics::: ties;;; Score::: 0.11920292202211757;;;
+Topics::: revivalism receding traveler cautious worrying;;; Score::: 0.11920292202211757;;;
+Topics::: trusted scarcely;;; Score::: 0.11920292202211757;;;

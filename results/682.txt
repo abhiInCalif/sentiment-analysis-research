@@ -1,0 +1,6 @@
+Text::: ... Would you consider it so cruel if, for the sake of victory, all dangerous elements in the population were simply herded together and sent packing into distant, uninhabited territory? ... There can be no peace between human beings and plague germs.'' ;;;
+
+Topics::: plague herded elements distant territory;;; Score::: 0.11920292202211757;;;
+Topics::: germs packing simply sake human;;; Score::: 0.11920292202211757;;;
+Topics::: beings uninhabited;;; Score::: 0.11920292202211757;;;
+Topics::: cruel population;;; Score::: 0.11920292202211757;;;

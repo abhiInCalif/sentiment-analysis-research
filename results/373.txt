@@ -1,0 +1,4 @@
+Text::: They could go on indefinitely. In fact, NATO intelligence shows an increase in Soviet military action in Afghanistan recently, but that is not considered a contradictory sign to Moscow's message about a settlement. It could well be a last effort to achieve as favorable a military situation as possible before an attempted truce. ;;;
+
+Topics::: attempted favorable situation moscow's increase;;; Score::: 0.11920292202211757;;;
+Topics::: military truce achieve indefinitely contradictory;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: At least in the short run, some Soviet interests parallel American interests. For example, Moscow might urge North Korea and Bulgaria to cut off or reduce arms sales to Iran. Until the Administration presents a plausible policy and gains the necessary backing, it would be unwise to extend American commitments to anyone else's ships - or to engage in any further military buildup. ;;;
+
+Topics::: interests else's gains presents korea;;; Score::: 0.11920292202211757;;;
+Topics::: administration;;; Score::: NaN;;;
+Topics::: cut;;; Score::: 0.11920292202211757;;;
+Topics::: american ships sales moscow parallel;;; Score::: 0.11920292202211757;;;
+Topics::: buildup commitments unwise backing bulgaria;;; Score::: 0.11920292202211757;;;

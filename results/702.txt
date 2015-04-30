@@ -1,0 +1,5 @@
+Text::: The personable Ronald Reagan, whose manner humanizes his doctrines, could be as effective on Soviet television as Nikita Khrushchev once was here. Mr. Reagan's sense of propriety deserted him, too; more was required by Mr. Brezhnev's death than a pinched aside amid assorted announcements, followed by a tired reference to East-West relations as a tango. It will be news to Iowa farmers that he lifted the grain embargo as a favor to Moscow. ;;;
+
+Topics::: sense;;; Score::: 0.11920292202211757;;;
+Topics::: iowa tango announcements amid pinched;;; Score::: 0.11920292202211757;;;
+Topics::: propriety khrushchev manner personable doctrines;;; Score::: 0.11920292202211757;;;

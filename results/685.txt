@@ -1,0 +1,5 @@
+Text::: The man said that as a Jew, he could relate to Begin's fears, a subject not easy to get across. At that point, Senator Glenn bristled and said he resented the question. Did he have to be Jewish to understand the problems of the Middle East? ;;;
+
+Topics::: jew;;; Score::: NaN;;;
+Topics::: bristled senator relate question subject;;; Score::: 0.11920292202211757;;;
+Topics::: begin's glenn resented fears easy;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: But even if the Chinese, owners of vast coal reserves, really need that many reactors, how could they pay for them? China is more likely to buy just a few, mostly to establish a general nuclear relationship yielding access to information and training. Taiwan and Japan are the more promising markets. ;;;
+
+Topics::: reserves;;; Score::: 0.11920292202211757;;;
+Topics::: taiwan information buy japan access;;; Score::: 0.11920292202211757;;;
+Topics::: relationship chinese establish general;;; Score::: 0.11920292202211757;;;
+Topics::: markets yielding coal owners reactors;;; Score::: 0.24613528134807838;;;

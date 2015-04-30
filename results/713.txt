@@ -1,0 +1,6 @@
+Text::: But invasions generate their own momentum, and Iran, as Americans well know, does not play by the orthodox rules. Ayatollah Khomeini's Iran is messianic and stimulates ambitions of an empire grounded in Islamic fundamentalism. The fear is that he will seek to enlist not only the narrow Shiite majority in Iraq but also the potent Shiite minorities in the monarchies of the Persian Gulf, whose survival is a direct concern of Saudi Arabia and the oildependent West. ;;;
+
+Topics::: shiite messianic generate minorities enlist;;; Score::: 0.11920292202211757;;;
+Topics::: concern ayatollah;;; Score::: 0.11920292202211757;;;
+Topics::: iran oildependent potent grounded stimulates;;; Score::: 0.11920292202211757;;;
+Topics::: momentum;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: The war reflects many levels of hostility that have nothing to do with East-West issues. There is an age-old Arab-Persian antagonism, briefly muted when the Shah of Iran made a deal with Iraq's Saddam Hussein on their common border. After the Shah fell, Ayatollah Khomeini began issuing calls for the Shiite majority in Iraq to rise against Mr. Hussein's secular, socialist regime. ;;;
+
+Topics::: briefly levels majority hussein's calls;;; Score::: 0.11920292202211757;;;
+Topics::: east-west deal;;; Score::: 0.11920292202211757;;;
+Topics::: socialist rise fell shiite regime;;; Score::: 0.11920292202211757;;;
+Topics::: issuing antagonism khomeini;;; Score::: 0.11920292202211757;;;
+Topics::: muted issues;;; Score::: 0.11920292202211757;;;
+Topics::: shah secular arab-persian age-old hostility;;; Score::: 0.11920292202211757;;;

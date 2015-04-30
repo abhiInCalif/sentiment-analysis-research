@@ -1,0 +1,6 @@
+Text::: When the inevitable scapegoating came, America was the best kind of scapegoat because it had become part of the region's landscape, its feuds and calculations of power. For the Palestinians - seeking revenge, stripped of their sanctuary in Lebanon - America stood between them and a Palestinian state. For the theocrats in Iran and Shiite Lebanon, America stood for cultural defilement, and it stopped them from overrunning their rivals in the region. ;;;
+
+Topics::: scapegoat;;; Score::: 0.5;;;
+Topics::: shiite;;; Score::: NaN;;;
+Topics::: america lebanon overrunning defilement theocrats;;; Score::: 0.11920292202211757;;;
+Topics::: stood sanctuary revenge landscape seeking;;; Score::: 0.24613528134807838;;;

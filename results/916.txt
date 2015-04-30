@@ -1,0 +1,5 @@
+Text::: Last August, Mr. Aquino predicted ''massive urban guerrilla warfare.'' When a bomb exploded last month at a travel agents' convention in Manila, he was immediately inscribed on the list of suspected plotters. He thinks ''a rebel is a criminal only as long as he does not win ... he becomes a hero after victory.'' ;;;
+
+Topics::: hero inscribed travel urban thinks;;; Score::: 0.11920292202211757;;;
+Topics::: long;;; Score::: 0.11920292202211757;;;
+Topics::: plotters immediately manila massive guerrilla;;; Score::: 0.11920292202211757;;;

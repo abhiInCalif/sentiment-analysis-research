@@ -1,0 +1,7 @@
+Text::: Iran's willingness to respond to French approaches now that Paris has rid itself of Mr. Rajavi is doubtless influenced by the shift in Syria's stand. Syria and Iraq, long bitter enemies, are moving toward a degree of reconciliation under pressure from other Arab states. This would deprive Iran of a major supporter on the other side of Iraq, and if Syria decided to reopen the pipeline that connects Iraqi oilfields to the Mediterranean, it would be a major gain for Iraq. ;;;
+
+Topics::: paris approaches willingness iraqi iran's;;; Score::: 0.5;;;
+Topics::: iraq mediterranean oilfields connects moving;;; Score::: 0.11920292202211757;;;
+Topics::: bitter;;; Score::: 0.11920292202211757;;;
+Topics::: major syria reopen deprive degree;;; Score::: 0.11920292202211757;;;
+Topics::: pipeline rajavi arab iran;;; Score::: 0.11920292202211757;;;

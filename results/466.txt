@@ -1,0 +1,4 @@
+Text::: In several recent treason trials, judgment has been ''reserved,'' leaving the accused imprisoned without rights in harsh military jails. Nearly eight years of army rule have divided Pakistan against itself by class, gender, region and religion. To many Pakistanis, American aid appears to support right-wing mullahs and repressive army officers, pitting them against peasants, university professors, judges and lawyers. ;;;
+
+Topics::: army pitting gender trials repressive;;; Score::: 0.11920292202211757;;;
+Topics::: professors peasants jails imprisoned reserved;;; Score::: 0.11920292202211757;;;

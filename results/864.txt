@@ -1,0 +1,5 @@
+Text::: For example, he said in an interview that corruption indeed exists and, by definition, can't be measured since no one plans to squeal. His Government's approach will be to go after ''unjustified signs of wealth,'' people who spend far beyond their visible income, but ''without starting a witch hunt.'' Another example of his combination of modern goals and sage tolerance of custom and the need for gradual social change came on the topic of population. ;;;
+
+Topics::: unjustified measured plans change;;; Score::: 0.11920292202211757;;;
+Topics::: sage starting visible government's custom;;; Score::: 0.11920292202211757;;;
+Topics::: topic combination hunt witch spend;;; Score::: 0.11920292202211757;;;

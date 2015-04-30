@@ -1,0 +1,10 @@
+Text::: A synagogue whose Hebrew name means Oasis of Peace had just been renovated and was being reopened. Two gunmen apparently entered the unguarded hall, fired submachine guns and threw hand grenades at the congregation, then immolated themselves and their victims with a firebomb. The killers left no message, but their purpose was plain: to disrupt malevolently a tradition of tolerance in an Islamic country where a small community of Jews has found haven for centuries. ;;;
+
+Topics::: peace;;; Score::: NaN;;;
+Topics::: killers immolated grenades gunmen centuries;;; Score::: 0.11920292202211757;;;
+Topics::: means;;; Score::: 0.11920292202211757;;;
+Topics::: tolerance threw unguarded fired message;;; Score::: 0.11920292202211757;;;
+Topics::: renovated;;; Score::: 0.11920292202211757;;;
+Topics::: malevolently submachine entered synagogue small;;; Score::: 0.11920292202211757;;;
+Topics::: haven hall reopened oasis tradition;;; Score::: 0.11920292202211757;;;
+Topics::: firebomb congregation hebrew disrupt guns;;; Score::: 0.11920292202211757;;;

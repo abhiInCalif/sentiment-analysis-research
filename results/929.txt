@@ -1,0 +1,6 @@
+Text::: But it also knows that no matter how provoked, Iraq, even when it had superior military strength in the past, always stopped short of a military invasion of Iran for fear of igniting an uncontrollable holy war against and within itself. Therefore, it is logical for the Iranians to conclude that outsiders encouraged the Iraqis to start this war. In Teheran's eyes, the most likely outside meddler is President Carter's national-security adviser, Zbigniew Brzezinski, who the Iranians believe encouraged the Iraqis indirectly through surrogate countries that also have an interest in the fall of the Khomeini regime: Saudi Arabia, Jordan and France. ;;;
+
+Topics::: encouraged military iraqis iranians indirectly;;; Score::: 0.24613528134807838;;;
+Topics::: president;;; Score::: NaN;;;
+Topics::: national-security;;; Score::: 0.11920292202211757;;;
+Topics::: war adviser fall outsiders interest;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,6 @@
+Text::: Mr. Reagan, like his predecessors, regards the resolution as an unconstitutional invasion of his powers. His advisers also are reported to fear that if the report were made as required, the Iranians would begin attacking U.S. ships, believing that Congress would thereby be encouraged to vote to withdraw them after 60 or 90 days. So the President has ignored the resolution. ;;;
+
+Topics::: encouraged predecessors ships u.s powers;;; Score::: 0.19407217169605634;;;
+Topics::: reported;;; Score::: 0.11920292202211757;;;
+Topics::: unconstitutional believing fear;;; Score::: 0.19407217169605634;;;
+Topics::: resolution attacking report begin reagan;;; Score::: 0.16911575513807675;;;

@@ -1,0 +1,7 @@
+Text::: The Reagan hostages are held by ghostly figures in unknown places. Kidnapped in Beirut months ago, they include a U.S. Embassy official, a reporter, a minister and the local director of Catholic Relief Services. No one assails Mr. Reagan for speaking softly and trying to enlist unofficial go-betweens like the Rev. ;;;
+
+Topics::: beirut;;; Score::: NaN;;;
+Topics::: services;;; Score::: NaN;;;
+Topics::: reporter;;; Score::: 0.11920292202211757;;;
+Topics::: go-betweens enlist softly catholic director;;; Score::: 0.11920292202211757;;;
+Topics::: reagan unofficial assails unknown speaking;;; Score::: 0.11920292202211757;;;

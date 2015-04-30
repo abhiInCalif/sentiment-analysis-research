@@ -1,0 +1,7 @@
+Text::: After all, the old Arab proverb states that ''The friend of my enemy is my enemy.'' This argument would make sense if it weren't for the fact that terrorism is the hallmark of many of the Islamic Middle East's most prestigious governments and organizations: They routinely use mindless violence as an instrument of policy, without reference to Israel, in international conflicts, domestic politics and disputes with other Islamic countries and groups. In recent years, Iran has seized and tortured American citizens; Iraq has used poison gas against Iran; Colonel Muammar el-Qaddafi's gunmen have shot British passersby in the center of London; the Syrian Government has carried out political mass murders against its own people; rival factions of the P.L.O. ;;;
+
+Topics::: shot hallmark gunmen conflicts center;;; Score::: 0.08331439759984219;;;
+Topics::: mass domestic groups government politics;;; Score::: 0.08331439759984219;;;
+Topics::: enemy islamic iran rival murders;;; Score::: 0.08331439759984219;;;
+Topics::: el-qaddafi's mindless weren't argument recent;;; Score::: 0.08331439759984219;;;
+Topics::: organizations prestigious carried seized gas;;; Score::: 0.08331439759984219;;;

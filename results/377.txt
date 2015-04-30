@@ -1,0 +1,8 @@
+Text::: At most, America could agree to stop providing arms to the rebels and give some economic aid to a new, acceptable regime, which would have to be independent and nonaligned. Even so, it would be extravagant to expect Pakistan to seal the border. It has always been an open border, which Afghans well know how to cross, and estimates are that it would take an army double the size of Pakistan's to close it effectively. ;;;
+
+Topics::: acceptable expect america stop;;; Score::: 0.11920292202211757;;;
+Topics::: seal;;; Score::: 0.11920292202211757;;;
+Topics::: estimates;;; Score::: 0.5;;;
+Topics::: border rebels independent close agree;;; Score::: 0.24613528134807838;;;
+Topics::: double cross extravagant nonaligned effectively;;; Score::: 0.24613528134807838;;;
+Topics::: size;;; Score::: 0.5;;;

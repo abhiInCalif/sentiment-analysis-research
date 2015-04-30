@@ -1,0 +1,6 @@
+Text::: Why is it necessary to protect Kuwaiti ships by giving them American flags? Moscow takes the far less risky step of allowing Kuwait to charter Soviet vessels. How can Reagan Administration officials speak of the great risks to American ships in the gulf, and then emphasize that Iran would not dare to attack? ;;;
+
+Topics::: giving moscow;;; Score::: 0.11920292202211757;;;
+Topics::: emphasize step risky vessels officials;;; Score::: 0.19407217169605634;;;
+Topics::: ships dare charter;;; Score::: 0.16911575513807675;;;
+Topics::: american allowing takes flags speak;;; Score::: 0.16911575513807675;;;

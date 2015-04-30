@@ -1,0 +1,9 @@
+Text::: These dangers can be managed by careful rules of engagement for the Navy: Don't steam too far north, close to the Iran-Iraq fighting; use full power to defend - with no automatic license to retaliate against Iran. At the moment, it's necessary to go this far. The gulf states were confounded when they discovered the White House had been secretly tilting toward Iran by providing arms and intelligence. ;;;
+
+Topics::: confounded;;; Score::: 0.2689414213699951;;;
+Topics::: automatic providing managed;;; Score::: 0.19407217169605634;;;
+Topics::: arms;;; Score::: 0.2689414213699951;;;
+Topics::: discovered intelligence white;;; Score::: 0.2689414213699951;;;
+Topics::: secretly;;; Score::: 0.2689414213699951;;;
+Topics::: iran house retaliate license steam;;; Score::: 0.11920292202211757;;;
+Topics::: engagement careful dangers close it's;;; Score::: 0.11920292202211757;;;

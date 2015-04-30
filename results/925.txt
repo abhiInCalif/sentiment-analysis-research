@@ -1,0 +1,6 @@
+Text::: That aggression has brought Iran no benefit; as the difficulty of now turning to the United Nations shows, it left Iran helpless and isolated when Iraq attacked a month ago. Prime Minister Rajai has a good case against Iraq, which unilaterally abrogated a 1975 treaty with Iran and has now invaded the border area that the treaty apportioned. But he is in the odd position of asking the Security Council to condemn Iraq for following Iran's example in the hostage affair. ;;;
+
+Topics::: abrogated rajai odd turning difficulty;;; Score::: 0.11920292202211757;;;
+Topics::: iraq iran treaty apportioned unilaterally;;; Score::: 0.11920292202211757;;;
+Topics::: area;;; Score::: 0.11920292202211757;;;
+Topics::: month minister;;; Score::: 0.11920292202211757;;;

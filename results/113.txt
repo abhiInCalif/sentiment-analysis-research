@@ -1,0 +1,7 @@
+Text::: And it looks different even closer still, in the Pakistani frontier city of Peshawar, where the political leaders of the major groups work out of barren offices and refugee camps. The complications and the feuds do exist. But they fall into place as aris-ing out of the particular history of Afghanistan, where religion and clan have dominated life for centuries, in war and in peace. ;;;
+
+Topics::: dominated;;; Score::: 0.11920292202211757;;;
+Topics::: city offices;;; Score::: 0.11920292202211757;;;
+Topics::: centuries religion peshawar barren camps;;; Score::: 0.11920292202211757;;;
+Topics::: clan aris-ing work major feuds;;; Score::: 0.11920292202211757;;;
+Topics::: life exist complications frontier fall;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: It could be so rending, in fact, that Bob Dole could wind up running and looking like a moderate - proving once again that in Presidential politics anything is possible. The Rev. Jesse Jackson's Presidential Campaign: The Chicago spellbinder is already being bombarded with advice not to run again, to throw his support to someone who can win, to conduct himself so as to enhance Party unity - in short, to be a credit to his race rather than pushy and demanding. ;;;
+
+Topics::: bombarded jesse proving credit short;;; Score::: 0.08331439759984219;;;
+Topics::: chicago moderate demanding;;; Score::: 0.08331439759984219;;;
+Topics::: pushy enhance advice spellbinder jackson's;;; Score::: 0.04742587317756679;;;
+Topics::: dole;;; Score::: NaN;;;
+Topics::: presidential unity conduct wind run;;; Score::: 0.08331439759984219;;;

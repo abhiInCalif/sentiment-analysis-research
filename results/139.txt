@@ -1,0 +1,7 @@
+Text::: No clean solutions, like carving spheres of influence, are possible or desirable. Regular, candid talks would help - on what constitutes a vital interest, assurances against direct intervention and greater regard for other nations' right to self-determination. Meanwhile, arms accords or economic arrangements should be pursued on their own merits, without being made hostage to regional disputes. ;;;
+
+Topics::: spheres carving clean pursued direct;;; Score::: 0.11920292202211757;;;
+Topics::: merits assurances vital constitutes hostage;;; Score::: 0.11920292202211757;;;
+Topics::: solutions disputes influence;;; Score::: 0.11920292202211757;;;
+Topics::: regard candid greater talks nations;;; Score::: 0.11920292202211757;;;
+Topics::: arrangements self-determination accords interest;;; Score::: 0.11920292202211757;;;

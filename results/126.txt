@@ -1,0 +1,4 @@
+Text::: We do not wish to destroy your state, but we want our own state alongside.' ''It's no good to have just an uprising - to have war, if you will. It is necessary to have an alternative, the peace option.'' ;;;
+
+Topics::: destroy war;;; Score::: 0.11920292202211757;;;
+Topics::: state option alternative alongside uprising;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,7 @@
+Text::: In Nicaragua, external neutralization would involve the removal of all foreign military and secret police personnel, notably from the Soviet bloc, and the end of the importation of military equipment from countries hostile to the United States. The Contadora countries - Mexico, Venezuela, Colombia and Panama - could insure a genuinely neutral status for Nicaragua and monitor the opening up of the Nicaraguan political process, including, at some point, free and uninhibited elections. Should such elections return President Daniel Ortega Saavedra to power, the United States would be obligated to accept the outcome, provided the overall formula continued to be respected. ;;;
+
+Topics::: nicaraguan monitor genuinely mexico insure;;; Score::: 0.5;;;
+Topics::: contadora;;; Score::: NaN;;;
+Topics::: elections united military countries states;;; Score::: 0.24613528134807838;;;
+Topics::: notably political soviet;;; Score::: 0.3096014610110588;;;
+Topics::: nicaragua obligated uninhibited panama personnel;;; Score::: 0.24613528134807838;;;

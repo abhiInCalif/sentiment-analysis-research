@@ -1,0 +1,6 @@
+Text::: They look south, where in pre-Nasser Egypt they could count a half-million Christians, exclusive of Copts; now there may be 10,000. In the cradle of civilization, Christianity is dying out, and Christians elsewhere do not seem to care. In the press in Europe and in the U.S., the Maronite and Greek Orthodox Christians of Lebanon are branded ''right- wing Christians'', or ''Phalangists,'' which puts them beyond the pale.Nobody can deny that some un- Christian Christians have committed atrocities, such as in the Palestinian camps, but that was an aberration by crazed individuals, not the norm encouraged by the leaders. ;;;
+
+Topics::: aberration branded copts pre-nasser orthodox;;; Score::: 0.04742587317756679;;;
+Topics::: pale.nobody palestinian;;; Score::: NaN;;;
+Topics::: christians atrocities greek christianity cradle;;; Score::: 0.08331439759984219;;;
+Topics::: norm individuals phalangists wing civilization;;; Score::: 0.08331439759984219;;;

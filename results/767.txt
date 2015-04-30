@@ -1,0 +1,8 @@
+Text::: The Africans have made their move and were stymied; attention now shifts to Latin America. But the Latin Americans, as usual, are arguing among themselves. Inside the ''Grula'' (Grupo Latino America-no) at the U.N., the Mexicans insist the candidate be Jorge Castaneda, because they envision Mexico as the natural leader of the New World's third world; others see Mexico as too far left, and push candidacies from Peru, Panama and Guyana. ;;;
+
+Topics::: jorge panama americans america;;; Score::: NaN;;;
+Topics::: guyana mexicans;;; Score::: NaN;;;
+Topics::: latin mexico candidacies envision castaneda;;; Score::: 0.11920292202211757;;;
+Topics::: peru shifts world's world;;; Score::: 0.19407217169605634;;;
+Topics::: africans;;; Score::: NaN;;;
+Topics::: grupo leader;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: Israel intervened in 1982, allegedly to disarm the Palestinians but actually to try to restore the Christian dominance. In the shadows, there arose yet another army, the Islamic Holy War terrorists, inspired and perhaps directed from Iran. Sectarian and family feuds engendered by all this violence have made even simple cease-fires impossible. ;;;
+
+Topics::: cease-fires sectarian holy family christian;;; Score::: 0.11920292202211757;;;
+Topics::: engendered shadows restore made war;;; Score::: 0.24613528134807838;;;
+Topics::: inspired arose dominance disarm allegedly;;; Score::: 0.3096014610110588;;;

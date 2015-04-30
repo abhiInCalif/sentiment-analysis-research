@@ -1,0 +1,7 @@
+Text::: We are now, in our own day, confronted by a new religious war of Islamic fundamentalism, which we do not understand. It took our hostages in Teheran, and has blown up our Marines and embassies in Beirut and in the Persian Gulf. And yet it is only by a reach of historical imagination that we can remember that a much more vicious religious conflict went on for hundreds of years between Islam and Rome, and another between the Protestants and the Catholics, until they were finally resolved by military stalement and acceptance of the principle of compromise and toleration. ;;;
+
+Topics::: religious stalement resolved confronted historical;;; Score::: 0.11920292202211757;;;
+Topics::: catholics protestants vicious reach blown;;; Score::: 0.11920292202211757;;;
+Topics::: toleration rome military years;;; Score::: 0.11920292202211757;;;
+Topics::: marines;;; Score::: NaN;;;
+Topics::: hundreds conflict;;; Score::: 0.11920292202211757;;;

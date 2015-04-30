@@ -1,0 +1,8 @@
+Text::: The moment has come for the United States to put the resolution to a vote and let the Russians choose: Support it and incur the ire of Iran, or vote no and offend moderate Arabs and By bombarding each other's capitals with missiles, Iran and Iraq have reached a new nadir in their savage seven-year war. The best hope of halting it lies in getting the United Nations to vote an embargo on arms sales to Iran. But the Soviet Union has continued to block such a resolution. ;;;
+
+Topics::: vote iran bombarding arabs offend;;; Score::: 0.11920292202211757;;;
+Topics::: choose capitals soviet;;; Score::: 0.11920292202211757;;;
+Topics::: lies halting missiles;;; Score::: 0.11920292202211757;;;
+Topics::: reached moment other's russians embargo;;; Score::: 0.11920292202211757;;;
+Topics::: block arms union;;; Score::: 0.11920292202211757;;;
+Topics::: resolution united sales seven-year savage;;; Score::: 0.11920292202211757;;;

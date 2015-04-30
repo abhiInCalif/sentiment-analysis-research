@@ -1,0 +1,4 @@
+Text:::  In Washington there was a crisis of respect. Men who thought of themselves as men deserving respect met at the White House. ''We are men of respect, yet we get no respect,'' they acknowledged. ;;;
+
+Topics::: house;;; Score::: NaN;;;
+Topics::: respect men deserving acknowledged met;;; Score::: 0.24613528134807838;;;

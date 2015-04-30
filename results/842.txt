@@ -1,0 +1,7 @@
+Text::: American officials confide that they have been encouraged in their hopes by secret hints from General Zia and his aides. But it is wishful thinking to assume that the generals now whispering promises to Washington will be in power when, and if, the anticipated Gulf crisis materializes. Even if they were, it is unlikely that they would be able to give America bases and access rights in the face of bitter domestic opposition. ;;;
+
+Topics::: aides hopes opposition;;; Score::: 0.11920292202211757;;;
+Topics::: whispering thinking bitter washington;;; Score::: 0.11920292202211757;;;
+Topics::: assume domestic zia;;; Score::: 0.11920292202211757;;;
+Topics::: materializes confide anticipated wishful secret;;; Score::: 0.11920292202211757;;;
+Topics::: promises;;; Score::: 0.11920292202211757;;;

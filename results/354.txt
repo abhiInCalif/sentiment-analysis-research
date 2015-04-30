@@ -1,0 +1,7 @@
+Text::: If Colonel Qaddafi survives what looks like a punitive assault, he will no longer seem an erratic loner but an Arab martyr upholding the holy cause of sovereignty. Should one of his missiles score a hit, causing American casualties, the conflict could suddenly turn far less predictable. The accounting so far suggests that the main benefit of making America's determination clear outweighs the risks. ;;;
+
+Topics::: suddenly;;; Score::: 0.11920292202211757;;;
+Topics::: benefit martyr erratic holy main;;; Score::: 0.19407217169605634;;;
+Topics::: outweighs accounting predictable hit score;;; Score::: 0.19407217169605634;;;
+Topics::: survives;;; Score::: 0.11920292202211757;;;
+Topics::: punitive qaddafi causing assault making;;; Score::: 0.16911575513807675;;;

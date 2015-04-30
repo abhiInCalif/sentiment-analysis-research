@@ -1,0 +1,6 @@
+Text::: Islamabad has been on the verge of contacts with Kabul several times but has balked, in the end, branding the Babrak Karmal regime as illegitimate. This is a self-defeating posture, since contacts, as such, need not and should not imply de jure diplomatic recognition. Dialogues between Kabul and Islamabad, Teheran, New Delhi and others, including United Nations representatives, should be used to probe for new peace formulas going beyond the May proposal. ;;;
+
+Topics::: formulas branding representatives posture proposal;;; Score::: 0.11920292202211757;;;
+Topics::: delhi;;; Score::: NaN;;;
+Topics::: karmal;;; Score::: NaN;;;
+Topics::: islamabad contacts kabul probe dialogues;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: What does the archeologist do? Being a real toff, what can he do but invite the mummy to come to dinner some time? Suddenly I am totally engaged in the mummy's social problem. ;;;
+
+Topics::: mummy's mummy engaged totally;;; Score::: 0.19407217169605634;;;
+Topics::: invite;;; Score::: 0.2689414213699951;;;
+Topics::: toff archeologist dinner problem social;;; Score::: 0.21902858825403593;;;

@@ -1,0 +1,6 @@
+Text::: Unless it now frees the 17, the Beirut kidnappers threaten to kill the hostages. Last December, Kuwait's moderate regime rejected that demand when hijackers diverted a Kuwaiti airliner to Iran. So once again it must calculate the risk of reprisal. ;;;
+
+Topics::: frees hijackers threaten kill airliner;;; Score::: 0.11920292202211757;;;
+Topics::: diverted rejected december kidnappers reprisal;;; Score::: 0.11920292202211757;;;
+Topics::: risk;;; Score::: 0.11920292202211757;;;
+Topics::: calculate;;; Score::: 0.11920292202211757;;;

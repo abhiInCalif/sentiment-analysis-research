@@ -1,0 +1,6 @@
+Text::: It was not conceivable to us even in the midst of the last world war that Japan would attack Pearl Harbor and sink most of the U.S. Pacific fleet at anchor. Even Gen. George C. Marshall couldn't believe it. We were surprised again when China sent a massive army across the Yalu to meet General MacArthur's troops when they crossed the 38th parallel in Korea and approached the Chinese border. ;;;
+
+Topics::: crossed anchor couldn't korea approached;;; Score::: 0.11920292202211757;;;
+Topics::: macarthur's pacific harbor pearl conceivable;;; Score::: 0.11920292202211757;;;
+Topics::: yalu marshall sink gen troops;;; Score::: 0.11920292202211757;;;
+Topics::: fleet meet;;; Score::: 0.11920292202211757;;;

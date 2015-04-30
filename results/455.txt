@@ -1,0 +1,5 @@
+Text::: At the fund's insistence, and with $67 million in blocked American aid as an inducement, the Sudan was pressured into raising prices on essential goods, sparking the riots that undid its President. The point will not be lost on other supplicants in the same queue. The United States had sound fiscal reasons to press for these reforms. ;;;
+
+Topics::: queue undid pressured inducement sudan;;; Score::: 0.11920292202211757;;;
+Topics::: goods reforms raising sound reasons;;; Score::: 0.19407217169605634;;;
+Topics::: supplicants sparking fund's essential insistence;;; Score::: 0.11920292202211757;;;

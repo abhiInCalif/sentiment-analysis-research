@@ -1,0 +1,10 @@
+Text::: The conflict on land spilled into the sea lanes when Iraq was on the defensive. Losing territory under pressure from Iranian human-wave offensives, Baghdad launched a campaign in 1984 aimed at Teheran's economic lifelines: the Kharg Island oil depot and tankers doing business with Iran. Iran struck back, and the tit-for-tat war in the seas became a regular feature of the conflict, eventually leading to the American naval deployment a year ago. ;;;
+
+Topics::: regular struck island offensives lanes;;; Score::: 0.11920292202211757;;;
+Topics::: feature territory spilled iran;;; Score::: 0.11920292202211757;;;
+Topics::: naval back economic;;; Score::: 0.11920292202211757;;;
+Topics::: aimed iraq;;; Score::: 0.11920292202211757;;;
+Topics::: leading seas kharg lifelines launched;;; Score::: 0.11920292202211757;;;
+Topics::: year deployment american eventually teheran's;;; Score::: 0.11920292202211757;;;
+Topics::: tankers losing sea iran;;; Score::: 0.11920292202211757;;;
+Topics::: conflict tit-for-tat business depot pressure;;; Score::: 0.11920292202211757;;;

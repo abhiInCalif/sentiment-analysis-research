@@ -1,0 +1,7 @@
+Text::: The Russians will pull their forces out of Afghanistan only when one basic condition has been met - when they feel sure about the survival of a friendly and reformist Government in Kabul, one in which a significant Communist Party presence remains. The Russians certainly are facing difficulties in Afghanistan. As a result of popular indifference, they have stopped the practice pursued last year of bringing their dead back to the Soviet Union for burial. ;;;
+
+Topics::: russians burial significant stopped condition;;; Score::: 0.11920292202211757;;;
+Topics::: year forces;;; Score::: 0.11920292202211757;;;
+Topics::: party presence;;; Score::: 0.11920292202211757;;;
+Topics::: afghanistan reformist feel practice remains;;; Score::: 0.11920292202211757;;;
+Topics::: met bringing;;; Score::: 0.11920292202211757;;;

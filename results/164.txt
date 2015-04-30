@@ -1,0 +1,8 @@
+Text::: It's time to get tough in the Persian Gulf, says the Reagan Administration. Beyond keeping warships on patrol, it wants to put the American flag on Kuwaiti oil tankers and thus offer American protection. And it threatens retaliation if Iran deploys Chinese-made Silkworm missiles against American-flagged vessels and warships. ;;;
+
+Topics::: gulf oil;;; Score::: 0.11920292202211757;;;
+Topics::: american retaliation threatens tough administration;;; Score::: 0.11920292202211757;;;
+Topics::: chinese-made flag protection put time;;; Score::: 0.11920292202211757;;;
+Topics::: deploys offer persian it's;;; Score::: 0.11920292202211757;;;
+Topics::: reagan;;; Score::: NaN;;;
+Topics::: warships vessels patrol keeping silkworm;;; Score::: 0.11920292202211757;;;

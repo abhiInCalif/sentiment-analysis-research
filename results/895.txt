@@ -1,0 +1,7 @@
+Text::: In the current Foreign Affairs, an Arab professor at Johns Hopkins, Fouad Ajami, quotes Naipaul approvingly, which would have been improbable not so long ago. Ajami argues that third-world countries must look to agriculture and more modest industrial plans and understand that they have to be ''a bit of themselves and a bit of the outside world.'' He urges them to be more truly nonaligned, which means seeking fruitful relations with the West without expecting it to solve all problems or inviting in the Soviets when it doesn't. ;;;
+
+Topics::: affairs professor plans countries;;; Score::: 0.11920292202211757;;;
+Topics::: current;;; Score::: 0.11920292202211757;;;
+Topics::: ajami solve fruitful urges third-world;;; Score::: 0.11920292202211757;;;
+Topics::: bit approvingly naipaul fouad industrial;;; Score::: 0.11920292202211757;;;
+Topics::: means;;; Score::: 0.11920292202211757;;;

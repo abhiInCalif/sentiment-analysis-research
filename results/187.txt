@@ -1,0 +1,5 @@
+Text:::  LEAD: The news in the battle against nuclear proliferation is mixed. The news in the battle against nuclear proliferation is mixed. The good news is that the United States and six allies finally have agreed to restrict the export of components and technology for rockets that can carry nuclear devices. ;;;
+
+Topics::: good;;; Score::: 0.5;;;
+Topics::: nuclear news mixed proliferation battle;;; Score::: 0.24613528134807838;;;
+Topics::: technology components finally states;;; Score::: 0.5;;;

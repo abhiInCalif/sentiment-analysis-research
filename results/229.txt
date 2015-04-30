@@ -1,0 +1,7 @@
+Text::: Now, we are hearing from all quarters that an overture to Iran was long overdue. There is nothing wrong with attempting to open channels of communication with Teheran, but we need to keep a clear head about our interests in this part of the world before we rush into any kind of deal. There is, to begin with, no convincing evidence to support the thesis that the Russians have so improved their position in Iran as to justify a change of American policy. ;;;
+
+Topics::: thesis overdue overture communication channels;;; Score::: 0.24613528134807838;;;
+Topics::: begin;;; Score::: 0.5;;;
+Topics::: improved hearing kind head;;; Score::: 0.24613528134807838;;;
+Topics::: iran convincing attempting quarters rush;;; Score::: 0.24613528134807838;;;
+Topics::: teheran;;; Score::: NaN;;;

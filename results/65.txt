@@ -1,0 +1,9 @@
+Text::: The United Nations was never expected to be able to impose peace in disputes between big powers. But it is now showing itself paralyzed and incompetent at ending a fight between third world countries essentially outside the East-West axis. There are many issues to be taken up in the new context of Soviet-American talks, and they are affected by international opinion. ;;;
+
+Topics::: united;;; Score::: NaN;;;
+Topics::: opinion affected essentially showing;;; Score::: 0.11920292202211757;;;
+Topics::: big fight powers;;; Score::: 0.11920292202211757;;;
+Topics::: paralyzed disputes talks expected nations;;; Score::: 0.11920292202211757;;;
+Topics::: ending;;; Score::: 0.11920292202211757;;;
+Topics::: soviet-american context axis east-west incompetent;;; Score::: 0.11920292202211757;;;
+Topics::: impose;;; Score::: 0.11920292202211757;;;

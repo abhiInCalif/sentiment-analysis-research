@@ -1,0 +1,7 @@
+Text::: The corrective has to be a demand for evidence, stubborn insistence on common sense short of proof to the contrary. But when proof appears, what measures remain to permit confident rejection of rumors that blow naturally, with fitful force, like wind in the desert? How are people to go on defending reason and realism, scoffing at silly notions, when facts turn out to be even sillier? ;;;
+
+Topics::: silly blow evidence sense people;;; Score::: 0.21902858825403593;;;
+Topics::: sillier facts notions rumors naturally;;; Score::: 0.2689414213699951;;;
+Topics::: realism demand;;; Score::: 0.19407217169605634;;;
+Topics::: confident insistence corrective wind contrary;;; Score::: 0.19407217169605634;;;
+Topics::: proof scoffing desert fitful rejection;;; Score::: 0.21902858825403593;;;

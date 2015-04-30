@@ -1,0 +1,7 @@
+Text:::  In Henry Kissinger's apt phrase, the ultimate American interest in the war between Iran and Iraq is that both should lose. The underlying hope is that mutual exhaustion might rid the Middle East of the aggressive regimes of both Ayatollah Khomeini and Saddam Hussein, yet leave their nations intact to avoid a superpower rush into any vacuum. Barring that, the best result is for these leaders to conclude they cannot win and restore the border that Iraq violated four years ago. ;;;
+
+Topics::: barring phrase ultimate superpower avoid;;; Score::: 0.11920292202211757;;;
+Topics::: aggressive restore border;;; Score::: 0.11920292202211757;;;
+Topics::: lose;;; Score::: 0.11920292202211757;;;
+Topics::: apt vacuum rush east ago;;; Score::: 0.11920292202211757;;;
+Topics::: iraq exhaustion mutual regimes rid;;; Score::: 0.11920292202211757;;;

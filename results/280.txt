@@ -1,0 +1,9 @@
+Text::: From all indications, the United Nations General Assembly is about to avert its eyes from this and countless other injustices in Iran. If human rights are to mean anything, an outcry is in order. It is a shameful fact that the Bahais, Iran's largest religious minority, numbering 300,000, have been persecuted with genocidal ferocity since the mullahs came to power in 1979. ;;;
+
+Topics::: united;;; Score::: NaN;;;
+Topics::: rights iran;;; Score::: 0.11920292202211757;;;
+Topics::: ferocity fact;;; Score::: 0.11920292202211757;;;
+Topics::: countless general;;; Score::: 0.11920292202211757;;;
+Topics::: bahais injustices nations;;; Score::: 0.11920292202211757;;;
+Topics::: persecuted numbering avert minority religious;;; Score::: 0.11920292202211757;;;
+Topics::: genocidal shameful eyes indications largest;;; Score::: 0.11920292202211757;;;

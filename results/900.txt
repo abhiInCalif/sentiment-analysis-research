@@ -1,0 +1,10 @@
+Text::: ''Finlandization'' has become synonomous with ''appeasement,'' but it has given Finland three decades of stability and prosperity and may offer the only slender hope left for getting the Russians out of Afghanistan. Even if a withdrawal occurred in stages over several years, a formal commitment to the principle of total withdrawal by an agreed target date would greatly help forestall the current growth of tensions between Washington and Moscow. --------------------------------------------------------------------- Selig S. Harrison is senior associate of the Carnegie Endowment for International Peace. ;;;
+
+Topics::: synonomous harrison selig moscow;;; Score::: 0.11920292202211757;;;
+Topics::: growth hope;;; Score::: 0.11920292202211757;;;
+Topics::: associate endowment date decades years;;; Score::: 0.11920292202211757;;;
+Topics::: withdrawal forestall finland finlandization senior;;; Score::: 0.11920292202211757;;;
+Topics::: occurred commitment target stability current;;; Score::: 0.11920292202211757;;;
+Topics::: prosperity slender tensions;;; Score::: 0.11920292202211757;;;
+Topics::: carnegie;;; Score::: NaN;;;
+Topics::: formal stages;;; Score::: 0.11920292202211757;;;

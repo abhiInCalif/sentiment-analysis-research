@@ -1,0 +1,8 @@
+Text:::  For nearly a generation since he ousted a tottering monarchy and proclaimed his own brand of revolution, Libya's irrepressible Colonel Muammar el-Qaddafi has been trying to put his mark on the world. He has never really succeeded in his grandiose scheme because he represents too few people, and his Islamic fundamentalism is too murky, his revolutionary ideas too cloudy, his tactics too offensive to appeal to masses outside Libya. But he has never really failed and lost his footing, either, because of his canny play on the greed, ambitions and hopes of other leaders. ;;;
+
+Topics::: cloudy murky grandiose mark monarchy;;; Score::: 0.11920292202211757;;;
+Topics::: colonel people;;; Score::: 0.11920292202211757;;;
+Topics::: scheme;;; Score::: 0.11920292202211757;;;
+Topics::: offensive revolution;;; Score::: 0.11920292202211757;;;
+Topics::: greed canny footing irrepressible tactics;;; Score::: 0.11920292202211757;;;
+Topics::: muammar libya's succeeded ambitions brand;;; Score::: 0.11920292202211757;;;

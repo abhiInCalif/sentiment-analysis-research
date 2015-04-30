@@ -1,0 +1,6 @@
+Text::: The bad news is that Pakistan is rapidly pressing ahead with plans to build a nuclear, and we seem unable to stop it. This week, the Senate is dealing with the Administration's request for a six-year $4.02 billion economic and military aid package for Pakistan. In so doing, it must be mindful that Pakistan has consistently not leveled with us about its so-called peaceful nuclear program. ;;;
+
+Topics::: so-called six-year request plans;;; Score::: 0.09527723907393398;;;
+Topics::: military;;; Score::: 0.11920292202211757;;;
+Topics::: nuclear leveled mindful package billion;;; Score::: 0.09527723907393398;;;
+Topics::: pakistan consistently ahead bad senate;;; Score::: 0.08331439759984219;;;

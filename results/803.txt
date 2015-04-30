@@ -1,0 +1,6 @@
+Text::: Such a strategy will take years to implement, but no one in the West should doubt Soviet determination to continue along this path. The idea that the Afghan resistance can inflict such a military cost on the Russians that they are forced to withdraw is baseless. Hardly less founded are hopes that, in the course of battle, the feuding opposition groups can come together. ;;;
+
+Topics::: idea;;; Score::: 0.11920292202211757;;;
+Topics::: continue;;; Score::: 0.11920292202211757;;;
+Topics::: cost military forced;;; Score::: 0.11920292202211757;;;
+Topics::: baseless inflict implement feuding founded;;; Score::: 0.11920292202211757;;;

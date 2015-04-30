@@ -1,0 +1,5 @@
+Text:::  In the summer of 1977, I visited a tiny village on Mount Lebanon fragrant with the scent of mint and roses, and wondered why my grandmother had never wanted to come back, not even for a visit. Seventeen years earlier, her children had offered to buy her a plane ticket, and when she firmly declined it the matter was dropped. Yet every spring she asked to be driven to a wide field a few miles from her home in Adena, Ohio, where a slender stream sprang out of the hillside. ;;;
+
+Topics::: adena field visited;;; Score::: 0.11920292202211757;;;
+Topics::: stream slender ohio firmly seventeen;;; Score::: 0.11920292202211757;;;
+Topics::: hillside spring declined ticket wondered;;; Score::: 0.11920292202211757;;;

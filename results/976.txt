@@ -1,0 +1,5 @@
+Text:::  The leaders of the industrial world have come here in a vaguely pessimistic mood, but in a way this fabulous city is a symbol of their hope. Few cities in the world seem more beautiful or more fragile. Yet not one has endured so many broken dreams and alliances and still survived to welcome the latest temporary politicians of the world. ;;;
+
+Topics::: survived endured fabulous alliances broken;;; Score::: 0.38447071068499755;;;
+Topics::: pessimistic fragile vaguely beautiful industrial;;; Score::: 0.5;;;
+Topics::: world;;; Score::: 0.4229804737899984;;;

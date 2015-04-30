@@ -1,0 +1,7 @@
+Text::: The conference would be preceded by substantive talks among the parties to give Israelis confidence about final overall results. Previous discussions on the international conference centered exclusively on procedures, not outcomes. King Hussein is said to be interested in the plan. ;;;
+
+Topics::: outcomes exclusively centered previous preceded;;; Score::: 0.11920292202211757;;;
+Topics::: conference procedures results king plan;;; Score::: 0.16911575513807675;;;
+Topics::: discussions interested israelis give hussein;;; Score::: 0.16911575513807675;;;
+Topics::: confidence;;; Score::: 0.11920292202211757;;;
+Topics::: international;;; Score::: 0.11920292202211757;;;

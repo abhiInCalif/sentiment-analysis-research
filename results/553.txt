@@ -1,0 +1,5 @@
+Text::: Ask about the possibility of Labor winning, and people respond skeptically. ''It wasn't the Likud that started settlements in the West Bank,'' one official said. ''Labor may present similar policies in a nicer, more acceptable voice.'' ;;;
+
+Topics::: similar respond possibility;;; Score::: 0.38447071068499755;;;
+Topics::: skeptically;;; Score::: 0.5;;;
+Topics::: labor nicer acceptable settlements wasn't;;; Score::: 0.19407217169605634;;;

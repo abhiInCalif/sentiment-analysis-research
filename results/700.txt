@@ -1,0 +1,5 @@
+Text::: Imagine otherwise. Suppose Mr. Reagan had said this at his news conference: ''I have only one announcement. We've learned of the death of President Brezhnev, and that could mark a watershed. ;;;
+
+Topics::: mark suppose learned death president;;; Score::: 0.11920292202211757;;;
+Topics::: we've announcement reagan brezhnev;;; Score::: 0.11920292202211757;;;
+Topics::: watershed imagine conference news;;; Score::: 0.11920292202211757;;;

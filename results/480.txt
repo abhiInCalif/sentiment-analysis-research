@@ -1,0 +1,5 @@
+Text::: Mr. Reagan's most controversial decision will involve (a) commitment of U.S. troops abroad; (b) powerful response to terrorist attack; (c) international restraint that will be attacked as failure of nerve; (d) hanging tough for an aide who let him down. 8. Biggest letdown of the year will be (a) heart-transplant surgery; (b) Halley's comet; (c) Wall Street; (d) Flutie. ;;;
+
+Topics::: flutie comet heart-transplant letdown street;;; Score::: 0.04742587317756679;;;
+Topics::: halley's surgery commitment u.s;;; Score::: 0.08331439759984219;;;
+Topics::: aide nerve controversial hanging wall;;; Score::: 0.11920292202211757;;;

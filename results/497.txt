@@ -1,0 +1,7 @@
+Text::: The threat that fundamentalists pose to more conventional Moslem regimes may explain Egypt's fear of enriching its peace with Israel. Yet that peace remains a vital source of stability. Preventing its further deterioration now has to be America's major concern in the region. ;;;
+
+Topics::: explain threat;;; Score::: 0.11920292202211757;;;
+Topics::: america's concern major;;; Score::: 0.5;;;
+Topics::: peace deterioration preventing enriching regimes;;; Score::: 0.24613528134807838;;;
+Topics::: region;;; Score::: 0.5;;;
+Topics::: remains conventional;;; Score::: 0.11920292202211757;;;

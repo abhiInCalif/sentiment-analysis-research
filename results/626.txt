@@ -1,0 +1,5 @@
+Text::: Fundamentalism remains a powerful current with strong social appeal because it challenges existing regimes in the name of the downtrodden and exalts grievances, which are all too often legitimate. But it cannot deal with practical development. Ideology has subsided as a social cement or agent for change. ;;;
+
+Topics::: practical grievances regimes legitimate agent;;; Score::: 0.29604811446403756;;;
+Topics::: social cement subsided exalts downtrodden;;; Score::: 0.38447071068499755;;;
+Topics::: powerful;;; Score::: 0.5;;;

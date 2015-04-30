@@ -1,0 +1,5 @@
+Text::: And we should encourage Western Europe, Japan and concerned Islamic countries to seek improved relations with Iran and help keep it outside the Soviet orbit. It is not enough to guard against Soviet machinations. Other dangers having little to do with Moscow also confront the region: the stress of industrial modernization, the acceleration of social change, the export of terrorism and revolutionary extremism, the Palestinian issue, and deeply rooted historical rivalries among neighboring but unfriendly countries. ;;;
+
+Topics::: countries soviet rooted acceleration machinations;;; Score::: 0.24613528134807838;;;
+Topics::: modernization stress industrial historical extremism;;; Score::: 0.11920292202211757;;;
+Topics::: rivalries deeply relations dangers issue;;; Score::: 0.3096014610110588;;;

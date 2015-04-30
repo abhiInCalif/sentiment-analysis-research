@@ -1,0 +1,4 @@
+Text::: 's involvement in a scholarly endeavor is kept secret, even from the participants and beneficiaries. A conspicuous instance occurred at Harvard last fall, when the C.I.A. covertly underwrote a conference on Islamic fundamentalism. ;;;
+
+Topics::: underwrote covertly harvard instance conspicuous;;; Score::: 0.11920292202211757;;;
+Topics::: endeavor participants occurred secret islamic;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: But both Iraq and Iran are also guilty of violating sea laws by attacking neutral shipping in the gulf. More confident of holding its own, and less dependent on Soviet weapons, Iraq now advertises its nonalignment. It has also toned down vilification of ''the Zionist entity,'' and its diplomats profess approval of Jordan's efforts to strike a territorial deal with Israel. ;;;
+
+Topics::: jordan's profess zionist vilification nonalignment;;; Score::: 0.11920292202211757;;;
+Topics::: iraq entity toned guilty holding;;; Score::: 0.11920292202211757;;;
+Topics::: approval;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: We are still innocents abroad, physically the most mobile people in the world, but intellectually, still longing for an isolationist world that's gone. It's hard to overlook Islam, which commands the allegiance of 67 countries and one-fifth of the world's population, but in general we have managed to ignore it in the Western democratic nations. As for the Shiites - a minority of about 15 percent of the world's Muslims, most of them living until recently in misery and meditation, refugees in their own countries - few members of the Congress, the Cabinet or the press in Washington had anything but the vaguest notion of them until the Ayatollah Khomeini kicked us out of Iran and provoked the Shiites in Lebanon to violent resentment and terrorist action. ;;;
+
+Topics::: isolationist mobile democratic congress managed;;; Score::: 0.11920292202211757;;;
+Topics::: vaguest muslims one-fifth commands abroad;;; Score::: 0.11920292202211757;;;
+Topics::: shiites world's countries world kicked;;; Score::: 0.11920292202211757;;;
+Topics::: longing;;; Score::: 0.11920292202211757;;;

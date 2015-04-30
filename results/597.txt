@@ -1,0 +1,5 @@
+Text::: He spoke of the film ''E.T.,'' imitating the waif's plaintive voice saying, ''Home, home, home.'' He spoke of a Palestinian friend who died recently in London and the difficulty of finding a place to bury him. ''Truly,'' Mr. Arafat said as though it had just occurred to him, ''I don't know where I will be buried. ;;;
+
+Topics::: friend arafat palestinian don't;;; Score::: 0.11920292202211757;;;
+Topics::: imitating;;; Score::: 0.5;;;
+Topics::: home spoke buried bury plaintive;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,6 @@
+Text::: Certainly such notice did not stop your suicide bomber from detonating his charge from within 10 yards of the embassy last week. Finally, you would pick a politically suitable date and aim your truck bomb at the U.S. Ambassador's residence in the Beirut suburb of Yarze, or - if the Americans elect to reestablish their presence in West Beirut - at the embassy, whose easily penetrable defenses were exposed on CBS the other night. ;;;
+
+Topics::: reestablish yarze ambassador's suitable pick;;; Score::: 0.2689414213699951;;;
+Topics::: beirut embassy easily elect suburb;;; Score::: 0.2689414213699951;;;
+Topics::: penetrable;;; Score::: 0.2689414213699951;;;
+Topics::: politically;;; Score::: 0.2689414213699951;;;

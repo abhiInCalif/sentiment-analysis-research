@@ -1,0 +1,6 @@
+Text::: If a peace is imposed that it does not like, the war will go on, the refugees will remain, the burden for Pakistan will increase. He knows it, the Americans know it, the resistance knows it. Up close, the resistance seems utterly convinced that it will determine the future of Afghanistan itself and that it will be a future without Communists, Afghan or Soviet. ;;;
+
+Topics::: determine convinced americans refugees peace;;; Score::: 0.11920292202211757;;;
+Topics::: utterly imposed communists soviet war;;; Score::: 0.11920292202211757;;;
+Topics::: future burden close pakistan remain;;; Score::: 0.11920292202211757;;;
+Topics::: resistance increase afghan afghanistan;;; Score::: 0.24613528134807838;;;

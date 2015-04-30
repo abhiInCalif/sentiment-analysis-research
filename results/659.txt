@@ -1,0 +1,6 @@
+Text::: Moscow has gone further than before with hypocritical but ominous public warnings about blocking its client's drive to overturn Chad's Government. Tass said the ''serious aggravation in Chad created by the French airlift'' would have consequences for peace in Africa and the world. It said the Western powers were trying to make Chad a ''new battlefield against the independence and liberty of African peoples. ;;;
+
+Topics::: overturn client's airlift drive powers;;; Score::: 0.11920292202211757;;;
+Topics::: african;;; Score::: NaN;;;
+Topics::: peoples blocking ominous make government;;; Score::: 0.11920292202211757;;;
+Topics::: chad liberty battlefield aggravation tass;;; Score::: 0.11920292202211757;;;

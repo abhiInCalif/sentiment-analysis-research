@@ -1,0 +1,6 @@
+Text::: More recently, sectarian strife broke out in Asyut in Upper Egypt, prompting Pope Shenouda III to cancel the Easter celebrations of April 1980 and to accuse President Sadat's Government of failing to clamp down on Moslem extremists. Fearing that such a step would aggravate rather than calm the situation, Mr. Sadat tried in vain to persuade Pope Shenouda to retract his decision. Mr. Sadat later expressed his irritation by accusing the ''new leadership'' in the Coptic Church of interfering in politics and of magnifying individual issues out of proportion. ;;;
+
+Topics::: shenouda magnifying interfering celebrations asyut;;; Score::: 0.11920292202211757;;;
+Topics::: calm government leadership president;;; Score::: 0.11920292202211757;;;
+Topics::: sadat retract clamp easter prompting;;; Score::: 0.11920292202211757;;;
+Topics::: pope accusing vain iii coptic;;; Score::: 0.11920292202211757;;;

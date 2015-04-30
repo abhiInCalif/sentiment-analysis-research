@@ -1,0 +1,5 @@
+Text::: Pakistan has a vital interest in our aid and our concern about its security problems. We are more important to its security than is a vulnerable nuclear arsenal. Renewal of aid would indeed demonstrate our continuing concern for its security, but the Senate should relate parts of the aid package to our several goals. ;;;
+
+Topics::: nuclear vital continuing important;;; Score::: 0.3730676406740392;;;
+Topics::: security aid concern relate demonstrate;;; Score::: 0.3730676406740392;;;
+Topics::: package pakistan problems;;; Score::: 0.3096014610110588;;;

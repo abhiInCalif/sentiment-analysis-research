@@ -1,0 +1,5 @@
+Text::: The changes are welcome for what they bring in well-being, health, protection from the rigors and cruelties of nature. And they are frightening for what they bring in uncertainty and challenge. So they create new questions in everyday personal and social life and questions about the role of religion. ;;;
+
+Topics::: frightening rigors well-being religion personal;;; Score::: 0.4229804737899984;;;
+Topics::: challenge;;; Score::: 0.2689414213699951;;;
+Topics::: bring questions everyday uncertainty nature;;; Score::: 0.4229804737899984;;;

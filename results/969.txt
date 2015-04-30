@@ -1,0 +1,5 @@
+Text::: Much of the region's opium is grown by ethnic minorities in Iran and the Afghanistan-Pakistan border area, and they have frequently resisted central government control. In the hands of groups opposing established regimes, opium often becomes hard currency bartered for weapons, medicines and other necessities. Because of strained political relations with Afghanistan and Iran, the United States has little influence on decisions in these countries on opium control. ;;;
+
+Topics::: opium iran bartered currency regimes;;; Score::: 0.11920292202211757;;;
+Topics::: necessities opposing;;; Score::: 0.11920292202211757;;;
+Topics::: control medicines afghanistan-pakistan minorities established;;; Score::: 0.11920292202211757;;;

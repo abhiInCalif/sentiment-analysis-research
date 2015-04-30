@@ -1,0 +1,5 @@
+Text::: That led to disaster for the United States before, and so it might again. Ironically, the revolution so far has not provoked the widespread catastrophes elsewhere that were feared. With the industrial world in recession, Iran's oil is not missed. ;;;
+
+Topics::: catastrophes missed led disaster states;;; Score::: 0.11920292202211757;;;
+Topics::: feared industrial widespread united iran's;;; Score::: 0.11920292202211757;;;
+Topics::: ironically recession world;;; Score::: 0.11920292202211757;;;

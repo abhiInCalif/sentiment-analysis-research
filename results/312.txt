@@ -1,0 +1,8 @@
+Text:::  There is this much to celebrate in the release of the Rev. Lawrence Jenco after 19 months of captivity in Lebanon: He is alive, if in uncertain health; his joy is an elixir, and he brings news about three remaining American hostages. He also carries a videotaped plea from one of them, David Jacobsen, who says - or was made to say - that unless Washington negotiates, the other hostages will be murdered. ;;;
+
+Topics::: hostages murdered videotaped brings elixir;;; Score::: 0.6155292893150024;;;
+Topics::: washington;;; Score::: NaN;;;
+Topics::: carries;;; Score::: 0.5;;;
+Topics::: plea joy captivity months lebanon;;; Score::: 0.6155292893150024;;;
+Topics::: remaining;;; Score::: 0.7310585786300049;;;
+Topics::: negotiates lawrence;;; Score::: 0.5;;;

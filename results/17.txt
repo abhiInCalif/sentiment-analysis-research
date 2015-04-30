@@ -1,0 +1,8 @@
+Text::: But since April 17, the tide of the war has turned. Iran first lost the strategic Fao peninsula, then Mehran, Salamcheh and most recently, the oil-rich Majnun islands. Many military analysts felt that Iran had a springboard to victory on the key southern front near the Iraqi port city of Basra. ;;;
+
+Topics::: basra city analysts military majnun;;; Score::: 0.11920292202211757;;;
+Topics::: iran port peninsula tide april;;; Score::: 0.16911575513807675;;;
+Topics::: fao strategic key;;; Score::: 0.11920292202211757;;;
+Topics::: front felt victory;;; Score::: 0.11920292202211757;;;
+Topics::: southern springboard islands salamcheh mehran;;; Score::: 0.11920292202211757;;;
+Topics::: oil-rich;;; Score::: 0.11920292202211757;;;

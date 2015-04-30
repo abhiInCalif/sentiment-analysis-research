@@ -1,0 +1,6 @@
+Text::: And no matter how good Mr. Shultz's good offices may be, they cannot succeed until the Israeli government speaks with one voice. Neither can good offices alone suffice. Shultz aides insist that their boss is serious about his mission and is even prepared to return if matters look promising. ;;;
+
+Topics::: aides;;; Score::: 0.11920292202211757;;;
+Topics::: good offices matters prepared boss;;; Score::: 0.16911575513807675;;;
+Topics::: promising;;; Score::: 0.11920292202211757;;;
+Topics::: mission suffice;;; Score::: 0.19407217169605634;;;

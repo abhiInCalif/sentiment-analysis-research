@@ -1,0 +1,8 @@
+Text::: In the United Nations Security Council, the Soviet Union will undoubtedly accuse the United States of interference against sovereign Nicaragua, just as the United States condemned the Kremlin's actions in Afghanistan. And the United States will probably draw on the same defense that the Soviet Union used. Privately, both may be thankful for the other's veto - and will persist with old policies, ignoring international opinion. ;;;
+
+Topics::: afghanistan security;;; Score::: NaN;;;
+Topics::: condemned undoubtedly accuse other's defense;;; Score::: 0.3096014610110588;;;
+Topics::: united states union veto thankful;;; Score::: 0.11920292202211757;;;
+Topics::: soviet draw;;; Score::: 0.5;;;
+Topics::: sovereign;;; Score::: 0.11920292202211757;;;
+Topics::: kremlin's interference persist;;; Score::: 0.11920292202211757;;;

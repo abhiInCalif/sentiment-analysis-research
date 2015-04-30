@@ -1,0 +1,6 @@
+Text:::  LEAD: In 20 years of occupation there have been waves of Palestinian protest, but none nearly so intense or extended. Gaza has been in turmoil for more than a month now. The shops in the West Bank and East Jerusalem have been closed for days. ;;;
+
+Topics::: palestinian;;; Score::: NaN;;;
+Topics::: turmoil days lead;;; Score::: 0.2689414213699951;;;
+Topics::: closed occupation bank;;; Score::: 0.19407217169605634;;;
+Topics::: month protest waves intense gaza;;; Score::: 0.19407217169605634;;;

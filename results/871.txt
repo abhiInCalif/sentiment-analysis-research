@@ -1,0 +1,5 @@
+Text::: From Chad, he gathers new forces to threaten the Sudan, which would give him control of the headwaters of the Nile, and an ability to inflict great damage on his hated Egyptian rival. Chad also borders on Niger, which is thought to be as rich in uranium as Chad. But to dominate the Arab-African world, he needs the ultimate weapon: an atomic device. ;;;
+
+Topics::: arab-african niger nile headwaters gathers;;; Score::: 0.11920292202211757;;;
+Topics::: chad inflict uranium egyptian atomic;;; Score::: 0.24613528134807838;;;
+Topics::: sudan ability world;;; Score::: 0.11920292202211757;;;

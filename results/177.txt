@@ -1,0 +1,6 @@
+Text::: The American people didn't. A handful of conspirators did. It is still possible to make this point, even to nations in which conspiracy is not all that uncommon. ;;;
+
+Topics::: american people;;; Score::: 0.2689414213699951;;;
+Topics::: handful make point;;; Score::: 0.3096014610110588;;;
+Topics::: conspirators;;; Score::: 0.5;;;
+Topics::: uncommon didn't nations conspiracy;;; Score::: 0.11920292202211757;;;

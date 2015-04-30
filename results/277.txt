@@ -1,0 +1,10 @@
+Text::: But then he drew the contradictory conclusion that the U.S. could cozen Iran into restoring ''a relationship'' with the U.S., ending the gulf war and stopping terrorism, ''and finally effect a safe return of all hostages from Lebanon.'' His isn't the first White House to delude itself in precisely this way. Zbigniew Brzezinski, when he was national security adviser to President Carter, met in Algiers (but not secretly) with the Iranian Prime Minister, Mehdi Bazargan, and Foreign Minister Ibrahim Yazdi and told them the U.S. had nothing against Iran's religious views or its nationalism, so normal relations should be possible. ;;;
+
+Topics::: secretly terrorism;;; Score::: 0.08331439759984219;;;
+Topics::: minister bazargan algiers zbigniew house;;; Score::: NaN;;;
+Topics::: met precisely hostages views relationship;;; Score::: 0.09527723907393398;;;
+Topics::: ibrahim brzezinski delude carter told;;; Score::: 0.08331439759984219;;;
+Topics::: conclusion contradictory drew isn't iran's;;; Score::: 0.11920292202211757;;;
+Topics::: yazdi;;; Score::: NaN;;;
+Topics::: u.s normal mehdi restoring cozen;;; Score::: 0.08331439759984219;;;
+Topics::: adviser religious prime;;; Score::: 0.04742587317756679;;;

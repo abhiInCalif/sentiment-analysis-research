@@ -1,0 +1,6 @@
+Text::: The King said he was ''sitting easy,'' and he certainly did appear very sure of himself. It is odd that he stressed the durability and growing sturdiness of his Libyan accord, when his Foreign Minister went to Washington recently to give assurances that the pact was only transient. But it fits with the tough position he is taking in talks with Algeria on the Saharan issue. ;;;
+
+Topics::: fits stressed odd pact easy;;; Score::: 0.3730676406740392;;;
+Topics::: sitting accord;;; Score::: 0.3096014610110588;;;
+Topics::: transient algeria tough assurances issue;;; Score::: 0.3096014610110588;;;
+Topics::: saharan taking sturdiness durability libyan;;; Score::: 0.3096014610110588;;;

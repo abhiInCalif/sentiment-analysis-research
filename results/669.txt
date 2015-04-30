@@ -1,0 +1,7 @@
+Text:::  The Reagan Administration can't seem to make up its mind about the proper relationship between church and state. One day it's for the ''separation'' of the two and the next it's for ''collaboration,'' depending on the issue of the moment. Thus it welcomes the support of the revivalist preachers and the Moral Majority for the social and economic policies it favors, but resents the opposition of the Roman Catholic bishops to its policy on nuclear weapons. ;;;
+
+Topics::: resents proper reagan moment;;; Score::: 0.24613528134807838;;;
+Topics::: depending church roman moral social;;; Score::: 0.24613528134807838;;;
+Topics::: bishops favors preachers collaboration separation;;; Score::: 0.3096014610110588;;;
+Topics::: revivalist administration majority day;;; Score::: 0.3096014610110588;;;
+Topics::: it's welcomes relationship opposition;;; Score::: 0.11920292202211757;;;

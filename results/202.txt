@@ -1,0 +1,6 @@
+Text::: Filipinos overwhelmingly approved her proposals for a new Constitution in a referendum that was stupidly boycotted by Communist fronts. In a country where 7 out of 10 people live below the poverty line, she has also begun to revive the economy. Consumer prices are falling, export income is growing, monopolies are being broken up and foreign debts are being rescheduled. ;;;
+
+Topics::: broken boycotted revive;;; Score::: 0.11920292202211757;;;
+Topics::: growing;;; Score::: 0.11920292202211757;;;
+Topics::: rescheduled debts monopolies income consumer;;; Score::: 0.11920292202211757;;;
+Topics::: falling fronts referendum proposals line;;; Score::: 0.11920292202211757;;;

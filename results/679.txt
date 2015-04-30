@@ -1,0 +1,7 @@
+Text::: It could invite Israel and Jordan to Washington to talk about procedures for starting talks, and set a deadline in accord with President Amin Gemayel for removal of foreign forces from Lebanon. The onus for rejecting the call would be undeniable, and neither side could claim U.S. indulgence by blaming the other. There is a slim possibility that somehow being made to confront the consequences of dithering would provoke a breakthrough. ;;;
+
+Topics::: breakthrough provoke dithering indulgence onus;;; Score::: 0.11920292202211757;;;
+Topics::: claim procedures lebanon president;;; Score::: 0.11920292202211757;;;
+Topics::: starting u.s;;; Score::: 0.11920292202211757;;;
+Topics::: talks washington;;; Score::: 0.11920292202211757;;;
+Topics::: blaming undeniable rejecting deadline gemayel;;; Score::: 0.11920292202211757;;;

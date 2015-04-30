@@ -1,0 +1,7 @@
+Text::: The obvious explanation is that Mr. Mubarak is determined to hold his tongue until April 25 - to do nothing that might provide reason for a holdup in Israel's final withdrawal from the Sinai. And so he has not reacted to what Egyptians see as moves by an innatelysuspicious Israel to test their peacefulness. ''Sometimes,'' an official said, shaking his head, ''I think Israelis wake up in the morning and say, 'Testing, testing, testing.' ;;;
+
+Topics::: testing shaking holdup tongue egyptians;;; Score::: 0.11920292202211757;;;
+Topics::: innatelysuspicious head;;; Score::: 0.11920292202211757;;;
+Topics::: peacefulness sinai wake;;; Score::: 0.11920292202211757;;;
+Topics::: provide israel's;;; Score::: 0.11920292202211757;;;
+Topics::: morning reacted explanation mubarak official;;; Score::: 0.11920292202211757;;;

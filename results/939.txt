@@ -1,0 +1,9 @@
+Text::: During the six weeks that I have been here, at least two men - Nazir Abbasi, who was suspected of distributing opposition literature, and Inayat Masih, a Christian trade unionist who demanded better safety measures after two maskless sanitation workers had died of asphyxiation while cleaning a sewer - have died under torture. There are other ironies in General Zia's being a spokesman for the Palestinians' cause on behalf of the Islamic nations. First, in 1970, during the Jordanian civil war, he led the Pakistani military contingent against the Palestine Liberation Organization. ;;;
+
+Topics::: sewer asphyxiation behalf opposition;;; Score::: 0.11920292202211757;;;
+Topics::: zia's;;; Score::: NaN;;;
+Topics::: contingent civil;;; Score::: 0.2689414213699951;;;
+Topics::: jordanian inayat literature distributing spokesman;;; Score::: 0.11920292202211757;;;
+Topics::: liberation;;; Score::: NaN;;;
+Topics::: died ironies cleaning sanitation maskless;;; Score::: 0.11920292202211757;;;
+Topics::: nazir christian;;; Score::: NaN;;;

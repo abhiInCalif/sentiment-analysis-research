@@ -1,0 +1,7 @@
+Text::: But he doesn't pretend, as his supporters do, that he may tame the Libyan leader, either in terms of stopping terrorism or bringing a little moderation in Arab arguments about Israel. Instead, King Hassan ducked the terror issue with a question. ''Do you really think Qaddafi is behind every terrorist act in the world?'' ;;;
+
+Topics::: tame hassan issue doesn't stopping;;; Score::: 0.19407217169605634;;;
+Topics::: arguments libyan qaddafi moderation bringing;;; Score::: 0.11920292202211757;;;
+Topics::: king;;; Score::: NaN;;;
+Topics::: terror;;; Score::: 0.2689414213699951;;;
+Topics::: ducked;;; Score::: 0.2689414213699951;;;

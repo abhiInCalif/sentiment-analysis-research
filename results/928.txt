@@ -1,0 +1,9 @@
+Text::: The first Iraqi leaders were Sunni Arabs - a minority group that today still runs the state - whose early ascendance the Iranians attribute to the Arabs' capitulation to Britain, which created Iraq in 1921. Since Iran blames Britain (and its perceived colonial successor, the United States) for virtually all of its modern political troubles, it is easy to see why no 20th-century Iranian ruler has ever considered the Iraqi leadership legitimate. Given Iran's view of Iraq, it is not surprising that Iran has long sought to prevent Iraq from achieving any meaningful alliance with other Arab states. ;;;
+
+Topics::: arabs states ascendance created achieving;;; Score::: 0.11920292202211757;;;
+Topics::: iraq britain iraqi iran meaningful;;; Score::: 0.11920292202211757;;;
+Topics::: surprising prevent iranian;;; Score::: 0.11920292202211757;;;
+Topics::: blames;;; Score::: 0.11920292202211757;;;
+Topics::: legitimate;;; Score::: 0.11920292202211757;;;
+Topics::: th-century ruler considered sunni troubles;;; Score::: 0.11920292202211757;;;
+Topics::: perceived;;; Score::: 0.11920292202211757;;;

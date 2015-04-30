@@ -1,0 +1,8 @@
+Text::: But blacks have always put more of their individual hopes in the political process and are redoubling their efforts again this year - only to be once again the tragic victims of the candidates, white and black. Second, white politicians are ready, even eager, to deal with black voters not directly, as individual citizens, but rather through a broker, a spokesman, a bargaining agent. The notion that Mr. Jackson speaks for all black Americans, in their rich diversity, is nonsense. ;;;
+
+Topics::: victims speaks politicians;;; Score::: 0.21902858825403593;;;
+Topics::: diversity rich bargaining nonsense citizens;;; Score::: 0.2689414213699951;;;
+Topics::: tragic americans;;; Score::: 0.11920292202211757;;;
+Topics::: black individual white redoubling voters;;; Score::: 0.21902858825403593;;;
+Topics::: spokesman;;; Score::: 0.2689414213699951;;;
+Topics::: broker candidates;;; Score::: 0.19407217169605634;;;

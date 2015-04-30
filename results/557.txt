@@ -1,0 +1,6 @@
+Text::: The suspects held and questioned by the police are not what most Israelis would dismiss as ''crazies'' - for example the extreme religious fringe, largely of American origin, who want to pave the way for the Messiah by bombing the Moslem holy places on the Temple Mount in Jerusalem. No, according to official leaks, the detained group includes respectable members of Gush Emunim, the religious settlement movement, and veterans of elite units in the Israeli armed forces. Of course the actions of a few should not be attributed to all the religious-nationalist settlers in the West Bank. ;;;
+
+Topics::: religious religious-nationalist temple suspects leaks;;; Score::: 0.16911575513807675;;;
+Topics::: crazies questioned respectable actions jerusalem;;; Score::: 0.16911575513807675;;;
+Topics::: units gush origin fringe mount;;; Score::: 0.19407217169605634;;;
+Topics::: attributed elite emunim settlers messiah;;; Score::: 0.19407217169605634;;;

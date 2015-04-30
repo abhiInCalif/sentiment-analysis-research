@@ -1,0 +1,7 @@
+Text:::  Concern over Lebanon and Arab-Israeli issues has rightly dominated United States foreign policy in recent months, but we cannot ignore the need for greater stability in the Persian Gulf, where the conflict between Iran and Iraq poses serious challenges for the West. Although America now obtains only 5 percent of its oil from the Gulf, Western Europe and Japan still rely on that region for more than half of their oil, and a cutoff of the supply could trigger America's oil-sharing obligations under the 1974 International Energy Agreement. There is no early prospect of eliminating this dependence on Gulf petroleum. ;;;
+
+Topics::: gulf oil energy obligations poses;;; Score::: 0.11920292202211757;;;
+Topics::: petroleum oil-sharing dominated;;; Score::: 0.11920292202211757;;;
+Topics::: conflict;;; Score::: 0.11920292202211757;;;
+Topics::: cutoff rely rightly percent america's;;; Score::: 0.11920292202211757;;;
+Topics::: early;;; Score::: 0.11920292202211757;;;

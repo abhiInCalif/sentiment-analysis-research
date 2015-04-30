@@ -1,0 +1,6 @@
+Text:::  CAIRO The threnody of Arabs is still the fate of the Arab nation, the need for unity and solidarity. Only rarely does a leader move without looking over his shoulder, calculating carefully and often fearfully whose support can be induced, whose opposition might be averted. This search for consensus is what makes it so difficult for Arab rulers to reach a decision, except on negatives. ;;;
+
+Topics::: arab threnody search rarely decision;;; Score::: 0.24613528134807838;;;
+Topics::: negatives induced fearfully shoulder reach;;; Score::: 0.11920292202211757;;;
+Topics::: calculating fate carefully cairo averted;;; Score::: 0.3096014610110588;;;
+Topics::: makes arabs;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: After the Prophet's death in 632 A. D., feuding among Islamic scholars led to the emergence of four competing schools of canonical law. Plagued by internal challenges from those offering successive renderings of Mohammed's words and deeds, religious leaders from the largest group, the Sunnis, decided in the 9th century to end the strife. All possible questions of interpretation had been addressed, they ruled, closing with a historic thud the so-called Gates of Ijtihad to Sunnis. ;;;
+
+Topics::: gates decided questions end;;; Score::: 0.11920292202211757;;;
+Topics::: feuding challenges words closing;;; Score::: 0.11920292202211757;;;
+Topics::: thud renderings plagued canonical competing;;; Score::: 0.11920292202211757;;;
+Topics::: mohammed's deeds so-called internal religious;;; Score::: 0.11920292202211757;;;
+Topics::: sunnis prophet's scholars interpretation offering;;; Score::: 0.11920292202211757;;;

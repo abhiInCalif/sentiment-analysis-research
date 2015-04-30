@@ -1,0 +1,6 @@
+Text::: It was even made by some on behalf of Stalin. The first victims of Iran's new justice were the collaborators of the Shah, and those who once thought they ''understood'' the revolutionary passion can now see that terror knows no understandable limits. Next in line for slaughter were stigmatized minorities, notably adherents of the B'ahai religion. ;;;
+
+Topics::: b'ahai collaborators minorities justice stalin;;; Score::: 0.11920292202211757;;;
+Topics::: stigmatized revolutionary passion shah slaughter;;; Score::: 0.11920292202211757;;;
+Topics::: understood;;; Score::: 0.11920292202211757;;;
+Topics::: adherents limits made;;; Score::: 0.16911575513807675;;;

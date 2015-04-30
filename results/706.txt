@@ -1,0 +1,5 @@
+Text::: Only Moscow would benefit from Iran's dismemberment. The Kremlin's conduct since the fall of the Shah demonstrates its awareness that Iran is the strategic prize in the Gulf. If the Soviet Union controlled Iran, it would realize its ancient ambition for access to warm-water ports; it could shape the future of the Gulf and tighten the noose on oil supplies. ;;;
+
+Topics::: noose warm-water ambition demonstrates ancient;;; Score::: 0.11920292202211757;;;
+Topics::: iran shape ports dismemberment prize;;; Score::: 0.16911575513807675;;;
+Topics::: gulf tighten awareness kremlin's controlled;;; Score::: 0.11920292202211757;;;

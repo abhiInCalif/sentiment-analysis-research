@@ -1,0 +1,8 @@
+Text::: The benefit for the new Soviet leadership is obvious. Ending this miserable war would remove a thorn in East-West diplomacy, mollify Islamic nations and help befriend China. Yuri Andropov wasn't chatting about the weather when he met the Pakistani leader for nearly an hour after the Brezhnev funeral. ;;;
+
+Topics::: met;;; Score::: 0.11920292202211757;;;
+Topics::: weather yuri thorn leader leadership;;; Score::: 0.11920292202211757;;;
+Topics::: chatting remove hour;;; Score::: 0.11920292202211757;;;
+Topics::: mollify;;; Score::: 0.11920292202211757;;;
+Topics::: funeral befriend andropov wasn't obvious;;; Score::: 0.11920292202211757;;;
+Topics::: miserable benefit east-west brezhnev pakistani;;; Score::: 0.11920292202211757;;;

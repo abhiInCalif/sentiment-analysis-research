@@ -1,0 +1,5 @@
+Text::: With or without the issues raised by the Iranian revolution, the Middle East has begun to come to terms with its economic limits. This is a region falling behind the rest of the world in economic skills and productive capacity. Americans have been fixated on the political drama of the place. ;;;
+
+Topics::: skills limits iranian;;; Score::: 0.11920292202211757;;;
+Topics::: economic drama fixated raised productive;;; Score::: 0.16911575513807675;;;
+Topics::: capacity begun east middle world;;; Score::: 0.11920292202211757;;;

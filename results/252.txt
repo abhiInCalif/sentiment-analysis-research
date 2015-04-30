@@ -1,0 +1,7 @@
+Text::: American fundamentalism has regained vigor in Christian and Jewish as well as Moslem societies, often in response to these pressures. It is an insistent and exclusive form of faith at odds with other traditions, at least as strong, in the three religions. President Hosni Mubarak of Egypt included an implicit reminder of this in a message he has sent to a Moslem conference in California, calling for ''adherence to the tolerant principles of Islam and to the spirit of benevolence and peace pervading the preachings of Islam and all religions.'' ;;;
+
+Topics::: principles fundamentalism;;; Score::: 0.11920292202211757;;;
+Topics::: included traditions christian american;;; Score::: 0.3096014610110588;;;
+Topics::: california mubarak message peace;;; Score::: 0.11920292202211757;;;
+Topics::: religions preachings pervading benevolence spirit;;; Score::: 0.3096014610110588;;;
+Topics::: islam moslem adherence reminder implicit;;; Score::: 0.11920292202211757;;;

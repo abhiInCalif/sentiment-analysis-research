@@ -1,0 +1,5 @@
+Text::: The world, alarmed, has moved quickly to try to bring about peace. The Iraqis have tried to bluff their way out of the situation by claiming victory and posturing with impossible demands for a settlement. But the Iranians have their number and have remained on the offensive. ;;;
+
+Topics::: posturing alarmed claiming impossible situation;;; Score::: 0.3096014610110588;;;
+Topics::: bluff quickly remained peace;;; Score::: 0.24613528134807838;;;
+Topics::: settlement demands bring iranians;;; Score::: 0.3096014610110588;;;

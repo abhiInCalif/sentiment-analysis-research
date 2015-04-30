@@ -1,0 +1,5 @@
+Text::: The revolution devoured them. There is no assurance today that men of moderate politics may fare any better than that first liberal group of the revolution's adherents. But if the ''mellowing'' of the Iranian revolution may still be just a claim or a matter of speculation, there is some evidence that the reach of Iran and its power to disrupt the region around it have passed their peak. ;;;
+
+Topics::: revolution peak passed disrupt reach;;; Score::: 0.16911575513807675;;;
+Topics::: assurance moderate region;;; Score::: 0.11920292202211757;;;
+Topics::: fare politics;;; Score::: 0.11920292202211757;;;

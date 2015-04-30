@@ -1,0 +1,6 @@
+Text::: Sheikh Mohammed al Taib el Naggar, president of Al Azhar University, the oldest university in the Arab world and the center of Islamic learning in Egypt, voiced muted reservations. He did not oppose ijtihad, Sheikh Naggar said. Indeed, he insisted: ''There has been and still is an open door to ijtihad in Islam. ;;;
+
+Topics::: oppose muted;;; Score::: 0.08331439759984219;;;
+Topics::: azhar;;; Score::: NaN;;;
+Topics::: naggar sheikh ijtihad university voiced;;; Score::: 0.09527723907393398;;;
+Topics::: reservations;;; Score::: 0.04742587317756679;;;

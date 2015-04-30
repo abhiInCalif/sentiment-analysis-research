@@ -1,0 +1,8 @@
+Text::: But this story at times has been told crudely and suffered from shame and shyness. In Africa, America has been too crudely portrayed as a largely black nation with blacks blithely making it in sports, the arts and politics. A smattering of white faces can be spotted in the background. ;;;
+
+Topics::: spotted smattering arts portrayed shame;;; Score::: 0.16911575513807675;;;
+Topics::: faces making black story white;;; Score::: 0.16911575513807675;;;
+Topics::: sports;;; Score::: 0.11920292202211757;;;
+Topics::: crudely blithely shyness told;;; Score::: 0.11920292202211757;;;
+Topics::: largely politics america;;; Score::: 0.11920292202211757;;;
+Topics::: background times suffered nation blacks;;; Score::: 0.16911575513807675;;;

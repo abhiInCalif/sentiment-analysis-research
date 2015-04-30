@@ -1,0 +1,6 @@
+Text::: Even if it were ready to abandon the regime, which it is not, there is no structure or leader on the resistance side with whom it could deal effectively. So it matters that the rebels manage not only to sustain their military resistance but develop a political leadership. According to Selig Harrison, an American expert, the U.S. has tended to support Islamic fundamentalist groups that have the best military commandos, with money and agents. ;;;
+
+Topics::: money expert abandon develop ready;;; Score::: 0.16911575513807675;;;
+Topics::: military commandos rebels u.s support;;; Score::: 0.19407217169605634;;;
+Topics::: harrison manage fundamentalist;;; Score::: 0.19407217169605634;;;
+Topics::: tended selig sustain structure effectively;;; Score::: 0.16911575513807675;;;

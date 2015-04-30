@@ -1,0 +1,5 @@
+Text::: Many of its cherished axioms, actually serious misconceptions about the nature of the Soviet Union, are contradicted by a large body of scholarly knowledge. Five fallacies of the hard line are especially important: 1. The Soviet Union is a revolutionary ideological-political system and therefore an inherently aggressive force in the world. ;;;
+
+Topics::: cherished body contradicted scholarly nature;;; Score::: 0.5;;;
+Topics::: union inherently large force;;; Score::: 0.5;;;
+Topics::: soviet ideological-political fallacies misconceptions axioms;;; Score::: 0.3730676406740392;;;

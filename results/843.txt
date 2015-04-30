@@ -1,0 +1,8 @@
+Text::: But evidence is multiplying that Islamabad has been quietly providing a pipeline for Chinese and American-Saudi-Egyptian weapons traffic to the resistance for more than a year. Pakistan's attitude to the Afghan issue has been and will continue to be governed by pressures from other Islamic countries and by its growing dependence on American and Saudi economic support. At bottom, the Administration's policy reflects a belief that India has become a virtual Soviet ally. ;;;
+
+Topics::: islamabad pressures continue afghan pakistan's;;; Score::: 0.11920292202211757;;;
+Topics::: bottom ally dependence administration's traffic;;; Score::: 0.11920292202211757;;;
+Topics::: virtual american-saudi-egyptian governed providing issue;;; Score::: 0.11920292202211757;;;
+Topics::: multiplying chinese;;; Score::: 0.11920292202211757;;;
+Topics::: india evidence attitude resistance growing;;; Score::: 0.11920292202211757;;;
+Topics::: quietly pipeline islamic;;; Score::: 0.11920292202211757;;;

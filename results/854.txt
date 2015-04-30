@@ -1,0 +1,8 @@
+Text::: One deputy accuses the President of treason and another says, ''I wish he had known that hostility against the Imam (Khomeini) and the religious leadership means hostility against God.'' It has to consider a new code, submitted by the Prime Minister for final approval, which includes a ''Bill of Vengeance.'' This document, confirmed as authentic by Western diplomats in Teheran, ostensibly implements Islamic law though few Moslems elsewhere would accept it. ;;;
+
+Topics::: ostensibly imam deputy approval bill;;; Score::: 0.11920292202211757;;;
+Topics::: authentic confirmed final leadership;;; Score::: 0.11920292202211757;;;
+Topics::: prime teheran;;; Score::: NaN;;;
+Topics::: document law islamic;;; Score::: 0.11920292202211757;;;
+Topics::: president khomeini;;; Score::: NaN;;;
+Topics::: hostility implements submitted accuses vengeance;;; Score::: 0.11920292202211757;;;

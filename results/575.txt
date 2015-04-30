@@ -1,0 +1,8 @@
+Text::: This includes a 25 percent cut in social services, principally affecting the 45 percent or 50 percent of the 21 million Moroccans already below the poverty line. Hassan comes closer to being an absolute ruler than any of his royal counterparts west of Suez - and he lives that way. He has palaces all over the country, plus a million-dollar new one recently acquired in Bronxville, N.Y. ;;;
+
+Topics::: percent n.y suez absolute ruler;;; Score::: 0.11920292202211757;;;
+Topics::: principally;;; Score::: 0.11920292202211757;;;
+Topics::: palaces hassan country;;; Score::: 0.11920292202211757;;;
+Topics::: bronxville million-dollar counterparts moroccans social;;; Score::: 0.11920292202211757;;;
+Topics::: cut acquired;;; Score::: 0.11920292202211757;;;
+Topics::: affecting royal;;; Score::: 0.11920292202211757;;;

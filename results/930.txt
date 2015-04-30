@@ -1,0 +1,7 @@
+Text::: Waiting in the wings, they believe, is an army of opposition forces headed by Gholam Ali Oveissi, an Army general under the Shah, and a government-in-exile whose formation in Paris has been announced by the former Prime Minister Shahpur Bakhtiar, perhaps even headed by the ex-Shah's oldest son, Cyrus Reza, who reportedly will declare himself Shah on his 20th birthday this month. America's dispatching of four sophisticated Awacs (Airborne Warning and Control System) aircraft to Saudi Arabia only reinforces this view. Since the Iranians view the conflict as international, they have played it that way themselves, counting on escalation as a means of trying to check the Iraqi advance. ;;;
+
+Topics::: check escalation airborne formation gholam;;; Score::: 0.08331439759984219;;;
+Topics::: government-in-exile reinforces means;;; Score::: 0.09527723907393398;;;
+Topics::: headed bakhtiar shahpur wings oldest;;; Score::: 0.04742587317756679;;;
+Topics::: aircraft;;; Score::: 0.11920292202211757;;;
+Topics::: view shah army dispatching birthday;;; Score::: 0.09527723907393398;;;

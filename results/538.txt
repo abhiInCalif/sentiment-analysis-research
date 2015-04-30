@@ -1,0 +1,6 @@
+Text::: Iraq is ready. It's been thrown back militarily and practically ruined economically. But Iran smells blood: it's taken staggering casualties to try to topple Saddam Hussein so that Iraqis might install an Islamic republic and become the Ayatollah's allies against more secular Arabs. ;;;
+
+Topics::: smells ruined thrown militarily arabs;;; Score::: 0.11920292202211757;;;
+Topics::: staggering secular iran;;; Score::: 0.11920292202211757;;;
+Topics::: it's economically casualties allies ayatollah's;;; Score::: 0.11920292202211757;;;
+Topics::: install topple republic ready blood;;; Score::: 0.19407217169605634;;;

@@ -1,0 +1,6 @@
+Text::: Foggy Bottom has been smacking its lips at the prospect of selling Westinghouse reactors to Peking. But China is helping its ally, Pakistan, build the Islamic bomb, and we cannot count on Israel to non- proliferate the Pakis as they did the Iraqis. Before we agree to deal with China, the U.S. should require a promise of safeguards on all its atomic exports and bomb-making data to other nations, complete with international inspection of Chinese civilian nuclear facilities. ;;;
+
+Topics::: prospect israel iraqis;;; Score::: 0.11920292202211757;;;
+Topics::: bomb-making proliferate westinghouse count safeguards;;; Score::: 0.11920292202211757;;;
+Topics::: china pakis lips smacking bottom;;; Score::: 0.11920292202211757;;;
+Topics::: data foggy inspection nuclear build;;; Score::: 0.11920292202211757;;;

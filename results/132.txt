@@ -1,0 +1,6 @@
+Text::: Nor are any foreigners responsible for the occupation's kill-or-starve policies that have caused a third of Afghanistan's 15 million inhabitants to flee the country. And the foreign meddlers who confirmed that Afghan children were crippled by booby-trapped toys were United Nations human rights investigators. With reason Moscow fears that if it pulls out, its Afghan loyalists will be massacred. ;;;
+
+Topics::: afghan massacred loyalists investigators toys;;; Score::: 0.11920292202211757;;;
+Topics::: pulls fears crippled inhabitants;;; Score::: 0.16911575513807675;;;
+Topics::: caused;;; Score::: 0.2689414213699951;;;
+Topics::: human policies foreigners nations;;; Score::: 0.19407217169605634;;;

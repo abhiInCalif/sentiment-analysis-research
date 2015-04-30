@@ -1,0 +1,6 @@
+Text::: In that sense, it is a classic imperial state. That is what its war against Iraq is all about. Should Iraq fall, there is nothing -as long as Washington remains an impotent bystander - to prevent Iran from extending its control over the entire Gulf region. ;;;
+
+Topics::: extending imperial classic sense entire;;; Score::: 0.11920292202211757;;;
+Topics::: gulf;;; Score::: NaN;;;
+Topics::: iraq bystander remains state control;;; Score::: 0.11920292202211757;;;
+Topics::: impotent fall prevent;;; Score::: 0.11920292202211757;;;

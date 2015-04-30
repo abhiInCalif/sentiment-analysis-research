@@ -1,0 +1,8 @@
+Text::: One of the most important underlying developments in the Arab world now is that states, a new and somewhat awkward idea in the region's history, are putting down roots and developing specific identities. This is a gradual movement, not yet to be measured in sharp Western terms. But it is making a difference and if it continues, it will change the way the rest of the world can deal with Arabs and eventually Arab attitudes to Israel. ;;;
+
+Topics::: terms;;; Score::: 0.11920292202211757;;;
+Topics::: measured specific;;; Score::: 0.11920292202211757;;;
+Topics::: difference;;; Score::: 0.5;;;
+Topics::: arab attitudes sharp idea change;;; Score::: 0.24613528134807838;;;
+Topics::: world identities awkward roots putting;;; Score::: 0.3096014610110588;;;
+Topics::: developing continues eventually israel states;;; Score::: 0.3096014610110588;;;

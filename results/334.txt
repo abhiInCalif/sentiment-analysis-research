@@ -1,0 +1,8 @@
+Text::: Colonel Qaddafi, for having opportunistically switched sides in the Sudanese civil war over the last year, was rewarded with support in his current crisis. He has also been allowed to establish a large ''diplomatic'' presence in Khartoum, widely suspected of harboring trained terrorists. Ethnic and religious conflicts have long divided the Sudan's disparate northern and southern regions. ;;;
+
+Topics::: diplomatic;;; Score::: 0.11920292202211757;;;
+Topics::: divided harboring switched opportunistically sudan's;;; Score::: 0.09527723907393398;;;
+Topics::: disparate terrorists ethnic rewarded regions;;; Score::: 0.09527723907393398;;;
+Topics::: qaddafi northern;;; Score::: 0.11920292202211757;;;
+Topics::: khartoum sudanese trained colonel civil;;; Score::: 0.08331439759984219;;;
+Topics::: sides;;; Score::: 0.04742587317756679;;;

@@ -1,0 +1,5 @@
+Text::: As long as it continues, both run high risks from an Iraqi defeat. Few developments could ignite more trouble in the Moslem regions of the Soviet Union than a tide of Islamic fundamentalism rising victoriously out of Teheran. A quick end to the war is in the interest of everyone save Teheran's fanatics. ;;;
+
+Topics::: fanatics save victoriously regions risks;;; Score::: 0.16911575513807675;;;
+Topics::: high quick fundamentalism;;; Score::: 0.16911575513807675;;;
+Topics::: trouble ignite continues developments run;;; Score::: 0.11920292202211757;;;

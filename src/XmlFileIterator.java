@@ -35,18 +35,18 @@ public class XmlFileIterator implements Iterator<CorpusDocument>{
 	
 	@Override
 	public boolean hasNext() {
-			if (fileIndex < files.size()) {
-				NodeList nList = getNodeList(fileIndex);
-				if (nList == null) {
-					return false; // error case;
-				}
-				if(docIndex < nList.getLength()) {
-					return true;
-				}
-			} else {
-				return false;
+		if (fileIndex < files.size()) {
+			NodeList nList = getNodeList(fileIndex);
+			if (nList == null) {
+				return false; // error case;
 			}
-		
+			if(docIndex < nList.getLength()) {
+				return true;
+			}
+		} else {
+			return false;
+		}
+
 		return false;
 	}
 

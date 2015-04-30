@@ -1,0 +1,5 @@
+Text::: And this time, there are no such clear grounds for universal moral outrage. Mr. Haig said the United States felt it had to act because it could no longer tolerate the ''double standard'' of ''international lawlessness'' practiced by Colonel Qaddafi. In the world as it is, that is hardly an effective cry for a Western jihad. ;;;
+
+Topics::: practiced moral grounds jihad tolerate;;; Score::: 0.16911575513807675;;;
+Topics::: qaddafi act outrage states;;; Score::: 0.19407217169605634;;;
+Topics::: universal haig double standard colonel;;; Score::: 0.19407217169605634;;;

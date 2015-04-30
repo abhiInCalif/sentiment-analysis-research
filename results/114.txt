@@ -1,0 +1,8 @@
+Text::: It was the passions of religion and tribe that supplied the strength and will power that blocked Soviet expansion for the first time since the Bolshevik Revolution of 1917. Seen nearer, the leaders and followers become not just fierce-looking warriors but living people, worried about their families, food and the future. And it begins to become much clearer that there were two inseparable motivations for year after year of fighting, suffering and dying. ;;;
+
+Topics::: worried bolshevik supplied future;;; Score::: 0.11920292202211757;;;
+Topics::: year dying motivations food followers;;; Score::: 0.11920292202211757;;;
+Topics::: inseparable blocked religion;;; Score::: 0.11920292202211757;;;
+Topics::: suffering begins living power fighting;;; Score::: 0.11920292202211757;;;
+Topics::: families warriors expansion revolution;;; Score::: 0.11920292202211757;;;
+Topics::: fierce-looking nearer passions clearer people;;; Score::: 0.11920292202211757;;;

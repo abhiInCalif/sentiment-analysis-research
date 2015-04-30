@@ -1,0 +1,8 @@
+Text::: Every step in Mrs. Aquino's nine-day visit is being tracked in Manila for signs of American ambivalence. Her decency, sincerity and grit have everywhere impressed agnostic doubters - including Senator Dole. He called her speech to Congress a home run, to which she alertly responded, ''I hope the bases were loaded.'' ;;;
+
+Topics::: loaded ambivalence tracked responded hope;;; Score::: 0.11920292202211757;;;
+Topics::: agnostic american;;; Score::: 0.5;;;
+Topics::: impressed decency run;;; Score::: 0.3096014610110588;;;
+Topics::: grit manila dole step visit;;; Score::: 0.3096014610110588;;;
+Topics::: alertly senator aquino's speech mrs;;; Score::: 0.11920292202211757;;;
+Topics::: doubters sincerity nine-day;;; Score::: 0.3096014610110588;;;

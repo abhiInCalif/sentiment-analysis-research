@@ -1,0 +1,8 @@
+Text::: Her death under torture was an episode he never forgot or forgave. By April 1985 agent Buckley was near death, and the diplomatic activity was undertaken by Colonel McFarlane's N.S.C. On Sept. 11, the Iranians through the Israelis asked Mr. McFarlane to name one hostage for release; it should not be surprising that the name chosen was Casey's man Buckley. ;;;
+
+Topics::: asked activity;;; Score::: 0.04742587317756679;;;
+Topics::: casey's surprising mcfarlane n.s.c mcfarlane's;;; Score::: 0.04742587317756679;;;
+Topics::: death;;; Score::: 0.08331439759984219;;;
+Topics::: buckley colonel;;; Score::: NaN;;;
+Topics::: undertaken chosen release;;; Score::: 0.04742587317756679;;;
+Topics::: sept agent episode torture diplomatic;;; Score::: 0.08331439759984219;;;

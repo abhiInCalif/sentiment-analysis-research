@@ -1,0 +1,5 @@
+Text::: The answer is no: Israel, its people so often threatened with extermination, is not threatening to incinerate the Arab world. No nation has cause to fear an atomic attack from Israel any more than one from the United States. Weaponry whose purpose is to deter is not weaponry whose purpose is to terror-ize; there is a huge moral difference. ;;;
+
+Topics::: weaponry purpose israel terror-ize extermination;;; Score::: 0.11920292202211757;;;
+Topics::: difference;;; Score::: 0.11920292202211757;;;
+Topics::: incinerate;;; Score::: 0.11920292202211757;;;

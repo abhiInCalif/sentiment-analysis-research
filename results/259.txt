@@ -1,0 +1,8 @@
+Text::: * As Iranian advantages in manpower and resources began to make an Iraqi defeat seem more likely, the necessity increased for the Saudis -in their tradition of seeking insurance against any potential threat - to hedge their bets on the Middle Eastern war. One strong reason for their desire not to make a mortal enemy of Ayatollah Khomeini and his Government is the presence in the eastern area of Saudi Arabia of a quarter-million Shiite Moslems, whose living standard is somewhat lower than that of the rest of the nation. The Shiites are considered particularly susceptible to the revolutionary and fundamentalist preachings of the Ayatollah. ;;;
+
+Topics::: eastern make ayatollah susceptible shiites;;; Score::: 0.11920292202211757;;;
+Topics::: strong area saudis threat khomeini;;; Score::: 0.11920292202211757;;;
+Topics::: manpower iraqi;;; Score::: 0.11920292202211757;;;
+Topics::: standard quarter-million hedge fundamentalist living;;; Score::: 0.11920292202211757;;;
+Topics::: bets;;; Score::: 0.11920292202211757;;;
+Topics::: considered lower advantages revolutionary government;;; Score::: 0.11920292202211757;;;

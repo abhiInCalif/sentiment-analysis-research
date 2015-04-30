@@ -1,0 +1,4 @@
+Text::: Mr. Farrakhan has continued to appear as a warmup speaker at Mr. Jackson's rallies. Mr. Jackson has refused to repudiate or dissociate himself or his campaign from Mr. Farrakhan. He has said that calls for him to break with Mr. Farrakhan are ''distasteful,'' ''absurd and extreme.'' ;;;
+
+Topics::: farrakhan absurd distasteful dissociate rallies;;; Score::: 0.16911575513807675;;;
+Topics::: continued;;; Score::: 0.2689414213699951;;;

@@ -1,0 +1,6 @@
+Text::: The Islamic world, alight only a year ago with visions of finding the good life through fundamentalism and historic ''authenticity,'' is more coolly assessing risks and prospects now. Though the embers still burn, Khomeini's Iran is no longer much of a model either. Meanwhile, Zimbabwe is working its way through the aftermath of a long guerrilla war. ;;;
+
+Topics::: year;;; Score::: 0.5;;;
+Topics::: prospects khomeini's;;; Score::: 0.5;;;
+Topics::: aftermath zimbabwe burn guerrilla model;;; Score::: 0.11920292202211757;;;
+Topics::: embers assessing coolly authenticity visions;;; Score::: 0.3096014610110588;;;

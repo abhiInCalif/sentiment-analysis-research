@@ -1,0 +1,7 @@
+Text::: Mikhail Gorbachev seems to be turning the gaze of Soviet leadership more inward, toward galvanizing a moribund economy and toward a greater measure of public participation. That inward focus and greater freedoms have been long-standing American goals. Another goal of American policy has been a stable and independent Europe and Japan. ;;;
+
+Topics::: goal;;; Score::: 0.5;;;
+Topics::: american japan independent stable long-standing;;; Score::: 0.5;;;
+Topics::: freedoms;;; Score::: 0.5;;;
+Topics::: greater europe focus gaze mikhail;;; Score::: 0.3096014610110588;;;
+Topics::: participation;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: Still, the poll reflected the success of the hijackers and their American supporters in portraying Washington's support for Israel as the underlying cause of anti-American terror in the Arab world. In the specialized lexicon of the Arab lobby, ''underlying cause'' has become a code phrase, like ''evenhanded'' (which means pro-Arab) and ''moderate'' (the term for extremists friendly to the United States). In this context, the ''underlying cause'' of Arab terrorism is always Israel. ;;;
+
+Topics::: evenhanded;;; Score::: 0.11920292202211757;;;
+Topics::: israel lobby portraying hijackers supporters;;; Score::: 0.3096014610110588;;;
+Topics::: underlying arab pro-arab phrase code;;; Score::: 0.24613528134807838;;;

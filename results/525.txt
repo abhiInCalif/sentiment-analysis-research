@@ -1,0 +1,8 @@
+Text::: But maybe - and here's the possibility the Democrats dream of - the President will mix up Lebanon and Libya, or make a dumb statement as President Ford did in debate, or pull a gaffe like Tom Dewey's ''idiot engineer.'' In that crucible, it is always possible to say something that shows your isolation from reality and kindles your opponent's campaign. Vice President Bush has even more to lose in his debate with Geraldine Ferraro, which will be billed as The Former Everything against The Former Nothing. ;;;
+
+Topics::: gaffe ford mix libya pull;;; Score::: 0.11920292202211757;;;
+Topics::: dumb democrats;;; Score::: 0.11920292202211757;;;
+Topics::: debate billed opponent's kindles crucible;;; Score::: 0.24613528134807838;;;
+Topics::: president here's ferraro isolation make;;; Score::: 0.3096014610110588;;;
+Topics::: engineer tom lose shows;;; Score::: 0.24613528134807838;;;
+Topics::: idiot;;; Score::: 0.11920292202211757;;;

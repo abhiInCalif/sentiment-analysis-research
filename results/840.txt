@@ -1,0 +1,5 @@
+Text::: The two neighbors are caught in a circle of animosity and distrust that is likely to continue for decades before there is an accommodation - or another explosion. For America, it would be the ultimate folly to become embroiled in this struggle, especially when both countries are busily perfecting their nuclear options. In the face of the Soviet challenge in Afghanistan, America should not exacerbate tensions and stimulate an arms race but should encourage the impulses for greater cooperation that were stirring in India and Pakistan before the military-aid controversy exploded. ;;;
+
+Topics::: exacerbate distrust caught folly afghanistan;;; Score::: 0.11920292202211757;;;
+Topics::: controversy ultimate;;; Score::: 0.11920292202211757;;;
+Topics::: america impulses perfecting busily embroiled;;; Score::: 0.11920292202211757;;;

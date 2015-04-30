@@ -1,0 +1,5 @@
+Text::: Thus, Islam is used by radical laymen as a powerful weapon against governments that are perceived to be oppressive, economically unjust, subservient to outside powers, and excessively secularizing. It is used as a protective cloak by predominantly secular governments that hope to blunt popular demands or that aim to undermine one another. It represents an assertion of national and religious identity against what are perceived to be overwhelming imperialist influences, whether Western or Russian. ;;;
+
+Topics::: perceived governments influences blunt secularizing;;; Score::: 0.11920292202211757;;;
+Topics::: imperialist identity;;; Score::: 0.11920292202211757;;;
+Topics::: russian undermine subservient laymen assertion;;; Score::: 0.11920292202211757;;;

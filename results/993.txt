@@ -1,0 +1,8 @@
+Text::: According to Mr. Sadat, freedom cannot be an end in itself; rather, it must be exercised within certain limits or controls. In the meantime, his attitude reflects his conviction that as ''father of the Egyptian family,'' he knows best, and that any challenge to his patriarchal authority must be regarded as at least an act of shame. Fauzi M. Najjar, professor of social science at Michigan State University, returned in April from Egypt where he spent six months researching that country's constitutional development and modernization. ;;;
+
+Topics::: returned najjar fauzi patriarchal science;;; Score::: 0.3096014610110588;;;
+Topics::: spent;;; Score::: 0.11920292202211757;;;
+Topics::: michigan controls meantime months regarded;;; Score::: 0.24613528134807838;;;
+Topics::: authority;;; Score::: 0.5;;;
+Topics::: researching exercised sadat modernization egyptian;;; Score::: 0.11920292202211757;;;
+Topics::: attitude;;; Score::: 0.5;;;

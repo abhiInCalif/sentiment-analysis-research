@@ -1,0 +1,5 @@
+Text::: The quiet slip of the gondolas, with flowers on their prows, has been overwhelmed by the hum - sometimes the roar - of the sleek new motorboats, but there are no ''sunken halls.'' Moss thickens at the waterline of the old houses, and fresh new green plants spring out of the crevasses in the ancient walls, but somehow they stand, defying gravity and the gathering pollution. President Carter came to Venice, fresh from a visit to the Pope, warning his colleagues to beware the invaders of Afghanistan. ;;;
+
+Topics::: fresh beware pollution gravity walls;;; Score::: 0.3096014610110588;;;
+Topics::: crevasses halls prows colleagues visit;;; Score::: 0.24613528134807838;;;
+Topics::: sleek spring green;;; Score::: 0.11920292202211757;;;

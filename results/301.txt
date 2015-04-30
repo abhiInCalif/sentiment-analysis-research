@@ -1,0 +1,8 @@
+Text::: Secretary of State George P. Shultz also ignored Damascus when he brokered the sensitive negotiations between Israel and Lebanon in early 1983. Syria's response was to take active steps to ruin the agreement produced by those talks and to oust the multinational force in Lebanon. All of this suggests that the effort to isolate Damascus may have been a mistake. ;;;
+
+Topics::: negotiations;;; Score::: 0.11920292202211757;;;
+Topics::: damascus early agreement george effort;;; Score::: 0.11920292202211757;;;
+Topics::: oust active israel;;; Score::: 0.11920292202211757;;;
+Topics::: brokered sensitive talks force;;; Score::: 0.11920292202211757;;;
+Topics::: lebanon multinational shultz state syria's;;; Score::: 0.11920292202211757;;;
+Topics::: suggests ruin isolate produced mistake;;; Score::: 0.11920292202211757;;;

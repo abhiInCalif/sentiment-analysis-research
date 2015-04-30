@@ -1,0 +1,5 @@
+Text::: 's avowals of candor. Given its reflexive passion for secrecy, the agency can be counted on to scent damage in the most innocuous information. And if scholars have the option of concealment, some can be counted on to employ it in precisely those touchy areas where exposure would be most embarrassing. ;;;
+
+Topics::: innocuous candor;;; Score::: 0.19407217169605634;;;
+Topics::: employ scholars information secrecy option;;; Score::: 0.11920292202211757;;;
+Topics::: counted embarrassing exposure touchy concealment;;; Score::: 0.11920292202211757;;;

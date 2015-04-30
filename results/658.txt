@@ -1,0 +1,7 @@
+Text::: Both of them have been Colonel Qaddafi's clients at one time or another. The real split in Chad is between the Arab north and the black south, long the prey of Arab slavers. When the French colonized the area early in this century, they stitched the two parts together; but it doesn't add up to a nation. ;;;
+
+Topics::: arab split chad black north;;; Score::: 0.11920292202211757;;;
+Topics::: stitched clients qaddafi's early colonel;;; Score::: 0.19407217169605634;;;
+Topics::: colonized slavers prey;;; Score::: 0.11920292202211757;;;
+Topics::: parts;;; Score::: 0.11920292202211757;;;
+Topics::: century french doesn't;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,11 @@
+Text::: It is also using the Mujahedeen Khalq, a group of ultra-radical, anti-Khomeini exiles and ex-prisoners of war organized as a ''liberation army'' in Iraq, to press what it considers newly won advantage against a faltering Iran. So this is the time for outside states to insist on their original goal of ending the war without defeat for either side. The key is Saudi Arabia, which has bankrolled Iraq but has also to fear a decisive success for the now well-equipped Iraqi army. ;;;
+
+Topics::: ending liberation;;; Score::: 0.11920292202211757;;;
+Topics::: iraq iraqi well-equipped faltering considers;;; Score::: 0.11920292202211757;;;
+Topics::: fear bankrolled goal group;;; Score::: 0.11920292202211757;;;
+Topics::: original advantage newly ex-prisoners mujahedeen;;; Score::: 0.11920292202211757;;;
+Topics::: war decisive exiles ultra-radical;;; Score::: 0.11920292202211757;;;
+Topics::: defeat organized;;; Score::: 0.11920292202211757;;;
+Topics::: won arabia saudi side;;; Score::: 0.11920292202211757;;;
+Topics::: army success key insist time;;; Score::: 0.11920292202211757;;;
+Topics::: states;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: Mr. Mubarak by all signs has established himself in office to a remarkable degree, given the traumatic circumstances of his assuming it last October. And his success evidently stems in good part from an understanding that Egyptians want their leader to focus on domestic concerns rather than to play a great role on the world stage. A shrewd observer put it: ''They're in an anti-heroic mood. ;;;
+
+Topics::: circumstances leader put world;;; Score::: 0.4229804737899984;;;
+Topics::: stems assuming traumatic degree mubarak;;; Score::: 0.5;;;
+Topics::: focus;;; Score::: 0.5;;;
+Topics::: anti-heroic shrewd egyptians october they're;;; Score::: 0.2689414213699951;;;
+Topics::: stage observer great;;; Score::: 0.38447071068499755;;;

@@ -1,0 +1,6 @@
+Text::: What is startling is the seeming rebirth of the Imperial Presidency that was supposedly cut down by Congress after the disastrous Presidential commitments in Vietnam. Even more noteworthy is the absence of any visible muscle to back up the military commitments. If there were an invasion of Saudi Arabia, say, or the more likely event of a revolution in one of those countries, what American forces would deal with the problem, and how? ;;;
+
+Topics::: commitments imperial forces invasion;;; Score::: 0.16911575513807675;;;
+Topics::: absence noteworthy startling visible event;;; Score::: 0.16911575513807675;;;
+Topics::: rebirth cut;;; Score::: 0.11920292202211757;;;
+Topics::: supposedly congress;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: But Teheran's drive for new volunteers to throw into the minefields recruited less than half the 100,000 called for. That's little consolation to Iraq, however, which must still keep its army on alert. Its best hope of securing a cease-fire lies in a U.N. resolution to impose an arms embargo against Iran. ;;;
+
+Topics::: u.n consolation volunteers embargo teheran's;;; Score::: 0.16911575513807675;;;
+Topics::: alert that's recruited minefields drive;;; Score::: 0.19407217169605634;;;
+Topics::: throw;;; Score::: 0.2689414213699951;;;
+Topics::: arms;;; Score::: 0.11920292202211757;;;
+Topics::: called half hope;;; Score::: 0.19407217169605634;;;
+Topics::: securing;;; Score::: 0.11920292202211757;;;

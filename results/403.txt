@@ -1,0 +1,4 @@
+Text::: Jesse Jackson. A decade ago, Mr. Jackson was hammering on the theme that ''Nobody is going to save us for us but us.'' It's no longer a consistent theme for him. ;;;
+
+Topics::: consistent;;; Score::: 0.11920292202211757;;;
+Topics::: theme jackson hammering jesse decade;;; Score::: 0.3096014610110588;;;

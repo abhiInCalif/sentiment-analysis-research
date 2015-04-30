@@ -1,0 +1,7 @@
+Text::: In the case of Iran, some argue, Americans ought to recall their partnership with the Shah and therefore complicity in the torture carried out by his secret police. It is also said that Americans should ''understand'' Islam and not use their own values to judge other cultures. After all, death by stoning is also a common practice in Saudi Arabia, and is it worth upsetting the Saudis by making a fuss? ;;;
+
+Topics::: partnership practice;;; Score::: 0.11920292202211757;;;
+Topics::: americans fuss recall saudis arabia;;; Score::: 0.11920292202211757;;;
+Topics::: carried shah police;;; Score::: 0.11920292202211757;;;
+Topics::: cultures values torture making case;;; Score::: 0.11920292202211757;;;
+Topics::: upsetting stoning complicity judge secret;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,5 @@
+Text::: The Iraq-Iran war is paralyzing both. Syria failed in its gamble to overthrow Iraq's Saddam Hussein by helping Iran. While it is being re-equipped by the Russians in this phase of Middle East distress, Syria is a menace only to Lebanon. ;;;
+
+Topics::: lebanon east hussein iraq's war;;; Score::: 0.2689414213699951;;;
+Topics::: syria re-equipped gamble iraq-iran distress;;; Score::: 0.11920292202211757;;;
+Topics::: paralyzing menace middle;;; Score::: 0.19407217169605634;;;

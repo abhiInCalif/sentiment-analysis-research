@@ -1,0 +1,6 @@
+Text::: At the same time, he warned Moslem zealots against religious intolerance, stressing national unity and the stability of the home front. Mr. Sadat is fully aware of the potential danger of sectarian strife in Egypt. He is also aware that Egypt's Coptic minority has certain legitimate grievances, which he has conscientiously tried to alleviate. ;;;
+
+Topics::: aware conscientiously coptic strife zealots;;; Score::: 0.16911575513807675;;;
+Topics::: minority;;; Score::: 0.11920292202211757;;;
+Topics::: intolerance unity egypt;;; Score::: 0.11920292202211757;;;
+Topics::: stressing sadat grievances warned sectarian;;; Score::: 0.16911575513807675;;;

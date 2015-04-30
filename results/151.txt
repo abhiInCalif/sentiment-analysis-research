@@ -1,0 +1,9 @@
+Text::: With one-third of Iran's population, Iraq now knows it cannot win a military victory. Mr. Hussein is ready to negotiate a status quo ante settlement. It is probable that Iran also cannot win militarily, which in Teheran's terms means provoking the collapse of Mr. Hussein's regime and seeing it replaced with Islamic, pro-Iranian rule. ;;;
+
+Topics::: ante quo iraq iran;;; Score::: 0.2689414213699951;;;
+Topics::: win replaced probable settlement militarily;;; Score::: 0.16911575513807675;;;
+Topics::: pro-iranian ready military;;; Score::: 0.19407217169605634;;;
+Topics::: terms status hussein's rule provoking;;; Score::: 0.19407217169605634;;;
+Topics::: regime victory;;; Score::: 0.11920292202211757;;;
+Topics::: one-third;;; Score::: 0.11920292202211757;;;
+Topics::: population iran's;;; Score::: 0.11920292202211757;;;

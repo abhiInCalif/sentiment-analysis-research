@@ -1,0 +1,5 @@
+Text::: The commission writing a new constitution voted to renew the bases when the current agreement expires in 1991, subject to ratification by the legislature. It also held that Manila should balance national interests with the hope of keeping the country free of nuclear weapons. What truly secures those bases is continued friendship of their Filipino landlords. ;;;
+
+Topics::: bases landlords friendship legislature voted;;; Score::: 0.3096014610110588;;;
+Topics::: ratification manila keeping agreement held;;; Score::: 0.3096014610110588;;;
+Topics::: filipino secures expires renew writing;;; Score::: 0.3096014610110588;;;

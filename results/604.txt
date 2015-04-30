@@ -1,0 +1,5 @@
+Text::: He has the support of his father, now 78, who founded the Phalangist party, but the Gemayels are only one of several families who choose the Christian leader. Some of the other Lebanese leaders think of Amin almost as a quisling, and are seeking a Christian who is not a member of one of the feuding families to replace him. But the Christians need support from the outside. ;;;
+
+Topics::: founded;;; Score::: 0.11920292202211757;;;
+Topics::: christian families support quisling gemayels;;; Score::: 0.16911575513807675;;;
+Topics::: feuding;;; Score::: 0.11920292202211757;;;

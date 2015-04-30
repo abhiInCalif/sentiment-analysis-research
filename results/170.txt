@@ -1,0 +1,5 @@
+Text::: But the stakes are not so large that any price must be paid. The Congress and the public simply aren't going to increase American risks in the gulf until they are convinced the President knows what he is doing. Finally, the Administration seems to have generated some diplomatic activity, as in trying to energize the United Nations. ;;;
+
+Topics::: generated large activity finally gulf;;; Score::: 0.16911575513807675;;;
+Topics::: simply increase;;; Score::: 0.11920292202211757;;;
+Topics::: energize aren't stakes price diplomatic;;; Score::: 0.19407217169605634;;;

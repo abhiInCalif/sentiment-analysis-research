@@ -1,0 +1,8 @@
+Text::: Egypt's President, Hosni Mubarak, and the former Israeli Prime Minister, Shimon Peres, called last November for 1987 to become the ''year of negotiation.'' Jordan has endorsed this hope. Mr. Peres, in his two years of office, managed to expunge the idea of annexing the West Bank and Gaza from Israel's official doctrine. ;;;
+
+Topics::: idea hope bank prime years;;; Score::: 0.5;;;
+Topics::: peres mubarak called;;; Score::: 0.11920292202211757;;;
+Topics::: annexing endorsed negotiation president;;; Score::: 0.3730676406740392;;;
+Topics::: shimon expunge official managed israel's;;; Score::: 0.5;;;
+Topics::: doctrine hosni egypt's office gaza;;; Score::: 0.5;;;
+Topics::: israeli november;;; Score::: NaN;;;

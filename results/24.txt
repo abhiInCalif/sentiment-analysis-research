@@ -1,0 +1,6 @@
+Text::: America tilts toward Iraq, and for good reason. The goal is a negotiated end to the war, with victory for neither side. This outcome is resisted by Iran, not Iraq. ;;;
+
+Topics::: iraq good tilts;;; Score::: 0.2689414213699951;;;
+Topics::: outcome negotiated end iran side;;; Score::: 0.11920292202211757;;;
+Topics::: war;;; Score::: 0.11920292202211757;;;
+Topics::: resisted america goal reason victory;;; Score::: 0.16911575513807675;;;

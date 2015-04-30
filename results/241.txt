@@ -1,0 +1,6 @@
+Text::: If that idea were to sweep across Iraq, Saudi Arabia, the Gulf states, Egypt and Jordan, the Middle East would be an uncomfortable place for Israel and a poor environment for the survival of human values or stable societies. It is a clear case for a ''hands off'' policy. The war is more likely to end in compromise between exhausted belligerents than in the creation of a new power center in the region, and to divide ourselves into pro-Iraqis and pro-Iranians is sheer folly. ;;;
+
+Topics::: divide sweep folly hands case;;; Score::: 0.14519007218989316;;;
+Topics::: societies values uncomfortable creation stable;;; Score::: 0.08331439759984219;;;
+Topics::: sheer exhausted survival environment states;;; Score::: 0.08331439759984219;;;
+Topics::: pro-iranians pro-iraqis human clear egypt;;; Score::: 0.15818364727378095;;;

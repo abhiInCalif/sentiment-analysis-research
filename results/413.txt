@@ -1,0 +1,6 @@
+Text::: Israel also needs a realistic change: end attempts to create a frontier buffer zone with its puppet South Lebanese Army in return for Shiite pledges to do what they are determined to do anyway - keep Palestinians from the area. Lebanon is so ensnarled that it is possible to find common interests among erstwhile enemies. That is better than finding more enemies on the tricky road ahead. ;;;
+
+Topics::: enemies pledges puppet zone determined;;; Score::: 0.34596094757999674;;;
+Topics::: finding erstwhile ensnarled buffer lebanese;;; Score::: 0.34596094757999674;;;
+Topics::: tricky lebanon change create israel;;; Score::: 0.38447071068499755;;;
+Topics::: ahead interests;;; Score::: 0.38447071068499755;;;

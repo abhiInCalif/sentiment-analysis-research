@@ -1,0 +1,7 @@
+Text::: and Syrians moved in, Christian-led Lebanon was a functioning democracy. Where can the beleagered Christians turn for help? The Israelis are the region's other minority group, but the main danger to the Christians is a Syrian-backed splitting of the enclave north of Beirut, and Israel is loath to take on the job of policeman that far from its border - especially for Christians led by a treaty-breaker. ;;;
+
+Topics::: syrian-backed;;; Score::: NaN;;;
+Topics::: minority israelis moved north israel;;; Score::: 0.11920292202211757;;;
+Topics::: democracy border;;; Score::: 0.11920292202211757;;;
+Topics::: christians policeman enclave beleagered functioning;;; Score::: 0.16911575513807675;;;
+Topics::: treaty-breaker loath splitting christian-led syrians;;; Score::: 0.11920292202211757;;;

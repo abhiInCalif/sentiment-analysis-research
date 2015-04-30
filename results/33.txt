@@ -1,0 +1,10 @@
+Text::: They add tales told for decades to a chapter of history that seems to have no end, but is really not long in this part of the world. Strangely, it is the very familiarity of the struggles, the endless echo, that is important and perhaps even hopeful. From outside Israel, the impression is that the country is in a brand new crisis and that decisions must be taken at once lest Israel lose its essence as a nation believing in freedom, serving it and practicing it. ;;;
+
+Topics::: essence decisions chapter;;; Score::: 0.19407217169605634;;;
+Topics::: israel serving lose country endless;;; Score::: 0.3096014610110588;;;
+Topics::: impression;;; Score::: 0.11920292202211757;;;
+Topics::: believing hopeful freedom important world;;; Score::: 0.29604811446403756;;;
+Topics::: brand struggles familiarity strangely add;;; Score::: 0.29604811446403756;;;
+Topics::: crisis tales long;;; Score::: 0.19407217169605634;;;
+Topics::: nation echo decades;;; Score::: 0.29604811446403756;;;
+Topics::: practicing;;; Score::: 0.11920292202211757;;;

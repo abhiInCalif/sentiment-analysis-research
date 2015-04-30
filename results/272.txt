@@ -1,0 +1,6 @@
+Text::: The officials involved had to assume that their secret would be revealed one day. Little foresight or insight was needed to understand that this would mean total loss of credibility. What would allies think about the Administration's entreaties to block all arms to Iran? ;;;
+
+Topics::: assume secret officials;;; Score::: 0.11920292202211757;;;
+Topics::: entreaties loss insight foresight administration's;;; Score::: 0.19407217169605634;;;
+Topics::: revealed;;; Score::: 0.11920292202211757;;;
+Topics::: day arms;;; Score::: 0.19407217169605634;;;

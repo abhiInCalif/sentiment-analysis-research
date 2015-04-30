@@ -1,0 +1,7 @@
+Text::: Yet, the choice of Zia ul-Haq to represent the Islamic nations betrays the mindless formalism and moral bankruptcy of Moslem governments. As such, it can only devalue the cause that he is expected to represent. No dictator can be a credible spokesman for justice and the rule of law. ;;;
+
+Topics::: devalue betrays mindless moral rule;;; Score::: 0.16911575513807675;;;
+Topics::: formalism credible;;; Score::: 0.19407217169605634;;;
+Topics::: justice expected;;; Score::: 0.19407217169605634;;;
+Topics::: represent bankruptcy spokesman dictator governments;;; Score::: 0.16911575513807675;;;
+Topics::: choice;;; Score::: 0.11920292202211757;;;

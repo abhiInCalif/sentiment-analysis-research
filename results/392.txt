@@ -1,0 +1,6 @@
+Text:::  As if it weren't already clear, more evidence has now surfaced as to the nature of Louis Farrakhan. The black nationalist leader of the Nation of Islam, it turns out, has accepted support from the former head of the California Ku Klux Klan, who now runs something called the White People's Political Association. Thomas Metzger, the former Klan leader, says it was more than a mere acceptance of support. ;;;
+
+Topics::: support mere metzger association klux;;; Score::: 0.11920292202211757;;;
+Topics::: head;;; Score::: 0.11920292202211757;;;
+Topics::: klan leader acceptance weren't california;;; Score::: 0.11920292202211757;;;
+Topics::: thomas runs surfaced turns evidence;;; Score::: 0.11920292202211757;;;

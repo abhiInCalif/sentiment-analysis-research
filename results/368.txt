@@ -1,0 +1,5 @@
+Text::: In 1932, Stalin manufactured a famine in the Ukraine to crush peasant opposition to collectivization. More than five million people starved to death, though to this very day the Soviet Government denies that this tragedy ever took place. And at the end of World War II, Moscow suppressed Baltic freedom-fighters by destroying their economic base and deporting half a million people to Siberia. ;;;
+
+Topics::: people deporting denies starved ukraine;;; Score::: 0.11920292202211757;;;
+Topics::: destroying suppressed manufactured moscow tragedy;;; Score::: 0.11920292202211757;;;
+Topics::: million siberia baltic collectivization peasant;;; Score::: 0.11920292202211757;;;

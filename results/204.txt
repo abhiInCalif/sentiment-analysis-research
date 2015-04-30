@@ -1,0 +1,9 @@
+Text::: Though the Philippines requires and deserves much more than the $260 million in military and economic aid under review, that can't be counted on. In the meantime Mrs. Aquino has to do what she can at current funding levels. President Aquino has made full-faith efforts at compromise. ;;;
+
+Topics::: mrs economic;;; Score::: 0.11920292202211757;;;
+Topics::: funding counted requires can't aid;;; Score::: 0.19407217169605634;;;
+Topics::: military;;; Score::: 0.11920292202211757;;;
+Topics::: deserves philippines compromise made president;;; Score::: 0.11920292202211757;;;
+Topics::: aquino review;;; Score::: 0.11920292202211757;;;
+Topics::: full-faith;;; Score::: 0.11920292202211757;;;
+Topics::: levels meantime efforts million current;;; Score::: 0.16911575513807675;;;

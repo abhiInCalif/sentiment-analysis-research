@@ -1,0 +1,5 @@
+Text:::  There have been no agreeable choices for American diplomacy in the 22-month war between Iraq and Iran. The discomfort grows now that a resurgent Iran threatens to repay Iraq's invasion in kind. But there is a clear Western interest in now containing this war. ;;;
+
+Topics::: month iraq's;;; Score::: NaN;;;
+Topics::: choices clear interest;;; Score::: 0.19407217169605634;;;
+Topics::: iran war repay resurgent grows;;; Score::: 0.16911575513807675;;;

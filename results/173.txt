@@ -1,0 +1,8 @@
+Text::: A secret agreement was reached far more extensive than at first revealed - far more ominous than we have yet realized. On May 29, in a hearing of the Senate Foreign Relations Committee, I asked Richard W. Murphy, Assistant Secretary of State for Near Eastern and South Asian Affairs, what on earth could have possessed the Kuwaitis - the natural prey of the Soviet Union - to seek its protection. He answered: ''Well, the moment of that decision was not coincidental. ;;;
+
+Topics::: coincidental answered affairs eastern assistant;;; Score::: 0.11920292202211757;;;
+Topics::: kuwaitis possessed earth state secretary;;; Score::: 0.11920292202211757;;;
+Topics::: hearing realized;;; Score::: 0.11920292202211757;;;
+Topics::: natural ominous reached protection union;;; Score::: 0.11920292202211757;;;
+Topics::: asian murphy asked committee secret;;; Score::: 0.11920292202211757;;;
+Topics::: prey;;; Score::: 0.11920292202211757;;;

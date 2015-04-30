@@ -1,0 +1,7 @@
+Text::: Something about the complexity of modern life and thought must be in conflict with some basic human needs. In one way or another, all of these movements are anti-intellectual, often anti-science, antitechnology. They are not particularly earthy, rooted in nature and worshipful of natural process. ;;;
+
+Topics::: basic;;; Score::: 0.5;;;
+Topics::: anti-science anti-intellectual natural movements thought;;; Score::: 0.24613528134807838;;;
+Topics::: rooted conflict;;; Score::: 0.3096014610110588;;;
+Topics::: worshipful;;; Score::: 0.11920292202211757;;;
+Topics::: earthy antitechnology complexity nature modern;;; Score::: 0.24613528134807838;;;

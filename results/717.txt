@@ -1,0 +1,5 @@
+Text::: The Israelis now claim all of Palestine since the Palestinians would never compromise when Israel would have settled for less. The P.L.O. was chased out of Jordan because it tried to take over. ;;;
+
+Topics::: chased palestinians israelis israel settled;;; Score::: 0.19407217169605634;;;
+Topics::: claim p.l.o;;; Score::: 0.2689414213699951;;;
+Topics::: compromise palestine jordan;;; Score::: 0.2689414213699951;;;

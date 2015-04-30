@@ -1,0 +1,8 @@
+Text::: Whether Mr. Andropov has the desire, or power, to accomplish any of this is open to question. He is 68, a former head of the K.G.B., as orthodox in his public utterances as all his Politburo comrades. His notion of detente may be as a hunting license for Soviet gains, in the mode of Mr. Brezhnev, who sent armies to Central Asia and Africa while looking to Western banks and American grain to underwrite a foundering economy. ;;;
+
+Topics::: mode accomplish public power soviet;;; Score::: 0.24613528134807838;;;
+Topics::: foundering politburo banks andropov notion;;; Score::: 0.11920292202211757;;;
+Topics::: underwrite comrades grain license economy;;; Score::: 0.11920292202211757;;;
+Topics::: central open;;; Score::: 0.5;;;
+Topics::: hunting utterances armies question asia;;; Score::: 0.24613528134807838;;;
+Topics::: k.g.b desire;;; Score::: 0.5;;;

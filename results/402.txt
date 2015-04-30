@@ -1,0 +1,6 @@
+Text::: And Mr. Farrakhan's success with that message is at least partly the fault of mainstream black leaders. Established leaders have grown accustomed in recent years to emphasizing black poverty, weakness, dependence. Those are real conditions, but emphasizing them can be depressing to blacks, reinforcing the stereotype that they are helpless wards of government. ;;;
+
+Topics::: fault poverty message conditions wards;;; Score::: 0.24613528134807838;;;
+Topics::: established;;; Score::: NaN;;;
+Topics::: stereotype partly;;; Score::: 0.3096014610110588;;;
+Topics::: emphasizing black leaders reinforcing depressing;;; Score::: 0.24613528134807838;;;

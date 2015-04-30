@@ -1,0 +1,6 @@
+Text::: By focusing the talks on Jerusalem, whose occupation and annexation by Israel have been unanimously condemned here, the Saudis have also demonstrated their rejection of the Camp David framework for peace. They have also offered support to a new and radical campaign planned by the delegates in Taif, who include close supporters of America such as Indonesia and Turkey, against Israel's export industries. The apparent contradiction between conservative and radical Saudi impulses dissolves when Saudi moves are plotted on the map. ;;;
+
+Topics::: industries taif focusing apparent offered;;; Score::: 0.11920292202211757;;;
+Topics::: plotted impulses annexation rejection close;;; Score::: 0.11920292202211757;;;
+Topics::: occupation israel;;; Score::: 0.11920292202211757;;;
+Topics::: radical saudi dissolves indonesia condemned;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,4 @@
+Text::: There is no reason for any of us to be delighted either with an Iraqi or an Iranian triumph. But an Iraqi victory would be the success of a country whose interventions against Israel have been mischievous but marginal. A triumph for Khomeinism, aided by Western arms, would be the triumph of a contagious idea. ;;;
+
+Topics::: aided marginal;;; Score::: 0.3096014610110588;;;
+Topics::: triumph iraqi contagious khomeinism mischievous;;; Score::: 0.3730676406740392;;;

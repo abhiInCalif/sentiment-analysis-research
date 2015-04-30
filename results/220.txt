@@ -1,0 +1,5 @@
+Text::: But what if those two comparatively strong countries have too much to handle at home in the form of Iranian attacks? The Omanis, with their well-trained forces and modern equipment, should be able to deal with anything less than a major invasion. Military analysts are not so certain about Saudi Arabia. ;;;
+
+Topics::: form forces;;; Score::: 0.19407217169605634;;;
+Topics::: equipment modern well-trained omanis home;;; Score::: 0.19407217169605634;;;
+Topics::: handle comparatively attacks major analysts;;; Score::: 0.16911575513807675;;;

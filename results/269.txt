@@ -1,0 +1,4 @@
+Text::: But policy is much more than ends. It encompasses means as well. It entails judgments about feasibility and risks. ;;;
+
+Topics::: judgments entails encompasses policy;;; Score::: 0.34596094757999674;;;
+Topics::: feasibility ends risks means;;; Score::: 0.34596094757999674;;;

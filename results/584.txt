@@ -1,0 +1,6 @@
+Text::: He is to be carefully jollied and patted on the head, and got out of the way as soon as possible so that the grownups can talk. His role is to mobilize the black millions to save the Democratic Party from Mr. Reagan. But neither he nor his voters are really part of the discussion. ;;;
+
+Topics::: head save party role talk;;; Score::: 0.38447071068499755;;;
+Topics::: democratic black;;; Score::: 0.2689414213699951;;;
+Topics::: carefully;;; Score::: 0.5;;;
+Topics::: voters grownups patted jollied reagan;;; Score::: 0.3096014610110588;;;

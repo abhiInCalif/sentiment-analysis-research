@@ -1,0 +1,6 @@
+Text::: He ended a civil war by unifying the Moslem North and non-Moslem South. But in recent years, pressed by Islamic radicals within and without, he robbed the South of its autonomy and imposed a brutal Islamic justice in the North. This disarray now passes to the military, whose senior leaders evidently acted to head off a coup by more radical officers. ;;;
+
+Topics::: south senior pressed ended;;; Score::: 0.11920292202211757;;;
+Topics::: acted passes justice robbed non-moslem;;; Score::: 0.11920292202211757;;;
+Topics::: evidently;;; Score::: 0.11920292202211757;;;
+Topics::: north islamic radical unifying imposed;;; Score::: 0.11920292202211757;;;

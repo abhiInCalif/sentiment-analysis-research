@@ -1,0 +1,7 @@
+Text::: Richard Murphy, the Reagan Administration official in charge of cluck-clucking when a U.S. Embassy is destroyed in Beirut, recently praised Syria for being ''helpful'' to America; because he is so ready to turn the other cheek, Damascus has a reason to let continue the loading of the Jihad's trucks with explosives. Next, you would publicly state your intention to blast the Americans again soon, just as you did before the most recent bombing. This displays your contempt for American might, and it has never stimulated any special urgency in security countermeasures. ;;;
+
+Topics::: countermeasures stimulated intention explosives trucks;;; Score::: 0.09527723907393398;;;
+Topics::: urgency destroyed damascus recent displays;;; Score::: 0.09527723907393398;;;
+Topics::: publicly;;; Score::: 0.11920292202211757;;;
+Topics::: blast loading praised cluck-clucking continue;;; Score::: 0.08331439759984219;;;
+Topics::: bombing americans syria richard reason;;; Score::: 0.08331439759984219;;;

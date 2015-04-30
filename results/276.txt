@@ -1,0 +1,8 @@
+Text::: They do seem to think they were ''nurturing a strategic reorientation,'' in Mr. McFarlane's words. He argues to cover himself that such an attempt ''is never free of risk,'' as though the only difference between his sally to Teheran and Henry Kissinger's secret trip to Peking was that he failed while Mr. Kissinger succeeded. The trouble wasn't bad luck, however, but a serious failure of analysis. ;;;
+
+Topics::: luck henry;;; Score::: 0.11920292202211757;;;
+Topics::: wasn't secret;;; Score::: 0.11920292202211757;;;
+Topics::: mcfarlane's;;; Score::: NaN;;;
+Topics::: succeeded attempt;;; Score::: 0.11920292202211757;;;
+Topics::: analysis failed peking trip kissinger's;;; Score::: 0.11920292202211757;;;
+Topics::: argues reorientation nurturing difference free;;; Score::: 0.19407217169605634;;;

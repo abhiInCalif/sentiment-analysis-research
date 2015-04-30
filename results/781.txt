@@ -1,0 +1,6 @@
+Text::: The Administration has talked about the Soviet threat and produced fancy ideas to deal with it, from Awacs to strategic consensus. But not one of the explosive developments in the Middle East since January has involved direct, or as far as we know indirect, Soviet action. The fundamental aim of the United States, under President Reagan as under his predecessors, is stability in the region. ;;;
+
+Topics::: middle;;; Score::: NaN;;;
+Topics::: ideas;;; Score::: 0.11920292202211757;;;
+Topics::: aim direct united;;; Score::: 0.11920292202211757;;;
+Topics::: soviet explosive fancy awacs talked;;; Score::: 0.11920292202211757;;;

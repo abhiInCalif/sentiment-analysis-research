@@ -1,0 +1,5 @@
+Text:::  How ironic that the Palestinian issue, while reflecting legitimate needs of a suffering people, is spotlighted in a region where the plights of other minorities have been neglected. Those most vociferous in championing Palestinian rights oppress minorities in their own midst without compunction and with apparent immunity from criticism. The numerous ethnic, linguistic and religious difference in the Middle East have been consistently ignored in discussions and policy concerning the region. ;;;
+
+Topics::: palestinian region linguistic numerous immunity;;; Score::: 0.11920292202211757;;;
+Topics::: minorities legitimate apparent difference;;; Score::: 0.11920292202211757;;;
+Topics::: oppress plights rights;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,8 @@
+Text::: But there is a growing sense in Teheran of the fruitlessness of continued conflict. * Our naval deployment in the Gulf is balanced by a political effort at the United Nations, supported unanimously by the Security Council, to offer Iran a way out of the conflict. Teheran's failure thus far to negotiate seriously on the basis of that offer has dramatized Iran's isolation, has increased the difficulty and expense it is having in acquiring arms and has helped to internationalize both the political effort and the naval presence in the Gulf. ;;;
+
+Topics::: offer political conflict acquiring expense;;; Score::: 0.14519007218989316;;;
+Topics::: naval;;; Score::: 0.08331439759984219;;;
+Topics::: internationalize unanimously fruitlessness sense negotiate;;; Score::: 0.14519007218989316;;;
+Topics::: helped council increased teheran gulf;;; Score::: 0.04742587317756679;;;
+Topics::: effort balanced deployment iran's;;; Score::: 0.08331439759984219;;;
+Topics::: difficulty dramatized continued security failure;;; Score::: 0.15818364727378095;;;

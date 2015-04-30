@@ -1,0 +1,8 @@
+Text::: Internationalization, a sham and mythical concept that has always seemed more like a beacon than a political reality and that is periodically bandied about in the United Nations and in Europe, has never worked in any practical way. Today, with the thaw produced by a measure of success in the Camp David negotiation, it is time to both let the peace process go forward and to look for reasonable, intelligent, political and practical solutions to the Jerusalem problem. --------------------------------------------------------------------- Amos Perlmutter is professor of political science and sociology at American University and author of a number of books on the Middle East. ;;;
+
+Topics::: author solutions measure;;; Score::: 0.3096014610110588;;;
+Topics::: political perlmutter periodically beacon intelligent;;; Score::: 0.24613528134807838;;;
+Topics::: internationalization university;;; Score::: NaN;;;
+Topics::: east;;; Score::: NaN;;;
+Topics::: books thaw mythical problem produced;;; Score::: 0.24613528134807838;;;
+Topics::: practical sociology amos sham science;;; Score::: 0.24613528134807838;;;

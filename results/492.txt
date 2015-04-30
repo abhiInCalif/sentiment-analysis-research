@@ -1,0 +1,8 @@
+Text:::  In a now pious annual ritual, the United Nations has again admonished the Soviet Union with a gently worded resolution that calls for the withdrawal of ''foreign troops'' from Afghanistan. The General Assembly passed it for the fifth time last week, 119 to 20, with 14 abstentions. That's three more ayes than in 1983, which will hardly deter the Soviet Union from shrugging it off again. ;;;
+
+Topics::: passed withdrawal calls foreign;;; Score::: 0.11920292202211757;;;
+Topics::: shrugging resolution troops;;; Score::: 0.11920292202211757;;;
+Topics::: union soviet deter ayes gently;;; Score::: 0.11920292202211757;;;
+Topics::: worded;;; Score::: 0.11920292202211757;;;
+Topics::: abstentions admonished;;; Score::: 0.11920292202211757;;;
+Topics::: afghanistan;;; Score::: NaN;;;

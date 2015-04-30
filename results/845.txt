@@ -1,0 +1,6 @@
+Text::: Israel, whose Prime Minister boasts that he operates outside any known framework of international conduct, claimed the right of pre-emptive selfdefense even though it is the only Middle Eastern country both to have a nuclear arsenal and not to have signed the nuclearnonproliferation treaty. Having devastated southern Lebanon, waged openly declared war with American weapons on the Palestinian people, overtly threatened and intervened in the lives of millions of Arabs, Israel has become an outlaw state. Yet it continues to be America's major strategic regional asset, receiving no less than 43 percent of the current foreign aid budget. ;;;
+
+Topics::: arabs;;; Score::: NaN;;;
+Topics::: selfdefense nuclear american lives war;;; Score::: 0.11920292202211757;;;
+Topics::: israel waged nuclearnonproliferation pre-emptive operates;;; Score::: 0.11920292202211757;;;
+Topics::: asset outlaw overtly budget framework;;; Score::: 0.11920292202211757;;;

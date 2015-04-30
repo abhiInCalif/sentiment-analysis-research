@@ -1,0 +1,6 @@
+Text::: The case for a Moscow connection can be made only on the assumption that the K.G.B. is somehow in total charge in Tripoli, Aden, and Havana. The regimes there, the argument runs, are Soviet clients or surrogates, their intelligence services tightly controlled by the K.G.B., and their training camps ''supervised'' by K.G.B. ;;;
+
+Topics::: tightly intelligence total;;; Score::: 0.11920292202211757;;;
+Topics::: k.g.b supervised havana aden connection;;; Score::: 0.11920292202211757;;;
+Topics::: assumption argument;;; Score::: 0.11920292202211757;;;
+Topics::: services;;; Score::: 0.11920292202211757;;;

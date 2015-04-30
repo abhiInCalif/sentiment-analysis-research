@@ -1,0 +1,6 @@
+Text::: They treat us like rats, like red Indians,'' he said repeatedly. He spoke at length of the ''very bad lesson'' from America in 1977, when negotiations were conducted with Secretary of State Cyrus Vance through Egypt and Syria. Mr. Arafat said he had accepted terms requiring endorsement of U.N. ;;;
+
+Topics::: length treat lesson vance cyrus;;; Score::: 0.3096014610110588;;;
+Topics::: red state;;; Score::: 0.5;;;
+Topics::: bad endorsement negotiations;;; Score::: 0.19407217169605634;;;
+Topics::: conducted indians rats repeatedly arafat;;; Score::: 0.3096014610110588;;;

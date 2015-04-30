@@ -1,0 +1,4 @@
+Text::: And if so, why are all departments and agencies here in Washington and all our embassies abroad now on special alert, and why are American citizens being advised of the risks of traveling abroad this summer? The President has proclaimed the raid a ''success.'' But how would he know at this early date? ;;;
+
+Topics::: proclaimed raid;;; Score::: 0.5;;;
+Topics::: abroad date summer traveling advised;;; Score::: 0.19407217169605634;;;

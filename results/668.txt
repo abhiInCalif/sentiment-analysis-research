@@ -1,0 +1,6 @@
+Text::: If Moscow perceived that the West had high stakes in Iran and were able and willing to protect those interests against Soviet threats, it is unlikely that the Kremlin would risk significant intervention. Instead, Moscow is likely to persist in the use of indirect means - including links with Tudeh members and ethnic groups. Clearly, the United States has little or no leverage in Teheran today, but the Soviet challenge to the West in Iran calls for a long-range strategy to prevent further changes in the balance of power there. ;;;
+
+Topics::: members challenge soviet;;; Score::: 0.11920292202211757;;;
+Topics::: west significant stakes persist kremlin;;; Score::: 0.11920292202211757;;;
+Topics::: threats power;;; Score::: 0.11920292202211757;;;
+Topics::: moscow iran tudeh perceived links;;; Score::: 0.11920292202211757;;;

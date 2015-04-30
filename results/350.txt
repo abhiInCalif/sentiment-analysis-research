@@ -1,0 +1,6 @@
+Text:::  With two days of combat in the Gulf of Sidra, the United States establishes the hard credibility of its determination to resist Libya's annexation of international waters. That was the stated purpose of the naval exercise that provoked the conflict. But are there other, unstated goals as well? ;;;
+
+Topics::: establishes determination hard days;;; Score::: 0.11920292202211757;;;
+Topics::: unstated credibility resist waters united;;; Score::: 0.19407217169605634;;;
+Topics::: stated;;; Score::: 0.11920292202211757;;;
+Topics::: annexation libya's sidra combat exercise;;; Score::: 0.11920292202211757;;;

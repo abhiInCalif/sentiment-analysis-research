@@ -1,0 +1,5 @@
+Text::: Once contra operations have been launched, the United States may confront a very serious dilemma. If the freedom-fighters falter, will Washington be prepared to accept a Bay of Pigs writ large? If not, what can now be done to reduce that danger? ;;;
+
+Topics::: writ pigs bay freedom-fighters confront;;; Score::: 0.11920292202211757;;;
+Topics::: operations washington;;; Score::: 0.11920292202211757;;;
+Topics::: falter contra dilemma launched states;;; Score::: 0.11920292202211757;;;

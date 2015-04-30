@@ -1,0 +1,7 @@
+Text::: Mr. Junejo has built a party of his own, the Pakistan Moslem League. Individual Pakistanis can legally express their opinions but have not been allowed to band together and nominate candidates - the oxygen of democracy. A contested election won't necessarily end the drift in Pakistani politics. ;;;
+
+Topics::: drift necessarily won't contested express;;; Score::: 0.11920292202211757;;;
+Topics::: opinions junejo election end built;;; Score::: 0.11920292202211757;;;
+Topics::: pakistani allowed;;; Score::: 0.11920292202211757;;;
+Topics::: politics legally moslem nominate;;; Score::: 0.11920292202211757;;;
+Topics::: oxygen band individual candidates democracy;;; Score::: 0.11920292202211757;;;

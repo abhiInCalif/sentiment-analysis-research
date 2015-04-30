@@ -1,0 +1,7 @@
+Text::: But Iran's travail and the international dangers surrounding it have not eased. President Bani-Sadr, himself besieged, has said that in two and a half years of revolutionary rule the country's condition has worsened in every way. There is no security, the economy is crippled, the war with Iraq goes on, he said in a statement issued from his office while demonstrators outside called for his death as they had once called for the death of the Shah. ;;;
+
+Topics::: eased country's office years travail;;; Score::: 0.09527723907393398;;;
+Topics::: called death iraq;;; Score::: 0.04742587317756679;;;
+Topics::: besieged condition revolutionary surrounding demonstrators;;; Score::: 0.09527723907393398;;;
+Topics::: dangers death iran's;;; Score::: 0.08331439759984219;;;
+Topics::: issued worsened bani-sadr statement shah;;; Score::: 0.08331439759984219;;;

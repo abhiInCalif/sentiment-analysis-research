@@ -1,0 +1,5 @@
+Text::: The other, that we shall lose a chance for peace and then be in a state of belligerency for many years to come.'' But will Mr. Peres ever be in a position to make Israeli policy? The troubles in the occupied territories have apparently moved the Jewish public in Israel to the right. ;;;
+
+Topics::: make israel;;; Score::: 0.2689414213699951;;;
+Topics::: troubles position years;;; Score::: 0.29604811446403756;;;
+Topics::: belligerency peres territories occupied apparently;;; Score::: 0.3096014610110588;;;

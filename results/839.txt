@@ -1,0 +1,5 @@
+Text::: In reality, India is reluctant to play its separatist card and finds the prospect of a Balkanized Pakistan unsettling against the background of the Soviet presence in Kabul. Many Indian leaders talk in terms of the Subcontinent's ''strategic unity'' and would like friendly ties with an economically and politically stable Pakistan. As they view such a relationship, however, Pakistan, with one-eighth India's population, would have a clearly subordinate position. ;;;
+
+Topics::: one-eighth;;; Score::: 0.11920292202211757;;;
+Topics::: subordinate finds indian economically unsettling;;; Score::: 0.11920292202211757;;;
+Topics::: pakistan subcontinent's balkanized separatist india's;;; Score::: 0.11920292202211757;;;

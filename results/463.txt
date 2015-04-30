@@ -1,0 +1,7 @@
+Text:::  President Zia ul-Haq of Pakistan desperately hopes that the parliamentary elections held Monday will help legitimize his rule among foreign benefactors - particularly the United States, which provided him with some $620 million in economic and military aid this fiscal year. In fact, he has given only the vaguest assurances that martial law will soon be lifted, and the elections, in which political parties and effective campaigning were banned, are unlikely to move the country toward a significant democratic opening. If anything, they will probably further entrench an unpopular leader who is abandoning the rule of law and using Islam to justify his miltary government. ;;;
+
+Topics::: year economic;;; Score::: 0.11920292202211757;;;
+Topics::: elections miltary entrench benefactors desperately;;; Score::: 0.11920292202211757;;;
+Topics::: significant;;; Score::: 0.11920292202211757;;;
+Topics::: unpopular pakistan aid;;; Score::: 0.11920292202211757;;;
+Topics::: rule law abandoning campaigning monday;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,9 @@
+Text::: It is the task of reconstruction that can give monderates a chance. The peace effort should include an attempt to reverse the regional arms race. The U.S. and Soviets can talk about that and find common interest. ;;;
+
+Topics::: monderates soviets;;; Score::: 0.5;;;
+Topics::: talk reverse attempt reconstruction;;; Score::: 0.3730676406740392;;;
+Topics::: u.s;;; Score::: NaN;;;
+Topics::: find regional;;; Score::: 0.3096014610110588;;;
+Topics::: interest common race arms include;;; Score::: 0.3096014610110588;;;
+Topics::: give;;; Score::: 0.5;;;
+Topics::: effort task peace;;; Score::: 0.3096014610110588;;;

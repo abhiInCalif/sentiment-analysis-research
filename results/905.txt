@@ -1,0 +1,8 @@
+Text::: Maybe it only seems unusual, because we never before had the means to be immediately aware of what is going on a round the whole world. Still, that in itself casts a different light on what each group asserts as the only, the fundamental set of t ruths. It illuminates how much the militant believers have in commo n. There are certain profound similarities in the theses advanced by the Red Guards who rampaged through China a few years ago in the name of Mao, the Ayatollah Khomeini's wild-eyed Islamic disciples, the orthodox militants of Israel, and the Americans who call themselves the Moral Majority. ;;;
+
+Topics::: wild-eyed;;; Score::: 0.11920292202211757;;;
+Topics::: theses orthodox;;; Score::: 0.11920292202211757;;;
+Topics::: red;;; Score::: NaN;;;
+Topics::: commo;;; Score::: 0.2689414213699951;;;
+Topics::: rampaged believers illuminates mao similarities;;; Score::: 0.19407217169605634;;;
+Topics::: guards ruths casts round disciples;;; Score::: 0.16911575513807675;;;

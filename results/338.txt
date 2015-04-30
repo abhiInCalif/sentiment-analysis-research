@@ -1,0 +1,8 @@
+Text::: So would have some indication from Mr. Qaddafi that he was willing to relent and change his ways. But when both hopes failed to materialize, the Reagan men had to make good on their rhetoric. The irony has been evident for some time now: Under an Administration that vowed toughness against terrorism, a record number of Americans have been victims of attacks. ;;;
+
+Topics::: materialize irony failed ways;;; Score::: 0.11920292202211757;;;
+Topics::: administration reagan terrorism;;; Score::: 0.11920292202211757;;;
+Topics::: number;;; Score::: 0.11920292202211757;;;
+Topics::: record good;;; Score::: 0.11920292202211757;;;
+Topics::: relent attacks make toughness hopes;;; Score::: 0.11920292202211757;;;
+Topics::: evident indication qaddafi vowed rhetoric;;; Score::: 0.11920292202211757;;;

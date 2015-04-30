@@ -1,0 +1,5 @@
+Text::: Yet the chances for peace remain low, and those for violence climb higher still. America could well end up in some kind of armed action against Iran, leaving Moscow free to condemn it, and court the Iranians. All the more reason not to get too far out in front of Moscow in military measures, and to explore tacit cooperation. ;;;
+
+Topics::: court climb action armed america;;; Score::: 0.11920292202211757;;;
+Topics::: moscow tacit explore condemn higher;;; Score::: 0.11920292202211757;;;
+Topics::: chances cooperation kind;;; Score::: 0.11920292202211757;;;

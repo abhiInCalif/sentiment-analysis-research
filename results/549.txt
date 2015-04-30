@@ -1,0 +1,6 @@
+Text:::  This is a time of exceptional danger in the Middle East, and anyone who doubts it should visit Jordan. In this calm country, a model of stability and moderation in the Arab world, he will find a gloomy Government looking anxiously for reasons to find hope. King Hussein feels menaced by forces of politics and history all around him. ;;;
+
+Topics::: gloomy jordan;;; Score::: 0.11920292202211757;;;
+Topics::: find menaced feels anxiously exceptional;;; Score::: 0.11920292202211757;;;
+Topics::: visit danger;;; Score::: 0.11920292202211757;;;
+Topics::: doubts middle;;; Score::: 0.11920292202211757;;;

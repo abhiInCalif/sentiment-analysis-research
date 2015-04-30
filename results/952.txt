@@ -1,0 +1,5 @@
+Text::: So far, sadly, Turkey's main party leaders have been unable to cooperate even to preserve the foundations of political life. Turkey can no longer afford that kind of partisanship. Coalition government might not be ideal, but neither is disintegration. ;;;
+
+Topics::: ideal foundations sadly partisanship life;;; Score::: 0.16911575513807675;;;
+Topics::: turkey's;;; Score::: NaN;;;
+Topics::: disintegration cooperate unable political;;; Score::: 0.11920292202211757;;;

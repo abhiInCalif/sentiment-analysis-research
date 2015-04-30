@@ -1,0 +1,5 @@
+Text::: The third is religion, Islam. It is the most emotionally satisfying and seems best able to express the deep rage of frustration that subsists. It copes with the modern world by sweeping rejection. ;;;
+
+Topics::: sweeping copes subsists satisfying emotionally;;; Score::: 0.6155292893150024;;;
+Topics::: religion;;; Score::: 0.5;;;
+Topics::: frustration deep islam express world;;; Score::: 0.6155292893150024;;;

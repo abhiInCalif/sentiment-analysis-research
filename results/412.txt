@@ -1,0 +1,7 @@
+Text::: Several factors have converged: the spread of education and broadcasting; the mirage that oil power could restore ancient glory; the yearning for equal standing; the sense of failure, which the orthodox can attribute to divergence from the path of pious righteousness. Understanding this background is necessary to be aware of the pitfalls. There is no more a simple way to deal with it than there is a simple way for the afflicted people to overcome their furies. ;;;
+
+Topics::: righteousness mirage converged pious path;;; Score::: 0.11920292202211757;;;
+Topics::: divergence yearning education orthodox standing;;; Score::: 0.11920292202211757;;;
+Topics::: oil;;; Score::: 0.11920292202211757;;;
+Topics::: simple furies afflicted equal glory;;; Score::: 0.11920292202211757;;;
+Topics::: pitfalls background attribute broadcasting spread;;; Score::: 0.3096014610110588;;;

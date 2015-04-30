@@ -1,0 +1,7 @@
+Text::: No doubt Viscount Melbourne, a 19th century English statesman and politician, was right in saying, ''Nobody ever did anything foolish except from some high principle.'' Perhaps the local I.C.A. chief was also right, and Tanzanians admired our honesty. ;;;
+
+Topics::: melbourne;;; Score::: NaN;;;
+Topics::: doubt;;; Score::: 0.11920292202211757;;;
+Topics::: viscount;;; Score::: NaN;;;
+Topics::: admired tanzanians i.c.a foolish politician;;; Score::: 0.3096014610110588;;;
+Topics::: honesty statesman chief;;; Score::: 0.3096014610110588;;;

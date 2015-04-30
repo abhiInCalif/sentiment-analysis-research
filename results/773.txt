@@ -1,0 +1,5 @@
+Text::: The radical challenges are diverse and often contradictory. The Moslem Brotherhood in Egypt, while reaffirming private-property rights, calls for sweeping nationalization, redistribution of land, and expulsion of foreign capital. The Takfir Wahigra movement, blamed for the Sadat assassination, believes in the communal ownership of property. ;;;
+
+Topics::: nationalization brotherhood expulsion capital movement;;; Score::: 0.11920292202211757;;;
+Topics::: ownership wahigra private-property diverse sadat;;; Score::: 0.11920292202211757;;;
+Topics::: takfir redistribution reaffirming blamed challenges;;; Score::: 0.11920292202211757;;;

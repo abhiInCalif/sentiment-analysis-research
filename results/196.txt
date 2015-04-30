@@ -1,0 +1,7 @@
+Text::: But Iranian attack is unlikely; the American military presence is needed to reassure Kuwaitis and others against a possible Iranian victory over Iraq. The Reagan Administration unwisely shields these larger stakes. Sooner rather than later, President Reagan will have to make his case for American action to shore up the region against Iran and Islamic fundamentalism. ;;;
+
+Topics::: reagan unwisely kuwaitis stakes sooner;;; Score::: 0.11920292202211757;;;
+Topics::: iranian administration region;;; Score::: 0.11920292202211757;;;
+Topics::: american shields action case needed;;; Score::: 0.11920292202211757;;;
+Topics::: attack;;; Score::: 0.11920292202211757;;;
+Topics::: reassure larger president iraq;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: Thus, timing may be on the side of Mr. Reagan's overture, but it was not really American power that hemmed in Iran's revolution. The social and economic forces that brought about the Iranian revolution were Iran's alone. These forces had no equivalent in the less developed Gulf states. ;;;
+
+Topics::: forces iran's revolution developed equivalent;;; Score::: 0.16911575513807675;;;
+Topics::: gulf side;;; Score::: 0.11920292202211757;;;
+Topics::: iranian;;; Score::: NaN;;;
+Topics::: american;;; Score::: NaN;;;

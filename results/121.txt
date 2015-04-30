@@ -1,0 +1,6 @@
+Text::: And the protest goes on despite successive Israeli measures: deportations, arrests, detentions, at least 35 In 20 years of occupation there have been waves of Palestinian protest, but none nearly so intense or extended. Gaza has been in turmoil for more than a month now. The shops in the West Bank and East Jerusalem have been closed for days. ;;;
+
+Topics::: protest detentions turmoil waves days;;; Score::: 0.21902858825403593;;;
+Topics::: bank;;; Score::: NaN;;;
+Topics::: successive gaza shops;;; Score::: 0.19407217169605634;;;
+Topics::: arrests measures closed month deportations;;; Score::: 0.21902858825403593;;;

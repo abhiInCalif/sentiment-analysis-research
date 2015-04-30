@@ -1,0 +1,8 @@
+Text:::  A smiling, self-confident Yasir Arafat defiantly insists that despite his forced ouster from Lebanon, his leadership of the faction-ridden Palestine Liberation Organization is as strong as ever. ''True, we've lost one of our military bases in Lebanon; but neither Beirut nor Tripoli is a Palestinian city. They're just way-stations in our struggle. ;;;
+
+Topics::: struggle organization;;; Score::: 0.2689414213699951;;;
+Topics::: smiling true yasir bases leadership;;; Score::: 0.11920292202211757;;;
+Topics::: we've beirut;;; Score::: NaN;;;
+Topics::: insists defiantly;;; Score::: 0.11920292202211757;;;
+Topics::: lebanon self-confident ouster arafat palestine;;; Score::: 0.11920292202211757;;;
+Topics::: way-stations faction-ridden they're tripoli palestinian;;; Score::: 0.19407217169605634;;;

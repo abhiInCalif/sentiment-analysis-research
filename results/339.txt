@@ -1,0 +1,5 @@
+Text::: A terrible wind was now blowing throughout the realm of Islam. Americans were caught there at a time when a large fight was breaking out - a fight for the soul and historic direction of that society. The middle ground in much of the Moslem world was caving under, caught between (frightened) privilege on the one side and (militant) wrath on the other. ;;;
+
+Topics::: caught fight militant privilege caving;;; Score::: 0.3096014610110588;;;
+Topics::: wrath frightened soul direction historic;;; Score::: 0.3096014610110588;;;
+Topics::: breaking world;;; Score::: 0.3096014610110588;;;

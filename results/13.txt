@@ -1,0 +1,9 @@
+Text:::  LEAD: So moved was the speaker of Iran's Parliament that he wept when he heard Ayatollah Khomeini give his personal endorsement to an end to the war with Iraq. But don't ask questions, pleaded Speaker Hashemi Rafsanjani: ''We should not ask why and how, not create more problems for the society.'' The war has claimed a million lives, smashed as many limbs, and yet Iranians are told not to ask the reason why. ;;;
+
+Topics::: told lives personal parliament give;;; Score::: 0.3096014610110588;;;
+Topics::: million claimed khomeini;;; Score::: 0.11920292202211757;;;
+Topics::: questions;;; Score::: 0.11920292202211757;;;
+Topics::: speaker smashed end wept lead;;; Score::: 0.3096014610110588;;;
+Topics::: war society create rafsanjani pleaded;;; Score::: 0.24613528134807838;;;
+Topics::: limbs problems hashemi don't ayatollah;;; Score::: 0.11920292202211757;;;
+Topics::: heard reason;;; Score::: 0.3096014610110588;;;

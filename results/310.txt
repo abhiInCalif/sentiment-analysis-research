@@ -1,0 +1,7 @@
+Text:::  Hard in the wake of the Karachi hijacking, which left 19 dead, two gunmen crept into an Istanbul synagogue and opened fire on Sabbath worshipers, slaughtering 21 innocents. There is a common method in this madness, whose perpetrators leave no calling card except a heap of bodies. That is the signature associated with the infamous Abu Nidal, suspected plotter of the airport massacres in Vienna and Rome and of earlier attacks on European synagogues. ;;;
+
+Topics::: rome plotter infamous worshipers hijacking;;; Score::: 0.11920292202211757;;;
+Topics::: abu bodies gunmen attacks left;;; Score::: 0.24613528134807838;;;
+Topics::: vienna perpetrators sabbath synagogue earlier;;; Score::: 0.24613528134807838;;;
+Topics::: massacres airport nidal signature heap;;; Score::: 0.3096014610110588;;;
+Topics::: card madness;;; Score::: 0.5;;;

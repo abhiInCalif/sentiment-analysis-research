@@ -1,0 +1,6 @@
+Text::: Hundreds were murdered, thousands tortured and every Bahai stigmatized as an infidel tool of Satan, Israel and the Shah. The faith's real crime is its existence. Its prophet was a Shiraz merchant who was executed for heresy in 1850. ;;;
+
+Topics::: prophet existence faith's infidel executed;;; Score::: 0.16911575513807675;;;
+Topics::: heresy merchant crime tortured thousands;;; Score::: 0.16911575513807675;;;
+Topics::: tool bahai murdered shah;;; Score::: 0.11920292202211757;;;
+Topics::: shiraz stigmatized hundreds;;; Score::: 0.11920292202211757;;;

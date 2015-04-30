@@ -1,0 +1,6 @@
+Text::: Neither country troubled to consult Persia, as Iran was then called, even though the agreement expressed pious concern for its independence and integrity. What it actually meant became clear four years later when Russia sent troops into Iran to show its displeasure over an honest tax collector - in fact, an American. Outside Iran, hardly anybody recalls W. Morgan Shuster, or the 1907 Anglo-Russian agreement. ;;;
+
+Topics::: morgan persia russia integrity;;; Score::: 0.11920292202211757;;;
+Topics::: iran agreement recalls collector tax;;; Score::: 0.11920292202211757;;;
+Topics::: shuster honest called;;; Score::: 0.11920292202211757;;;
+Topics::: anglo-russian displeasure pious expressed consult;;; Score::: 0.11920292202211757;;;

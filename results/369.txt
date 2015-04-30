@@ -1,0 +1,8 @@
+Text::: Most important, America must refuse to guarantee any negotiated settlement to which the legitimate representatives of the Afghan people are not party, or which calls for American nonintervention as a prerequisite for Soviet withdrawal from Afghanistan. Finally, we must make greater efforts to focus world attention on the Afghan genocide and the resistance's heroic refusal to give in. Voting to condemn the Soviet Union once a year at the United Nations is not enough. ;;;
+
+Topics::: prerequisite heroic greater afghanistan refusal;;; Score::: 0.19407217169605634;;;
+Topics::: soviet resistance's nonintervention legitimate guarantee;;; Score::: 0.11920292202211757;;;
+Topics::: condemn;;; Score::: 0.11920292202211757;;;
+Topics::: settlement focus efforts world;;; Score::: 0.19407217169605634;;;
+Topics::: afghan genocide finally withdrawal party;;; Score::: 0.19407217169605634;;;
+Topics::: representatives calls;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text::: Iraq needs to abandon its territorial claims. Iran needs to abandon efforts to get Iraq's Shiites to overthrow their Sunni rulers and establish a second Islamic Republic in Baghdad. Alarm over that prospect turned to panic last year when it began to appear that Iran's human- wave assaults might succeed. ;;;
+
+Topics::: shiites assaults succeed efforts baghdad;;; Score::: 0.11920292202211757;;;
+Topics::: alarm wave territorial establish rulers;;; Score::: 0.11920292202211757;;;
+Topics::: began prospect iraq;;; Score::: 0.11920292202211757;;;
+Topics::: abandon panic republic sunni human;;; Score::: 0.11920292202211757;;;

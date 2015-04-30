@@ -1,0 +1,10 @@
+Text::: His Administration, unapologetic about its surreptitious exercise of policy, seems to have adjusted to the prospect of an Iranian victory over Iraq in the seven-year Persian Gulf war. The Administration justifies a shift away from its pro-Iraq stance by citing Moscow's designs upon Iran, the largest country in the Gulf region. Its aim is to coax Iran back to the Western camp after the death of its leader, the 86-year-old Ayatollah Ruhollah Khomeini. ;;;
+
+Topics::: camp;;; Score::: 0.11920292202211757;;;
+Topics::: pro-iraq exercise year-old back victory;;; Score::: 0.11920292202211757;;;
+Topics::: coax;;; Score::: 0.11920292202211757;;;
+Topics::: administration iran ruhollah aim citing;;; Score::: 0.11920292202211757;;;
+Topics::: designs iranian;;; Score::: 0.11920292202211757;;;
+Topics::: gulf largest stance seven-year leader;;; Score::: 0.11920292202211757;;;
+Topics::: iraq;;; Score::: NaN;;;
+Topics::: moscow's;;; Score::: NaN;;;

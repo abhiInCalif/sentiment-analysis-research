@@ -1,0 +1,6 @@
+Text:::  On the first day of the Iran-Iraq conflict, the Ayatollah Ruhollah Khomeini issued a call for Iraqi soldiers to turn against their leaders and overthrow the godless regime of President Saddam Hussein. And on Tuesday, he said: ''We will not compromise with him. He is an infidel, a person who is corrupt, a perpetrator of corruption.'' ;;;
+
+Topics::: godless hussein;;; Score::: 0.11920292202211757;;;
+Topics::: iran-iraq;;; Score::: NaN;;;
+Topics::: perpetrator person tuesday infidel ruhollah;;; Score::: 0.11920292202211757;;;
+Topics::: issued corrupt soldiers corruption conflict;;; Score::: 0.11920292202211757;;;

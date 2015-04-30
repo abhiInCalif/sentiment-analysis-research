@@ -1,0 +1,6 @@
+Text::: What the crowds of youthful unemployed were really protesting - as in Tunisia a few days earlier - were the dismal conditions of their present life and their disappointing prospects for the future. As in Tunisia, 60 percent of Morocco's population is under 25, and the population is rapidly growing. Morocco is suffering from the twin effects of several years' extreme drought and severe industrial depression. ;;;
+
+Topics::: extreme suffering;;; Score::: 0.11920292202211757;;;
+Topics::: severe drought twin morocco's prospects;;; Score::: 0.11920292202211757;;;
+Topics::: industrial youthful morocco effects future;;; Score::: 0.11920292202211757;;;
+Topics::: tunisia population depression protesting rapidly;;; Score::: 0.11920292202211757;;;

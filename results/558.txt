@@ -1,0 +1,6 @@
+Text::: Consider a simple fact: If the suspected terrorists being questioned last week had been West Bank Palestinians rather than Israelis, their family homes would have been blown up. It is the policy of the Israeli Army to dynamite the homes at once as a way of deterring resistance to the occupation. More generally, Arab residents of the West Bank are subject to military rules - a very different kind of law from that applied to Israelis, whether they live in Israel proper or in the West Bank. ;;;
+
+Topics::: bank west questioned simple blown;;; Score::: 0.11920292202211757;;;
+Topics::: homes israelis deterring dynamite generally;;; Score::: 0.11920292202211757;;;
+Topics::: kind residents;;; Score::: 0.11920292202211757;;;
+Topics::: proper;;; Score::: 0.11920292202211757;;;

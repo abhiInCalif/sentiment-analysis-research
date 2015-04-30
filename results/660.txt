@@ -1,0 +1,6 @@
+Text:::  An old dilemma seems likely to intrude again into Washington's tricky relations with the Philippines. President Marcos is an authoritarian ally, unashamedly highhanded. He has just been discovered to have composed a secret decree in 1981 that threatened death to those who ''scurrilously libel'' him. ;;;
+
+Topics::: scurrilously decree marcos secret president;;; Score::: 0.11920292202211757;;;
+Topics::: libel composed highhanded intrude ally;;; Score::: 0.11920292202211757;;;
+Topics::: tricky washington's;;; Score::: 0.11920292202211757;;;
+Topics::: unashamedly authoritarian dilemma relations threatened;;; Score::: 0.11920292202211757;;;

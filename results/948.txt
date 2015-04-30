@@ -1,0 +1,5 @@
+Text::: Such was the case, for example, with the Jackson-Vanik and Stevenson Amendments and President Carter's campaign on behalf of Soviet dissidents. Such will certainly be the case with any new American plan to acquire strategic superiority. In short, the real present danger is not a ''soft'' line but an unholy axis, even if inadvertent, between American and Soviet hard-liners, and a renewed cold war and arms race that will undermine progressive forces on both sides. ;;;
+
+Topics::: danger;;; Score::: 0.11920292202211757;;;
+Topics::: carter's renewed progressive superiority present;;; Score::: 0.19407217169605634;;;
+Topics::: case american soviet inadvertent unholy;;; Score::: 0.16911575513807675;;;

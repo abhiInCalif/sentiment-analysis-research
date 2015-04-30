@@ -1,0 +1,6 @@
+Text::: But President Reagan may well lose the bet. The course of Iran's revolution is beyond America's power. President Reagan's statement that ''the Iranian revolution is a fact of history'' has clearly transformed the terms of the debate about the Administration's dealings with Iran. ;;;
+
+Topics::: lose power;;; Score::: 0.3096014610110588;;;
+Topics::: reagan's;;; Score::: NaN;;;
+Topics::: transformed administration's dealings america's iranian;;; Score::: 0.5;;;
+Topics::: president revolution bet statement reagan;;; Score::: 0.3730676406740392;;;

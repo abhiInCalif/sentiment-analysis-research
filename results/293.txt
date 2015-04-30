@@ -1,0 +1,7 @@
+Text::: Unlike the Shah, the rulers there have refrained from playing with fire; the faithful were not offended as they were in Iran, and the pretentions were kept to a minimum. For all the talk of an imminent upheaval that would sweep away the conservative order of pro-American states in the Gulf, that order has remained intact. What problems it faces in the years ahead have less to do with external subversion than with familiar internal problems of political order and economic viability. ;;;
+
+Topics::: conservative offended upheaval sweep familiar;;; Score::: 0.11920292202211757;;;
+Topics::: order problems viability minimum pretentions;;; Score::: 0.11920292202211757;;;
+Topics::: pro-american;;; Score::: NaN;;;
+Topics::: subversion states gulf;;; Score::: 0.11920292202211757;;;
+Topics::: intact playing ahead shah remained;;; Score::: 0.11920292202211757;;;

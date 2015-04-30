@@ -1,0 +1,8 @@
+Text::: The result is a 10-page report without a critical word. The General Assembly would compound this pusillanimity by voting a meaningless resolution. Civilized nations are unhappy about Iran's savage repressions. ;;;
+
+Topics::: repressions civilized;;; Score::: 0.11920292202211757;;;
+Topics::: compound page general result;;; Score::: 0.11920292202211757;;;
+Topics::: resolution voting;;; Score::: 0.11920292202211757;;;
+Topics::: iran's;;; Score::: NaN;;;
+Topics::: meaningless pusillanimity word savage critical;;; Score::: 0.11920292202211757;;;
+Topics::: unhappy report;;; Score::: 0.11920292202211757;;;

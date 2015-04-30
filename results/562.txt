@@ -1,0 +1,9 @@
+Text::: Moving ahead swiftly, with each of us taking two minutes to discuss each item, we were in the midst of U.S.- Canadian relations when we were beset by panhandlers in white sheets who insisted on selling us flowers. When we finally fought them off, Mr. Buchwald said, ''We'll never make it to acid rain and Third World problems, and besides, I've got to buy a potboiler to read on the way to Tallahassee.'' Fortunately, the reporters and cameras had not yet shown up, so the failure of our meeting went unreported. ;;;
+
+Topics::: beset i've meeting fortunately buy;;; Score::: 0.22220959839989476;;;
+Topics::: cameras read failure;;; Score::: 0.08331439759984219;;;
+Topics::: taking reporters world;;; Score::: 0.3096014610110588;;;
+Topics::: tallahassee we'll item relations;;; Score::: 0.5;;;
+Topics::: unreported panhandlers minutes;;; Score::: 0.3096014610110588;;;
+Topics::: potboiler rain acid sheets canadian;;; Score::: 0.2737129365887834;;;
+Topics::: flowers;;; Score::: 0.5;;;

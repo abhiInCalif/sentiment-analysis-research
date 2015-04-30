@@ -1,0 +1,5 @@
+Text::: The borders aren't altogether fanciful; they are based on old Ottoman administrations as modified by European dominion. In some parts of the Arabian peninsula, they aren't even complete. But economic organization has grown within them. ;;;
+
+Topics::: parts economic;;; Score::: 0.11920292202211757;;;
+Topics::: aren't dominion modified administrations fanciful;;; Score::: 0.11920292202211757;;;
+Topics::: grown organization peninsula;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: official and the use of a safehouse in Prague by Italian terrorists, its persuasiveness rests mainly upon a mechanical application of the master-puppet notion and a blurring of the distinction between ordinary terrorism and wars of national liberation. There is no question about the close operating relationships among the European (and other) terrorist groups themselves, nor about the support they receive from Libya, Southern Yemen, and Cuba. The question is: To what degree are the Russians involved? ;;;
+
+Topics::: master-puppet application rests official close;;; Score::: 0.11920292202211757;;;
+Topics::: mechanical safehouse support;;; Score::: 0.11920292202211757;;;
+Topics::: question yemen ordinary blurring persuasiveness;;; Score::: 0.16911575513807675;;;
+Topics::: relationships degree;;; Score::: 0.19407217169605634;;;
+Topics::: terrorist cuba;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,6 @@
+Text:::  Americans can welcome this reconnection without illusions - and without taking Iraq's side in the war it began. But neutrality is not indifference. The best outcome to a bad war would be a no-winner settlement. ;;;
+
+Topics::: war no-winner reconnection began side;;; Score::: 0.3096014610110588;;;
+Topics::: illusions americans;;; Score::: 0.5;;;
+Topics::: bad outcome iraq's;;; Score::: 0.11920292202211757;;;
+Topics::: taking neutrality settlement indifference;;; Score::: 0.24613528134807838;;;

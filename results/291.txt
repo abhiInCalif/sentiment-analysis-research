@@ -1,0 +1,7 @@
+Text::: There is no case whatsoever that America should make the internal arrangements of Middle Eastern societies its concern. If the war between Iran and Iraq tests the fabric of the Iraqi state, so be it. Since its emergence as a modern state, Iraq has been ruled by a minority sect - Sunni Arabs, who constitute only 20 percent of the population - to the exclusion of the Shiites and the Kurds. ;;;
+
+Topics::: shiites minority ruled percent arabs;;; Score::: 0.11920292202211757;;;
+Topics::: tests sunni internal america;;; Score::: 0.11920292202211757;;;
+Topics::: state iraq kurds constitute fabric;;; Score::: 0.11920292202211757;;;
+Topics::: sect exclusion middle;;; Score::: 0.11920292202211757;;;
+Topics::: eastern war;;; Score::: 0.11920292202211757;;;

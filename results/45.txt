@@ -1,0 +1,8 @@
+Text::: Both struggled unsuccessfully to find indigenous allies. Not even the Soviet system proved able to ignore the outrage of Islamic states, condemnation by the United Nations and the challenge of justifying to its own citizens the indefinite pursuit of a stalemated war. Mikhail Gorbachev now promises to withdraw Soviet forces in nine months. ;;;
+
+Topics::: proved;;; Score::: 0.11920292202211757;;;
+Topics::: indigenous struggled nations united states;;; Score::: 0.11920292202211757;;;
+Topics::: promises pursuit indefinite citizens months;;; Score::: 0.11920292202211757;;;
+Topics::: stalemated justifying challenge condemnation;;; Score::: 0.11920292202211757;;;
+Topics::: forces;;; Score::: 0.11920292202211757;;;
+Topics::: soviet withdraw gorbachev mikhail outrage;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: Why this oblivious distinction? Why were Americans who've become apoplectic over the new Group of 40 been so silent over the seizure of the Group of 7? Is it because television explodes with excitement over an airport drama but shrugs off individual disappearances with nothing to photograph? ;;;
+
+Topics::: group disappearances explodes apoplectic distinction;;; Score::: 0.16911575513807675;;;
+Topics::: who've airport television americans;;; Score::: 0.2689414213699951;;;
+Topics::: excitement;;; Score::: 0.2689414213699951;;;
+Topics::: shrugs silent;;; Score::: 0.19407217169605634;;;
+Topics::: photograph seizure drama;;; Score::: 0.19407217169605634;;;

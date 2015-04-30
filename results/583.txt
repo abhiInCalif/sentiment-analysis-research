@@ -1,0 +1,5 @@
+Text::: They fear him, but they do not respect him. They do not care what he says. They treat him as if he were a large but somewhat simple-minded child who had somehow found his way into the parlor. ;;;
+
+Topics::: parlor child treat respect care;;; Score::: 0.11920292202211757;;;
+Topics::: simple-minded large found;;; Score::: 0.11920292202211757;;;
+Topics::: fear;;; Score::: 0.11920292202211757;;;

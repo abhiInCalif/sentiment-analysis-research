@@ -1,0 +1,7 @@
+Text::: Whereupon Congress may have received the first truthful response from an Administration official since the conspiracy was blown. And a true measure of the calamity. Sunni Arabs, having learned that the United States was arming Shiite Persians, decided to reward our duplicity in kind. ;;;
+
+Topics::: arabs;;; Score::: NaN;;;
+Topics::: true blown shiite persians united;;; Score::: 0.3096014610110588;;;
+Topics::: decided learned sunni calamity truthful;;; Score::: 0.24613528134807838;;;
+Topics::: duplicity congress;;; Score::: 0.11920292202211757;;;
+Topics::: arming measure conspiracy;;; Score::: 0.24613528134807838;;;

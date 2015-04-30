@@ -1,0 +1,8 @@
+Text::: and see if we can find any commonality ...'' On the other hand, he has consistently voted for foreign aid and opposed all cuts in aid to Israel, and has not been as one-sided as the Administration in comments about withdrawal from Lebanon. ''The Mondale people have been working this very hard,'' glooms a Glenn aide who knows that the worst night for his man was Sept. 14, 1982. On that night, Pamela Harriman invited the Senator, former mediator Sol Linowitz, Congressmen Stephen Solarz and Lee Hamilton to one of her dinners to speak to some leading Democrats who were actively pro-Israel. ;;;
+
+Topics::: aid pro-israel solarz pamela worst;;; Score::: 0.3096014610110588;;;
+Topics::: democrats administration;;; Score::: NaN;;;
+Topics::: night dinners lee glooms commonality;;; Score::: 0.24613528134807838;;;
+Topics::: stephen linowitz aide find;;; Score::: 0.3096014610110588;;;
+Topics::: hamilton sol harriman comments one-sided;;; Score::: 0.5;;;
+Topics::: mediator opposed congressmen hard;;; Score::: 0.24613528134807838;;;

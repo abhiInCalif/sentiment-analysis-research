@@ -1,0 +1,6 @@
+Text::: A pro-Iranian Islamic republic in Iraq would endanger virtually all Arab states. Nor is an Iraqi victory desired, but it is seen as increasingly improbable, practically impossible. In this context of endless fighting that could take unforeseeable turns, the lack of any appearance of movement toward breaking the Arab-Israeli deadlock adds to the gloom. ;;;
+
+Topics::: deadlock appearance turns impossible improbable;;; Score::: 0.11920292202211757;;;
+Topics::: gloom endless;;; Score::: 0.11920292202211757;;;
+Topics::: context states;;; Score::: 0.11920292202211757;;;
+Topics::: adds unforeseeable republic breaking practically;;; Score::: 0.11920292202211757;;;

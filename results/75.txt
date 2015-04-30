@@ -1,0 +1,7 @@
+Text::: Islamic fundamentalists who would overthrow all moderates will gain momentum in Jordan, Syria and Egypt. Mr. Shultz carries with him a plausible proposal for negotiations. His task now is to persuade reasonable Arabs and Israelis to accept it as the basis for serious, fair discussion. ;;;
+
+Topics::: fair overthrow islamic;;; Score::: 0.19407217169605634;;;
+Topics::: discussion moderates arabs proposal israelis;;; Score::: 0.21902858825403593;;;
+Topics::: persuade carries egypt jordan gain;;; Score::: 0.21902858825403593;;;
+Topics::: plausible fundamentalists negotiations;;; Score::: 0.19407217169605634;;;
+Topics::: reasonable momentum syria accept shultz;;; Score::: 0.19407217169605634;;;

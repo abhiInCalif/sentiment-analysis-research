@@ -1,0 +1,10 @@
+Text::: That is the question for day three, and while the answers to the question are hardly obvious, speculation is healthy. It has been clear from the beginning of this operation, whose various scenarios were apparently carefully rehearsed in Washington weeks ago, that it could be seen as offering plenty in the way of additional benefits. Some are purely technical, like the testing of missiles and missile defenses. ;;;
+
+Topics::: offering;;; Score::: 0.11920292202211757;;;
+Topics::: clear;;; Score::: 0.11920292202211757;;;
+Topics::: technical defenses day ago;;; Score::: 0.16911575513807675;;;
+Topics::: rehearsed testing operation;;; Score::: 0.19407217169605634;;;
+Topics::: benefits obvious;;; Score::: 0.11920292202211757;;;
+Topics::: answers;;; Score::: 0.11920292202211757;;;
+Topics::: question carefully missile missiles;;; Score::: 0.16911575513807675;;;
+Topics::: purely plenty scenarios healthy weeks;;; Score::: 0.16911575513807675;;;

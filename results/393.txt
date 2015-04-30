@@ -1,0 +1,7 @@
+Text::: He says he and Mr. Farrakhan made common cause, sharing information about supposed threats from Jewish extremists. He says he attended Mr. Farrakhan's September rally in Los Angeles as an invited guest and contributed $100. Aides say Mr. Farrakhan has never talked with Mr. Metzger, though they don't deny he may have given support. ;;;
+
+Topics::: supposed threats september;;; Score::: 0.11920292202211757;;;
+Topics::: common;;; Score::: 0.11920292202211757;;;
+Topics::: farrakhan talked guest metzger information;;; Score::: 0.11920292202211757;;;
+Topics::: los rally sharing don't extremists;;; Score::: 0.11920292202211757;;;
+Topics::: angeles farrakhan's attended contributed invited;;; Score::: 0.11920292202211757;;;

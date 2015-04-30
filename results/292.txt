@@ -1,0 +1,6 @@
+Text::: The panic of Iraq's rulers is thus understandable. It is their rule that Ayatollah Khomeini summons the faithful to overthrow. But the panic of Iraq cannot be that of America. ;;;
+
+Topics::: khomeini;;; Score::: NaN;;;
+Topics::: panic summons rulers iraq's;;; Score::: 0.11920292202211757;;;
+Topics::: faithful america;;; Score::: 0.11920292202211757;;;
+Topics::: understandable overthrow rule ayatollah iraq;;; Score::: 0.11920292202211757;;;

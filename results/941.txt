@@ -1,0 +1,6 @@
+Text::: Few would have believed that a border conflict would claim the refineries at Abadan and Basra. Iran's losses at Abadan could cripple its war effort, since that refinery provides jet fuel. But however the battle turns, Moscow and Washington can still contain the damage by withholding supplies from both sides and thus avoiding the pressure to involve themselves directly. ;;;
+
+Topics::: withholding jet cripple fuel involve;;; Score::: 0.11920292202211757;;;
+Topics::: refinery avoiding supplies conflict;;; Score::: 0.11920292202211757;;;
+Topics::: refineries moscow directly effort;;; Score::: 0.11920292202211757;;;
+Topics::: abadan believed damage turns losses;;; Score::: 0.11920292202211757;;;

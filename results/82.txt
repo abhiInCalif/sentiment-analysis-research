@@ -1,0 +1,6 @@
+Text:::  LEAD: Suddenly there's a slim basis for hope, the first genuine opening for Arab-Israeli negotiations since the Camp David accords a decade ago. But as bullets fly and beatings continue in the West Bank and Gaza Strip, and with U.S. and Israeli elections approaching, it will close just as quickly - unless the Reagan Suddenly there's a slim basis for hope, the first genuine opening for Arab-Israeli negotiations since the Camp David accords a decade ago. But as bullets fly and beatings continue in the West Bank and Gaza Strip, and with U.S. and Israeli elections approaching, it will close just as quickly - unless the Reagan Administration moves fast. ;;;
+
+Topics::: quickly approaching continue bullets decade;;; Score::: 0.24613528134807838;;;
+Topics::: strip beatings accords genuine hope;;; Score::: 0.24613528134807838;;;
+Topics::: fly;;; Score::: 0.11920292202211757;;;
+Topics::: close opening reagan ago u.s;;; Score::: 0.24613528134807838;;;

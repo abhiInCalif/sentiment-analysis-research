@@ -1,0 +1,8 @@
+Text::: Even the Arab countries and the gulf defense council have muted their protests. And where are the indignant demonstrators who denounce violence and intervention in the assorted parts of the world that happen to catch their interest? The Iran-Iraq war isn't a convenient case for those who are always sure they know whose hat is white and whose is black. ;;;
+
+Topics::: assorted demonstrators indignant isn't council;;; Score::: 0.11920292202211757;;;
+Topics::: convenient parts intervention protests muted;;; Score::: 0.11920292202211757;;;
+Topics::: black;;; Score::: 0.11920292202211757;;;
+Topics::: war;;; Score::: 0.11920292202211757;;;
+Topics::: hat iran-iraq catch happen violence;;; Score::: 0.11920292202211757;;;
+Topics::: case world;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,7 @@
+Text::: The U.S. will have to put forward someone of unusual stature to promote an end to the bloodshed and revive the peace process. President Reagan isn't up to the active role played by President Carter in 1978. Secretary of State Shultz is intent on concluding the strategic arms treaty with Moscow. ;;;
+
+Topics::: president concluding intent bloodshed forward;;; Score::: 0.3096014610110588;;;
+Topics::: stature;;; Score::: 0.5;;;
+Topics::: active revive unusual reagan carter;;; Score::: 0.3096014610110588;;;
+Topics::: moscow state secretary peace;;; Score::: 0.5;;;
+Topics::: treaty shultz end promote;;; Score::: 0.3096014610110588;;;

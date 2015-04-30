@@ -1,0 +1,6 @@
+Text:::  The crisis over arms sales to Iran is described in Middle Eastern terms, but it's really about America. It has very little to do with Iran. That country is pursuing its course more or less as it was doing before the bizarre arms deliveries. ;;;
+
+Topics::: terms;;; Score::: 0.2689414213699951;;;
+Topics::: bizarre;;; Score::: 0.11920292202211757;;;
+Topics::: iran deliveries country america middle;;; Score::: 0.11920292202211757;;;
+Topics::: arms pursuing eastern sales crisis;;; Score::: 0.19407217169605634;;;

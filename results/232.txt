@@ -1,0 +1,9 @@
+Text::: Its recent operations suggest a change of tactics from large-scale frontal assaults to multiple attacks probing for the weak places in Iraq's defenses. Instead of a crushing victory, Iran's commanders may now be thinking of making progressive encroachments into Iraqi territory and facing the Iraqis with high casualty rates if they counterattack. In these circumstances the conflict could go on for years, and it will be important for the international community to make it more difficult and costly for Iran to persist in this incremental strategy. ;;;
+
+Topics::: defenses places multiple thinking weak;;; Score::: 0.11920292202211757;;;
+Topics::: attacks iran;;; Score::: 0.11920292202211757;;;
+Topics::: rates casualty facing crushing circumstances;;; Score::: 0.11920292202211757;;;
+Topics::: progressive commanders large-scale probing years;;; Score::: 0.11920292202211757;;;
+Topics::: costly suggest recent persist high;;; Score::: 0.11920292202211757;;;
+Topics::: encroachments assaults frontal tactics operations;;; Score::: 0.11920292202211757;;;
+Topics::: incremental;;; Score::: 0.11920292202211757;;;

@@ -1,0 +1,9 @@
+Text::: The Russians and Soviet allies supply both sides. So does China. It is curious that although the Silkworm missiles that can threaten U.S. ships are Chinese, Washington has made no noise about Beijing's contribution to the crisis and thunders about three small Soviet ships protecting Soviet-flagged Kuwaiti tankers. ;;;
+
+Topics::: soviet protecting thunders contribution beijing's;;; Score::: 0.11920292202211757;;;
+Topics::: allies;;; Score::: 0.5;;;
+Topics::: ships threaten russians crisis;;; Score::: 0.11920292202211757;;;
+Topics::: noise;;; Score::: 0.11920292202211757;;;
+Topics::: curious small;;; Score::: 0.11920292202211757;;;
+Topics::: soviet-flagged silkworm washington;;; Score::: NaN;;;
+Topics::: tankers;;; Score::: 0.11920292202211757;;;

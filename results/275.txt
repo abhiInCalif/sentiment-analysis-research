@@ -1,0 +1,7 @@
+Text:::  Both President Reagan and his former national security adviser Robert McFarlane have sought to compare dropping in on Iran, with military house gifts, to the Nixon Administration's secret diplomacy with China. This is obviously in part an attempt to refute the implications of trading arms for a few of the U.S. hostages. But their explanation should be taken at face value. ;;;
+
+Topics::: trading refute nixon house hostages;;; Score::: 0.11920292202211757;;;
+Topics::: part military;;; Score::: 0.11920292202211757;;;
+Topics::: explanation mcfarlane secret implications security;;; Score::: 0.16911575513807675;;;
+Topics::: gifts compare adviser robert administration's;;; Score::: 0.11920292202211757;;;
+Topics::: dropping national;;; Score::: 0.11920292202211757;;;

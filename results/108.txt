@@ -1,0 +1,7 @@
+Text::: Gen. Ephraim Sneh resigned as civil administrator of the West Bank last September, reportedly because he felt powerless to change harsh features of the occupation. Abuses of what Americans consider fundamental legal rights are commonplace. For example, people are deported without being allowed to see the evidence against them. ;;;
+
+Topics::: evidence deported abuses civil sneh;;; Score::: 0.11920292202211757;;;
+Topics::: harsh;;; Score::: 0.11920292202211757;;;
+Topics::: commonplace fundamental features reportedly administrator;;; Score::: 0.11920292202211757;;;
+Topics::: rights september ephraim gen west;;; Score::: 0.11920292202211757;;;
+Topics::: powerless americans change felt people;;; Score::: 0.11920292202211757;;;

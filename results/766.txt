@@ -1,0 +1,6 @@
+Text::: The Chinese, whose interest in asserting power at the U.N. was underestimated by everyone, can finish off the Waldheim candidacy by continuing to vote ''no.'' In so doing, Peking earns gratitude and clout from the third world that would cost the superpowers billions in aid. The feeling is sweeping the U.N. that after three Secretaries General who were neutralist Europeans and one Asian, the time has come for an African or a Latin American. ;;;
+
+Topics::: u.n asian;;; Score::: NaN;;;
+Topics::: finish asserting underestimated clout vote;;; Score::: 0.3096014610110588;;;
+Topics::: candidacy latin superpowers;;; Score::: 0.3096014610110588;;;
+Topics::: neutralist billions gratitude earns waldheim;;; Score::: 0.3096014610110588;;;

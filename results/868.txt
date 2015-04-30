@@ -1,0 +1,7 @@
+Text::: The Reagan Administration has already moved a little on Africa. If it wants to keep friends, it will have to move further to support black Africans on the one set of issues in the South that unites them all. There is more in common between the U.S. and many Africans, as Diouf shows, than can be seen when we are blinded by the glare of the South African issue. ;;;
+
+Topics::: glare friends issue move shows;;; Score::: 0.11920292202211757;;;
+Topics::: moved;;; Score::: 0.5;;;
+Topics::: africans blinded unites set reagan;;; Score::: 0.11920292202211757;;;
+Topics::: south;;; Score::: NaN;;;
+Topics::: diouf african africa administration u.s;;; Score::: NaN;;;

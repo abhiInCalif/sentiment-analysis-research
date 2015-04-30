@@ -1,0 +1,5 @@
+Text::: Economic factors are at least as important as the ban: greatly depressed opium prices caused by last year's bumper harvest turned many farmers from opium to wheat cultivation. The real test of the effectiveness of his ban will come when opium prices rise to the levels that stimulated the bumper crops of the past two years. President Zia recognizes the need to use this period of reduced production to develop economic alternatives for farmers who have subsisted on poppy cultivation. ;;;
+
+Topics::: opium bumper cultivation ban farmers;;; Score::: 0.11920292202211757;;;
+Topics::: test;;; Score::: 0.11920292202211757;;;
+Topics::: caused;;; Score::: 0.11920292202211757;;;

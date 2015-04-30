@@ -1,0 +1,5 @@
+Text::: Who knows, maybe it can happen some day.'' Six days later she was dead. These shaming realities cannot be expunged by token gestures and lofty speeches. ;;;
+
+Topics::: speeches shaming;;; Score::: 0.11920292202211757;;;
+Topics::: token expunged realities happen day;;; Score::: 0.19407217169605634;;;
+Topics::: lofty gestures days dead;;; Score::: 0.11920292202211757;;;

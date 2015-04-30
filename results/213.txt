@@ -1,0 +1,5 @@
+Text::: What Mr. Reagan and those around him fail to appreciate is that revolutionary Iran is defiantly alligned neither with the West nor the East. It sees itself as a new and dynamic force, carrying the banner of Islam in world affairs. This perception is unlikely to change during the current regime, with or without Mr. Khomeini. ;;;
+
+Topics::: carrying dynamic alligned force east;;; Score::: 0.3096014610110588;;;
+Topics::: banner reagan fail islam change;;; Score::: 0.24613528134807838;;;
+Topics::: perception defiantly revolutionary affairs west;;; Score::: 0.24613528134807838;;;

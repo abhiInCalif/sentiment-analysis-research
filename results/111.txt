@@ -1,0 +1,4 @@
+Text:::  LEAD: The Afghan resistance movement has achieved one historic victory and is fighting hard for another. The Afghan resistance movement has achieved one historic victory and is fighting hard for another. In the first battle, it defeated the Soviet attempt to colonize Afghanistan. ;;;
+
+Topics::: movement afghan resistance victory colonize;;; Score::: 0.24613528134807838;;;
+Topics::: hard historic fighting achieved defeated;;; Score::: 0.24613528134807838;;;

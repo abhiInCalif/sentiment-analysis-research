@@ -1,0 +1,6 @@
+Text::: The Kurdish insurrection in post-revolutionary Iran has been impassioned, bloody and enduring. Moreover, it has inspired other beleaguered Iranian minorities to assert their demands. The Azerbaijanis, a Turkic minority of 10 million in Iran, have launched rebellions against the Islamic Government in reaction to socioeconomic and political inequities. ;;;
+
+Topics::: inequities minority demands political;;; Score::: 0.11920292202211757;;;
+Topics::: iran socioeconomic azerbaijanis impassioned post-revolutionary;;; Score::: 0.42513075032606124;;;
+Topics::: insurrection assert reaction government;;; Score::: 0.32315480755808;;;
+Topics::: rebellions turkic enduring kurdish inspired;;; Score::: 0.32315480755808;;;

@@ -1,0 +1,5 @@
+Text::: The White House seems to perceive Iran as just another third world nation, but that would be a mistake. Unlike other third world nations, Iran's primary goal is not economic development. Its goal is ideological and territorial expansion. ;;;
+
+Topics::: world house mistake unlike;;; Score::: 0.11920292202211757;;;
+Topics::: goal ideological primary expansion territorial;;; Score::: 0.11920292202211757;;;
+Topics::: perceive development economic;;; Score::: 0.11920292202211757;;;

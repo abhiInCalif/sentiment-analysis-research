@@ -1,0 +1,6 @@
+Text::: Resolution 242 ''with our own reservations,'' in return for U.S. ''open dialogue with the P.L.O., recognition, and a promise to help us for our independent state.'' Then, he said, the U.S. reneged. At the time, Mr. Vance indicated he had received a pledge to revise the P.L.O. ;;;
+
+Topics::: p.l.o u.s revise dialogue recognition;;; Score::: 0.38447071068499755;;;
+Topics::: reneged promise state;;; Score::: 0.38447071068499755;;;
+Topics::: open;;; Score::: 0.5;;;
+Topics::: reservations vance;;; Score::: 0.5;;;

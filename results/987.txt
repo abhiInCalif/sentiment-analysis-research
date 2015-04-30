@@ -1,0 +1,6 @@
+Text::: Who can explain to a refugee who has lost his family and possessions, and who shares a small thatched hut with 18 to 20 other people, that for the sake of Cambodia's identity he and his ''illegal-alien'' countrymen should remain behind barbed wire guarded by soldiers? Cambodians, strongly nationalistic, of course are greatly attached to their homes, to their plot of land. Many would tell us that their cherished dream is to return one day. ;;;
+
+Topics::: possessions day land;;; Score::: 0.4229804737899984;;;
+Topics::: shares;;; Score::: 0.2689414213699951;;;
+Topics::: nationalistic barbed cambodia's countrymen cambodians;;; Score::: 0.38447071068499755;;;
+Topics::: wire illegal-alien hut thatched strongly;;; Score::: 0.38447071068499755;;;

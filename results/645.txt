@@ -1,0 +1,6 @@
+Text::: The war also keeps Iran too busy to help the Afghan rebels and too distracted to foster discontent among Moslems inside the Soviet Union. The United States has maintained a neutral position - a neutrality that seems to border on indifference but in fact helps to continue the fighting. Washington has not sent military aid to either side, but it has allowed its allies to help both countries. ;;;
+
+Topics::: rebels maintained helps allowed united;;; Score::: 0.24613528134807838;;;
+Topics::: countries;;; Score::: 0.11920292202211757;;;
+Topics::: discontent foster neutrality position moslems;;; Score::: 0.3096014610110588;;;
+Topics::: distracted busy continue afghan allies;;; Score::: 0.24613528134807838;;;

@@ -1,0 +1,8 @@
+Text::: But the time when that was possible has probably passed. When decolonization came in Africa, the new governments recognized that an attempt to redraw the illogical crazy-quilt borders left by European empires would bring endless wars. They agreed it was better to maintain existing frontiers than open them to question. ;;;
+
+Topics::: existing empires passed;;; Score::: 0.16911575513807675;;;
+Topics::: agreed;;; Score::: 0.2689414213699951;;;
+Topics::: crazy-quilt redraw decolonization wars question;;; Score::: 0.19407217169605634;;;
+Topics::: european governments;;; Score::: 0.11920292202211757;;;
+Topics::: frontiers illogical borders attempt;;; Score::: 0.19407217169605634;;;
+Topics::: recognized africa;;; Score::: 0.11920292202211757;;;
